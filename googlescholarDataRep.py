@@ -14,7 +14,7 @@ def howManyHyphens(title):
 
 
 def main():
-    search_query = scholarly.search_pubs_query('Perception');
+    search_query = scholarly.search_pubs_query('Hyphen');
 
     objects = ('0','1','2','3','4','>4');
     y_pos = np.arange(len(objects))
@@ -26,7 +26,7 @@ def main():
     hyphenThree = []
     hyphenFour = []
     hyphenFive = []
-    for index,x in zip(range(100),search_query):
+    for index,x in zip(range(10),search_query):
         print(x)
         hyphenCount = howManyHyphens(x.bib["title"])
         if(hyphenCount == 0):
@@ -71,7 +71,8 @@ def main():
     for x in articleCount:
         totalcount += x
     
-
+    if totalcount == 0:
+        totalcount = 1
     
     f1,ax = plt.subplots()
     columns = ['No. of Hyphens','0','1','2','3','4','>4','Overall']
@@ -148,7 +149,8 @@ def main():
     df.boxplot(column ='Count', by ='Hyphens')
     f3 = plt.figure(3)
     f3.show()
-    
+
+        
 
 main()
 
