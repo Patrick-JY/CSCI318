@@ -7,7 +7,7 @@ eutil_api_token = ''
 eutil_api_base = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/'
 #db - pubmed, usehistory = y|n
 punctuations = [".", ",", "?", "!", "'", '"', ":", ";", "...", "-", "--", "---", "(", ")", "[", "]"]
-
+punctuationsName = ["period", "comma", "questionMark", "exclamation", "apostrophe", "quotation", "colon", "semicolon", "ellipsis", "hyphen", "enDash", "emDash", "leftParentheses", "rightParentheses", "leftSquareBracket", "rightSquareBracket"]
 
 def BasicSearch(database, query, store):
     search_string = 'esearch.fcgi?db=' + database + '&term=' + query + 'usehistory='+store
@@ -51,26 +51,24 @@ def splitFileByNLine(filename, N):
         for line in fileToSplit:
             item_dict = json.loads(line)
 
-            #add count for each punctuation in the list
-            # for pun in punctuations:
-            #     punC = item_dict['title'].count(pun)
-            #     item_dict[pun+"Count"] = punC
-
-            HyphenCount = item_dict['title'].count("-")
-            colonCount = item_dict['title'].count(":")
-            peridCount = item_dict['title'].count(".")
-
-
             if len(item_dict['outCitations']) == 0:
                 continue
-            item_dict['CitationCount'] = len(item_dict['outCitations'])
-            item_dict['HyphenCount'] = HyphenCount
-            item_dict['colonCount'] = colonCount
-            item_dict['peridCount'] = peridCount
+
+            #add count for each punctuation in the list
+            PunIndex = 0
+            totalPunctuationCount = 0
+            for pun in punctuations:
+                punC = item_dict['title'].count(pun)
+                item_dict[punctuationsName[PunIndex]+"Count"] = punC
+                totalPunctuationCount += punC
+                PunIndex += 1
+
+            item_dict['CitedBy'] = len(item_dict['outCitations'])
+            item_dict['totalPun'] = totalPunctuationCount
             item_json = json.dumps(item_dict)
             item_xml = StringJsonToXml(item_json)
             if counter % N == 0 and counter != 0:
-                with open(str(counter) + '.xml','w', encoding='utf-8') as opf:
+                with open(str(counter) + '.xml', 'w', encoding='utf-8') as opf:
                     opf.write(op)
                     opf.close()
                     op = '' + item_xml
