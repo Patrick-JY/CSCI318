@@ -31,14 +31,16 @@ with open(filename) as f:
         dictionary[line] = line
 
 url = 'https://httpbin.org/ip'
-for i in range(1,65):
+for iterator in range(1,65):
    proxy = next(proxy_pool)
-   print("Request #%d"%i)
+   print("Request #%d"%iterator)
    try:
       response = requests.get(url,proxies={"http": proxy, "https": proxy})
       print(response.json())
-      scholarly.scholarly._SESSION.proxies = proxies
-      while i < 10000:
+      scholarly.scholarly._SESSION.proxies = {'http' : 'http://' + proxy, 'https' : 'https://' + proxy}
+      print(scholarly.scholarly._SESSION.proxies)
+      i = 0
+      while i < 10:
           random_word = random.choice(list(dictionary.keys()))
           newFileName = random_word.replace('\n', '') + ".txt"
           newFile = open(newFileName, "w", encoding="utf-8")
@@ -54,6 +56,8 @@ for i in range(1,65):
       # proxies = {"http": 'socks5://' + proxy, 'socks5://' + "https": proxy}
       #  scholarly.scholarly.use_proxy(**proxies)
       #  print(next(scholarly.search_author('Steven A. Cholewiak')))
+   except StopIteration:
+       print("Access denied")
    except:
        print("Skipping. Connnection error")
 
