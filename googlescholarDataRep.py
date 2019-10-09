@@ -23,6 +23,7 @@ def main():
     y_pos = np.arange(len(objects))
     citationCount = [0,0,0,0,0,0]
     articleCount = [0,0,0,0,0,0]
+    meanCitationCount = [0,0,0,0,0,0]
     hyphenNull = []
     hyphenOne = []
     hyphenTwo = []
@@ -31,6 +32,8 @@ def main():
     hyphenFive = []
     filelist = []
     prevfilelist = []
+    
+    
 
 
 
@@ -56,9 +59,27 @@ def main():
     plt.ion()
     
     #Needed info for figure 2
-    
-    
+    f2 = plt.figure(2)
+        
+    plt.bar(y_pos,citationCount,align = 'center', alpha = 0.5)
+    plt.xticks(y_pos,objects)
+    plt.ylabel('Mean Citation Count')
+    plt.title('Mean Citation Count and Hyphens')
+
+
+    #Needed info for figure 3
+    HyphenLabel = []
+    countData = 0
+    boxData = {'Hyphens':HyphenLabel,'Count':countData}
+    df = pd.DataFrame()
+    boxplot = df.boxplot()
+    f3 = plt.figure(3)
+
+
+
+    #Main Loop
     while 1:
+        articleUpdated = [False,False,False,False,False,False]
         time.sleep(10)
 
         
@@ -104,34 +125,40 @@ def main():
                                 citationCount[0] += x["citedby"]
                                 articleCount[0] += 1
                                 hyphenNull.append(x["citedby"])
+                                articleUpdated[0] = True
                             elif(hyphenCount == 1):
                                 citationCount[1] += x["citedby"]
                                 articleCount[1] += 1
                                 hyphenOne.append(x["citedby"])
+                                articleUpdated[1] = True
                             elif(hyphenCount == 2):
                                 citationCount[2] += x["citedby"]
                                 articleCount[2] += 1
                                 hyphenTwo.append(x["citedby"])
+                                articleUpdated[2] = True
                             elif(hyphenCount == 3):
                                 citationCount[3] += x["citedby"]
                                 articleCount[3] += 1
                                 hyphenThree.append(x["citedby"])
+                                articleUpdated[3] = True
                             elif(hyphenCount == 4):
                                 citationCount[4] += x["citedby"]
                                 articleCount[4] += 1
+                                articleUpdated[4] = True
                                 hyphenFour.append(x["citedby"])
                             elif(hyphenCount >= 5):
                                 citationCount[5] += x["citedby"]
                                 articleCount[5] += 1
                                 hyphenFive.append(x["citedby"])
+                                articleUpdated[5] = True
 
 
 
 
-        meanCitationCount = citationCount
+        
         print(*citationCount)
-        for num,citeCount in enumerate(meanCitationCount,start=0):
-            if(articleCount[num] != 0):
+        for num,citeCount in enumerate(citationCount,start=0):
+            if(articleCount[num] != 0) and (len(newfilelist) != 0) and articleUpdated[num]:
                 meanCitationCount[num] = citeCount/articleCount[num]
 
         print(*meanCitationCount)
@@ -164,7 +191,7 @@ def main():
        
 
        
-            
+        plt.figure(1)
         the_table = plt.table(cellText=data,
                           rowLabels=rows,
                           rowColours=colors,
@@ -173,21 +200,26 @@ def main():
         plt.subplots_adjust(left=0.2,top = 0.8)
         
         f1.canvas.draw()
+        f1.canvas.flush_events()
         plt.pause(0.05)
         
         
 
 
-        f2 = plt.figure(2)
-        
-        plt.bar(y_pos,citationCount,align = 'center', alpha = 0.5)
+        plt.figure(2)
+        f2.clear()
+        plt.bar(y_pos,meanCitationCount,align = 'center',color = (0.2, 0.4, 0.6, 0.6))
+        plt.bar(y_pos,meanCitationCount,align = 'center', alpha = 0.5)
         plt.xticks(y_pos,objects)
         plt.ylabel('Mean Citation Count')
         plt.title('Mean Citation Count and Hyphens')
+    
         
         f2.canvas.draw()
         plt.pause(0.05)
-
+        plt.figure(3)
+        f3.clear()
+        boxplot.clear()
 
         HyphenLabel = []
 
@@ -214,14 +246,16 @@ def main():
         boxData = {'Hyphens':HyphenLabel,'Count':countData}
         
         df = pd.DataFrame(boxData)
+        
         print(df)
         
 
         
-        df.boxplot(column ='Count', by ='Hyphens')
-        f3 = plt.figure(3)
+        boxplot = df.boxplot(column ='Count', by ='Hyphens')
+        print(boxplot.get_figure())
+        
         plt.pause(0.05)
-        f3.canvas.draw()
+        
         prevfilelist = filelist.copy()
 
         
