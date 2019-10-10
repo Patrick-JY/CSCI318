@@ -31,35 +31,41 @@ with open(filename) as f:
         dictionary[line] = line
 
 url = 'https://httpbin.org/ip'
-for iterator in range(1,65):
-   proxy = next(proxy_pool)
-   print("Request #%d"%iterator)
-   try:
-      response = requests.get(url,proxies={"http": proxy, "https": proxy})
-      print(response.json())
-      scholarly.scholarly._SESSION.proxies = {'http' : 'http://' + proxy, 'https' : 'https://' + proxy}
-      print(scholarly.scholarly._SESSION.proxies)
-      i = 0
-      while i < 10:
-          random_word = random.choice(list(dictionary.keys()))
-          newFileName = random_word.replace('\n', '') + ".txt"
-          newFile = open(newFileName, "w", encoding="utf-8")
-          search_query = scholarly.search_pubs_query(random_word)
-          j = 0
-          while j < 100:
-              newFile.write(str(next(search_query)))
-              print(j)
-              sys.stdout.flush()
-              j = j + 1
-          newFile.close()
-          i = i + 1
-      # proxies = {"http": 'socks5://' + proxy, 'socks5://' + "https": proxy}
-      #  scholarly.scholarly.use_proxy(**proxies)
-      #  print(next(scholarly.search_author('Steven A. Cholewiak')))
-   except StopIteration:
-       print("Access denied")
-   except:
-       print("Skipping. Connnection error")
+scholarly.scholarly._PUBSEARCH = '/scholar?hl=en&q={0}'
+
+keywords_count = 0;
+while keywords_count < 1000:
+    for iterator in range(1,300):
+       #proxy = next(proxy_pool)
+       #print("Request #%d"%iterator)
+       try:
+         # response = requests.get(url,proxies={"http": proxy, "https": proxy})
+          #print(response.json())
+
+          #scholarly.scholarly._SESSION.proxies = {'http' : 'http://' + proxy, 'https' : 'https://' + proxy}
+          #print(scholarly.scholarly._SESSION.proxies)
+          i = 0
+          while i < 1000:
+              random_word = random.choice(list(dictionary.keys()))
+              newFileName = random_word.replace('\n', '') + ".txt"
+              newFile = open(newFileName, "w", encoding="utf-8")
+              search_query = scholarly.search_pubs_query(random_word)
+              keywords_count = keywords_count + 1
+              j = 0
+              while j < 100:
+                  newFile.write(str(next(search_query)))
+                  print(j)
+                  sys.stdout.flush()
+                  j = j + 1
+              newFile.close()
+              i = i + 1
+          # proxies = {"http": 'socks5://' + proxy, 'socks5://' + "https": proxy}
+          #  scholarly.scholarly.use_proxy(**proxies)
+          #  print(next(scholarly.search_author('Steven A. Cholewiak')))
+       except StopIteration:
+           print("Access denied")
+       except:
+           print("Skipping. Connnection error")
 
 #proxies = {'http' : 'socks5://127.0.0.1:9050', 'https': 'socks5://127.0.0.1:9050'}
 #scholarly.use_proxy(**proxies)
