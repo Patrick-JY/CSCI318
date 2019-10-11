@@ -3,7 +3,6 @@ import requests
 from itertools import cycle
 import traceback
 import sys
-from random_words import RandomWords
 import scholarly
 import random
 import socks
@@ -23,9 +22,6 @@ def get_proxies():
             proxies.add(proxy)
     return proxies
 
-proxies = get_proxies()
-proxy_pool = cycle(proxies)
-
 with open(filename) as f:
     for line in f:
         dictionary[line] = line
@@ -34,22 +30,26 @@ url = 'https://httpbin.org/ip'
 scholarly.scholarly._PUBSEARCH = '/scholar?hl=en&q={0}'
 
 keywords_count = 0;
-while keywords_count < 1000:
-    for iterator in range(1,300):
-       #proxy = next(proxy_pool)
-       #print("Request #%d"%iterator)
+while keywords_count < 10000:
+    proxies = get_proxies()
+    proxy_pool = cycle(proxies)
+    iterator = 0;
+    while iterator < 300:
+       proxy = next(proxy_pool)
+       print("Request #%d"%iterator)
        try:
-         # response = requests.get(url,proxies={"http": proxy, "https": proxy})
-          #print(response.json())
+          response = requests.get(url,proxies={"http": proxy, "https": proxy})
+          print(response.json())
 
-          #scholarly.scholarly._SESSION.proxies = {'http' : 'http://' + proxy, 'https' : 'https://' + proxy}
-          #print(scholarly.scholarly._SESSION.proxies)
+          scholarly.scholarly._SESSION.proxies = {'http' : 'http://' + proxy, 'https' : 'https://' + proxy}
+          print(scholarly.scholarly._SESSION.proxies)
           i = 0
           while i < 1000:
               random_word = random.choice(list(dictionary.keys()))
               newFileName = random_word.replace('\n', '') + ".txt"
               newFile = open(newFileName, "w", encoding="utf-8")
               search_query = scholarly.search_pubs_query(random_word)
+              print(next(search_query))
               keywords_count = keywords_count + 1
               j = 0
               while j < 100:
@@ -63,10 +63,11 @@ while keywords_count < 1000:
           #  scholarly.scholarly.use_proxy(**proxies)
           #  print(next(scholarly.search_author('Steven A. Cholewiak')))
        except StopIteration:
-           print("Access denied")
+           print("Access denied by Google Scholar")
+           iterator = iterator + 1
        except:
            print("Skipping. Connnection error")
-
+           iterator = iterator + 1
 #proxies = {'http' : 'socks5://127.0.0.1:9050', 'https': 'socks5://127.0.0.1:9050'}
 #scholarly.use_proxy(**proxies)
 #s = requests.session()
