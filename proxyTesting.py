@@ -34,7 +34,7 @@ while keywords_count < 10000:
     proxies = get_proxies()
     proxy_pool = cycle(proxies)
     iterator = 0;
-    while iterator < 300:
+    while iterator < 50:
        proxy = next(proxy_pool)
        print("Request #%d"%iterator)
        try:
@@ -49,7 +49,7 @@ while keywords_count < 10000:
               newFileName = random_word.replace('\n', '') + ".txt"
               newFile = open(newFileName, "w", encoding="utf-8")
               search_query = scholarly.search_pubs_query(random_word)
-              print(next(search_query))
+              #print(next(search_query))
               keywords_count = keywords_count + 1
               j = 0
               while j < 100:
@@ -68,6 +68,7 @@ while keywords_count < 10000:
        except:
            print("Skipping. Connnection error")
            iterator = iterator + 1
+    print("End of 50 proxy cycle")
 #proxies = {'http' : 'socks5://127.0.0.1:9050', 'https': 'socks5://127.0.0.1:9050'}
 #scholarly.use_proxy(**proxies)
 #s = requests.session()
