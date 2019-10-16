@@ -1,0 +1,1179 @@
+{'_filled': False,
+ 'bib': {'abstract': 'Occupation, blockage and storming are not rare in social '
+                     'movements a decade after China resuming sovereignty in '
+                     'Hong Kong. The organizers and participants usually '
+                     'involve locally born young people. Some of them are '
+                     'secondary school students in their teens. They are …',
+         'author': 'SKL Chan',
+         'eprint': 'https://epress.lib.uts.edu.au/journals/index.php/mcs/article/download/4986/5827',
+         'title': 'Prostrating walk in the campaign against Sino-Hong Kong '
+                  'express railway: Collective identity of native social '
+                  'movement',
+         'url': 'https://epress.lib.uts.edu.au/journals/index.php/mcs/article/view/4986'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '5074123722242461632',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wA-lOqToakYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5By84:AAGBfm0AAAAAXYJE084COGEP4QIIVIGdlZ804q-A7onq&scisig=AAGBfm0AAAAAXYJE05P3x3wZIN5j_Ej1WtBEClIgU0OW&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 2008). There are four main positions involved in the '
+                     'prayer, namely standing, bowing,\n'
+                     'prostrating and sitting … The subject then briefly stood '
+                     'up for approximately 2 s, before\n'
+                     'subsequently prostrating with both palms and the knees '
+                     'touching the floor … \n',
+         'author': 'H Doufesh and T Faisal and KS Lim and F Ibrahim',
+         'eprint': 'http://eprints.um.edu.my/9283/1/EEG_Spectral_Analysis_on_Muslim_Prayers.pdf',
+         'title': 'EEG spectral analysis on Muslim prayers',
+         'url': 'https://link.springer.com/article/10.1007/s10484-011-9170-1'},
+ 'citedby': 41,
+ 'id_scholarcitedby': '2804705261617564420',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BEtiUpNQ7CYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5By84:AAGBfm0AAAAAXYJE084COGEP4QIIVIGdlZ804q-A7onq&scisig=AAGBfm0AAAAAXYJE04HVY6GdB3L2aHoivha-Qn127sbp&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The various positions in Salat include standing, '
+                     'prostrating, bowing and sitting. Prostrating is\n'
+                     'one of the unique position in salat which is believed '
+                     'can promote a relaxation effect to human\n'
+                     'body … Then, the signal during prostrating was extracted '
+                     'and analyzed using MATLAB … \n',
+         'author': 'NA Salleh and KS Lim and F Ibrahim',
+         'eprint': 'http://eprints.um.edu.my/9260/1/AR_modeling_as_EEG_spectral_analysis_on_prostration.pdf',
+         'title': 'AR modeling as EEG spectral analysis on prostration',
+         'url': 'https://ieeexplore.ieee.org/abstract/document/5412056/'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '670382535103744922',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mgt8JF2tTQkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5By84:AAGBfm0AAAAAXYJE084COGEP4QIIVIGdlZ804q-A7onq&scisig=AAGBfm0AAAAAXYJE0360OWHmJB7A36sPBhTB0NN5idH9&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… GR Driver, for instance, begins his detailed article '
+                     'on "Leprosy" in the one-volume revised edition\n'
+                     'of Hastings\'s Dictionary of the Bible as follows: "The '
+                     "Hebrew sir'ah and sdra'ath 'prostration' are\n"
+                     'general terms for any prostrating experience or '
+                     'disabling disease (cf … \n',
+         'author': 'JFA Sawyer',
+         'title': "A Note on the Etymology of ṣāra'at",
+         'url': 'https://www.jstor.org/stable/1517393'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '3121231451940000109',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bRGp8nfXUCsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5By84:AAGBfm0AAAAAXYJE084COGEP4QIIVIGdlZ804q-A7onq&scisig=AAGBfm0AAAAAXYJE00_c8RsIEdif7CJBvEuVbruQ19Pe&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… "ice. the prostrating means and the center divider. '
+                     'The prostrating means is mounted directly\n'
+                     'to the harvesting machine and comprises a mounting bar '
+                     '16 which is secured to the front\n'
+                     'frame member 60 of the harvesting machine by nut and '
+                     'bolt 26 … \n',
+         'author': 'CP Rickerd and RC Fischer and EC Carlson',
+         'title': 'Row crop attachment',
+         'url': 'https://patents.google.com/patent/US3139718A/en'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '15203710818695507861',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:le8b2G9u_tIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5By84:AAGBfm0AAAAAXYJE084COGEP4QIIVIGdlZ804q-A7onq&scisig=AAGBfm0AAAAAXYJE07BIbR6VV9KiUSxPwwjdIZHSP8pE&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… We assessed, by Chi-squared test, differences in '
+                     'frequency of OA between prayers and\n'
+                     'non-prayers, and between the > 20 year prayers who lay '
+                     'hands first on prostrating from\n'
+                     'erect posture and the same duration prayers who lay '
+                     'their knees first … \n',
+         'author': 'NJ AL-BARZINJY',
+         'title': 'Islamic praying and osteoarthritis changes of weight '
+                  'bearing joints',
+         'url': 'https://www.iasj.net/iasj?func=article&aId=159648'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '11667860297067117190',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hrqRBx-R7KEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5By84:AAGBfm0AAAAAXYJE084COGEP4QIIVIGdlZ804q-A7onq&scisig=AAGBfm0AAAAAXYJE05Z71SPZwSpBI-w-J__5bKX4Nz38&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. Asymmetrical Conversations Page 2. Series: '
+                     'Epistemologies of Healing\n'
+                     'General Editors: David Parkin, Fellow ofAll Souls '
+                     'College, University of Oxford; and\n'
+                     'Elisabeth Hsu, Institute of Social and Cultural '
+                     'Anthropology … \n',
+         'author': 'H Naraindas and J Quack and WS Sax',
+         'title': 'Asymmetrical conversations: Contestations, circumventions, '
+                  'and the blurring of therapeutic boundaries',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=rnAXAwAAQBAJ&oi=fnd&pg=PP5&dq=prostrating&ots=6EiHMDyAd5&sig=8u1aRnOvQBA-4oZhSuf_RtOxbkE'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '6144268114451666171',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-5Sm3kvTRFUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5By84:AAGBfm0AAAAAXYJE084COGEP4QIIVIGdlZ804q-A7onq&scisig=AAGBfm0AAAAAXYJE0yvSNPlJ7DRfZFNrTJ08ALVii3h0&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… uncircled) connected with the dead : such aa at many a '
+                     'cairn, barrow, or barpa, as it should be\n'
+                     'called, and tombstone called leach or leacht,or their '
+                     "compounds, such as mhdidleac, 'the very\n"
+                     "great tombstone'; and cromleac, 'the bending, bowing, or "
+                     "prostrating tombstone', or … \n",
+         'author': 'EL Barnwell',
+         'title': 'Notes on some South Wales Cromlechs.',
+         'url': 'http://search.proquest.com/openview/49a3e3db95dc3c63/1?pq-origsite=gscholar&cbl=2924'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '16995087380584162669',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bWVxxu2t2usJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5By84:AAGBfm0AAAAAXYJE084COGEP4QIIVIGdlZ804q-A7onq&scisig=AAGBfm0AAAAAXYJE01A-YoH5KakAaTwXtjEB3iuVlatd&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The skill of external prostrating strengthen is an '
+                     'effect measure to strengthen and improve load capacity '
+                     'of an old bridge, and to control cracks to develop. This '
+                     'paper introduces the process, the principal points and '
+                     'the construction effect, in order to offer a useful '
+                     'method for …',
+         'author': 'MMGAO Hai-bin',
+         'title': 'External prostrating strengthen technology for an old '
+                  'bridge [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-JZSX200819210.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '13398698081754922313',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Sb21f-q88bkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5By84:AAGBfm0AAAAAXYJE084COGEP4QIIVIGdlZ804q-A7onq&scisig=AAGBfm0AAAAAXYJE0xeVmfyv0uesCPnTpI98OLfkcTmS&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… poisoned myocardium. In the presence of prostrating '
+                     'acute infections the cardiac\n'
+                     'muscle invari- ably shows the greater or less effect of '
+                     'circulating toxins al autopsy\n'
+                     'even though endocarditis or actual myocard- itis be '
+                     'absent. The … \n',
+         'author': 'WF Lorenz and MP Ravenel',
+         'title': 'THE TREATMENT OF DIPHTHERIA-CARRIERS BY OVERRIDING WITH '
+                  'STAPHYLOCOCCUS AUREUS',
+         'url': 'https://jamanetwork.com/journals/jama/article-abstract/432474'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '3786232151185256839',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:h3GPyBRmizQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5By84:AAGBfm0AAAAAXYJE084COGEP4QIIVIGdlZ804q-A7onq&scisig=AAGBfm0AAAAAXYJE0_Hpo93e3qvwrQOVuU_ic32C3a29&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Some of these angels are prostrating themselves before '
+                     'Adam, while others appear to be touching\n'
+                     'him, all in an act of adoration [Fig … 16), possibly '
+                     'made in Herat around 1415.7 A beautifully attired\n'
+                     'and crowned Adam stands before angels prostrating '
+                     'themselves before him … \n',
+         'author': 'J Gutmann',
+         'title': 'On Biblical Legends in Medieval Art',
+         'url': 'https://www.jstor.org/stable/1483588'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '5084335096718580674',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wlv2HtUvj0YJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bwx8:AAGBfm0AAAAAXYJE2x9CCV4e4mzu99Gfk3t1vDgRGmkH&scisig=AAGBfm0AAAAAXYJE21FZFsMfuoacix-tq4YxtfuCqo1G&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… slavish act, and Themistocles, who, when seeking a '
+                     'refuge at the court of Artaxerxes, saw nothing\n'
+                     'debasing in complying with the usages of the Persian '
+                     'court, much to the astonishment of the\n'
+                     'officer who first told him of the imperative necessity '
+                     'of his prostrating himself before the … \n',
+         'author': 'WW Rockhill',
+         'title': 'Diplomatic missions to the court of China: the kotow '
+                  'question I',
+         'url': 'https://www.jstor.org/stable/1833398'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '2990264247068836558',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zsIWV32NfykJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bwx8:AAGBfm0AAAAAXYJE2x9CCV4e4mzu99Gfk3t1vDgRGmkH&scisig=AAGBfm0AAAAAXYJE2zbBQZ_TScV4q10cEp_mvMHPqJI_&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… horizontal. The bowing action takes about 5–10 s. c) '
+                     'Prostrating: In this position which\n'
+                     "lasts about 5–10 s the prayer's forehead should come in "
+                     'contact with the ground. This …\n'
+                     'Bowing. c) Prostrating, and d) Sitting. 2.3. Data '
+                     'acquisition. Data … \n',
+         'author': 'H Doufesh and F Ibrahim and M Safari',
+         'eprint': 'https://daneshyari.com/article/preview/2628317.pdf',
+         'title': 'Effects of Muslims praying (Salat) on EEG gamma activity',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1744388116300202'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '10004099086306463489',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AU8bcR2z1YoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bwx8:AAGBfm0AAAAAXYJE2x9CCV4e4mzu99Gfk3t1vDgRGmkH&scisig=AAGBfm0AAAAAXYJE225taRs47VoL3vEnrkckmd2okJzw&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Pulmonary embolism is now one of the commonest causes '
+                     "of death after surgery'; not only is\n"
+                     'this rela- tively frequent in prostrating medical '
+                     'illness2 but it is also the greatest single factor in\n'
+                     'maternal deaths in childbirth.* Apart from the immediate '
+                     'risk to life, there are the late … \n',
+         'author': 'VV Kakkar',
+         'title': 'The management of deep vein thrombosis',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0002870371903097'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '7274955748314370059',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:C9D2brXV9WQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bwx8:AAGBfm0AAAAAXYJE2x9CCV4e4mzu99Gfk3t1vDgRGmkH&scisig=AAGBfm0AAAAAXYJE2zeOs_GZGRDGymAwssS0lct7nV2N&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'author': 'WW Rockhill',
+         'title': 'Diplomatic audiences at the court of China'},
+ 'citedby': 32,
+ 'id_scholarcitedby': '861609097714567749',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RYqFzOgM9QsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bwx8:AAGBfm0AAAAAXYJE2x9CCV4e4mzu99Gfk3t1vDgRGmkH&scisig=AAGBfm0AAAAAXYJE2wOLwqKKZhGQMTs4q0ivzNj8NM19&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1. A warning device to be attached to a person prone '
+                     'to incapacitating medical conditions or\n'
+                     'prostrating seizures comprising a warning signal '
+                     'annunciator which when activated repeatedly\n'
+                     'emits a recorded verbal message to inform bystanders of '
+                     'the nature of such persons … \n',
+         'author': 'JH Barkley',
+         'eprint': 'https://patentimages.storage.googleapis.com/4f/c9/92/aea76e5b97c951/US3866204.pdf',
+         'title': 'Electronic medical warning device',
+         'url': 'https://patents.google.com/patent/US3866204A/en'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '15626615619856111100',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_BUY5xzk3NgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bwx8:AAGBfm0AAAAAXYJE2x9CCV4e4mzu99Gfk3t1vDgRGmkH&scisig=AAGBfm0AAAAAXYJE20lRlGASI83OKkJhtLBeO1BumPu7&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… particular arrangement The cowpea crop shows a great '
+                     'advantages through its use for human\n'
+                     'consumption, using the remaining biomass for animal '
+                     'fodder, attaining a good prevention of water\n'
+                     'run-off and evaporation from the soil surface according '
+                     'to its prostrating growth habit … \n',
+         'author': 'AME Naim and BA Kilali and AE Hassan…',
+         'eprint': 'http://eprints.icrisat.ac.in/10716/1/JRA_1_2_11-16_2013.pdf',
+         'title': 'Agronomic evaluation of sorghum and cowpea intercropped at '
+                  'different spatial arrangements',
+         'url': 'http://eprints.icrisat.ac.in/10716/'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '4039397128608742983',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:R_50bUnSDjgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bwx8:AAGBfm0AAAAAXYJE2x9CCV4e4mzu99Gfk3t1vDgRGmkH&scisig=AAGBfm0AAAAAXYJE22ZsDqGMUri_wMCmmh1swKNkPqh1&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Methods The dynamic electrocardiography was used on 23 '
+                     'early AMI patients to monitor their\n'
+                     'changes in electrocardiograms at their '
+                     'defecation,comparing the abnormities of heart rates,QT\n'
+                     'dispersion and ST segment intrusion when defecating at '
+                     'prostrating and semi-reclining … \n',
+         'author': 'LI Binga and W Jian-ronga and MA Yan-lana and LIN Linb…',
+         'title': 'Effect of Body Positions at Defecation on Cardiac '
+                  'Automaticity and Myocardial Ischemia Level of Patients with '
+                  'Acute Cardial Infarction in the Early Stage [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-NFHL200710003.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '17150786935744799747',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:A6R6a9nVA-4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bwx8:AAGBfm0AAAAAXYJE2x9CCV4e4mzu99Gfk3t1vDgRGmkH&scisig=AAGBfm0AAAAAXYJE2zxdkdeyuqbdFIplZw1i0jAXv6A9&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The rat would experience quiet period, guarding '
+                     'period, deadlock period and prostrating\n'
+                     'period in sequence … The rat got to prostrating period '
+                     'when the sustained irradiation\n'
+                     "caused the rat's visceral organs to get more serious "
+                     'injury … \n',
+         'author': 'T Xie and J Pei and F Li and X Huang and S Chen…',
+         'title': 'EEG changes and stress reactions in rat induced by '
+                  'millimeter wave',
+         'url': 'https://europepmc.org/abstract/med/21485180'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '16097339391372836164',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RD2um-M8Zd8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bwx8:AAGBfm0AAAAAXYJE2x9CCV4e4mzu99Gfk3t1vDgRGmkH&scisig=AAGBfm0AAAAAXYJE271hWT-8lF_MN5wyOmalyWKdwyAD&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… pathologic fracture. Most patients fortunately, are '
+                     'less profoundly affected, but many\n'
+                     'are plagued by bone pain of an arthritic nature or by an '
+                     'acute prostrating bone crisis\n'
+                     'probably best described as a bone infarction. The '
+                     'accepted … \n',
+         'author': 'DW Stowens and SL Teitelbaum and AJ Kahn and JA Barranger',
+         'title': 'Skeletal complications of Gaucher disease.',
+         'url': 'https://europepmc.org/abstract/med/4033409'},
+ 'citedby': 195,
+ 'id_scholarcitedby': '3101538041824845849',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GaBUmGrgCisJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bwx8:AAGBfm0AAAAAXYJE2x9CCV4e4mzu99Gfk3t1vDgRGmkH&scisig=AAGBfm0AAAAAXYJE28ZdW2QAaQOCebWCXRTxkBynxlXi&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Conscious, then, of the disaster- like qualities of '
+                     'life, there follows the vehement\n'
+                     'distortion of the idea of God and a prostrating '
+                     'emotional tension capable of relief\n'
+                     'only in poignant outbursts of intense lyncism or '
+                     'terrible despair … \n',
+         'author': 'A Gray',
+         'title': 'The Troubled Mirror: Some Notes on Olive Schreiner',
+         'url': 'https://www.jstor.org/stable/718284'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '17464576889829253012',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lN_EZiakXvIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B-CI:AAGBfm0AAAAAXYJE4CK99qKfHUOa7x1z6tf24oJEh8jX&scisig=AAGBfm0AAAAAXYJE4AX-Cq7Sa3i6DtxCHXmdPvuoMCh4&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… [Methods] Serum level of sFas and TGF-β in patients '
+                     'with kidney function prostrating\n'
+                     'before and after the operation was detected by ELISA, '
+                     'and compared to normal\n'
+                     'controls. [Results] Serum level of sFas and TGF-β in '
+                     'patients … \n',
+         'author': 'J XU and F QI and B KE and X DU and Q YIN and C HU',
+         'title': 'Clinical significance of dynamic detected soluble Fas and '
+                  'TGF-β in serum of patients after kidney transplantation [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-ZXDY200616028.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '11039149873922480210',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:UphyiVLwMpkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B-CI:AAGBfm0AAAAAXYJE4CK99qKfHUOa7x1z6tf24oJEh8jX&scisig=AAGBfm0AAAAAXYJE4PaZfEv2OQEZHVnqbqzUvywCPGZh&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… with various liturgical formulae—most notably, '
+                     "praising God, professing one's faith, and invoking\n"
+                     'blessings upon Prophet Muhammad—and con- cludes with a '
+                     'supplication for the\n'
+                     'community.3 The prayer itself com- prises two cycles of '
+                     'standing, bowing, and prostrating … \n',
+         'author': 'S Rahemtulla',
+         'title': 'Toward a Genuine Congregation: The Form of the Muslim '
+                  'Friday Prayer, Revisited',
+         'url': 'https://link.springer.com/chapter/10.1057/9781137508270_3'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '10992684175316220124',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3PjHBQTcjZgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B-CI:AAGBfm0AAAAAXYJE4CK99qKfHUOa7x1z6tf24oJEh8jX&scisig=AAGBfm0AAAAAXYJE4DFlKCRDY_YdyEkvFNPYkCnzL6px&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… conclusion of recent scholarship that the root of '
+                     "histahawâ is hwy meaning 'to curl up', rather\n"
+                     'than as was previously supposed shw (to sink down or '
+                     'subside), but for our purposes the\n'
+                     'difference is slight since the meaning in practice is '
+                     'the same, ie a bowing or prostrating of the … \n',
+         'author': 'JP Richardson',
+         'eprint': 'http://churchsociety.org/churchman/documents/Cman_109_3_Richardson.pdf',
+         'title': "Is 'Worship'Biblical?",
+         'url': 'http://churchsociety.org/churchman/documents/Cman_109_3_Richardson.pdf'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '2098660358299506511',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:T9eiCHrwHx0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B-CI:AAGBfm0AAAAAXYJE4CK99qKfHUOa7x1z6tf24oJEh8jX&scisig=AAGBfm0AAAAAXYJE4PMkx9LHrWj16-Pw0ADdcDc0a1TI&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Comedy and philosophy have too often been thought '
+                     'immiscible, a tradition supported by a solemn reading of '
+                     'philosophers such as Plato. A closer look at Plato–and '
+                     'specifically at what may be his most familiar '
+                     'dialogue–the Republic, suggests just the contrary. Far '
+                     'from …',
+         'author': 'S Tanner',
+         'title': 'PROSTRATING BEFORE ADRASTEIA: comedy, philosophy, and '
+                  "“one's own” in republic v",
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/0969725X.2016.1205257'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:183MGsWfIrEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B-CI:AAGBfm0AAAAAXYJE4CK99qKfHUOa7x1z6tf24oJEh8jX&scisig=AAGBfm0AAAAAXYJE4OvH8WHoBxGPY-az-L775ywnQD3M&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The first great petition war of the nineteenth century '
+                     'concerned the transportation and delivery of mail on the '
+                     'Sunday Sabbath. When a group known as Sabbatarians began '
+                     'a campaign for Sunday mails to end, a fierce secularist '
+                     'backlash ensued. The anti …',
+         'author': 'T Verhoeven',
+         'title': '“Prostrating Our Rights on the Altar of Superstition and '
+                  'Bigotry”: The Sunday Mail Controversy in the Early Republic',
+         'url': 'https://link.springer.com/chapter/10.1007/978-3-030-02877-0_3'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HeBuNq79-d4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B-CI:AAGBfm0AAAAAXYJE4CK99qKfHUOa7x1z6tf24oJEh8jX&scisig=AAGBfm0AAAAAXYJE4NLEfvygaB5Ev9hUBkOmsBQ7Tspz&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'author': 'S Tanner', 'title': 'Prostrating before adrasteia'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vSydJP9Vt6QJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B-CI:AAGBfm0AAAAAXYJE4CK99qKfHUOa7x1z6tf24oJEh8jX&scisig=AAGBfm0AAAAAXYJE4J4kqSmNutCHryfp5tdPqdBqD7Fl&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Results Both EP-plans and RP-plans provided a good dose '
+                     'coverage of the target volume. Little difference was '
+                     'observed in the homogeneity index (between 0.07 and 0.10 '
+                     'for both optimisation techniques) and in maximum as well '
+                     'as in the near-to-maximum dose. The RP …',
+         'author': 'M Anderson and S Currie and L Girvan',
+         'eprint': 'https://www.thegreenjournal.com/article/S0167-8140(18)32265-5/pdf',
+         'title': 'EP-1956: Prostrating ourselves to the model: A comparison '
+                  'of anatomy specific prostate DVH estimation models',
+         'url': 'https://www.thegreenjournal.com/article/S0167-8140(18)32265-5/abstract'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EKg2y8a2ViMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B-CI:AAGBfm0AAAAAXYJE4CK99qKfHUOa7x1z6tf24oJEh8jX&scisig=AAGBfm0AAAAAXYJE4E2p7RNd-mnr5BcyQVUBhIPDMXyr&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Author: Kasperlik-Zaluska A, Journal: Polski tygodnik\n'
+                     'lekarski (Warsaw, Poland : 1960)[1972/08].\n',
+         'author': 'A Kasperlik-Zaluska and T Górowski…',
+         'title': 'Prostrating form of hyperthyroidism',
+         'url': 'https://europepmc.org/abstract/med/5078218'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Sq_koKCmuAIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B-CI:AAGBfm0AAAAAXYJE4CK99qKfHUOa7x1z6tf24oJEh8jX&scisig=AAGBfm0AAAAAXYJE4IC5g6IXHn-e-sghCKZd0Gt5u22K&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'author': 'SV Grancsay',
+         'title': 'The Armor of Henry I De Montmorency'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9Pip8FjqBvkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B-CI:AAGBfm0AAAAAXYJE4CK99qKfHUOa7x1z6tf24oJEh8jX&scisig=AAGBfm0AAAAAXYJE4K5q52P93I39M4TGFDQlMZlo-GJB&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In the uniformly fatal haemorrhagic type, the patient '
+                     'experiences a severely prOStrating\n'
+                     'prodromal illness followed by the development of a dusky '
+                     'erythema and eventually petechiae\n'
+                     'and frank haemorrhages into the skin and mucous '
+                     'membranes … \n',
+         'author': 'DA Henderson',
+         'eprint': 'http://www.zero-pox.info/who_se/WHO_SE_71-28.pdf',
+         'title': 'ORGANISATION MONDIALE DE LA SANTE ENGLISH m',
+         'url': 'http://www.zero-pox.info/who_se/WHO_SE_71-28.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oIo_roLwutAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B8hI:AAGBfm0AAAAAXYJE6hKFslSHqeNOAij5l8C-_f_Zexzu&scisig=AAGBfm0AAAAAXYJE6rsNjXaIAxb_djA9d7RolSjZa_0c&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… China is country that makes a living with water, and '
+                     'is closely concerned with water\n'
+                     'conservancy, which had been exited for a long time '
+                     'prostrating oneself to the thin, floating\n'
+                     'clouds and the view thin, floating clouds by declaring '
+                     'lucky activity fierce … \n',
+         'author': 'H Yu-ren',
+         'title': 'On the Relation between" Qi" and the Primitive Religion in '
+                  'the South',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-XTDX200506005.htm'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0MiImm5_M48J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B8hI:AAGBfm0AAAAAXYJE6hKFslSHqeNOAij5l8C-_f_Zexzu&scisig=AAGBfm0AAAAAXYJE6suPizVGvHj3xr6mH-BK__pJ21VM&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1 became a true Muslim in 1999, an auspicious As soon '
+                     'as I reached home, I found myself\n'
+                     'prostrating in ~ occasion.Why did I become a Muslim … '
+                     'Then one Friday at lunch break I passed\n'
+                     'a mosque in town. I happened to see Muslims bowing and '
+                     'prostrating in prayers … \n',
+         'author': 'A Nyanchoka',
+         'title': 'A journey of faith',
+         'url': 'https://journals.co.za/content/wajibu/17/1/AJA10169717_1389'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NWnYH1kNgtMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B8hI:AAGBfm0AAAAAXYJE6hKFslSHqeNOAij5l8C-_f_Zexzu&scisig=AAGBfm0AAAAAXYJE6tg4Zp5IjQ0LHleiFVjKBXmHZK8G&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… My invention consists in combining with the gathering '
+                     'devices of a corn-harvester a\n'
+                     'prostrating-chain that is adjustable in height at its '
+                     'delivery end and pivoted at its receiving end\n'
+                     'for thepurpose of depositing the cut stalks of corn onto '
+                     'the binder-table in positions in which they … \n',
+         'author': 'US Patent 592 and 618 and 1897',
+         'eprint': 'https://patentimages.storage.googleapis.com/01/9c/16/588bb82e6483a0/US592618.pdf',
+         'title': 'stone',
+         'url': 'https://patents.google.com/patent/US592618A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WAkpj8hhfy8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B8hI:AAGBfm0AAAAAXYJE6hKFslSHqeNOAij5l8C-_f_Zexzu&scisig=AAGBfm0AAAAAXYJE6hvdqj8opVJBmEaBeiFu6A4kdw5v&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… as a folding of the hands and reposing of the limbs? '
+                     'as a waking slumber? Certes, this rest, when\n'
+                     'it succeeds great and prostrating physical or '
+                     'intellectual labour, is refreshing and delicious; but\n'
+                     'is it the only is it the most restoring the most '
+                     'invigorating rest? We think not. Full Text … \n',
+         'author': 'AC Ritchie',
+         'title': 'REST.',
+         'url': 'http://search.proquest.com/openview/087e5c8803fa9dc3/1?pq-origsite=gscholar&cbl=3080'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lXHqClMp-ZYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B8hI:AAGBfm0AAAAAXYJE6hKFslSHqeNOAij5l8C-_f_Zexzu&scisig=AAGBfm0AAAAAXYJE6iHfTPzGrzUNPFRf9Rsgojy9nrR7&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Mrs. C. ,a married lady of about forty years, with five '
+                     'children, had been a victim of this\n'
+                     'suffering and prostrating disease during the whole of '
+                     'the above period, having frequent attacks\n'
+                     'which completely prostrated her and confined her to bed '
+                     'for weeks at a time …',
+         'author': 'C Preston',
+         'title': 'A RADICAL CURE OF A CASH OF HÆMOBRHOIDS OF TWELVE '
+                  "YEARS'STANDING WITH GRAPHITES",
+         'url': 'http://search.proquest.com/openview/d9d18a5792b1880e3f2f60f778b232d7/1?pq-origsite=gscholar&cbl=105825'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hiQrHDznWRkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B8hI:AAGBfm0AAAAAXYJE6hKFslSHqeNOAij5l8C-_f_Zexzu&scisig=AAGBfm0AAAAAXYJE6llLKd2Ax2dwWRCICCKrHOgK7ynl&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… from all monkeys the day prior to the inocula- tion of '
+                     'serum and at weekly intervals there- after,\n'
+                     'for 6 weeks, Of the 20 monkeys in the control group, one '
+                     'died of bacterial menin- gitis; 18 of the\n'
+                     'remaining 19 developed typical prostrating paralysis, '
+                     'The single monkey that escaped … \n',
+         'author': 'W Wood and EM Clark and FT Shimada…',
+         'title': 'Passive Immunity in Poliomyelitis VI. Antibody Decline in '
+                  'Rhesus Monkeys Inoculated with Homologous Lansing '
+                  'Antiserum.',
+         'url': 'https://journals.sagepub.com/doi/abs/10.3181/00379727-82-20154'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TP-pO7KSsRwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B8hI:AAGBfm0AAAAAXYJE6hKFslSHqeNOAij5l8C-_f_Zexzu&scisig=AAGBfm0AAAAAXYJE6u_qzVHcU56jnr_EvTXbY4rchAOy&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'author': 'WF LORENZ', 'title': 'symptom-producing hearts as'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Uy-jpps9q2EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B8hI:AAGBfm0AAAAAXYJE6hKFslSHqeNOAij5l8C-_f_Zexzu&scisig=AAGBfm0AAAAAXYJE6rPisGKjD0sQm8Mudu5TxG-ZqDjo&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… EP-1956 Prostrating ourselves to the model: A '
+                     'comparison of anatomy specific prostate\n'
+                     'DVH estimation models M. Anderson1, S. Currie1, L. '
+                     'Girvan1 1Beatson West of Scotland\n'
+                     'Cancer Centre, Radiotherapy Physics, Glasgow, United '
+                     'Kingdom … \n',
+         'author': 'J Odén and T Henry',
+         'eprint': 'https://www.thegreenjournal.com/article/S0167-8140(18)32266-7/pdf',
+         'title': 'EP-1957: Proton grid therapy: LET and variable RBE-weighted '
+                  'dose distributions for interlaced beams',
+         'url': 'https://www.thegreenjournal.com/article/S0167-8140(18)32266-7/abstract'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8P4gSQ6pmogJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B8hI:AAGBfm0AAAAAXYJE6hKFslSHqeNOAij5l8C-_f_Zexzu&scisig=AAGBfm0AAAAAXYJE6vBAdZhOO3Zgn7JLj9t3X569-6-k&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'author': 'MH RiCE', 'title': 'The following gentlemen'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1OhRdhrDQBAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B8hI:AAGBfm0AAAAAXYJE6hKFslSHqeNOAij5l8C-_f_Zexzu&scisig=AAGBfm0AAAAAXYJE6kUxhAb--rHllamEt_sEhudJmtXq&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… vir, and Gels., which, in large doses, knock down '
+                     'fever by prostrating the heart\'s energy."\n'
+                     'If this be a just discrimination, we must confess to '
+                     'having mistaken the action of Alconite\n'
+                     'on the vaso-motor nerves and its consequent action on '
+                     'the heart … \n',
+         'author': 'JS Douglas',
+         'title': "HUGHES'MANUAL OF PHARMACODYNAMICS",
+         'url': 'http://search.proquest.com/openview/d3987713ef21ea6e8c178c4a2854e1ee/1?pq-origsite=gscholar&cbl=105827'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:w01hoaSm1YAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B6w4:AAGBfm0AAAAAXYJE8w5_ORmZ6oKo6ruHGt0QpCmxp3Y7&scisig=AAGBfm0AAAAAXYJE88K72d-9covwnFEMMHC1XTqnNWEc&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The prayers consist of a certain number of units, '
+                     'ranging from two to four, comprised of various\n'
+                     'physical rituals, including standing, bowing, '
+                     'prostrating, and kneeling … 2 , then moves into the\n'
+                     'bowing ritual, followed by the prostrating and kneeling '
+                     'rituals shown in FIG … \n',
+         'author': 'A Haleem',
+         'eprint': 'https://patentimages.storage.googleapis.com/d5/a6/06/77a96fc8be7c95/US20160128485A1.pdf',
+         'title': 'Salat Buddy Prayer Aid',
+         'url': 'https://patents.google.com/patent/US20160128485/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3AnTHjt_-OAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B6w4:AAGBfm0AAAAAXYJE8w5_ORmZ6oKo6ruHGt0QpCmxp3Y7&scisig=AAGBfm0AAAAAXYJE88ABOyBbOriFteIsXK3uXl5WpNWH&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'US3397520A - Hay harvesting and conditioning device - '
+                     'Google Patents. Hay\n'
+                     'harvesting and conditioning device. Download PDF Info. '
+                     'Publication number\n'
+                     'US3397520A. US3397520A US64489467A US3397520A US 3397520 '
+                     '… \n',
+         'author': 'EJ Johnston and PJ Peacock',
+         'eprint': 'https://patentimages.storage.googleapis.com/e1/d6/5e/d84397da7da2d9/US3397520.pdf',
+         'title': 'Hay harvesting and conditioning device',
+         'url': 'https://patents.google.com/patent/US3397520A/en'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '4717830574599409535',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:f495VekZeUEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B6w4:AAGBfm0AAAAAXYJE8w5_ORmZ6oKo6ruHGt0QpCmxp3Y7&scisig=AAGBfm0AAAAAXYJE8_f9D7SyfWjs8vH-gT8MVOYCSpgi&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… From the highest to the lowest receive greetings in '
+                     'the form of 5, 4, 3, 2 and 1 time for the lowest.\n'
+                     'The highest class is the Eze Ekpeye–Logbo who receives '
+                     'five times greetings by prostrating,\n'
+                     'namely; … The clan Ezes receives greetings four times '
+                     'also by prostrating, namely; … \n',
+         'author': 'GW Okede and F Odumah',
+         'eprint': 'http://www.multidisciplinaryjournals.com/wp-content/uploads/2015/07/ORAL-ARCHIVES-ON-EKPEYE-KINGS-AND-RULERS-NIGERIA.pdf',
+         'title': 'ORAL ARCHIVES ON EKPEYE KINGS AND RULERS, NIGERIA',
+         'url': 'http://www.multidisciplinaryjournals.com/wp-content/uploads/2015/07/ORAL-ARCHIVES-ON-EKPEYE-KINGS-AND-RULERS-NIGERIA.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jTAiiDjgLGIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B6w4:AAGBfm0AAAAAXYJE8w5_ORmZ6oKo6ruHGt0QpCmxp3Y7&scisig=AAGBfm0AAAAAXYJE8008r8XFyPxvGPq__IogL1YRJCRl&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Schlossmann postnlated an antigen-antibody reaction as '
+                     'the cause of this prostrating illness …\n'
+                     'After this there appear in the literature reports of '
+                     'similar patients, among them one by\n'
+                     'Finkelstein,13 who described five infants with this type '
+                     'of prostrating reaction … \n',
+         'author': 'SC Dees',
+         'title': "Allergy to cow's milk",
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0031395516308409'},
+ 'citedby': 41,
+ 'id_scholarcitedby': '11228971273897167464',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:aMq0ReFR1ZsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B6w4:AAGBfm0AAAAAXYJE8w5_ORmZ6oKo6ruHGt0QpCmxp3Y7&scisig=AAGBfm0AAAAAXYJE8yVm_kPsYte8DNPJee9rNFShGPox&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Abstract. An attitude-activated warning device for '
+                     'persons subject to incapacitating and prostrating\n'
+                     'medical attacks or seizures … There exists a variety of '
+                     'medical conditions that are recurring in nature\n'
+                     'and that subject a patient to prostrating seizure at '
+                     'unexpected moments … \n',
+         'author': 'JH Barkley',
+         'title': 'Electronic medical warning device',
+         'url': 'https://patents.google.com/patent/US3634885A/en'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '4866979277274014831',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:b-Qax937ikMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B6w4:AAGBfm0AAAAAXYJE8w5_ORmZ6oKo6ruHGt0QpCmxp3Y7&scisig=AAGBfm0AAAAAXYJE87tqqnt9OdVzGFfs0Na6nKKrES_e&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'author': 'FA DAVY', 'title': 'early impression'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AScitXZHO6gJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B6w4:AAGBfm0AAAAAXYJE8w5_ORmZ6oKo6ruHGt0QpCmxp3Y7&scisig=AAGBfm0AAAAAXYJE8xNb0RwLeiu9_oY2f9KJOHSm30Uq&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… When partici- pants in these liturgies enter into a '
+                     'church building, they do not simply look at the\n'
+                     'icons there; they typically approach them, often '
+                     'prostrating themselves before them … But so also\n'
+                     'is approaching an icon and prostrating oneself before it '
+                     'or crossing oneself … \n',
+         'author': 'T Cuneo',
+         'eprint': 'http://blog.uvm.edu/tcuneo/files/2018/10/OnReligiousWorthBodily2018.pdf',
+         'title': 'On the religious worth of bodily liturgical action',
+         'url': 'https://www.cambridge.org/core/journals/religious-studies/article/on-the-religious-worth-of-bodily-liturgical-action/CAFC15F806BFF304BC1A609A7B69B91E'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '1247517935362060620',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TDEv3PMSUBEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B6w4:AAGBfm0AAAAAXYJE8w5_ORmZ6oKo6ruHGt0QpCmxp3Y7&scisig=AAGBfm0AAAAAXYJE8ziTCsZwQkncj0xfg-1QkunPydNq&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Gyatso',
+         'title': 'Everlasting Rain of Nectar: Purification Practice in '
+                  'Tibetan Buddhism'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '6491078973289511043',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:g7jtW-_xFFoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B6w4:AAGBfm0AAAAAXYJE8w5_ORmZ6oKo6ruHGt0QpCmxp3Y7&scisig=AAGBfm0AAAAAXYJE80A3s4otzdd-9FArE_t7-xf8BKCr&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… their submission and return are written in a more '
+                     'cursive style, a pat- tern typical in excavated\n'
+                     'Han dynasty documents,5 and (b) certain phrases, such as '
+                     '“prostrat- ing myself on the ground\n'
+                     'and bowing repeatedly, I state” (fudi zaibai yan 伏地再拜言), '
+                     'and “prostrating myself on … \n',
+         'author': 'Z Zhaoyang and Y Lin',
+         'title': 'How to Enter a Palace Legally: Information Gained from '
+                  'Newly Excavated Han Documents',
+         'url': 'https://www.jstor.org/stable/10.13173/jasiahist.53.1.0001'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:W5Ey_zM0tNsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B6w4:AAGBfm0AAAAAXYJE8w5_ORmZ6oKo6ruHGt0QpCmxp3Y7&scisig=AAGBfm0AAAAAXYJE81ou4yZKEPO-f_kYzNA6n7E5JbFw&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to Main Content. The New York Academy of Sciences. '
+                     'The New York\n'
+                     'Academy of Sciences. Search within This Journal '
+                     'Anywhere:\n',
+         'author': 'M Sanders and MG Soret and BA Akin',
+         'title': 'Neurotoxoid interference with two human strains of '
+                  'poliomyelitis in rhesus monkeys',
+         'url': 'https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1953.tb54038.x'},
+ 'citedby': 19,
+ 'id_scholarcitedby': '3883759731503066985',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ae80Febi5TUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B45Q:AAGBfm0AAAAAXYJE-5ReuZjMrg-3Ivt2YA-nuneoTa9a&scisig=AAGBfm0AAAAAXYJE--uW2QO2AgHlAfby8DB9zVcvEl7T&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The peaks in arterial pressure were associated with '
+                     'prostrating paroxysms of severe headaches,\n'
+                     'vomiting, and tachycardia. Plasma catecholamine '
+                     'concentrations as well as urinary excretion\n'
+                     'of 4-hydroxy 3-methoxy mandelic acid (HMMA) were normal '
+                     '… \n',
+         'author': 'CWG Redman',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0085253815340540/pdf?md5=c5a17d22709fcc4ed69c50ff84035d59&pid=1-s2.0-S0085253815340540-main.pdf',
+         'title': 'Hypertension in pregnancy: a case discussion',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0085253815340540'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '11117415518655884504',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2Czm-YL-SJoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B45Q:AAGBfm0AAAAAXYJE-5ReuZjMrg-3Ivt2YA-nuneoTa9a&scisig=AAGBfm0AAAAAXYJE-5vTsuo-YUn8oyEdEwYFqiuJrAZO&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 4) and another column; (3) three men prostrating them- '
+                     'selves before Dow-er-enheh; a man\n'
+                     'sawing a plank, lashed to a stake fixed upright in the '
+                     'ground; others fashioning a second\n'
+                     'doorframe (fig. 2)10; (4 and 5) men making pilasters. A '
+                     'scribe, Ter (see fig … \n',
+         'author': 'NG Davies',
+         'title': 'Research in the Theban Necropolis: 1938-1939',
+         'url': 'https://www.jstor.org/stable/3256236'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:FBlebqIPnVQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B45Q:AAGBfm0AAAAAXYJE-5ReuZjMrg-3Ivt2YA-nuneoTa9a&scisig=AAGBfm0AAAAAXYJE--RLCc8wyqND0tiQea6afPpx4Q3z&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JO Sanders', 'title': 'Spiritual maturity'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '17222103926198571430',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:phHtNUY0Ae8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B45Q:AAGBfm0AAAAAXYJE-5ReuZjMrg-3Ivt2YA-nuneoTa9a&scisig=AAGBfm0AAAAAXYJE-6JZbA4fX0gSLDketesNeEEWXZX7&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In the uniformly fatal haemorrhagic type, the patient '
+                     'experiences a severely prostrating\n'
+                     'prodromal illness followed by the development of a dusky '
+                     'erythema and eventually petechiae\n'
+                     'and frank haemorrhages into the skin and mucous '
+                     'membranes … \n',
+         'author': 'DA Henderson',
+         'eprint': 'https://apps.who.int/iris/bitstream/handle/10665/67486/WHO_SE_71.28.pdf',
+         'title': 'Smallpox',
+         'url': 'https://apps.who.int/iris/bitstream/handle/10665/67486/WHO_SE_71.28.pdf'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '16069309601673861818',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ulqLofGnAd8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B45Q:AAGBfm0AAAAAXYJE-5ReuZjMrg-3Ivt2YA-nuneoTa9a&scisig=AAGBfm0AAAAAXYJE-zivkLj_3G-dUF4etrcjOIBn2NjS&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The relative change in the average energy of each EEG '
+                     'frequency band decomposed by wavelet\n'
+                     'analysis was calculated for extracting the stress '
+                     'indicator for the purpose.The rat would experience\n'
+                     'quiet period,guarding period,deadlock period and '
+                     'prostrating period in … \n',
+         'author': 'XTPJL Fen and HXCSQ Dengjiang',
+         'title': 'EEG Changes and Stress Reactions in Rat Induced by '
+                  'Millimeter Wave [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-SWGC201101011.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '12482433640278009296',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0CUo1UKDOq0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B45Q:AAGBfm0AAAAAXYJE-5ReuZjMrg-3Ivt2YA-nuneoTa9a&scisig=AAGBfm0AAAAAXYJE-7tEF6umPe92Lgc4ew_Ryxg1M88s&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In the midst of this unpleasant reverie, Haja, the '
+                     'chief of the PI" I .IILI) IN GLOOMYI INI)OJ.IN(\n'
+                     '1. eunuclhs, rushed without ceremony into the apartment, '
+                     'and hurriedly prostrating himself before\n'
+                     'the Light of the World, exclaimed in mournful accents, " '
+                     'Alas ! alas … \n',
+         'author': 'JH Tarrant',
+         'title': 'JONES PASHA.',
+         'url': 'http://search.proquest.com/openview/43333e9dc63d1783/1?pq-origsite=gscholar&cbl=16474'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pl8EmniBdCIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B45Q:AAGBfm0AAAAAXYJE-5ReuZjMrg-3Ivt2YA-nuneoTa9a&scisig=AAGBfm0AAAAAXYJE-7Kci95YKd5dBMZNDk_OI2i4bnDX&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The immediate feeling of humility is taken as a sign '
+                     'of the object occupying a certain area, the\n'
+                     'object of the sign; and lacking schooling in English, '
+                     'ordinary or otherwise, he is unable to use\n'
+                     'the predicate "sublime" and so he interprets the sign by '
+                     'prostrating himself on the ground … \n',
+         'author': 'BL Clarke',
+         'title': 'How do we talk about God?',
+         'url': 'https://www.pdcnet.org/schoolman/content/schoolman_1968_0045_0002_0091_0104'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '16871094118867684960',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YE5K17YqIuoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B45Q:AAGBfm0AAAAAXYJE-5ReuZjMrg-3Ivt2YA-nuneoTa9a&scisig=AAGBfm0AAAAAXYJE-5PDkVJQLmKz6Gjlu4PlUepo8a_6&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… For example, many apply the method, such as '
+                     'prostrating to the guru or offering\n'
+                     'a lotus flower, hands beautifully folded in anjali '
+                     'mudra, but they do so as a ritual\n'
+                     'without applying wisdom. Prostration is surrender, but '
+                     'very few … \n',
+         'author': 'DJ Khyentse',
+         'title': 'The Guru Drinks Bourbon?',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=LS0tDQAAQBAJ&oi=fnd&pg=PA1&dq=prostrating&ots=i1sid1ZNvc&sig=-R-AgxAv-6L84eWks1QxCVux-Hw'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '87545642517850080',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4OfoS0wGNwEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B45Q:AAGBfm0AAAAAXYJE-5ReuZjMrg-3Ivt2YA-nuneoTa9a&scisig=AAGBfm0AAAAAXYJE-8pvaf1eX_91zUDn5K7k6-iiGIIm&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Parts of five lines survive from the bottom of the '
+                     'obverse, and a woman appears in the text: MUNUS\n'
+                     'qa-ta-an-tuA, either "a thin lady," or perhaps better '
+                     '"the Lady Qatantu." It seems that she is weeping\n'
+                     'at the city gate, or perhaps at the entrance to a '
+                     'temple, prostrating herself with … \n',
+         'author': 'IL Finkel',
+         'title': 'The dream of Kurigalzu and the tablet of sins',
+         'url': 'https://www.cambridge.org/core/journals/anatolian-studies/article/dream-of-kurigalzu-and-the-tablet-of-sins/F35E89F018D9384C700F740FB8E855FC'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '6254391880837746515',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:U89rR0cQzFYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B45Q:AAGBfm0AAAAAXYJE-5ReuZjMrg-3Ivt2YA-nuneoTa9a&scisig=AAGBfm0AAAAAXYJE-3mUOcTc6mmizC-ftKt73BSuN127&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Not all cases of window tears cause vertigo-but some '
+                     'do. Not all vertigo so caused is\n'
+                     'prostrating--but some is. Because of the findings in two '
+                     'reported cases, it is postulated that round\n'
+                     'window membrane tear may be a significant cause of pilot '
+                     'disorientation … \n',
+         'author': 'DR Tingley and JA MacDougall',
+         'title': 'Joint Committee on Aviation Pathology: XVII. Round window '
+                  'tear in aviators.',
+         'url': 'https://europepmc.org/abstract/med/303514'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '9500183090872672831',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:P2Kj4C9u14MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AHL0:AAGBfm0AAAAAXYJFBL1nSVQgWS0eNTV_B9P2GmJOpHcY&scisig=AAGBfm0AAAAAXYJFBLEbz_CtJKoIGvleT4ORAuhwXSva&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… These indicative features are a severely prostrating '
+                     'fever with signs of respiratory tract infection\n'
+                     'in a patient with a chronic debilitating condition '
+                     '(particularly chronic alcoholism, diabetes mellitus,\n'
+                     'malnutrition or leprosy), with regular soil contact, and '
+                     'with chronic or recurrent skin … \n',
+         'author': 'JW Rode and DDA Webling',
+         'title': 'Melioidosis in the northern territory of Australia',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.5694/j.1326-5377.1981.tb135443.x'},
+ 'citedby': 61,
+ 'id_scholarcitedby': '16770506269336045702',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hog8F5nOvOgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AHL0:AAGBfm0AAAAAXYJFBL1nSVQgWS0eNTV_B9P2GmJOpHcY&scisig=AAGBfm0AAAAAXYJFBOzWr9pOcHPRJIDoN2r43yMZBLYn&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Number of patients with Classical migraine: '
+                     'hemicrania), with or without visual aura, prostrating,\n'
+                     "nauseating and with photophobia 'Migrainous vascular': "
+                     'severe, throbbing, generalised, more\n'
+                     'or less prostrating Severe non-throbbing, localised or '
+                     'generalised, non-prostrating … \n',
+         'author': 'AH Roberts',
+         'title': 'Cranial Nerve Injuries, Vertigo and Headache',
+         'url': 'https://link.springer.com/chapter/10.1007/978-1-349-04787-1_7'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:O9CO56CcB1UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AHL0:AAGBfm0AAAAAXYJFBL1nSVQgWS0eNTV_B9P2GmJOpHcY&scisig=AAGBfm0AAAAAXYJFBAz_R8yzoVnK75AIeeCI2GpgigPe&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The following account deals with some features of the '
+                     'present epidemic. On 12 May two students\n'
+                     'at Aberdeen University who shared lodgings were admitted '
+                     "to the students' ward of the Royal\n"
+                     'Infirmary with " flu." The next day they developed '
+                     'severe prostrating gastro-enteritis … \n',
+         'author': 'JL DEBARY and AW GARDNER',
+         'eprint': 'https://europepmc.org/articles/pmc1814680?pdf=render',
+         'title': 'TYPHOID AT ABERDEEN.',
+         'url': 'https://europepmc.org/articles/pmc1814680'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PCrulGsyjAYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AHL0:AAGBfm0AAAAAXYJFBL1nSVQgWS0eNTV_B9P2GmJOpHcY&scisig=AAGBfm0AAAAAXYJFBCatI1qDdoDRy9AmpD-sbufYXOMu&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… It is usually of a dull aching character and the more '
+                     'severe it is the less likely it is to be of ocular\n'
+                     'origin. " Terrible, " splitting," " bumping," " '
+                     'throbbing," " bursting," or prostrating headaches are\n'
+                     'not ocular (except in acute eye disease), nor are those '
+                     'brought on by stooping … \n',
+         'author': 'HM Traquair',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5287523/pdf/edinbmedj74470-0052.pdf',
+         'title': 'Symposium on Headache as a Symptom—IV. The Eyes and '
+                  'Headache',
+         'url': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5287523/'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7PqAH6OZpa8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AHL0:AAGBfm0AAAAAXYJFBL1nSVQgWS0eNTV_B9P2GmJOpHcY&scisig=AAGBfm0AAAAAXYJFBHfv6trGTil35NNfZEwfj2jihqyg&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Samuel', 'title': 'Jews on approval'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '17945638105343594008',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GA642Ma2C_kJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AHL0:AAGBfm0AAAAAXYJFBL1nSVQgWS0eNTV_B9P2GmJOpHcY&scisig=AAGBfm0AAAAAXYJFBISIr3DC7NVl-balCmglkeiUgeMG&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Lastly, if both force of molecular interchange and '
+                     'quantity of substance are great, the effect is\n'
+                     'likely to be prostrating as may be demonstrated by '
+                     'ammonia … animal horsey garlic onion fishy\n'
+                     'putrid hydrogen sulphide prostrating noxious noisome '
+                     'asphyxiating delicate penetrating … \n',
+         'author': 'FW Jones',
+         'title': 'What Are Offensive Odors about a Sewage Works?',
+         'url': 'https://www.jstor.org/stable/25028116'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '2017998047682537325',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:baeMVYheARwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AHL0:AAGBfm0AAAAAXYJFBL1nSVQgWS0eNTV_B9P2GmJOpHcY&scisig=AAGBfm0AAAAAXYJFBGGk3ZFB_2SBAzrC_8dCvN4Ds4sy&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'author': 'EJ Fellows and L Cook',
+         'title': 'The comparative pharmacology of a number of phenothiazine '
+                  'derivatives'},
+ 'citedby': 27,
+ 'id_scholarcitedby': '10230060136803176491',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:K5AJRX55-I0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AHL0:AAGBfm0AAAAAXYJFBL1nSVQgWS0eNTV_B9P2GmJOpHcY&scisig=AAGBfm0AAAAAXYJFBJQUfaKPG0lLNgu3hz8dXSKat4JC&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The antisemitic image of a "Judaized" Sweden '
+                     'prostrating before the Bolsheviks fed right-wing\n'
+                     'fantasies of a final apocalyptic battle … The '
+                     'antisemitic image of a "Judaized" Sweden prostrating\n'
+                     'before the Bolsheviks fed right-wing fantasies of a '
+                     'final apocalyptic battle … \n',
+         'author': 'A Elmgren',
+         'title': 'Den allrakäraste fienden. Svenska stereotyper i finländsk '
+                  'press 1918-1939',
+         'url': 'http://lup.lub.lu.se/record/1269277'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '7077318647154913422',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jrDq9c-vN2IJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AHL0:AAGBfm0AAAAAXYJFBL1nSVQgWS0eNTV_B9P2GmJOpHcY&scisig=AAGBfm0AAAAAXYJFBKwRkvx0DGHFCu7Q1cf_c5YdxjXG&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… These positions consist of standing, bowing, '
+                     'prostrating, and sitting on the ground or floor for\n'
+                     'relatively long and short periods of time (Figure 1). '
+                     'They must be tranquil during every position,\n'
+                     'as tranquillity is one of the pillars necessary for the '
+                     'validation of the prayer [5]. Few … \n',
+         'author': 'F Daghistani',
+         'eprint': 'https://www.researchgate.net/profile/Farouk_Daghistani/publication/333392588_Conceptual_Design_of_Congregational_Prayer_Chair/links/5ceb326692851c4eabc11749/Conceptual-Design-of-Congregational-Prayer-Chair.pdf',
+         'title': 'Conceptual Design of Congregational Prayer Chair.',
+         'url': 'https://www.researchgate.net/profile/Farouk_Daghistani/publication/333392588_Conceptual_Design_of_Congregational_Prayer_Chair/links/5ceb326692851c4eabc11749/Conceptual-Design-of-Congregational-Prayer-Chair.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:q4-OMDny26AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AHL0:AAGBfm0AAAAAXYJFBL1nSVQgWS0eNTV_B9P2GmJOpHcY&scisig=AAGBfm0AAAAAXYJFBC1JNG0cMdrqwmUR1wWcGXw_HX1m&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… An experiment was carried out for two seasons under '
+                     'rain fed conditions on the heavy cracking\n'
+                     'clay soil of Gedarif to find out the optimum intercrop '
+                     'density of the prostrating local cowpea (Vigna\n'
+                     'unguiculata) when used as a trap crop for Striga '
+                     'hermonthica control and its impact … \n',
+         'author': 'AE Hassan and EA Elasha',
+         'title': 'Intercropping effect using local cowpea on Striga '
+                  'hermonthica (Del.) Benth. control and grain yield of '
+                  'Sorghum bicolor (L.) Moench',
+         'url': 'http://agris.fao.org/agris-search/search.do?recordID=SD2009000056'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '15038846204450629317',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xeYCmPG2tNAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AE1Y:AAGBfm0AAAAAXYJFC1bxs1MP2oz-nwZNmxfOuQ1UQrmu&scisig=AAGBfm0AAAAAXYJFC4KT2Tc4bJnkzgZqqu9bkycFQNjs&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The general trend of succession is from tall thickly '
+                     'growing kobresia community to short\n'
+                     'prostrating forbs community. The vertical perennial '
+                     'forbs constitute the transitional\n'
+                     'community. How does Europe PMC derive its citations '
+                     'network … \n',
+         'author': 'Y Gan and Z Li and Q Wang and B Ze and G Luo and Y Ren…',
+         'title': 'Study on grazing degenerating succession of subalpine '
+                  'meadow in northwestern of Sichuan Province',
+         'url': 'https://europepmc.org/abstract/cba/471982'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '11645392904954729544',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SFSuqSW_nKEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AE1Y:AAGBfm0AAAAAXYJFC1bxs1MP2oz-nwZNmxfOuQ1UQrmu&scisig=AAGBfm0AAAAAXYJFCxbp1de2TtNBZ7nxguXwSi81kI_r&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'US3402532A - Apparatus for harvesting crops - Google '
+                     'Patents. Apparatus for\n'
+                     'harvesting crops. Download PDF Info. Publication number '
+                     'US3402532A.\n'
+                     'US3402532A US43958865A US3402532A US 3402532 A US3402532 '
+                     '… \n',
+         'author': 'EJ Johnston and PJ Peacock',
+         'eprint': 'https://patentimages.storage.googleapis.com/28/ed/7e/132d7d1fc5a905/US3402532.pdf',
+         'title': 'Apparatus for harvesting crops',
+         'url': 'https://patents.google.com/patent/US3402532A/en'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '4389167075137105198',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Li1jNTN06TwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AE1Y:AAGBfm0AAAAAXYJFC1bxs1MP2oz-nwZNmxfOuQ1UQrmu&scisig=AAGBfm0AAAAAXYJFCwNcrb9rY2CbKPWZzsJdYCxIxWQK&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 3 (Standing tagged with no. 1, Bowing no. 2, '
+                     'Prostrating no. 3 and Sitting no … Here, appropriate\n'
+                     'classification algorithms have been exploited to '
+                     'classify body movements into different\n'
+                     'categories eg standing, bowing, prostrating and sitting, '
+                     'as shown in Fig … \n',
+         'author': 'R Al-Ghannam and E Kanjo and H Al-Dossari',
+         'title': 'Monitoring prayer using mobile phone accelerometer',
+         'url': 'https://link.springer.com/chapter/10.1007/978-3-319-38904-2_17'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '17468410205211175853',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ratrsIdCbPIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AE1Y:AAGBfm0AAAAAXYJFC1bxs1MP2oz-nwZNmxfOuQ1UQrmu&scisig=AAGBfm0AAAAAXYJFC94GxFB90chJ8qBwJp8nEvxIAYVd&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'author': 'WS Gochenour Jr',
+         'title': 'The comparative pathology of Venezuelan encephalitis virus '
+                  'infection in selected animal hosts'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '9117600934180882192',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EAefFb45iH4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AE1Y:AAGBfm0AAAAAXYJFC1bxs1MP2oz-nwZNmxfOuQ1UQrmu&scisig=AAGBfm0AAAAAXYJFC1MWv410Vf6kYDjvAPcb-tMw1ave&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… For non-reproductive ones, life-stage was determined '
+                     'from stem devel- opment; S-size\n'
+                     'individuals had no apparent prostrating stems, M-size '
+                     'individuals had prostrating stems\n'
+                     '+*cm long, and L-size individuals had prostrating stems '
+                     '+*cm long. Fig. + … \n',
+         'author': 'A Mori and T Osono and S Iwasaki and M Uchida and H Kanda',
+         'eprint': 'https://nipr.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=6242&item_no=1&attribute_id=18&file_no=1&page_id=13&block_id=104',
+         'title': 'Initial recruitment and establishment of vascular plants in '
+                  'relation to topographical variation in microsite conditions '
+                  'on a recently-deglaciated moraine on Ellesmere …',
+         'url': 'https://nipr.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=6242&item_no=1&page_id=13&block_id=104'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '11470813785548803040',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4EtK7FyEMJ8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AE1Y:AAGBfm0AAAAAXYJFC1bxs1MP2oz-nwZNmxfOuQ1UQrmu&scisig=AAGBfm0AAAAAXYJFC_e7mqgvlP0BSbRlevRb0eR-sGy5&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Apart from these ictal behaviors, our patient also '
+                     'presented with paroxysmal unresponsiveness\n'
+                     'with staring, lip smacking and right hand fumbling, '
+                     'progressing to kneeling down and prostrating\n'
+                     'many times. The whole process also lasted about two '
+                     'minutes … \n',
+         'author': 'L Dong and X Zhou',
+         'eprint': 'https://www.seizure-journal.com/article/S1059-1311(15)00293-9/fulltext',
+         'title': 'An uncommon automatism with religious '
+                  'connotation—Prostration in a case of right temporal lobe '
+                  'epilepsy',
+         'url': 'https://www.seizure-journal.com/article/S1059-1311(15)00293-9/abstract'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '5478261853796081889',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4aAWhiGyBkwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AE1Y:AAGBfm0AAAAAXYJFC1bxs1MP2oz-nwZNmxfOuQ1UQrmu&scisig=AAGBfm0AAAAAXYJFC1OkSQll6oGn97RE7LMNKqeD7pBh&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… So, the verse talks about one of the good traits of '
+                     'the believers. An important point to be\n'
+                     'emphasized is that the negation covers not the act of '
+                     'prostrating but the way of prostrating …\n'
+                     '2 as he negates the way of prostrating not the act of '
+                     'prostrating … \n',
+         'author': 'NF Malalla',
+         'eprint': 'https://www.iasj.net/iasj?func=fulltext&aId=82274',
+         'title': 'The Transference of the jussive particles “لم”“lam” and '
+                  "“لما”“lammaa” in the Glorious Qur'aan into English",
+         'url': 'https://www.iasj.net/iasj?func=article&aId=82274'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LvzhWdk-qxcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AE1Y:AAGBfm0AAAAAXYJFC1bxs1MP2oz-nwZNmxfOuQ1UQrmu&scisig=AAGBfm0AAAAAXYJFC8vM8d5bZhAnFsOeOD-ISba1LaeU&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… of the world” and Matthew 28:19, “Make disciples of '
+                     'all nations and baptise them in the name\n'
+                     'of the Father, the Son and The Holy Spirit”.14 But '
+                     'al-Mahdi wondered how he could have said\n'
+                     'such things when Matthew 26:39 says that Jesus prayed, '
+                     'prostrating himself before God … \n',
+         'author': 'MI Beaumont',
+         'title': 'Early Muslim interpretation of the Gospels',
+         'url': 'https://journals.sagepub.com/doi/pdf/10.1177/026537880502200104'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '11316034754384641739',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yz4SeaehCp0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AE1Y:AAGBfm0AAAAAXYJFC1bxs1MP2oz-nwZNmxfOuQ1UQrmu&scisig=AAGBfm0AAAAAXYJFC-lw-F16XK62jnAijSr4gYJrb0iv&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… 10-» io-«» 10-4-7 10-*' Severity of paralysis "
+                     'Prostrating Severe Moderate Prostrating Usual\n'
+                     'location of first and severest paralysis Arms Legs Arms '
+                     'Arms * For references and titration data\n'
+                     'see Bodian, Morgan and Howe (1949). t CNS = central '
+                     'nervous system … \n',
+         'author': 'D BODIAN',
+         'title': 'SECOND ATTACKS OF PARALYTIC POLIOMYELITIS IN HUMAN BEINGS '
+                  'IN RELATION TO IMMUNITY, VIRUS TYPES AND VIRULENCE: WITH A '
+                  'REPORT OF TWO …',
+         'url': 'https://academic.oup.com/aje/article-abstract/54/2/174/99088'},
+ 'citedby': 36,
+ 'id_scholarcitedby': '4200526138488474260',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lEpZgkRESzoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AE1Y:AAGBfm0AAAAAXYJFC1bxs1MP2oz-nwZNmxfOuQ1UQrmu&scisig=AAGBfm0AAAAAXYJFC15mMydkisHZxvsaiuccCnaFMF7J&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Medical Intelligence from The New England Journal of '
+                     'Medicine — Atypical\n'
+                     'Generalized Zoster with Lymphadenitis Mimicking '
+                     'Lymphoma.\n',
+         'author': 'SD Patterson and EB Larson and L Corey',
+         'title': 'Atypical generalized zoster with lymphadenitis mimicking '
+                  'lymphoma',
+         'url': 'https://www.nejm.org/doi/pdf/10.1056/NEJM198004103021507'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '17799052292062310811',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:m_H5lsHvAvcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ACzU:AAGBfm0AAAAAXYJFEzWRtI8mM3t3PBaLKkVCWE-XRkn1&scisig=AAGBfm0AAAAAXYJFE-zbFSn8m6YhPcXqoBZ5F68ge1a0&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Pathognomonic findings include a classic triad of '
+                     'episodic, prostrating vertigo often\n'
+                     'associated with nausea and vomiting; roaring tinnitus '
+                     'that tends to crescendo just before\n'
+                     'the attack; and fluctuating low-frequency unilateral '
+                     'hearing loss … \n',
+         'author': 'RW Baloh and KJ Lee',
+         'title': "Help for Meniere's disease patients",
+         'url': 'https://go.galegroup.com/ps/i.do?id=GALE%7CA8986050&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=0031305X&p=AONE&sw=w'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '1032371773880537311',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3xBKmqi4Uw4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ACzU:AAGBfm0AAAAAXYJFEzWRtI8mM3t3PBaLKkVCWE-XRkn1&scisig=AAGBfm0AAAAAXYJFE1GzeQMfBI3sMoAZskavsmK-KInp&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… EP-1956 Prostrating ourselves to the model: A '
+                     'comparison of anatomy specific prostate\n'
+                     'DVH estimation models M. Anderson1, S. Currie1, L. '
+                     'Girvan1 1Beatson West of Scotland\n'
+                     'Cancer Centre, Radiotherapy Physics, Glasgow, United '
+                     'Kingdom … \n',
+         'author': 'S Puccini and D Völzke',
+         'eprint': 'https://www.thegreenjournal.com/article/S0167-8140(18)32264-3/pdf',
+         'title': 'EP-1955: Evaluation of a knowledge-based model for VMAT '
+                  'planning of anal canal cancer',
+         'url': 'https://www.thegreenjournal.com/article/S0167-8140(18)32264-3/abstract'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3QCkNlHrC4kJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ACzU:AAGBfm0AAAAAXYJFEzWRtI8mM3t3PBaLKkVCWE-XRkn1&scisig=AAGBfm0AAAAAXYJFE9k_hsf3Z_9MpPa1NeHGTT4J4rIE&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… produce any symptoms. How- ever, prostrating '
+                     'paralysis, with typical cord lesions,\n'
+                     'occurredin another monkey following-intracerebral '
+                     'injection with a suspension from\n'
+                     'cord and medulla of the second fatal case (MM). Intra- '
+                     'cerebral … \n',
+         'author': 'CW Jungeblut and G Dalldorf',
+         'eprint': 'https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.33.2.169',
+         'title': 'Epidemiological and experimental observations on the '
+                  'possible significance of rodents in a suburban epidemic of '
+                  'poliomyelitis',
+         'url': 'https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.33.2.169'},
+ 'citedby': 80,
+ 'id_scholarcitedby': '7828045432835649969',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:sbHJrdjNomwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ACzU:AAGBfm0AAAAAXYJFEzWRtI8mM3t3PBaLKkVCWE-XRkn1&scisig=AAGBfm0AAAAAXYJFE6Zo3JQ-Tfw0KVpSx8ubjC0C6FgL&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'author': 'H Naraindas and J Quack and WS Sax',
+         'title': 'Asymmetrical Conversations'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '9957301198608529670',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BvmhIK9wL4oJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ACzU:AAGBfm0AAAAAXYJFEzWRtI8mM3t3PBaLKkVCWE-XRkn1&scisig=AAGBfm0AAAAAXYJFE1e-R3zCG561ls64RjTsdrIoEBS-&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Medical calls concerning envenomated divers are '
+                     'increasing. SPECIFIC ENVENOMATION\n'
+                     'PROBLEMS: "Irukandji" Syndrome (Med J Aust 153;164, '
+                     '1990) may produce prostrating muscular\n'
+                     'pains and symptoms of massive sympathetic discharge, 1/2 '
+                     'h following envenomation … \n',
+         'author': 'JA Williamson and PJ Fenner and JW Burnett and JM Alam…',
+         'title': 'JELLYFISH VENOMS AND THE DIVER-LESSONS FOR DIVING MEDICINE.',
+         'url': 'http://dspace.rubicon-foundation.org/xmlui/handle/123456789/8207'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '3267254762182181607',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:54KSQuWeVy0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ACzU:AAGBfm0AAAAAXYJFEzWRtI8mM3t3PBaLKkVCWE-XRkn1&scisig=AAGBfm0AAAAAXYJFEw1LlkfOtVvYylIUGlVOK4ETgNgS&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'author': 'WM Ivins', 'title': "Schongauer's Engravings"},
+ 'citedby': 1,
+ 'id_scholarcitedby': '9165157515000927213',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7dMhaDMuMX8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ACzU:AAGBfm0AAAAAXYJFEzWRtI8mM3t3PBaLKkVCWE-XRkn1&scisig=AAGBfm0AAAAAXYJFE6PN5Zbb9K9ZQj6xjkjpSNo-YYZd&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… the palace-style and the local-style dwelling houses '
+                     'respectively.The temple architecture as a\n'
+                     'carrier of the Buddhist culture and the solemn,profound '
+                     'and elegant sense resulting from\n'
+                     'engraving show that both of the styles contain the '
+                     'symbolic meaning of prostrating oneself in … \n',
+         'author': 'WU Cheng-hua',
+         'title': 'Putuoshan Temple Architecture, Rodecarving Art & Buddhist '
+                  'Culture [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-HYXY200002004.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '16015085807914619002',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:epAm1LADQd4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ACzU:AAGBfm0AAAAAXYJFEzWRtI8mM3t3PBaLKkVCWE-XRkn1&scisig=AAGBfm0AAAAAXYJFEwfXlJU7CbIvtVhoB9okeT6hcTbW&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Antigenic group: Marburg. Original source: Isolated by '
+                     'SR Pattyn, ETW Bowen, and PA Webb\n'
+                     'from serum of adult female human being manifesting '
+                     'severe, prostrating, febrile illness with\n'
+                     'hemorrhagic signs and rash.Disease originally '
+                     'contractedin Yambuku, Zaire, Lat … \n',
+         'author': 'SR Pattyn and ETW Bowen and PA Webb',
+         'title': 'Ebola (EBO)',
+         'url': 'https://www.ajtmh.org/content/journals/10.4269/ajtmh.1978.27.383'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '2451887186916042127',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:j2V25WfaBiIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ACzU:AAGBfm0AAAAAXYJFEzWRtI8mM3t3PBaLKkVCWE-XRkn1&scisig=AAGBfm0AAAAAXYJFE8JwugZaF44m8UXGFIPm84whaCAt&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Fig. 1). Lodging resistance by typhoon was observed on '
+                     'October 2, 2002, the day\n'
+                     "after the season's twenty-first typhoon had hit. The "
+                     'resistance rating was recorded\n'
+                     'on a scale of 0 (prostrating) to 1 (no or little '
+                     'prostrating). This … \n',
+         'author': 'K Ishimaru and E Togawa and T Ookawa and T Kashiwagi…',
+         'title': 'New target for rice lodging resistance and its effect in a '
+                  'typhoon',
+         'url': 'https://link.springer.com/article/10.1007/s00425-007-0642-8'},
+ 'citedby': 78,
+ 'id_scholarcitedby': '11924553877143387370',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6nwjgJKGfKUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ACzU:AAGBfm0AAAAAXYJFEzWRtI8mM3t3PBaLKkVCWE-XRkn1&scisig=AAGBfm0AAAAAXYJFE7aDcQaH_J4cIzCq4Zzn8IG23EUS&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Ob- servant Muslims pray five times daily; each prayer '
+                     'consists of a series of physical movements\n'
+                     'that include standing, sitting, bowing, and prostrating '
+                     '… (Tick as many as appropriate) Bowing\n'
+                     'Crouching Kneeling Lying down Prostrating Sitting '
+                     'Standing No idea … \n',
+         'author': 'S Varma and D Bowley',
+         'eprint': 'https://www.researchgate.net/profile/Fareed_Iqbal/publication/262148775_A_Survey_to_Assess_Knowledge_Among_International_Colorectal_Clinicians_and_Enterostomal_Therapy_Nurses_About_Stoma-related_Faith_Needs_of_Muslim_Patients/links/569c0a9d08ae748dfb105cc3.pdf',
+         'title': 'A survey to assess knowledge among international colorectal '
+                  'clinicians and enterostomal therapy nurses about '
+                  'stoma-related faith needs of Muslim patients',
+         'url': 'https://www.researchgate.net/profile/Fareed_Iqbal/publication/262148775_A_Survey_to_Assess_Knowledge_Among_International_Colorectal_Clinicians_and_Enterostomal_Therapy_Nurses_About_Stoma-related_Faith_Needs_of_Muslim_Patients/links/569c0a9d08ae748dfb105cc3.pdf'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '8271277141858061612',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LA1Cx7x6yXIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AAgY:AAGBfm0AAAAAXYJFGgbM4oym12zAfpWG1Vn7vJdAcNK_&scisig=AAGBfm0AAAAAXYJFGlFpIROc18g_RQrODJjENwGMpDr4&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… We assessed, by Chi-squared test, differences in '
+                     'frequency of OA between prayers and\n'
+                     'non-prayers, and between the> 20 year prayers who lay '
+                     'hands first on prostrating from\n'
+                     'erect posture and the same duration prayers who lay '
+                     'their knees first … \n',
+         'author': 'TQ AL-DABBAGH',
+         'eprint': 'http://web.uod.ac/documents/169/DMJ_Vol3-1.pdf#page=41',
+         'title': 'ISLAMIC PRAYING AND OSTEOARTHRITIS CHANGES OF WEIGHT '
+                  'BEARING JOINTS',
+         'url': 'http://web.uod.ac/documents/169/DMJ_Vol3-1.pdf#page=41'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7eTkFXKMIHsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AAgY:AAGBfm0AAAAAXYJFGgbM4oym12zAfpWG1Vn7vJdAcNK_&scisig=AAGBfm0AAAAAXYJFGukGm0JWWq0njhu1YG-FdWPzlNIN&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'author': 'K Crocket and S Richardson',
+         'title': "Ben Nevis: Britain's highest mountain"},
+ 'citedby': 3,
+ 'id_scholarcitedby': '10452224146092612908',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LF2cjHvCDZEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AAgY:AAGBfm0AAAAAXYJFGgbM4oym12zAfpWG1Vn7vJdAcNK_&scisig=AAGBfm0AAAAAXYJFGlHlOjFoHyHwWkrf2_bibJUI-iVe&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Euphorbia hirta L. has the plant size larger than '
+                     'Euphorbia thymifolia L. The stems of former\n'
+                     'species are erect or ascending, while that of latter '
+                     'species are prostrating on ground. The size\n'
+                     'of leaf is … Stem mostly prostrating on ground and '
+                     'branches plentiful generally … \n',
+         'author': 'CK Leung',
+         'eprint': 'http://dspace.cityu.edu.hk/bitstream/2031/9110/1/fulltext.html',
+         'title': 'Pattern analysis of chromatograms of Euphorbiae genus',
+         'url': 'http://dspace.cityu.edu.hk/handle/2031/9110'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wdLwQWpLdHwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AAgY:AAGBfm0AAAAAXYJFGgbM4oym12zAfpWG1Vn7vJdAcNK_&scisig=AAGBfm0AAAAAXYJFGhxanK06543eQOhb6WUMNt1kokW9&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Changsha,Hunan,410004). With the coming of the market '
+                     'economy era,the culture symptoms\n'
+                     'of consumer society have increasingly emerged.The '
+                     "consumers' psychology has been transformed\n"
+                     'from commodity fetishism to the fetishism of prostrating '
+                     'advertisement signifier … \n',
+         'author': 'S Xing-ming',
+         'title': 'New Logic of the Communication of Advertisement in the '
+                  'Consumer Society',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-DYHN201103026.htm'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SvWKDWBBTKwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AAgY:AAGBfm0AAAAAXYJFGgbM4oym12zAfpWG1Vn7vJdAcNK_&scisig=AAGBfm0AAAAAXYJFGg2JT8OCuvJ7NshQXVIDhYYgePtP&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… that is quoted at the beginning of this chapter. Page '
+                     '124. lyrical martyrdom 107 the\n'
+                     'will of God to such an extent that prostrating to Husain '
+                     'is tantamount to prostrating\n'
+                     'to God. The qawwali and the majlis intersect at the '
+                     'point of … \n',
+         'author': 'K is Husain and E is Husain',
+         'title': 'Lyrical Martyrdom',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=E80OGPmP3GoC&oi=fnd&pg=PA105&dq=prostrating&ots=4Rsce6sqa1&sig=8GlfXxdEG6eOPxHAMz0wuKzWEEk'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DqNYEIm-jzIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AAgY:AAGBfm0AAAAAXYJFGgbM4oym12zAfpWG1Vn7vJdAcNK_&scisig=AAGBfm0AAAAAXYJFGr1hy4VLvq59vx871kSnZ1iaN5LK&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'author': 'VC Raguin and FE Peters',
+         'title': 'Pilgrimage and Faith: Buddhism, Christianity and Islam'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NaUjGA-R950J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AAgY:AAGBfm0AAAAAXYJFGgbM4oym12zAfpWG1Vn7vJdAcNK_&scisig=AAGBfm0AAAAAXYJFGvVXvp78_yjkObJLy8BqsoQmoSeF&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… to a fisher－ man：that was not conceivable in '
+                     'the・Anglo－Saxon society．（On the other hand，\n'
+                     'though we have no examples ofκαγαβdλλω，πgoσπi7vcD， or '
+                     'πQoσπtπ7ωin Homer， in Greek\n'
+                     'tragedies， we dσnot lack the scenes of people of high '
+                     'rank prostrating themselves（2 … \n',
+         'author': 'N Koichi',
+         'eprint': 'https://m-repo.lib.meiji.ac.jp/dspace/bitstream/10291/14652/1/journalofhumanities_3_1.pdf',
+         'title': 'Rhetorical Analysis of Historia Apollonii Regis Tyri and '
+                  'Old English Apollonius of Tyre',
+         'url': 'https://m-repo.lib.meiji.ac.jp/dspace/bitstream/10291/14652/1/journalofhumanities_3_1.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7eKuI9KGj8sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AAgY:AAGBfm0AAAAAXYJFGgbM4oym12zAfpWG1Vn7vJdAcNK_&scisig=AAGBfm0AAAAAXYJFGjLNox71k5VzxrMyX3LS-byTnBLh&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'author': 'علی اشرف امامی',
+         'title': 'Call for Prostration in the Day of Judgment from the '
+                  'Viewpoints of Quran and Mystics'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PB4KJ7gQb8kJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AAgY:AAGBfm0AAAAAXYJFGgbM4oym12zAfpWG1Vn7vJdAcNK_&scisig=AAGBfm0AAAAAXYJFGqK_FbFE8FQFJj4D-Gf4f7ngUXCr&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… As you enter an Orthodox church, your vision is often '
+                     'overwhelmed by the extraordinary amount\n'
+                     'of icons decorating the walls of the church.2 In front '
+                     'of the icons you see churchgoers making\n'
+                     'more or less the same gestures of crossing and '
+                     'prostrating themselves, kissing the … \n',
+         'author': 'AW Geertz and JS Jensen',
+         'title': 'Icons and Agency in the Georgian Orthodox Church',
+         'url': 'https://www.taylorfrancis.com/books/e/9781315729299/chapters/10.4324/9781315729299-18'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wVJvME-L25EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AAgY:AAGBfm0AAAAAXYJFGgbM4oym12zAfpWG1Vn7vJdAcNK_&scisig=AAGBfm0AAAAAXYJFGgY0unA4sxHbaNRNV51-7b0XxLqH&scisf=4&ct=citation&cd=99&hl=en'}

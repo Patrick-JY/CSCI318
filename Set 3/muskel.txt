@@ -1,0 +1,1302 @@
+{'_filled': False,
+ 'bib': {'abstract': 'Fig. 2. Photometrische Auswertekurven der '
+                     'Elektrophorese-Streifen. Ordinate : Extinktion. '
+                     'Abszisse \n'
+                     ': "vVanderungsstreeke yon der Aufsatz- stelle (~) weg. '
+                     'Elektrophoresedauer: einheitlieh 16 \n'
+                     'Stunden. a) W166 KxT2 U (= Fremdung) ; b) Wl66 ld x~Vt '
+                     '66 K (= Selbstung) ; c) T2 UxW 166 …',
+         'author': 'R Grau and R Hamm',
+         'title': 'Eine einfache methode zur bestimmung der wasserbindung im '
+                  'muskel',
+         'url': 'http://www.springerlink.com/index/X0M8878527216N06.pdf'},
+ 'citedby': 607,
+ 'id_scholarcitedby': '6993945528556176114',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8sIFGGd8D2EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJDaQxOypL_pi3MDlUJjR-WPtRFEcac&scisig=AAGBfm0AAAAAXYJDaYlhdrkMzf11L3knCuZP9cM08a3w&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '116 E. Overton: treffenden Abhandlung~) wurde zun. aehst '
+                     'gezeigt, dass alle Pflanzenund Thierzellen aueh in '
+                     'viSlli~ unbeseh~ digtem Zustande far eine grosse Reihe '
+                     'yon organisehen Verbindungen ausserordentlich leieht '
+                     'durehlassig sind, und class es unter …',
+         'author': 'E Overton',
+         'title': 'Beiträge zur allgemeinen Muskel-und Nervenphysiologie',
+         'url': 'http://www.springerlink.com/index/v85l8v407p101451.pdf'},
+ 'citedby': 424,
+ 'id_scholarcitedby': '12150161896121345667',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:g6bMxd4LnqgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJDaQxOypL_pi3MDlUJjR-WPtRFEcac&scisig=AAGBfm0AAAAAXYJDaQGHebrCyTuxQOc0JpQv20WJXT7R&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Festigkeitsverhältnisse der Skelettstücke und der sie '
+                     'verbindenden Elemente berücksichtigt werden. Hieraus '
+                     'ergibt sich ein Einblick in die Möglichkeiten der '
+                     'Formveränderung der Skelettstücke und ihrer '
+                     'Stellungs-änderung in den Junkturen, soweit diese '
+                     'Änderung durch …',
+         'author': 'H Strasser',
+         'title': 'Lehrbuch der Muskel-und Gelenkmechanik: II. Band: '
+                  'Spezieller Teil',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=DkabBgAAQBAJ&oi=fnd&pg=PA188&dq=muskel&ots=viLLjCbMtm&sig=PJ03e-b_bWWyvVAN8ZBnDSAtZEA'},
+ 'citedby': 335,
+ 'id_scholarcitedby': '717458777120343553',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AYY-3_Ts9AkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJDaQxOypL_pi3MDlUJjR-WPtRFEcac&scisig=AAGBfm0AAAAAXYJDaawU4QnuzbaxHZzRas4UJ64WWuoA&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Die Adenosinphosphorsäure wurde kürzlich im Muskel '
+                     'aufgefunden und als biologische Muttersubstanz der schon '
+                     'von Liebig im Fleischextrakt entdeckten Inosinsäure '
+                     'erkannt. Es konnte gezeigt werden, daß der zerkleinerte '
+                     'Muskel in intensiver Weise zugesetzte …',
+         'author': 'G Schmidt',
+         'title': 'Über fermentative Desaminierung im Muskel.',
+         'url': 'https://www.degruyter.com/view/j/bchm2.1928.179.issue-4-6/bchm2.1928.179.4-6.243/bchm2.1928.179.4-6.243.xml'},
+ 'citedby': 102,
+ 'id_scholarcitedby': '9548535268231996876',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zOVBdDw2g4QJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJDaQxOypL_pi3MDlUJjR-WPtRFEcac&scisig=AAGBfm0AAAAAXYJDaYbVy_XFE6NqICzSagEppq8El92V&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Gesamtbild über die Energieumwandlungen im Muskel auf '
+                     'dem gegenwärtigen Stand unserer Kenntnisse ergeben. '
+                     'Nicht unerwähnt möchte ich lassen, daß meine eigenen '
+                     'bio-chemischen Arbeiten von den Forschungen OTTO '
+                     'WARBURGs ihren Ursprung genommen …',
+         'author': 'O Meyerhof',
+         'title': 'Die chemischen Vorgänge im Muskel und ihr Zusammenhang mit '
+                  'Arbeitsleistung und Wärmebildung: 22. Band',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=8lCqBgAAQBAJ&oi=fnd&pg=PA134&dq=muskel&ots=mYWwJo1ODD&sig=riLeRLPjwAk-zqK8wGyAbTN63GI'},
+ 'citedby': 205,
+ 'id_scholarcitedby': '4527514101911735924',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:dE4FgBb21D4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJDaQxOypL_pi3MDlUJjR-WPtRFEcac&scisig=AAGBfm0AAAAAXYJDaTi1M1gUq0QlrQn0_MjpvBJGYgQA&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Fiinfzig Jahre sind verflossen, seitdem OVERTON 1902 '
+                     'iiber die B~ deu tung des extracellularen Na+ fiir die '
+                     'Erregbarkeit und Kontraktilitat des Muskels berichtete '
+                     'und die lahmende Wirkung erhohter extracellularer '
+                     'K+-Konzentrationen fand. Die Probleme, die …',
+         'author': 'A Fleckenstein',
+         'title': 'Der Kalium-Natrium-Austausch als Energieprinzip in Muskel '
+                  'und Nerv: zugleich ein Grundriss der allgemeinen '
+                  'Elektropharmakologie',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=HaGfBgAAQBAJ&oi=fnd&pg=PA1&dq=muskel&ots=Efy1zz9x7b&sig=4m6m5mVC9QR-follxNeORvZjFbw'},
+ 'citedby': 206,
+ 'id_scholarcitedby': '5033682946009008557',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rQnPRPg720UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJDaQxOypL_pi3MDlUJjR-WPtRFEcac&scisig=AAGBfm0AAAAAXYJDaWZMUgpB-5eiFz0fW5xmWkdDXbee&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Der chemische Vorgang, der der Arbeit des Muskels '
+                     'zugrunde liegt, besitzt 2 scharf getrennte Phaseii, eine '
+                     'anaerobe--die Arbeits-oder Ermfidungsphase--, die in dem '
+                     'Zerfall des Muskel-Glykogens in eine~ quivalente Menge '
+                     'Milchs~ ure besteht, und eine aerobe …',
+         'author': 'O Meyerhof',
+         'title': 'Über die Synthese des Kohlenhydrats im Muskel',
+         'url': 'http://www.springerlink.com/index/u327178k3876q730.pdf'},
+ 'citedby': 83,
+ 'id_scholarcitedby': '342029773036781118',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Pv52NEQivwQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJDaQxOypL_pi3MDlUJjR-WPtRFEcac&scisig=AAGBfm0AAAAAXYJDaRnCHV357xIfyRyCZyQbWsZktNl4&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Die Feinstruktur der Muskel-Sehnenverbindung in Zunge, '
+                     'Papillarmuskel, M. gastrocnemius und Zwerchfell von '
+                     'Meerschweinchen wurde im Elektronenmikroskop untersucht. '
+                     'In bisher publizierten Arbeiten beschäftigten sich die '
+                     'Autoren vorwiegend mit der Muskelzelle und …',
+         'author': 'H Hanak and P Böck',
+         'title': 'Die feinstruktur der muskel-sehnenverbindung von '
+                  'skelett-und herzmuskel',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0022532071800898'},
+ 'citedby': 90,
+ 'id_scholarcitedby': '3997089927623181852',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HIZFlxyEeDcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJDaQxOypL_pi3MDlUJjR-WPtRFEcac&scisig=AAGBfm0AAAAAXYJDaU1giC1ONRAlsg9mkD-ssfO5vOK9&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Der zweite Band dieser Sammlung weicht vom '
+                     'ursprünglichen Plan ab, indem er eine bisher ungedruckte '
+                     'Abhandlung bringt. Bei genauerer Erwägung fand sich, '
+                     'dass mein 1858 in der Akademie gehaltener öffentlicher '
+                     "Vortrag'Ueber lebend nach Berlin gelangte …",
+         'author': 'EH Du Bois-Reymond',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=qiQZAAAAYAAJ&oi=fnd&pg=PR5&dq=muskel&ots=H0l1SifxXw&sig=wuCbCMk3N2sMj6cuCKom7PLRR0Q',
+         'title': 'Gesammelte Abhandlungen zur allgemeinen Muskel-und '
+                  'Nervenphysik',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=qiQZAAAAYAAJ&oi=fnd&pg=PR5&dq=muskel&ots=H0l1SifxXw&sig=wuCbCMk3N2sMj6cuCKom7PLRR0Q'},
+ 'citedby': 73,
+ 'id_scholarcitedby': '14573068255343576390',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RoVG513wPcoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJDaQxOypL_pi3MDlUJjR-WPtRFEcac&scisig=AAGBfm0AAAAAXYJDaXKD1Eigw2q4l7KYbzIZWV7LLOc2&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In der Arbeit werden Milchsäureumsatz, '
+                     'Kohlenhydratumsatz und Sauerstoffverbrauch im Muskel '
+                     'miteinander verglichen. Es ergibt sich unter '
+                     'Berücksichtigung der Oxydationen eine völlige Äquivalenz '
+                     'der Änderungen von Milchsäure-und Kohlenhydratbilanz '
+                     'unter allen …',
+         'author': 'O Meyerhof',
+         'title': 'Die Energieumwandlungen im Muskel. III.',
+         'url': 'https://link.springer.com/article/10.1007/BF01739982'},
+ 'citedby': 55,
+ 'id_scholarcitedby': '3928741352130737641',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6fUjxHGxhTYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJDaQxOypL_pi3MDlUJjR-WPtRFEcac&scisig=AAGBfm0AAAAAXYJDafd1DME2lnXoyyKc5MZLGCAuhxki&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Unter den mannichfaltigen Erscheinungen, durch welche '
+                     'der Herzmuskel sich in elektromotorischer Beziehung von '
+                     'gewShnlichen quergestreiften Muskeln unterscheidet, '
+                     'macht sich keine so bemerklich, wie die des schnellen '
+                     'Sinkens der Kraft zwisihen …',
+         'author': 'TW Engelmann',
+         'title': 'Vergleichende Untersuchungen zur lehre von der muskel-und '
+                  'nervenelektricität',
+         'url': 'http://www.springerlink.com/index/g148897056u42537.pdf'},
+ 'citedby': 81,
+ 'id_scholarcitedby': '3773016614971898492',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fPoL-55yXDQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Ga8M:AAGBfm0AAAAAXYJDc8Pch1_Ox5Vm8swHs7MJXNFJIhmW&scisig=AAGBfm0AAAAAXYJDc_vMsb7jtAYxGvBm78_clbxBExwe&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '. 1. Das Aktomyosin des Warmblütermuskels befindet sich '
+                     'in Abwesenheit von ATP im Zustand der Starre. Der '
+                     'Elastizitätsmodul (EM) des intakten Warmblütermuskels '
+                     'wie des Fasermcdells aus Warmblütermuskeln beträgt dann '
+                     '4000—8000 g cm-2• L• AL—Im …',
+         'author': 'H Portzehl and K Brecht',
+         'eprint': 'https://www.degruyter.com/view/j/znb.1952.7.issue-1/znb-1952-0102/znb-1952-0102.xml',
+         'title': 'Der Arbeitszyklus geordneter Aktomyosinsysteme (Muskel und '
+                  'Muskelmodelle)',
+         'url': 'https://www.degruyter.com/view/j/znb.1952.7.issue-1/znb-1952-0102/znb-1952-0102.xml'},
+ 'citedby': 66,
+ 'id_scholarcitedby': '17787187311700330380',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jMc7k57I2PYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Ga8M:AAGBfm0AAAAAXYJDc8Pch1_Ox5Vm8swHs7MJXNFJIhmW&scisig=AAGBfm0AAAAAXYJDc55QyOiL_duJH_RWJZuyt_1qF6G6&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Unsere Untersuchungen1) über die löslichen und die '
+                     'unlöslichen Anteile von Enzymen suchten zur Entscheidung '
+                     'der Frage beizutragen, ob gewisse lösliche, '
+                     'krystallisierende Proteine den Enzymen Pepsin, Trypsin '
+                     'und anderen gleichzusetzen sind und ob, wie es die …',
+         'author': 'R Willstätter and M Rohdewald',
+         'title': 'Über den Zustand des Glykogens in der Leber, im Muskel und '
+                  'in Leukocyten.(Zur Kenntnis der Proteinbindung '
+                  'physiologisch wichtiger Stoffe.)',
+         'url': 'https://www.degruyter.com/view/j/bchm2.1934.225.issue-2-3/bchm2.1934.225.2-3.103/bchm2.1934.225.2-3.103.xml'},
+ 'citedby': 168,
+ 'id_scholarcitedby': '17482296471577170673',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8RJsBgSYnfIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Ga8M:AAGBfm0AAAAAXYJDc8Pch1_Ox5Vm8swHs7MJXNFJIhmW&scisig=AAGBfm0AAAAAXYJDc0TNbNJbjQILsAdJkVIXse_4L5AN&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Anatomie und Physiologie sind in gleicher Weise an der '
+                     'LS-sung der Frage interessirt, wie sich der eintretende '
+                     'Nervenstamm zum ganzen Muskel verhiilt, und doch sind '
+                     'die dartiber vorliegenden Arbeiten i~ usserst sp~ rlich. '
+                     "Meist findet man die Beobachtuagen mehr zuf' …",
+         'author': 'P Tergast',
+         'title': 'Ueber das Verhältniss von Nerve und Muskel',
+         'url': 'http://www.springerlink.com/index/J2W015G066245533.pdf'},
+ 'citedby': 50,
+ 'id_scholarcitedby': '10529945988587049980',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_NPHKRbiIZIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Ga8M:AAGBfm0AAAAAXYJDc8Pch1_Ox5Vm8swHs7MJXNFJIhmW&scisig=AAGBfm0AAAAAXYJDc_NRI-iG2g25C-6Qu3vA1DTp5foe&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Bewegung ist eine elementare Manifestation des Lebens '
+                     'und nur über Bewegung kann der Mensch auf seine Umwelt '
+                     'einwirken und sich mit ihr auseinandersetzen. Das gilt '
+                     'für die einfachsten Handbewegungen ebenso wie für die '
+                     'Übermittlung der subtilsten Gedanken …',
+         'author': 'JC Rüegg',
+         'title': 'Muskel',
+         'url': 'https://link.springer.com/chapter/10.1007/978-3-662-00485-2_4'},
+ 'citedby': 28,
+ 'id_scholarcitedby': '16221068894640429484',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rFkufjfQHOEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Ga8M:AAGBfm0AAAAAXYJDc8Pch1_Ox5Vm8swHs7MJXNFJIhmW&scisig=AAGBfm0AAAAAXYJDcy5jo9WFRAIa2bk8oi8baqlx0FqX&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Geſetzen der todten Natur zu vergleichen. Bei dieſer '
+                     'Arbeit ſind mir Verſtiche geglückt, welche der Ent '
+                     'hüllung des cle 1niſchen Lebensproceſſes näher zu {ühren '
+                     'ſcheinen. Ein getrcnntes thieriſches Organ, mit '
+                     'irritablen und ſenſiblen Fibern verſehen, kann in '
+                     'wenigen …',
+         'author': 'A von Humboldt',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=cqhMVctdiDkC&oi=fnd&pg=PA1&dq=muskel&ots=YF7ekoUog_&sig=pqSJn4CGn2QtFWQ0I3FIR-laZsU',
+         'title': 'Versuche über die gereizte Muskel-und Nervenfaser: nebst '
+                  'Vermuthungen über den chemischen Process des Lebens in der '
+                  'Thier-und Pflanzenwelt',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=cqhMVctdiDkC&oi=fnd&pg=PA1&dq=muskel&ots=YF7ekoUog_&sig=pqSJn4CGn2QtFWQ0I3FIR-laZsU'},
+ 'citedby': 122,
+ 'id_scholarcitedby': '1384923383705947956',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NM_s1no8OBMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Ga8M:AAGBfm0AAAAAXYJDc8Pch1_Ox5Vm8swHs7MJXNFJIhmW&scisig=AAGBfm0AAAAAXYJDc2HLpdn7g6_y79Ho_h7UhXgTq-iG&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Das im Folgenden zu schildernde Krankheitsbild d/irfte '
+                     'bei dcm vor] iegenden Fall auf Grund des gegebenen '
+                     'eharakteristiseh erscheinenden Symptomenkomplexes zum '
+                     'ersten Mal intra vitam in seiner anatomischen Grundlage '
+                     'erfaBt worden sein. Damit ist ein vom …',
+         'author': 'H Gottron',
+         'title': 'Systematisierte Haut-Muskel-Amyloidose unter dem Bilde '
+                  'eines Skleroderma amyloidosum',
+         'url': 'http://www.springerlink.com/index/V851856T85075836.pdf'},
+ 'citedby': 60,
+ 'id_scholarcitedby': '8867217198073519803',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ux5opQ-vDnsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Ga8M:AAGBfm0AAAAAXYJDc8Pch1_Ox5Vm8swHs7MJXNFJIhmW&scisig=AAGBfm0AAAAAXYJDcwJQfgeVuam_V4l17xs2g2Zn5apI&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Die Erforschung der chemischen Vorg~ nge im Muskel hatte '
+                     'sich in ihrer ersten modernen Periode, die den '
+                     'Forschungen yon FLETCHER und HOPXlNS (19o6)** 1olgte, '
+                     'hauptsAchlich mit den u der MilchsAurebildung aus '
+                     'Glykogen, den oxydativen u der …',
+         'author': 'IK Parnas',
+         'title': 'Über die Verkettung der chemischen Vorgänge im Muskel',
+         'url': 'http://www.springerlink.com/index/P66340P5316KW84M.pdf'},
+ 'citedby': 46,
+ 'id_scholarcitedby': '18106547009864952043',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:62jpp5JgR_sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Ga8M:AAGBfm0AAAAAXYJDc8Pch1_Ox5Vm8swHs7MJXNFJIhmW&scisig=AAGBfm0AAAAAXYJDc-DTCPQ9D4OHkQiYfqwH3z7MQAtj&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Nerv eine Anzahl der Muskelfasern und der zweite~ lerv '
+                     'den Rest derselben; oder jeda Muskalfaser bakommt sowohl '
+                     'yon einam wie vom anderen Nerven ihre motorischen '
+                     'Impulse. Es hat zuerst J. Gad versucht, die Fraga, '
+                     'welcher der beiden Fi~ lle in derNatur …',
+         'author': 'S Exner',
+         'title': 'Notiz zu der Frage von der Faservertheilung mehrerer Nerven '
+                  'in einem Muskel',
+         'url': 'http://www.springerlink.com/index/n51887hun2815jt5.pdf'},
+ 'citedby': 43,
+ 'id_scholarcitedby': '16959887685000795636',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9JX-_v2fXesJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Ga8M:AAGBfm0AAAAAXYJDc8Pch1_Ox5Vm8swHs7MJXNFJIhmW&scisig=AAGBfm0AAAAAXYJDc8KXBoOIGPMNVizOY2AM3iEjW7eS&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Die Muskelfaser enthält kein Cl, dagegen Na in '
+                     'wechselnden Mengen bis zu maximal etwa 30 mg%. Der '
+                     'Natriumgehalt ist bei Fröschen jahreszeitlichen '
+                     'Schwankungen unterlegen und vom Allgemeinzustand der '
+                     'Tiere abhängig. Das Na ist, wie näher begründet wird, an '
+                     '…',
+         'author': 'R Mond and H Netter',
+         'title': 'Über die Regulation des Natriums durch den Muskel',
+         'url': 'https://link.springer.com/article/10.1007/BF01751967'},
+ 'citedby': 40,
+ 'id_scholarcitedby': '10067498849018845590',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lhlsAN3wtosJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Ga8M:AAGBfm0AAAAAXYJDc8Pch1_Ox5Vm8swHs7MJXNFJIhmW&scisig=AAGBfm0AAAAAXYJDczYygDLCZiLz8r6-9fYLiZGaDDgk&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Zusammenfassung Der glatte Penisretraktormuskel von '
+                     'Helix pomatia enthält wenigstens drei, vielleicht vier '
+                     'verschiedene Arten von Nervenfasern. Sie lassen sich an '
+                     'der Struktur ihrer neurosekretartigen Grana voneinander '
+                     'unterscheiden. In Fasern aus dem Herzen von …',
+         'author': 'FW Schlote',
+         'title': 'Neurosekretartige Grana in den peripheren Nerven und in den '
+                  'Nerv-Muskel-Verbindungen von Helix pomatia',
+         'url': 'https://link.springer.com/article/10.1007/BF00336610'},
+ 'citedby': 51,
+ 'id_scholarcitedby': '1483718898631718808',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mDd6K3o6lxQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GZUw:AAGBfm0AAAAAXYJDfUy4xpEK9P-QorDLH57SK2oJhK4Q&scisig=AAGBfm0AAAAAXYJDfREYnJI8kyu8hoJObfdTWVMeGtX2&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Kurzreferat Das Arbeitsschutzgesetz und die '
+                     'Lastenhandhabungsverordnung fordern eine routinemäßige '
+                     'Beurteilung der Arbeitsbedingungen und des '
+                     'Arbeitnehmereinsatzes. Zur Unterstützung bei der '
+                     'Erfüllung dieser Aufgaben wurde in der vorliegenden '
+                     'Arbeit ein …',
+         'author': 'G Caffier and U Steinberg and F Liebers',
+         'eprint': 'http://www.rueckenkompass.de/download_files/pdf/fb850.pdf',
+         'title': 'Praxisorientiertes Methodeninventar zur Belastungs-und '
+                  'Beanspruchungsbeurteilung im Zusammenhang mit '
+                  'arbeitsbedingten Muskel-Skelett-Erkrankungen',
+         'url': 'http://www.rueckenkompass.de/download_files/pdf/fb850.pdf'},
+ 'citedby': 51,
+ 'id_scholarcitedby': '10274908682647583453',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3TrJEALPl44J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GZUw:AAGBfm0AAAAAXYJDfUy4xpEK9P-QorDLH57SK2oJhK4Q&scisig=AAGBfm0AAAAAXYJDfeD2v9CgB3yAFcOTuZXB9lDbDLIC&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Auf histochemischem Wege wurden Oxydoreduktasen des '
+                     'energieliefemden Stoffwechsels in quergestreiften '
+                     'Muskeln, insbesondere von Locusta migratoria, '
+                     'lokalisiert. Die Aktivitäten '
+                     'Pyridinnukleotid-spezifischer Dehydrogenasen wurden mit '
+                     'Hilfe des «Gelschicht …',
+         'author': 'H Brandau and D Pette',
+         'title': 'Topische Muster von Enzymen des energieliefernden '
+                  'Stoffwechsels im quergestreiften Muskel',
+         'url': 'https://www.karger.com/Article/Abstract/457847'},
+ 'citedby': 36,
+ 'id_scholarcitedby': '14270016114884915005',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Pa_Q-gxICcYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GZUw:AAGBfm0AAAAAXYJDfUy4xpEK9P-QorDLH57SK2oJhK4Q&scisig=AAGBfm0AAAAAXYJDfW_RjxDYqxbXaGZYVj9DLqss-E-Q&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "D'une f apon ghnhrale, l'accroissement de frequence "
+                     'procure des ameliorations de rendement \n'
+                     "trhs fortes, aussi bien pour l'air see que pour l'air "
+                     "contenant de la vapeur d'eau. Mais les valeurs \n"
+                     'obtenues dans ces recherches sont moins &levees que '
+                     'celles qui ont dtd en- registrees dans …',
+         'author': 'W Lotmar and LER Picken',
+         'title': 'Über das Röntgendiagramm von getrocknetem Muskel',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.19420250312'},
+ 'citedby': 25,
+ 'id_scholarcitedby': '15252997865301684185',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2S8Zob6IrdMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GZUw:AAGBfm0AAAAAXYJDfUy4xpEK9P-QorDLH57SK2oJhK4Q&scisig=AAGBfm0AAAAAXYJDfe_cFkkIP5hifag5ajn-EkxZEkuU&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Im Jahre 1930 wurde yon H. Rein und seinen Mitarbeitern '
+                     'der eind~ utige Nachweis geffihrt, dab das Adrenalin in '
+                     'physiologischen Dosen die Blutgef~ Be des arbeitenden '
+                     'Muske] s nicht mehr zu dr0sse] n vermag, auch wenn es '
+                     'vorher oder geraume Zeit nachher im …',
+         'author': 'O Mertens and H Rein and FG Valdecasas',
+         'title': 'Grefäßwirkungen des Adrenalins im ruhenden und arbeitenden '
+                  'Muskel',
+         'url': 'http://www.springerlink.com/index/R157384555342778.pdf'},
+ 'citedby': 29,
+ 'id_scholarcitedby': '3407788318990597818',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:uv4ov2vlSi8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GZUw:AAGBfm0AAAAAXYJDfUy4xpEK9P-QorDLH57SK2oJhK4Q&scisig=AAGBfm0AAAAAXYJDfVZ1iKzbdpaykVD0AbQKNVmftQyC&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '2 Elektromyogramm bei maximaler Kontraktionsanstrengung, '
+                     'Registriergeschwindigkeit langsam, ca. 4 cm/sec; J= '
+                     'Interferenz, dh gleichzeitige Aktivierung vieler Fasern; '
+                     't~~ t~ bergangsmuster, dh das Interferenzmuster ist zwar '
+                     'vorhanden, aber die Aktionspotentiale …',
+         'author': 'F Buchthal',
+         'title': 'Muskelaktionspotentialuntersuchungen am gesunden und '
+                  'kranken Muskel',
+         'url': 'http://www.springerlink.com/index/W67513R242W1323T.pdf'},
+ 'citedby': 23,
+ 'id_scholarcitedby': '17130292918410420320',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YCA-LKYGu-0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GZUw:AAGBfm0AAAAAXYJDfUy4xpEK9P-QorDLH57SK2oJhK4Q&scisig=AAGBfm0AAAAAXYJDfZPfL3fu-z4bAYfXRzusBSCn89st&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Ũ Versuche yon Nadai. O Theor. Streckgrenze Iiir t9= '
+                     '90.(2) Streckgrenze beim Druckver-such, paBt sich diesem '
+                     'Weft weir besser an als dem um 65% gr6BereI1 nach der '
+                     'PRAm~ TLschen Theorie. Fiir den wagerecht begrenzten '
+                     'K6rper kann auch, wie Fig. 13 zeigt, die …',
+         'author': 'RO Herzog and W Jancke',
+         'title': 'Röntgenographische Untersuchungen am Muskel',
+         'url': 'http://www.springerlink.com/index/N80X4X3565U54163.pdf'},
+ 'citedby': 19,
+ 'id_scholarcitedby': '5980219851461177852',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_DEVNUUC_lIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GZUw:AAGBfm0AAAAAXYJDfUy4xpEK9P-QorDLH57SK2oJhK4Q&scisig=AAGBfm0AAAAAXYJDfeYeYP0oyZa4iibeteyL6tQ2zYwU&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Dass wir die Queri~ actur der Patella, deren Frequenz '
+                     'ungeflihr 1, 90 Proc. aller-Fraeturen ausmacht, in den '
+                     'Rahmen unserer Betraehtung einbeziehen, bedarf einiffer '
+                     'Motivirung. Malgaigne hat in seinem Buche fiber '
+                     'Knochenbrtiehe 19 F~ ille gesammelt, yon denen~ 1 …',
+         'author': 'K Maydl',
+         'title': 'Ueber subcutane Muskel-und Sehnenzerreissungen, sowie '
+                  'Rissfracturen',
+         'url': 'https://link.springer.com/article/10.1007/BF02792851'},
+ 'citedby': 29,
+ 'id_scholarcitedby': '1970414023833287760',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:UPwHbx1RWBsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GZUw:AAGBfm0AAAAAXYJDfUy4xpEK9P-QorDLH57SK2oJhK4Q&scisig=AAGBfm0AAAAAXYJDfQUbhBYwNCb06v3PHw-1M3ZKKct_&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The levels of the metabolites of glycolysis, the citric '
+                     'acid cycle and high energy phosphates were assayed from '
+                     'muscle biopsy material of normal individuals and 13 '
+                     'patients with muscular dystrophy of the Duchenne type. '
+                     'In addition, the activity of succinate …',
+         'author': 'L Stengel-Rutkowski and W Barthelmai',
+         'title': 'Über den Muskel-Energie-Stoffwechsel bei Kindern mit '
+                  'progressiver Muskeldystrophie Typ Duchenne',
+         'url': 'https://link.springer.com/article/10.1007/BF01468251'},
+ 'citedby': 36,
+ 'id_scholarcitedby': '4719627653617182364',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nGb2ZVh8f0EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GZUw:AAGBfm0AAAAAXYJDfUy4xpEK9P-QorDLH57SK2oJhK4Q&scisig=AAGBfm0AAAAAXYJDfePshQYCuJhKtEXH6MlG_nxXc6Xd&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In der vorliegenden Monographie wurde der Versuch '
+                     'unternommen, die lokale Sauerstoffdruckmessung im '
+                     'Muskelgewebe in den Rahmen einer erweiterten '
+                     'klinisch-neurologischen Diagnostik einzubauen, um damit '
+                     'zusätzliche Informationen über die …',
+         'author': 'K Kunze',
+         'title': 'Das Sauerstoffdruckfeld im normalen und pathologisch '
+                  'veränderten Muskel: Untersuchungen mit einer neuen Methode '
+                  'zur quantitativen Erfassung der …',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=NkypBgAAQBAJ&oi=fnd&pg=PR4&dq=muskel&ots=8wAGl9CjPn&sig=nTZnIVTDjDdNKRpmSkmiDV_72TM'},
+ 'citedby': 55,
+ 'id_scholarcitedby': '6976976980394875135',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_5iDGpkz02AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GZUw:AAGBfm0AAAAAXYJDfUy4xpEK9P-QorDLH57SK2oJhK4Q&scisig=AAGBfm0AAAAAXYJDfacddzosSuDqa_OyOXCpzXQ16QCc&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Unter der grossen Reihe ungelSster, histologischer '
+                     'Fragen ist die nach der mikroskopischen Zusammensetzung '
+                     'des quergestreiften Muskelgewebes eine der '
+                     'interessantesten, nicht allein weil man es hier mit '
+                     'einem so viel verbreiteten und wichtigen …',
+         'author': 'F Merkel',
+         'title': 'Der quergestreifte Muskel',
+         'url': 'http://www.springerlink.com/index/d7h7223174779423.pdf'},
+ 'citedby': 19,
+ 'id_scholarcitedby': '13842484977415029246',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_gGBD79iGsAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gnj8:AAGBfm0AAAAAXYJDhj-o2mEbwG__xKwxcFJrlqpVLHZ-&scisig=AAGBfm0AAAAAXYJDhqFmTcNBELkXH4n2pAasj7Ylt3Fr&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "D'Arsonval 1 hat angegeben, dal] man in einem lVIuskel "
+                     'durch intermittierende Beliehtung ein Muskelger~ tusch '
+                     'hervorrufen k6nne. Wiewohl diese Angabe yon L. Hermann 2 '
+                     'nicht best~ tigg werden konnte, ist es '
+                     'trotzdem--namentlich im I-Ih~ bliek auf die in neuerer '
+                     'Zeit …',
+         'author': 'F Lippay',
+         'title': 'über Wirkungen des Lichtes auf den quergestreiften Muskel',
+         'url': 'http://www.springerlink.com/index/L77027538K054721.pdf'},
+ 'citedby': 27,
+ 'id_scholarcitedby': '376744956765146196',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VAzoxop3OgUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gnj8:AAGBfm0AAAAAXYJDhj-o2mEbwG__xKwxcFJrlqpVLHZ-&scisig=AAGBfm0AAAAAXYJDhrXFmD4NFp0eA0VoWHojOur2jWMi&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Für den vorliegenden Band glaubt der Verfasser um so '
+                     'eher die Theilnahme des ärztlichen Publicums in Anspruch '
+                     'nehmen zu dürfen, als die Literatur noch keine '
+                     'Zusammenstellung der Resultate der neueren Forschungen '
+                     'im Gebiete der hier behandelten Nerven-und …',
+         'author': 'M Schiff',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=jIoLAQAAIAAJ&oi=fnd&pg=PA8&dq=muskel&ots=YL_CzjaR8y&sig=RJTF2ipRFyzKH4uwNLWLEsHRaEo',
+         'title': 'Lehrbuch der Physiologie des Menschen: I. Muskel-und '
+                  'Nervenphysiologie',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=jIoLAQAAIAAJ&oi=fnd&pg=PA8&dq=muskel&ots=YL_CzjaR8y&sig=RJTF2ipRFyzKH4uwNLWLEsHRaEo'},
+ 'citedby': 30,
+ 'id_scholarcitedby': '11202529749674341176',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OLMVK3Rhd5sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gnj8:AAGBfm0AAAAAXYJDhj-o2mEbwG__xKwxcFJrlqpVLHZ-&scisig=AAGBfm0AAAAAXYJDhjOlMmOd8Lxo57bVVY-WCjaQlunV&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Am menschlichen Eileiter kSnnen drei Lagen von '
+                     'Muskulatur un~ erschieden werden: Die subperitoneale '
+                     'Muskulatur, die Gef~[3-Muskelschicht und die autochthone '
+                     'Tubenmuskulatur. Die Analyse der funktionellen Struk% ur '
+                     'lgl~ t diese zuni~ chst …',
+         'author': 'E Horstmann',
+         'title': 'Die Muskel und Gefässarchitektur des menschlichen Eileiters',
+         'url': 'http://www.springerlink.com/index/X65J30NU74J24351.pdf'},
+ 'citedby': 24,
+ 'id_scholarcitedby': '14660675128686256864',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4KK_nFoudcsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gnj8:AAGBfm0AAAAAXYJDhj-o2mEbwG__xKwxcFJrlqpVLHZ-&scisig=AAGBfm0AAAAAXYJDhvNFdSehbfLGByxYMD1GXiT3VfdI&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Adenosin-triphosphorsäure und Mg*—notwendig ist, und daß '
+                     'unter seiner Mitwirkung und unter gleichzeitigem Zerfall '
+                     'des Adeninderivats Glykogen mit anorganischem Phosphat '
+                     'verestert wird. Die Vorstellung, daß '
+                     'Fructose-diphosphorsäure aus Glykogen und Adenosin …',
+         'author': 'P Ostern and JA Guthke and J Terszakowec',
+         'title': 'Über die Bildung des Hexose-monophosphorsäure-esters und '
+                  'dessen Umwandlung in Fructose-diphosphorsäure-ester im '
+                  'Muskel.',
+         'url': 'https://www.degruyter.com/view/j/bchm2.1936.243.issue-1-3/bchm2.1936.243.1-3.9/bchm2.1936.243.1-3.9.xml'},
+ 'citedby': 40,
+ 'id_scholarcitedby': '13535274167013690030',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rkpfViT01rsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gnj8:AAGBfm0AAAAAXYJDhj-o2mEbwG__xKwxcFJrlqpVLHZ-&scisig=AAGBfm0AAAAAXYJDhnwtyhdniP0IzB6fXICq562x6VmV&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Der heutige Stand der Lehre iiber die Nervenendigungen '
+                     'im quergestreiften Muskel ist ungefiihr folgender: Es '
+                     'giebt drei, der Form nach verschiedene '
+                     'Nervenendapparate: 1. die bTervenendhtigel bei den '
+                     'Arthropoden, 2. die: Nervenendbtisehel bei den Amphibien '
+                     'und 3 …',
+         'author': 'L Bremer',
+         'title': 'Ueber die Endigungen der markhaltigen und marklosen Nerven '
+                  'im quergestreiften Muskel',
+         'url': 'http://www.springerlink.com/index/Y2326T83485355V4.pdf'},
+ 'citedby': 30,
+ 'id_scholarcitedby': '6387594193188079736',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:eMhSZhNLpVgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gnj8:AAGBfm0AAAAAXYJDhj-o2mEbwG__xKwxcFJrlqpVLHZ-&scisig=AAGBfm0AAAAAXYJDhocjUWRHVRhd15px8U7rvQD92TJo&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Die morphologisehen Ver~ inderungen einzelner Organe w~ '
+                     'thrend des Hungerns bildeten bereits yon Alters her den '
+                     'Gegenstand zahlreicher Forsehungen. Auf makroskopisehe '
+                     'Untersuchungen sieh stUtzende Beschreibungen des '
+                     'Zustandes einzelner Organe des …',
+         'author': 'P Statkewitsch',
+         'title': 'Über Veränderungen des Muskel-und Drüsengewebes, sowie der '
+                  'Herzganglien beim Hungern',
+         'url': 'http://www.springerlink.com/index/X377V3460178209X.pdf'},
+ 'citedby': 29,
+ 'id_scholarcitedby': '14615900598781637008',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kHHM_icc1soJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gnj8:AAGBfm0AAAAAXYJDhj-o2mEbwG__xKwxcFJrlqpVLHZ-&scisig=AAGBfm0AAAAAXYJDhgU4IgW8idzYJ_9UaZRiexh3UDh-&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Kurzreferat Hintergrund: Zielgerichtete Prävention '
+                     'erfordert Kenntnisse über das berufsspezifische '
+                     'Arbeitsunfähigkeitsgeschehen. Aus epidemiologischen '
+                     'Studien ist bekannt, dass degenerative '
+                     'Muskel-Skelett-Erkrankungen in beruflichen Tätigkeiten '
+                     'mit …',
+         'author': 'F Liebers and G Caffier',
+         'eprint': 'https://d-nb.info/996561447/34',
+         'title': 'Berufsspezifische Arbeitsunfähigkeit durch '
+                  'Muskel-Skelett-Erkrankungen in Deutschland',
+         'url': 'https://d-nb.info/996561447/34'},
+ 'citedby': 26,
+ 'id_scholarcitedby': '11384377732679554001',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0VM7GTtv_Z0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gnj8:AAGBfm0AAAAAXYJDhj-o2mEbwG__xKwxcFJrlqpVLHZ-&scisig=AAGBfm0AAAAAXYJDhgsxmJfNq_lbvTk9GE_g4nUb6eIv&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Programming models based on algorithmic skeletons '
+                     'promise to raise the level of abstraction perceived by '
+                     'programmers when implementing parallel applications, '
+                     'while guaranteeing good performance figures. At the same '
+                     'time, however, they restrict the …',
+         'author': 'M Aldinucci and M Danelutto and P Dazzi',
+         'eprint': 'https://www.scpe.org/index.php/scpe/article/view/429/92',
+         'title': 'Muskel: an expandable skeleton environment',
+         'url': 'https://www.scpe.org/index.php/scpe/article/view/429'},
+ 'citedby': 71,
+ 'id_scholarcitedby': '5703961582322283486',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3nPLltaKKE8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gnj8:AAGBfm0AAAAAXYJDhj-o2mEbwG__xKwxcFJrlqpVLHZ-&scisig=AAGBfm0AAAAAXYJDhmt03aPS1PQgaozto_3ffzbe5x7d&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Uber den KSrperbau der Ringelwfirmer in anatomischer und '
+                     'histologischer Beziehung sind wir ziemlich genau '
+                     'unterrichtet. In biologischer und physiologischer '
+                     'Beziehung dagegen ist vieles, ja vielleicht das meiste, '
+                     'noch reeht unklar. Von UEXKULL sind eingehende• …',
+         'author': 'B Just',
+         'title': 'Über die Muskel-und Nervenphysiologie von Arenicola marina',
+         'url': 'http://www.springerlink.com/index/KRK72J6L7512T107.pdf'},
+ 'citedby': 22,
+ 'id_scholarcitedby': '17804731316916568888',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OMMVmswcF_cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gnj8:AAGBfm0AAAAAXYJDhj-o2mEbwG__xKwxcFJrlqpVLHZ-&scisig=AAGBfm0AAAAAXYJDhsZ2xSGF4wB5tp63vt6Oxu9OwSYd&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Ich beabsichtige, in diesem Archiv sine Reihe yon Beitr~ '
+                     'igen zur allgemeinen Physiologie der animalisehen '
+                     'Gewebe, insbesondere der Muskeln und Nerven zu geben. '
+                     'Den Ausgangspuakt far die Untersuehungen, deren '
+                     'Resultate darin niedergelegt werden sollen …',
+         'author': 'TW Engelmann',
+         'title': 'Beiträge zur allgemeinen Muskel-und Nervenphysiologie',
+         'url': 'http://www.springerlink.com/index/V13204047Q001U43.pdf'},
+ 'citedby': 19,
+ 'id_scholarcitedby': '16571490510042961009',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:cRTewdHC-eUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gl_U:AAGBfm0AAAAAXYJDj_WzT2co1wJ9eZsltcKbA4D3bvm2&scisig=AAGBfm0AAAAAXYJDjzdhcgZBfKmeTkEaqwPCOUWcAiBK&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Zusammenfassung Muskel-Skelett-Erkrankungen sind häufig '
+                     'Ursache für Arbeitsunfähigkeit (AU). Aufgrund der hohen '
+                     'Bedeutung von Rückenschmerzen und Kniegelenksarthrosen '
+                     '(ICD-10-Diagnosen M54 und M17) werden diese Erkrankungen '
+                     'im vorliegenden Beitrag …',
+         'author': 'F Liebers and C Brendler and U Latza',
+         'title': 'Alters-und berufsgruppenabhängige Unterschiede in der '
+                  'Arbeitsunfähigkeit durch häufige '
+                  'Muskel-Skelett-Erkrankungen',
+         'url': 'https://link.springer.com/article/10.1007/s00103-012-1619-8'},
+ 'citedby': 26,
+ 'id_scholarcitedby': '8559912251034831001',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mQhyB9fqynYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gl_U:AAGBfm0AAAAAXYJDj_WzT2co1wJ9eZsltcKbA4D3bvm2&scisig=AAGBfm0AAAAAXYJDj9rjit6pWj899-b9dok0wyAgQI3c&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Der Inhalt: 24% der Arbeitsunfähigkeitstage gehen auf '
+                     'Muskel-Skelett-Erkrankungen zurück. Um ihnen mit '
+                     'sinnvoller Prävention entgegenzuwirken, muss man ihre '
+                     'vielfältigen Ursachen und Wechselwirkungen verstehen. '
+                     'Aber auch die Arbeitsorganisation und das individuelle …',
+         'author': 'B Hartmann and M Spallek and R Ellegast',
+         'title': 'Arbeitsbezogene Muskel-Skelett-Erkrankungen: Ursachen, '
+                  'Prävention, Ergonomie, Rehabilitation (mit CD-ROM)',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=6DPUJN1BebgC&oi=fnd&pg=PA87&dq=muskel&ots=lQQ-jHtaLs&sig=tKkN2eJSyxWlhsK3vvquKQOODFY'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '960125189989894129',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8YdA-cUMUw0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gl_U:AAGBfm0AAAAAXYJDj_WzT2co1wJ9eZsltcKbA4D3bvm2&scisig=AAGBfm0AAAAAXYJDj8kebvjAIwHXu7iTm0UNh2DyHdAs&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Attempts have been made for some time to connect the '
+                     'microstructure of meat to the characteristics of meat '
+                     'deposit and meat quality, as meat is muscle and fatty '
+                     'tissue and the building blocks are muscle cells and fat '
+                     'cells. The process of taking several samples from …',
+         'author': 'J Wegner and K Ender',
+         'eprint': 'http://muskel-und-fett.de/pdf/Mikrostrukturelle%20Grundlagen%20des%20Wachstums%20von%20Muskel-%20und%20Fettgewebe%20und%20die%20Beziehung%20zu%20Fleischansatz%20und%20Fleischbeschaffenheit.pdf',
+         'title': 'Mikrostrukturelle Grundlagen des Wachstums von Muskel-und '
+                  'Fettgewebe und die Beziehung zu Fleischansatz und '
+                  'Fleischbeschaffenheit',
+         'url': 'http://muskel-und-fett.de/pdf/Mikrostrukturelle%20Grundlagen%20des%20Wachstums%20von%20Muskel-%20und%20Fettgewebe%20und%20die%20Beziehung%20zu%20Fleischansatz%20und%20Fleischbeschaffenheit.pdf'},
+ 'citedby': 23,
+ 'id_scholarcitedby': '1947078164304818132',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1O9OPUZpBRsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gl_U:AAGBfm0AAAAAXYJDj_WzT2co1wJ9eZsltcKbA4D3bvm2&scisig=AAGBfm0AAAAAXYJDj8mdZCzNXka_CFdprwa2_fyTViBL&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Es werden Versuche mitgeteilt, in denen man durch eine '
+                     'besondere Art der Ableitung vom Nerven und vom Muskel in '
+                     'bequemer Weise an der Hand der kombinierten '
+                     'Aktionsstromkurven des Nerven und des Muskels die '
+                     'Schnelligkeit der Nervenfortpflanzung …',
+         'author': 'A Samojloff',
+         'title': 'Zur Frage des Überganges der Erregung vom motorischen '
+                  'Nerven auf den quergestreiften Muskel',
+         'url': 'https://link.springer.com/article/10.1007/BF01722257'},
+ 'citedby': 23,
+ 'id_scholarcitedby': '9630013405196900344',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-NcChyuupIUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gl_U:AAGBfm0AAAAAXYJDj_WzT2co1wJ9eZsltcKbA4D3bvm2&scisig=AAGBfm0AAAAAXYJDj9scPKWC8wIX0Z8twzKri3sz1395&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Vorga. nge und ihrer Zuordnung zu den thermischen und '
+                     'mechanischen _Aul] erungen der Muskelt~ tigkeit unerl~ '
+                     'lich ist, diese Wahrheit ist im Lanfe des letzten '
+                     'Dezenniums immer mehr zum Allgemeingut der Erforseher '
+                     'dos,, Muskelproblems" geworden. Seit] Plet cher nnd …',
+         'author': 'O Meyerhof',
+         'title': 'Die Energieumwandlungen im Muskel',
+         'url': 'http://www.springerlink.com/index/P67718732W278663.pdf'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '18015674796813480329',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:iXEGzcaIBPoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gl_U:AAGBfm0AAAAAXYJDj_WzT2co1wJ9eZsltcKbA4D3bvm2&scisig=AAGBfm0AAAAAXYJDj9UQtRU4KCaXa4SAmXVVAhxKBLcH&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Die Untersuchungen der letzten Jahre haben zu der '
+                     'Annahme geführt, daß beim Eiweißverbrauch in den Geweben '
+                     'der Wirbeltiere Kreatin entsteht und daß dieser Körper '
+                     'zum Teil unter Oxydation zersetzt, zum Teil, besonders '
+                     'in der Leber, in das Anhydrid …',
+         'author': 'CA Pekelharing…',
+         'title': 'Die Bildung des Kreatins im Muskel beim Tonus und bei der '
+                  'Starre.',
+         'url': 'https://www.degruyter.com/view/j/bchm2.1910.64.issue-3-4/bchm2.1910.64.3-4.262/bchm2.1910.64.3-4.262.xml'},
+ 'citedby': 24,
+ 'id_scholarcitedby': '18263542097903649990',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xoTwDcYidf0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gl_U:AAGBfm0AAAAAXYJDj_WzT2co1wJ9eZsltcKbA4D3bvm2&scisig=AAGBfm0AAAAAXYJDjxLBCR1fH8sxHb2PHqG1DdByOCYi&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'An die gruudlegende Thatsaehe, dass der chemische '
+                     'Process im Muskel mitbestimmt wird durch die~ tusseren '
+                     'Umstande, unter denen er sieh w~ thrend der Erregung '
+                     'befindet, kniipft sich eine Ftille yon Problemen, deren '
+                     'Liisung tieferc Einsicht in den inneren Mechanismus …',
+         'author': 'A Fick',
+         'title': 'Neue Beiträge zur Kenntniss von der Wärmeentwicklung im '
+                  'Muskel',
+         'url': 'http://www.springerlink.com/index/u380300706r70825.pdf'},
+ 'citedby': 19,
+ 'id_scholarcitedby': '15596891451772118278',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BiU0tyNKc9gJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gl_U:AAGBfm0AAAAAXYJDj_WzT2co1wJ9eZsltcKbA4D3bvm2&scisig=AAGBfm0AAAAAXYJDj0dBDqv2wbxre5FLZCN0vSZpo6ut&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Zusammenfassung Die Ergebnisse der Arbeit lassen sich in '
+                     'folgenden Sätzen zusammenfassen. 1. Im Muskel der '
+                     'normalen Ratte ist mikroanalytisch kein ultrafiltrables '
+                     'Ca zu finden. 2. Nach 5–6stündiger Arbeit konnte '
+                     'ultrafiltrables Ca im Warmblütermuskel …',
+         'author': 'E Weise',
+         'title': 'Untersuchungen zur Frage der Verteilung und der Bindungsart '
+                  'des Calciums im Muskel',
+         'url': 'http://www.springerlink.com/index/j643r00383n11w4l.pdf'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '15241629478471185471',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:P7RlzkElhdMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gl_U:AAGBfm0AAAAAXYJDj_WzT2co1wJ9eZsltcKbA4D3bvm2&scisig=AAGBfm0AAAAAXYJDj6s8LPFOYo9LlhHMUYqwgejZ1Dq7&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '184 Erich Strack, Philipp Wördehoff u. Herbert '
+                     'Schwaneberg, auch eine Wirkungssteigerung erfährt, wie '
+                     'es bei der Überführung des Cholins in das Acetylcholin '
+                     'der Fall ist. Gleichzeitig wollten wir damit '
+                     'feststellen, ob das chemisch empfindliche Carnitin bei '
+                     'der Isolierung und …',
+         'author': 'E Strack and P Wördehoff and H Schwaneberg',
+         'title': 'Über die Bedeutung des Carnitins im Muskel.',
+         'url': 'https://www.degruyter.com/view/j/bchm2.1936.238.issue-4-5/bchm2.1936.238.4-5.183/bchm2.1936.238.4-5.183.xml'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '15169828882667576287',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:35vc3v4OhtIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gl_U:AAGBfm0AAAAAXYJDj_WzT2co1wJ9eZsltcKbA4D3bvm2&scisig=AAGBfm0AAAAAXYJDjyA7ON-DhVJAOovZLSc5XVjUDY73&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Seit der beriihmten Entdeckung yon Claude Bernard, dass '
+                     'die Kaliumsalze auf die Muskeln stark giftig wirken, '
+                     'sind so zahlreiche pharmakologische Arbeiten fiber die '
+                     'Wirkung der Salze der Alkalien und Erdalkalien ver '
+                     '(iffentlicht worden, dass es hberfihssig erscheinen …',
+         'author': 'E Overton',
+         'title': 'Beiträge zur allgemeinen Muskel-und Nervenphysiologie',
+         'url': 'http://www.springerlink.com/index/V6542H7N3U1K0518.pdf'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '13525216530976352667',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mykWd8Y4s7sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GjiY:AAGBfm0AAAAAXYJDliZpQ8cXcVK3JpOoXjv-w1QZ3vAQ&scisig=AAGBfm0AAAAAXYJDlh0zTFDLBv469UTfDK3Ghy6qyv1N&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Seit dem Erseheinen der bekannten Abhandlung yon O. '
+                     'Frank (1)~ die,, Thermodynamik des Muskels" in diesen '
+                     'Ergebnissen wurde eine Reihe wei~ terer Erfahrungen '
+                     'gesammelt, speziell fiber die Beziehungen der '
+                     'Warmebildung und des ehemisehen Austausehes im …',
+         'author': 'AV Hill',
+         'title': 'Die Beziehungen zwischen der Wärmebildung und den im Muskel '
+                  'stattfindenden chemischen Prozessen',
+         'url': 'http://www.springerlink.com/index/x072k8uq46l22334.pdf'},
+ 'citedby': 22,
+ 'id_scholarcitedby': '11831569075630759934',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_t93UGMtMqQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GjiY:AAGBfm0AAAAAXYJDliZpQ8cXcVK3JpOoXjv-w1QZ3vAQ&scisig=AAGBfm0AAAAAXYJDliamweJ7wm2gz98u4NNnR4d9ASnn&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Es wurde die Wirkung intravenöser und intraarterieller '
+                     'Gaben von Adrenalin und Noradrenalin auf die '
+                     'Durchblutung des Skeletmuskels und der Haut des Menschen '
+                     'untersucht. Die Muskeldurchblutung wurde mittels einer '
+                     'intramuskulär eingeführten …',
+         'author': 'KD Bock and H Hensel and J Ruef',
+         'title': 'Die Wirkung von Adrenalin und Noradrenalin auf die '
+                  'Muskel-und Hautdurchblutung des Menschen',
+         'url': 'https://link.springer.com/article/10.1007/BF00364123'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '16921091396717324762',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2ilBOfnK0-oJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GjiY:AAGBfm0AAAAAXYJDliZpQ8cXcVK3JpOoXjv-w1QZ3vAQ&scisig=AAGBfm0AAAAAXYJDlohmHIBIffNYMtiMb02nSOOOpr3s&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Ffir die Ausfiihrung der nachstehend mitgeteilten '
+                     'Experimente waren zwei Gesiehtspunkte mai3gebend. Einmal '
+                     'sollte weiteres Material fiir das in physiko-chemischer '
+                     'Hinsicht bestehende gleiehartige Verhalten von '
+                     'quergestreifter und glatter Muskulatur beigebracht …',
+         'author': 'E Gellhorn',
+         'title': 'Zur Kenntnis der Kaliumcontractur am quergestreiften und '
+                  'glatten Muskel',
+         'url': 'http://www.springerlink.com/index/T2650V8L240102T8.pdf'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '16451015041082020898',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IlRNxgS_TeQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GjiY:AAGBfm0AAAAAXYJDliZpQ8cXcVK3JpOoXjv-w1QZ3vAQ&scisig=AAGBfm0AAAAAXYJDlnkVKBAVDQHgZU5vyqLZhQ__dayE&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In einer zusammenfassenden, infolge der Kriegsereignisse '
+                     'wahrscheinlich nur in wenigen erhaltenen]~ xemplaren '
+                     'der,, Ergebnisse der Anatomie, Bd. 34" erschienenen '
+                     'Arbeit fiber die Innervation des Magen-Darm-Kanals habe '
+                     'ich versucht, unsere neueren l~ esultate fiber …',
+         'author': 'P Stöhr',
+         'title': 'Beobachtungen zur Histopathologie des Muskel-und '
+                  'Nervengewebes im menschlichen Ösophagus',
+         'url': 'http://www.springerlink.com/index/P451QX6154758833.pdf'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '8300050027419292755',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:U1RMPoazL3MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GjiY:AAGBfm0AAAAAXYJDliZpQ8cXcVK3JpOoXjv-w1QZ3vAQ&scisig=AAGBfm0AAAAAXYJDlntOrHci0vsWxe5G21TXNrPQLa8P&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'author': 'B Grubowor',
+         'title': 'Ueber Nervenendigungen im menschlichen Muskel.'},
+ 'citedby': 13,
+ 'id_scholarcitedby': '12390748045414718752',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IF1PxLLH9KsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GjiY:AAGBfm0AAAAAXYJDliZpQ8cXcVK3JpOoXjv-w1QZ3vAQ&scisig=AAGBfm0AAAAAXYJDlkAnRujbkewo3B8Tw9vXYCm9ww8W&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Bei der Priifung der Atmung yon Taubenmuskeln in: '
+                     'Ringerl6sung zeigte sich, dab das Elektrodenpotential '
+                     'wghrend der ersten 10--15 rain bedeutend unter den '
+                     'Ausgangswert herabsinkt. Die Vrsache hierfiir ist, dab '
+                     'die Zellen durch Verbrauch des Sauerstoffes aus …',
+         'author': 'HD Bergeder',
+         'title': 'Potentialmessungen am röntgenbestrahlten Muskel',
+         'url': 'http://www.springerlink.com/index/m0257w384j362466.pdf'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '315731155157952043',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:K6a2E9CzYQQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GjiY:AAGBfm0AAAAAXYJDliZpQ8cXcVK3JpOoXjv-w1QZ3vAQ&scisig=AAGBfm0AAAAAXYJDlqEnBrkk2J8eYmPdAqSEjK-tuUfG&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'So eingehend auch die elektrischen Erscheinungen am '
+                     'quergestreiften Muskel seit den bahnbrechenden '
+                     'Untersuchungen yon Matteuci und Emil du Bois-Reymond '
+                     'untersucht wurden, so wenig befasste sich die '
+                     'physiologische Forschung mit dem elektrischen …',
+         'author': 'RF Fuchs',
+         'title': 'Die elektrischen Erscheinungen am glatten Muskel',
+         'url': 'http://www.springerlink.com/index/X751661119713661.pdf'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '7553024445649065143',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:txTBNre70WgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GjiY:AAGBfm0AAAAAXYJDliZpQ8cXcVK3JpOoXjv-w1QZ3vAQ&scisig=AAGBfm0AAAAAXYJDlqY50SZh-ZMWLU9XFQ6BOUupp8-j&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In zwei vor den Versammlungen der anatomischen '
+                     'Gesellschaft 1894 und 1895 gehaltenen Vortragen konnte '
+                     'ich an einer Reihe yon Beispielen den Nachweis ftihren, '
+                     'dass der-Verlauf und die Liinge der extramuskulitren '
+                     'Nervenstrecke den Weg kennzeichne, den eine …',
+         'author': 'M Nussbaum',
+         'title': 'Nerv und Muskel',
+         'url': 'http://www.springerlink.com/index/4700j78811125572.pdf'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '6059032812736888108',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LD2etT0CFlQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GjiY:AAGBfm0AAAAAXYJDliZpQ8cXcVK3JpOoXjv-w1QZ3vAQ&scisig=AAGBfm0AAAAAXYJDlnXjdZWXwlaUm7cIhp-48XDBJ2M7&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Wenn also die Reaktion des Kreatinins mit Dinitrobenzoat '
+                     'zu einer brauchbaren, insbesondere für die '
+                     'stufenphotometrische Auswertung geeigneten Methode '
+                     'werden sollte, so war 1. zu versuchen, das Abblassen der '
+                     'Farbe zu verhindern oder zu verzögern, und 2 …',
+         'author': 'E Lehnartz',
+         'title': 'Über die Bestimmung des Kreatins im Muskel mit der '
+                  'Dinitrobenzoat-Methode',
+         'url': 'https://www.degruyter.com/view/j/bchm2.1941.271.issue-5-6/bchm2.1941.271.5-6.265/bchm2.1941.271.5-6.265.xml'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '16451260653130839807',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_3Y5yWaeTuQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GjiY:AAGBfm0AAAAAXYJDliZpQ8cXcVK3JpOoXjv-w1QZ3vAQ&scisig=AAGBfm0AAAAAXYJDlvIO4vI05nmwB72_SX5xPkBqjaRP&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Als die Ammoniakbildung bei Zustands~ nderungen I und '
+                     'Arbeit2, a der Skelettmuskeln entdeckt wurde, waren '
+                     'bereits wichtige Grfinde daffir vorhanden, dab dieser '
+                     'Vorgang als eine Desaminierung yon Aminopurinderivaten '
+                     'aufzufassen ist. Die Auffindung des …',
+         'author': 'JK Parnas',
+         'title': 'Über den Purinstoffwechsel des Muskels und über die '
+                  'Muttersubstanz des im Muskel entstehenden Ammoniaks',
+         'url': 'http://www.springerlink.com/index/N13G6Q71825H872R.pdf'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '11311249658245953722',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ujiCdaKh-ZwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GhLs:AAGBfm0AAAAAXYJDnLtbxy8PWv-C2VFdnuHzudkH0eUx&scisig=AAGBfm0AAAAAXYJDnFih9GVZLBgCky9jI4KpSpE-0Aig&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In praktisch jeder Zeitschrift finden Sie Tipps und '
+                     'Empfehlungen von „Experten “zur effektiven und '
+                     'effizienten Trainingsgestaltung und zur optimalen '
+                     'Ernährung. Im Buchhandel füllen die Bücher über '
+                     'Kraft-und Fitnesstraining ganze Regale und Abteilungen. '
+                     'Auch im …',
+         'author': 'M Toigo',
+         'title': 'Muskel Revolution',
+         'url': 'https://link.springer.com/content/pdf/10.1007/978-3-662-54765-6.pdf'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '590688332484000363',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:azqtpuiLMggJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GhLs:AAGBfm0AAAAAXYJDnLtbxy8PWv-C2VFdnuHzudkH0eUx&scisig=AAGBfm0AAAAAXYJDnCnEhkLEyvd5fsrLn_zlntGV2Jky&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Im folgenden sell t~ ber Versuche, die bis jetzt nur '
+                     'pri~ liminarisch verSffentlicht worden sind 1), ausfi~ '
+                     'hrlich berichtet werden. Die Versuche befassen sich mit '
+                     'der Absorption und Sekretion yon Wasser dtirch '
+                     'Froschmuskeln unter verschiedenen~ usseren Umstiinden '
+                     'und …',
+         'author': 'MH Fischer',
+         'title': 'Über die Analogie zwischen der Wasserabsorption durch '
+                  'Fibrin und durch Muskel',
+         'url': 'http://www.springerlink.com/index/g171x5lpk8063m10.pdf'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '13946904766367856348',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3PaOu_1bjcEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GhLs:AAGBfm0AAAAAXYJDnLtbxy8PWv-C2VFdnuHzudkH0eUx&scisig=AAGBfm0AAAAAXYJDnIvX8kd5RpAsOOR34nmGvKWL4QtF&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Bei Hunden wird mit Hilfe der Reinschen Stromuhr der '
+                     'Einfluß der Muskel-Adenylsäure und chemisch verwandter '
+                     'Stoffe auf die Durchblutung des Skeletmuskels '
+                     'untersucht. 2. Durch Muskel-Adenylsäure läßt sich die '
+                     'Durchblutung des Skeletmuskels um 100–170% steigern …',
+         'author': 'W Schoedel',
+         'title': 'Die Wirkung der Muskel-Adenylsäure und chemisch verwandter '
+                  'Stoffe auf die Durchblutung des Skeletmuskels',
+         'url': 'http://www.springerlink.com/index/N738569185415357.pdf'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '10267529611982344411',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2xADS8iXfY4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GhLs:AAGBfm0AAAAAXYJDnLtbxy8PWv-C2VFdnuHzudkH0eUx&scisig=AAGBfm0AAAAAXYJDnDe5jeIBmZ1m0oJHpM9jexSBl-zf&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Anatomen auf sich gezogen, da man sich, zumal nach '
+                     'haufiger Beobach tung, doch nicht wohl damit zufrieden '
+                     'geben mochte, diese Variation lediglich als '
+                     'Zufallsbildung, als Naturspiel zu betrachten. Der '
+                     'Zusammen stellung, die K. v. Bardeleben 1876 von den '
+                     'seit …',
+         'author': 'P Eisler',
+         'title': 'Der Musculus sternalis, seine Ursache und Entstehung, nebst '
+                  'Bemerkungen über die Beziehungen zwischen Nerv und Muskel',
+         'url': 'https://www.jstor.org/stable/25745488'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '15875339771818306174',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fmrcS2mJUNwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GhLs:AAGBfm0AAAAAXYJDnLtbxy8PWv-C2VFdnuHzudkH0eUx&scisig=AAGBfm0AAAAAXYJDnDPZIK_RZU1qW48eQnn68gqIqkMv&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Es wurden an einer Reihe von Vp. '
+                     'Spannungs-Kapazitäts-und '
+                     'Elektrizitätsmengen-Kapazitätskurven für verschiedene '
+                     'Muskeln angelegt und aus ihnen die Chronaxie '
+                     'extrapoliert. 2. Es ergibt sich, daß keine der '
+                     'bestimmten QC-Kurveneine gerade Linie ist …',
+         'author': 'O Platz',
+         'title': 'Über Reizzeit-Spannungskurven am menschlichen Muskel',
+         'url': 'http://www.springerlink.com/index/V2G8601V88R0W725.pdf'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '13539842616525286674',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Em2vYB8v57sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GhLs:AAGBfm0AAAAAXYJDnLtbxy8PWv-C2VFdnuHzudkH0eUx&scisig=AAGBfm0AAAAAXYJDnCUZ2NIpc0SEVM6sWS82VtojVByV&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Zusammenfassung Fragestellung: Im Fokus der Untersuchung '
+                     'steht der Einfluss berufsbezogener Elemente in der '
+                     'stationären medizinischen Rehabilitation bei Patienten '
+                     'mit chronischen Muskel-Skelett-Erkrankungen (CMSK) auf '
+                     'die berufliche Teilhabe im …',
+         'author': 'M Streibelt and K Thren…',
+         'title': 'Effektivität FCE-basierter medizinischer Rehabilitation bei '
+                  'Patienten mit chronischen '
+                  'Muskel-Skelett-Erkrankungen–Ergebnisse einer randomisierten '
+                  'kontrollierten …',
+         'url': 'https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0028-1093331'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '2848238876523880730',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GuGp5ir6hicJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GhLs:AAGBfm0AAAAAXYJDnLtbxy8PWv-C2VFdnuHzudkH0eUx&scisig=AAGBfm0AAAAAXYJDnIdS59VYLqHTneKkLnGQxokbLxx3&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JG Travell and DG Simons',
+         'title': 'Handbuch der Muskel-Triggerpunkte, obere Extremität: Kopf '
+                  'und Thorax'},
+ 'citedby': 129,
+ 'id_scholarcitedby': '5117154972919849591',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:d-KCBVbJA0cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GhLs:AAGBfm0AAAAAXYJDnLtbxy8PWv-C2VFdnuHzudkH0eUx&scisig=AAGBfm0AAAAAXYJDnCoB8knCd_ZObDydovdOCJj1o-iH&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Structured parallel programming promises to raise the '
+                     'level of abstraction perceived by programmers when '
+                     'implementing parallel applications. In the meanwhile, '
+                     'however, it restricts the freedom of programmers to '
+                     'implement arbitrary parallelism exploitation patterns …',
+         'author': 'M Danelutto and P Dazzi',
+         'eprint': 'https://link.springer.com/content/pdf/10.1007/11758525_124.pdf',
+         'title': 'Joint structured/unstructured parallelism exploitation in '
+                  'Muskel',
+         'url': 'https://link.springer.com/chapter/10.1007/11758525_124'},
+ 'citedby': 38,
+ 'id_scholarcitedby': '977379359169847097',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OR8eSllZkA0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GhLs:AAGBfm0AAAAAXYJDnLtbxy8PWv-C2VFdnuHzudkH0eUx&scisig=AAGBfm0AAAAAXYJDnNOfbie_j2hGE3obrrEqsULByFL1&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Orthopädische Rehabilitation ist eine der wesentlichen '
+                     'Behandlungsentitäten in der Rehabilitationsmedizin. '
+                     'Hauptsächlich betrifft dies Patienten mit chronischen '
+                     'Achsorganschmerzen, degenerativen Gelenkveränderungen '
+                     'und Operationen am …',
+         'author': 'B Greitemann and S Dibbelt and S Fröhlich…',
+         'title': 'DGRW-Update: Erkrankungen des Muskel-Skelettsystems',
+         'url': 'https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0032-1327687'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '11604612174638746154',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KgqE-UndC6EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GhLs:AAGBfm0AAAAAXYJDnLtbxy8PWv-C2VFdnuHzudkH0eUx&scisig=AAGBfm0AAAAAXYJDnEmqOTa2Gqj8AhSVu5pJ3Bn9x_XY&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'So massenhaft die Untersuchungen über die Physiologie '
+                     'der Muskelsubstanz auch sind, so ist doch '
+                     'verhältnissmässig sehr wenig geschehen zur Lösung einer '
+                     'der wichtigsten Fragen auf diesem Gebiete, nämlich der '
+                     'Frage nach der Abhängigkeit der Arbeit, die bei einer …',
+         'author': 'A Fick',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=1iFCAAAAcAAJ&oi=fnd&pg=PP3&dq=muskel&ots=mY_1qge_A_&sig=SYNvkKLMyJNGpZxFq-1AjyYiq7c',
+         'title': 'Untersuchungen über Muskel-Arbeit',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=1iFCAAAAcAAJ&oi=fnd&pg=PP3&dq=muskel&ots=mY_1qge_A_&sig=SYNvkKLMyJNGpZxFq-1AjyYiq7c'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '788284955957189657',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Gdycrf2M8AoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Guis:AAGBfm0AAAAAXYJDois_LCATCAhUexKFO2YTmIw7DXD1&scisig=AAGBfm0AAAAAXYJDosd1ZkNV65_GpKXNSZW7KO90KOXj&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Aus zahlreichen, in den letzten Jahren erschienenen '
+                     'Arbeiten verschiedener Untersucher geht eindeutig '
+                     'hervor, daß die Milchsäurebildung im Muskel auf Kosten '
+                     'von Kohlehydraten (im weitesten Sinne des" Wortes) '
+                     'erfolgt. Unter geeigneten Versuchsbedingungen ist es …',
+         'author': 'F Laquer and P Meyer',
+         'title': 'Über den Abbau der Kohlehydrate im quergestreiften Muskel. '
+                  'III. Mitteilung.',
+         'url': 'https://www.degruyter.com/view/j/bchm2.1923.124.issue-3-6/bchm2.1923.124.3-6.211/bchm2.1923.124.3-6.211.xml'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '11209503770509450497',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AR2e7UkokJsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Guis:AAGBfm0AAAAAXYJDois_LCATCAhUexKFO2YTmIw7DXD1&scisig=AAGBfm0AAAAAXYJDomydhprZ4Soit9eFN5-2rZ9zvkYS&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Zusammenfassung An Hand eines Falles von '
+                     'systematisierter Haut-Muskel-Amyloidose werden die Trias '
+                     'der sogenannten Hautstoffwechselerkrankungen (Gottron) '
+                     'und andere, der Frühdiagnose dienende Symptome '
+                     'herausgearbeitet. Zur Frage der Grenzziehung …',
+         'author': 'F Nödl',
+         'title': 'Systematisierte Haut-Muskel-Amyloidose',
+         'url': 'https://link.springer.com/article/10.1007/BF00361908'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '17253537196585599274',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KkF5yargcO8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Guis:AAGBfm0AAAAAXYJDois_LCATCAhUexKFO2YTmIw7DXD1&scisig=AAGBfm0AAAAAXYJDouaRErEmEJyGv0kl6HsOYpyLC0Gr&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Die an menschlichen Nerven und Muskeln gefundenen '
+                     'Elektrizitätsmengen-Reizzeitkurven lassen 2 verschiedene '
+                     'Verlaufstypen erkennen. 2. Von diesen erweist sich der '
+                     'eine durch die Art seines Verlaufes und durch seine '
+                     'Beeinflußbarkeit durch Zuleitungsbedingungen als …',
+         'author': 'H Büssow',
+         'title': 'Über Reizzeit-Spannimgskurven und Chronaxie am menschlichen '
+                  'Nerv und Muskel',
+         'url': 'http://www.springerlink.com/index/W1474450222U14V8.pdf'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '4165842871649533319',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:h33DKgUM0DkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Guis:AAGBfm0AAAAAXYJDois_LCATCAhUexKFO2YTmIw7DXD1&scisig=AAGBfm0AAAAAXYJDos90jMzNXury5biGXkAtSVmFc4Hl&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Zusammenfassung Bei der Zusammenfassung der Resultate '
+                     'stellte ich fest, daß zu den mit Hilfe der '
+                     'Mikroveraschung vollzogenen Untersuchungen dünne '
+                     'Schnitte am besten geeignet waren. Es empfiehlt sich, '
+                     'die Schnitte auf die Deckgläschen zu kleben und nach …',
+         'author': 'J Kruszyński',
+         'title': 'Neue Ergebnisse cytochemischer Untersuchungen bei '
+                  'Mikroveraschung von Epithel-, Muskel-und Nervenzellen',
+         'url': 'https://link.springer.com/article/10.1007/BF00368211'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '13465464143871989391',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:j9Y_t0vw3roJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Guis:AAGBfm0AAAAAXYJDois_LCATCAhUexKFO2YTmIw7DXD1&scisig=AAGBfm0AAAAAXYJDoutzveyenAl61ffseiVFH1eHwpWg&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Als man um die Mitre des vorigen Jahrhunderts begann, '
+                     'die Eigenschaften des Muskels genauer zu untersuchen, '
+                     'stellte man sich die Beziehungen zwischen Spannung und '
+                     'Verkiirzung sehr einfaeh vor: jeder Belastung des '
+                     'Muskels sollte bei gleichem Reiz eine …',
+         'author': 'O Beck',
+         'title': 'Besitzt der quergestreifte Muskel einen Sperrmechanismus?',
+         'url': 'http://www.springerlink.com/index/V905892005R83622.pdf'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '1261567163640088141',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TYYQuab8gREJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Guis:AAGBfm0AAAAAXYJDois_LCATCAhUexKFO2YTmIw7DXD1&scisig=AAGBfm0AAAAAXYJDonSPFjap1pv2QSZwIFbTZS2mXPFa&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Zusammenfassung O. EMBDEN, Handb. d. Norm. u. Pathol. '
+                     'Physiol. VIII/I, S. 37. I925. s~ iure und Phosphat '
+                     'aufgespalten werdem Diese bereits yon O.•{EYERHOF '
+                     'untersuchten Reaktionen i sind v6tlig analog der '
+                     '13ildung und Autspaltung der Hexosediphosphorsiure …',
+         'author': 'K Lohmann',
+         'title': 'Über das Vorkommen und den Umsatz von Pyrophosphat im '
+                  'Muskel',
+         'url': 'http://www.springerlink.com/index/p145m37626257520.pdf'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '729484982721084255',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:X3sSELqmHwoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Guis:AAGBfm0AAAAAXYJDois_LCATCAhUexKFO2YTmIw7DXD1&scisig=AAGBfm0AAAAAXYJDogj9Ai4-HvwGMrSjGtC-PhpAIv5o&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Zusammenfassung Der Veratrineffekt am quergestreiften '
+                     'Muskel läßt sich durch die verschiedensten '
+                     'Lokalanästhetika, besonders durch Anästhesinlösungen, '
+                     'aufheben; und zwar so, daß die in der Veratrinkurve '
+                     'enthaltene, mehr oder weniger verdeckte, normale …',
+         'author': 'J Schüller and F Athmer',
+         'title': 'Über den Antagonismus der Lokalanästhetika gegenüber dem '
+                  'Veratrineffekt am Muskel',
+         'url': 'https://link.springer.com/article/10.1007/BF01865314'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '13340812388597986780',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3HWDTS8WJLkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Guis:AAGBfm0AAAAAXYJDois_LCATCAhUexKFO2YTmIw7DXD1&scisig=AAGBfm0AAAAAXYJDoqaj8dEvD1EU-WkAM2WqITyutjf7&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In mehreren Arbeiten habe ich das Problem der '
+                     'VerknScherung im Muskel-, Fascien-od. Sehnengewebe '
+                     'behandelt, ohne die Aufgabe ersehSpfen zu kSnnen.]~ ine '
+                     'VerSffentliehung Sudecks lehrt, daft meine Auffassung '
+                     'oder die yon mir gegebene …',
+         'author': 'GB Gruber',
+         'title': 'Zur Kritik der Callusbildung, Muskel-und '
+                  'Narbenverknöcherung',
+         'url': 'http://www.springerlink.com/index/l285020447n18g06.pdf'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '3914343284209507841',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AV4-WHqKUjYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Guis:AAGBfm0AAAAAXYJDois_LCATCAhUexKFO2YTmIw7DXD1&scisig=AAGBfm0AAAAAXYJDoujspYIglredBDnLVuC4_yb1WGZG&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'An 30 menschlichen Kehlköpfen von Neugeborenen und '
+                     'Erwachsenen wurde die feine cerebrospinale Innervation '
+                     'des M. thyreoarytaenoideus mit der Versilberungsmethode '
+                     'Schefthaler-Mayet untersucht. 1. Der Muskel hat eine von '
+                     'anderen Skeletmuskeln in vieler …',
+         'author': 'T Lanz and A Mayet',
+         'title': 'Zur Morphologie der Nervenendigungen am quergestreiften '
+                  'Muskel',
+         'url': 'http://www.springerlink.com/index/R3734751830H5441.pdf'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '16228248598806645566',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PsuZoh5SNuEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Guis:AAGBfm0AAAAAXYJDois_LCATCAhUexKFO2YTmIw7DXD1&scisig=AAGBfm0AAAAAXYJDokOKeoUvAbxlTlDaq9kUkbFIBx7y&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In je fünf Blutseren der malignen Beckengürtelform '
+                     '(Duchenne) und der Gliedmaßengürtelform der progressiven '
+                     'Muskeldystrophie (Erb) werden im Vergleich zur '
+                     'jeweiligen gesunden Norm erhöhte Myokinase-(MK-) und '
+                     'Creatinkinase-(CK-) Aktivitäten …',
+         'author': 'TO Kleine and H Chlond',
+         'title': 'Die Aktivität der Myokinase (Adenylatkinase) und der '
+                  'Creatinkinase im Serum und Muskel bei der progressiven '
+                  'Muskeldystrophie (Erb)',
+         'url': 'https://link.springer.com/article/10.1007/BF01746491'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '8178510231895112097',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oXkBbLnnf3EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GsHc:AAGBfm0AAAAAXYJDqHelDfjHHiya1kiafjRfLsht7muE&scisig=AAGBfm0AAAAAXYJDqNW4VlUxa8oOeiYgnRdJB5Nx8mmz&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In Bezug auf die Endigung der• erven im willkiirlichen '
+                     'Muskel hat vor Kurzem G erl itch 1) die Ansicht '
+                     'aufgestellt, dass die Nervenfasern nicht, wie man '
+                     'frfiher annahm, mit motorischen Endplatten endigen, '
+                     'sondern dass sie in netzfSrmig zusammenh~ ingende …',
+         'author': 'E Fischer',
+         'title': 'Ueber die Endigung der Nerven im quergestreiften Muskel der '
+                  'Wirbelthiere',
+         'url': 'https://link.springer.com/article/10.1007/BF02933940'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '10778401042920563239',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:J-L6YaSSlJUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GsHc:AAGBfm0AAAAAXYJDqHelDfjHHiya1kiafjRfLsht7muE&scisig=AAGBfm0AAAAAXYJDqCvO8l57PrpRKE6osmAcqqGmVNkP&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Sauf mention contraire ci-dessus, le contenu de cette '
+                     'notice bibliographique peut être utilisé dans le cadre '
+                     "d'une licence CC BY 4.0 Inist-CNRS/Unless otherwise "
+                     'stated above, the content of this bibliographic record '
+                     'may be used under a CC BY 4.0 licence by Inist-CNRS/A …',
+         'author': 'K JURSS',
+         'eprint': 'https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL7750017783',
+         'title': 'BIOCHEMISCHE NERAENDERUNGEN IN LEBER UND MUSKEL DER '
+                  'REGENBOGENFORELLE (SALMO GAIDNERI) BEI HUNGER.',
+         'url': 'https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL7750017783'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '10693475943656563628',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rKPV27bbZpQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GsHc:AAGBfm0AAAAAXYJDqHelDfjHHiya1kiafjRfLsht7muE&scisig=AAGBfm0AAAAAXYJDqIPjTGdFzw1PmryBrBVqfF9SIjYr&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '(Eingegangen am 7. Mai 1956) Die aus dem '
+                     'Kohlenhydratstoffwechsel der Zelle anfallende \n'
+                     'Energie wird ffir sehr Yerschiedenartige Leistunge~ '
+                     'beansprucht. Ein nich$ geringer, in seiner \n'
+                     'ttShe abet nich~ genau bekannter Betrag en~f~llt auf die '
+                     'Erhaltung des …',
+         'author': 'W Schmid and M Siess',
+         'title': 'Über die Grenzbedingungen von Zelleben und spezifischer '
+                  'Zellfunktion am isolierten Muskel',
+         'url': 'http://www.springerlink.com/index/lx322r665324r65j.pdf'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '10792183840621703046',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hq_3CgaKxZUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GsHc:AAGBfm0AAAAAXYJDqHelDfjHHiya1kiafjRfLsht7muE&scisig=AAGBfm0AAAAAXYJDqPOD1u4qsnr5_9lsMxm4cwjTH9DS&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In jeweils 7tägigen Versuchen wurde der Arm in 30°-, '
+                     '90°-und 150°-Stellung in abnehmbaren Gipsschalen ruhig '
+                     'gestellt und zu einer täglichen Anspannung von jeweils '
+                     '10 sec-Dauer mit einer Kraft von 1/5, 1/10 und 1/15 '
+                     'Teilen der Maximalkraft passiv aus den …',
+         'author': 'T Hettinger',
+         'title': 'Untersuchungen zur Bestimmung der Muskel-Atrophieschwelle',
+         'url': 'https://link.springer.com/article/10.1007/BF00696820'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '5695255198225876775',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:J0dzk22cCU8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GsHc:AAGBfm0AAAAAXYJDqHelDfjHHiya1kiafjRfLsht7muE&scisig=AAGBfm0AAAAAXYJDqHFW7F8B1gPc2rwI92e-HsVjiXKP&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '抄録 Um einen Einblick in der Verhältnisse des '
+                     'intermediären Kohlehydratstoffwechsels, insbesondere '
+                     'aber der Milchsäureresynthese in atrophischen Muskeln zu '
+                     'gewinnen, wurden am Gastrocnemius des Hundes, der im '
+                     'Ablauf von 3 Wochen bis 2 Monaten nach …',
+         'author': 'T Sato and F Kasugai',
+         'eprint': 'https://www.jstage.jst.go.jp/article/tjem1920/26/4/26_4_336/_pdf',
+         'title': 'Über den Kohlehydrat= und Energieumsatz im atrophischen '
+                  'Muskel',
+         'url': 'https://www.jstage.jst.go.jp/article/tjem1920/26/4/26_4_336/_article/-char/ja/'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '17189545776371502329',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-YzwOs-Ije4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GsHc:AAGBfm0AAAAAXYJDqHelDfjHHiya1kiafjRfLsht7muE&scisig=AAGBfm0AAAAAXYJDqOPJ_E1hTg28zdgrDeWujdFI2l9l&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '抄録 Durch Ermitteluug der Veränderungen des '
+                     'Blutmilchsäurespiegels infolge der Muskelarbeit des '
+                     'Gastrocnemius, bei dem bis auf eine Hauptvene alle '
+                     'Venenäste unterbunden wurden ebenso wie auch alle '
+                     'kollateralen Äste der Arterie, sodass der Muskel  …',
+         'author': 'E Hayasaka',
+         'eprint': 'https://www.jstage.jst.go.jp/article/tjem1920/14/5-6/14_5-6_487/_pdf',
+         'title': 'Über den Einfluss der Muskelkontraktion auf den Gas= und '
+                  'Milchsäurestoffwechsel sowie die Zirkulation im Muskel und '
+                  'im ganzen Organismus bei experimenteller B …',
+         'url': 'https://www.jstage.jst.go.jp/article/tjem1920/14/5-6/14_5-6_487/_article/-char/ja/'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '10467781921768383200',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4KJCeTIIRZEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GsHc:AAGBfm0AAAAAXYJDqHelDfjHHiya1kiafjRfLsht7muE&scisig=AAGBfm0AAAAAXYJDqMtiPaAdUroGRBdMCQ5-ZFfrq-wC&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Die Theorien der Muskelt~ tigkeit besch~ ftigten sich '
+                     'bisher alle nur mit der Muskelzucktmg sclbst, dem '
+                     'Zustandekommen einer Verkiirzung fiberhaupt; auf die '
+                     'einzelnen Erscheinungen bei der Kontraktiou des '
+                     'Skelettmuskels und tterzens haben sic noch keine …',
+         'author': 'E Frey',
+         'title': 'Ein Versuch, den Verlauf der Kontraktion am Herzen und '
+                  'Muskel auf Stoffwechselvorgänge zurückzuführen',
+         'url': 'http://www.springerlink.com/index/V2732N6842172P10.pdf'},
+ 'citedby': 13,
+ 'id_scholarcitedby': '11456292712964329960',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6JEiP4bt_J4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GsHc:AAGBfm0AAAAAXYJDqHelDfjHHiya1kiafjRfLsht7muE&scisig=AAGBfm0AAAAAXYJDqEMpNcyoOLXzPQC0lJR-WptTQNe8&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Im Rahmen einer randomisierten klinischen '
+                     'Vergleichsstudie an chronischen Migränepatienten wird '
+                     'die kurzfristige Wirksamkeit eines psychologischen '
+                     'Behandlungsprogramms (SEP) mit einer symptomorientierten '
+                     'Akupunkturbehandlung und …',
+         'author': 'H Doerr-Proske and HU Wittchen',
+         'title': 'Ein muskel-und gefäßorientiertes Entspannungsprogramm (SEP) '
+                  'zur Behandlung chronischer Migränepatienten:—Eine '
+                  'randomisierte klinische Vergleichsstudie—',
+         'url': 'https://www.jstor.org/stable/23996628'},
+ 'citedby': 13,
+ 'id_scholarcitedby': '4202229460813112109',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LWNyJG5RUToJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GsHc:AAGBfm0AAAAAXYJDqHelDfjHHiya1kiafjRfLsht7muE&scisig=AAGBfm0AAAAAXYJDqN6czRYiaYyqqzEnfnoE-Owm6Uct&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Dieser Reaktionsgleichung gemäß werden bei der Reaktion '
+                     'eines Cu" mit in Wasser gelöstem Polyvinylalkohol 2 '
+                     'Gruppen zu einer, ein gemeinsames Cu enthaltenden '
+                     'Gruppierung vereinigt, so daß zwei ursprünglich '
+                     'getrennte Gruppierungen—CH (OH)-CH2 …',
+         'author': 'W Kuhn and I Toth',
+         'eprint': 'https://www.degruyter.com/view/j/zna.1963.18.issue-2/zna-1963-0202/zna-1963-0202.xml',
+         'title': 'Reaktion und Reaktionsgleichgewicht beim '
+                  'Polyvinylalkohol-Cu˙˙-Muskel',
+         'url': 'https://www.degruyter.com/view/j/zna.1963.18.issue-2/zna-1963-0202/zna-1963-0202.xml'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '289246929935478543',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Dy8t34ycAwQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GsHc:AAGBfm0AAAAAXYJDqHelDfjHHiya1kiafjRfLsht7muE&scisig=AAGBfm0AAAAAXYJDqBebK6cuphCsIOfs450KkqSIo0ls&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Für die Analyse der Wirkungweise insecticider Stoffe '
+                     'wurde ein isoliertes Bauchmark-Ganglien-Präparat des '
+                     'Gelbrandkäfers (Dytiscus marginalis) beschrieben, an '
+                     'welchem DDT, HCC und E 605 spezifische erregende '
+                     'Wirkungen von irreversiblem Charakter …',
+         'author': 'H Fritsch and H Krupp',
+         'title': 'Wirkung von Insecticiden auf ein isoliertes '
+                  'Ganglien-Muskel-Präparat von Dytiscus marginalis '
+                  '(Gelbrandkäfer)',
+         'url': 'https://link.springer.com/article/10.1007/BF00244754'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '14243252874593578747',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-y42hAYzqsUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gt5s:AAGBfm0AAAAAXYJDr5sl1poGk9BTeJb0eSnBpi0zv3JA&scisig=AAGBfm0AAAAAXYJDr1PRJo1_RbX4gZa1gD7JTkfxXC3N&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Wir haben uns daran gewöhnt, von muskulo-skeletalen '
+                     'Erkrankungen und besonders Rückenschmerzen, als '
+                     '„Volkskrankheiten “zu sprechen. Wie weitverbreitet sie '
+                     'sind, wird auch daran deutlich, daß ungefähr vier von '
+                     'fünf Lesern des vorliegenden Artikels …',
+         'author': 'U Osterholz',
+         'title': 'Der Einfluss psycho-sozialer Faktoren am Arbeitsplatz auf '
+                  'die Genese von Muskel-und Skeletterkrankungen',
+         'url': 'https://link.springer.com/chapter/10.1007/978-3-642-57161-9_11'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '2052578041934186880',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gAlBp9o4fBwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gt5s:AAGBfm0AAAAAXYJDr5sl1poGk9BTeJb0eSnBpi0zv3JA&scisig=AAGBfm0AAAAAXYJDr_ZbYEged-HXnV_3wznkEUMtZJp7&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Wie lange bekannt, wird im Muskel im AnschluB an die '
+                     'anaerobe Tgtigkeit Milchsgture mit einer gegentiber der '
+                     'Ruhe stark erh6hten Geschwindigkeit gebitdet, wobei '
+                     'gleichzeitig die in der TAtigkeitsperiode zerfallene '
+                     'Kreatinphosphors~ iure aus ihren Komponenten Kreatin …',
+         'author': 'O Meyerhof',
+         'title': 'Über die Synthese der Kreatinphosphorsäure im Muskel und '
+                  'die „Reaktionsform “des Zuckers',
+         'url': 'http://www.springerlink.com/index/M1J0M1032274M128.pdf'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '13166967838327448098',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IiKAxHx3urYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gt5s:AAGBfm0AAAAAXYJDr5sl1poGk9BTeJb0eSnBpi0zv3JA&scisig=AAGBfm0AAAAAXYJDr41V-KNS3FRS1-pb25Ka-4InPoGg&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Einleitung. l~ ber den Ursprung der Kontraktionsw~ rme '
+                     'des Muskels hatte sich in der letzten Arbeit dieser '
+                     'Serie 2) das Folgende ergeben: Die wahrend der anaeroben '
+                     'Arbeit auftretende Wgrme entspringt zum Teil aus dem '
+                     'Ubergang des Glykogens in verdiinnte …',
+         'author': 'O Meyerhof',
+         'title': 'Die Energieumwandlungen im Muskel',
+         'url': 'http://www.springerlink.com/index/up540762215t67x8.pdf'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '8191810037936947753',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KQK20tMnr3EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gt5s:AAGBfm0AAAAAXYJDr5sl1poGk9BTeJb0eSnBpi0zv3JA&scisig=AAGBfm0AAAAAXYJDr-c8K-GguMqCmYIFSuP6o7NHwPqh&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In einer Eeihe früher veröffentlichter Untersuchungen '
+                     'konnte gezeigt werden, daß bei der Tätigkeit isolierter '
+                     'Froschmuskeln in sauerstoffversorgter Ringerlösung ein '
+                     'gegenüber dem Ruhezustand vermehrter Austritt von '
+                     'Phosphorsäure in die Umgebungsflüssigkeit erfolgt …',
+         'author': 'G Embden and H Lange',
+         'title': 'Der Eintritt von Chlorionen in den arbeitenden Muskel',
+         'url': 'https://www.degruyter.com/view/j/bchm2.1923.130.issue-1-6/bchm2.1923.130.1-6.350/bchm2.1923.130.1-6.350.xml'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '16941209500593881294',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zgBfTEhEG-sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gt5s:AAGBfm0AAAAAXYJDr5sl1poGk9BTeJb0eSnBpi0zv3JA&scisig=AAGBfm0AAAAAXYJDr9UkpcYQMen9Bw22kaC_ondYEJcK&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Zusammenfassung Bei 16 Patienten mit '
+                     'Duchenne-Muskeldystrophie unterschiedlicher klinischer '
+                     'Progredienz wurden an Paravertebral-, Oberschenkel-und '
+                     'Wadenmuskulatur sonographische Transversalschnitte in '
+                     'definierten Höhen gelegt und die …',
+         'author': 'R Forst and HR Casser',
+         'title': '7-MHz-real-time-Sonographie der Skelettmuskulatur bei '
+                  'Duchenne-Muskel-dystrophie',
+         'url': 'https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-2007-1006084'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '9319431177570663335',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:p7vMj0dFVYEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gt5s:AAGBfm0AAAAAXYJDr5sl1poGk9BTeJb0eSnBpi0zv3JA&scisig=AAGBfm0AAAAAXYJDr-lKGSkz--diTF5j2tfrF3sOegZH&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Es wird die aus ruhénder und elektrisch indirekt '
+                     'erregter Muskulatur ausfließende Spülflüssigkeit auf '
+                     'biologisch aktive Substanzen untersucht. Es läßt sich '
+                     'dabei feststellen, daß der Muskel im Anschluß an seine '
+                     'Tätigkeit einen Stoff mit acetylcholinartigem Effekt …',
+         'author': 'K Shimidzu',
+         'title': 'Die Bildung von vegetativen Reizstoffen im tätigen Muskel',
+         'url': 'https://link.springer.com/article/10.1007/BF01722192'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '12929565900142323592',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:iKf8sa4Lb7MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gt5s:AAGBfm0AAAAAXYJDr5sl1poGk9BTeJb0eSnBpi0zv3JA&scisig=AAGBfm0AAAAAXYJDr4XSa7z6Rr0ZOB3em4OTG-YcuFLX&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Es wird eine neue Vorrichtung zur Messung des '
+                     'menschlichen Muskeltonus beschrieben. Sie gestattet eine '
+                     'fortlaufende fast isometrische Schreibung des '
+                     'Dehnungswiderstandes und der jeweiligen Gelenkstellung '
+                     'bei passiven Bewegungen im Knie-und …',
+         'author': 'G Schaltenbrand',
+         'title': 'Messung des Dehnungswiderstandes am menschlichen Muskel bei '
+                  'Gesunden, Spastikern und Parkinsonismusfällen',
+         'url': 'https://link.springer.com/article/10.1007/BF01652710'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '2432440286073288971',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:C3m_dI3DwSEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gt5s:AAGBfm0AAAAAXYJDr5sl1poGk9BTeJb0eSnBpi0zv3JA&scisig=AAGBfm0AAAAAXYJDr6AE_TYKstyE9HpdNrh6G_5VRkmd&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Der AbguB wurde nach Neutralisation dutch '
+                     'Ultrafiltrieren auf 3% Eiweig ankonzentriert. Die aus '
+                     'dieser L6sung dutch Ammonsulfatf&llung bet P~ I= 7, 0 '
+                     'zwischen 1, 4 M und t, 8 M erhaltene Fraktion wurde mit '
+                     'I~ Iilfe der pr~ parativen Zonenelektrophorese bet p~= '
+                     '8, 6 in …',
+         'author': 'G Grimmer and J Kracht and R Tschesche',
+         'title': 'Isolierung von zwei antiphlogistisch wirkenden Fettsäuren '
+                  'aus Muskel-und Fettgewebe',
+         'url': 'http://www.springerlink.com/index/P7661763107Q75JV.pdf'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '13701433134224491226',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2sI3n9dEJb4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gt5s:AAGBfm0AAAAAXYJDr5sl1poGk9BTeJb0eSnBpi0zv3JA&scisig=AAGBfm0AAAAAXYJDr_-iBOZTn0RMp2QoFuGj4S2w82G_&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '1) Auf diesen Unterschied hat Nauayn (Arch. L experim. '
+                     'Pathol. n. Pharmak. 3, 97) bei Hiihncrn, wo cr besonders '
+                     'auffs un4 lelcht zu constatiren ist, zuerst aufmerksam '
+                     'gemacht. Nach ibm glebt alas Leberglyeogen rait Jod elne '
+                     'braunroth% das Muskelglycogen elne …',
+         'author': 'E Külz',
+         'title': 'Bildet der Muskel selbständig Glycogen?',
+         'url': 'http://www.springerlink.com/index/Q7N8X85060V81N08.pdf'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '15299047209577314768',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0HnJGGEiUdQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gt5s:AAGBfm0AAAAAXYJDr5sl1poGk9BTeJb0eSnBpi0zv3JA&scisig=AAGBfm0AAAAAXYJDry03CsCBM4hCzqHUnLZbz1dSOtgg&scisf=4&ct=citation&cd=99&hl=en'}

@@ -1,0 +1,1045 @@
+{'_filled': False,
+ 'bib': {'abstract': '… In the semiconductor wafer fab, the manufacturer '
+                     'sometimes increases the\n'
+                     'through-put rate unreasoningly for the high utilization '
+                     'of tools. The result is that the\n'
+                     'cycle time goes up andthe number of the '
+                     'work-in-process/WIP rockets up … \n',
+         'author': 'F PAN and X QIAN',
+         'title': 'Methods of optimization for throughput and cycle time in '
+                  'semiconductor wafer fabrication [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-BDTJ200402010.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '16120298183592201612',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jE1j-snNtt8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DlYg:AAGBfm0AAAAAXYJGjYiiEevoQbHmOONpooxNwPpXhSHd&scisig=AAGBfm0AAAAAXYJGjYbsVnWVD8t3QfIBskLBsVVc_it3&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… other industries. And that it means China should keep '
+                     'the flow of FDI to be consistent\n'
+                     'with the industry restructure and the employment '
+                     'restructure. It is disadvantageous\n'
+                     'to trace unreasoningly quantities of FDI. 【CateGory '
+                     'Index … \n',
+         'author': 'CUIDREN Zhi-cheng',
+         'title': 'Empirical Analyses on the Relations of FDI and Human '
+                  'Capital Upgrading in China: Evidence from Yangtze Delta [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-GJMW200603016.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '2959672138246882730',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qoXT8yDeEikJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DlYg:AAGBfm0AAAAAXYJGjYiiEevoQbHmOONpooxNwPpXhSHd&scisig=AAGBfm0AAAAAXYJGjVKm1_UovYlbmydSVv-iSqEbxsx6&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… by RDBMS. However the traditional software engineering '
+                     'approach should not be\n'
+                     'excluded. It is inadvisable to deploy object-oriented '
+                     'software engineering approach,\n'
+                     'UML and RUP unreasoningly. 【CateGory Index】： TP311 … \n',
+         'author': 'XIE Fang',
+         'title': 'Rational Application of Modern Software Engineering During '
+                  'Current Software Development [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-JYXH200504040.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '9730002153242142038',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VqXIF2jpB4cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DlYg:AAGBfm0AAAAAXYJGjYiiEevoQbHmOONpooxNwPpXhSHd&scisig=AAGBfm0AAAAAXYJGjcvUVb3YL3qY5P0ZcjtGX-4cXan7&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'author': 'G Rosen', 'title': 'The Midwife and the Witch'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:eKmNNuQwJ84J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DlYg:AAGBfm0AAAAAXYJGjYiiEevoQbHmOONpooxNwPpXhSHd&scisig=AAGBfm0AAAAAXYJGjY2MmArOkUy6IYXu1XJXFmeoN0Ho&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… right. In July 2005, [6] thought unreasoningly that '
+                     'the REESSE1 encryption scheme was\n'
+                     'insecure, which is wrong … application. In December '
+                     '2006, [8] thought unreasoningly again\n'
+                     'that the REESSE1+ public-key cryptosystem is not secure '
+                     '… \n',
+         'author': 'S Su and S Lu',
+         'eprint': 'https://arxiv.org/pdf/0704.0492',
+         'title': 'Refuting the Pseudo Attack on the REESSE1+ Cryptosystem',
+         'url': 'https://arxiv.org/abs/0704.0492'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:u3wIQ_ruF88J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DlYg:AAGBfm0AAAAAXYJGjYiiEevoQbHmOONpooxNwPpXhSHd&scisig=AAGBfm0AAAAAXYJGjZYgwn2ZE18yZp2DwZbUS1SYOf9I&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… was finally analyzed to be IgM. It is suggested that '
+                     'not to give erythrocytes of O group\n'
+                     'unreasoningly to blood recipient of AB group during '
+                     'emergent moment, but instead,\n'
+                     'to give same type of blood. If there was no same type '
+                     '… \n',
+         'author': 'RQ Xiao and WC Lin and J Liu and TL Jiang and HM Chen…',
+         'title': 'Report on difficulty in blood group identification due to '
+                  'anti-H antibody in three cases',
+         'url': 'https://europepmc.org/abstract/med/14989781'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ubiAwlfq3cEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DlYg:AAGBfm0AAAAAXYJGjYiiEevoQbHmOONpooxNwPpXhSHd&scisig=AAGBfm0AAAAAXYJGjcJW6Q40TpBbqGHwgmMe69_tGe19&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Xiangtan 411201, China). Because of its innovation, '
+                     "historicity and reality, Liu Danian' s History\n"
+                     'of the US Aggression of China had exerted great '
+                     "influence on society in 1950s.Liu Danian's idea\n"
+                     'of anti - aggression is not anything of inflexing and '
+                     'unreasoningly an-tiforeign, but … \n',
+         'author': 'H Ren-guo',
+         'title': 'Erect the back of Chinese nation-Analysis from LIU '
+                  "Da-nian's history of the US aggression of China",
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-XTGS200202008.htm'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IBpW6xGNhxUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DlYg:AAGBfm0AAAAAXYJGjYiiEevoQbHmOONpooxNwPpXhSHd&scisig=AAGBfm0AAAAAXYJGjUZWxqhOPNI3iaxRs_KWBGdpKHr4&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… they come abreast of the reality often so hidden in '
+                     'the propaganda of the press, are driven to\n'
+                     'acknowledge against their hearts the presence of the '
+                     '"conservative and undemocratic." Browne,\n'
+                     'concerned with religion, finds much that he has to '
+                     'regard as unreasoningly traditional … \n',
+         'author': 'JA Devenny',
+         'title': 'Browne, LE," The Quickening Word"(Book Review)',
+         'url': 'http://search.proquest.com/openview/2e6de313fa325fdd767e652e9ffd8734/1?pq-origsite=gscholar&cbl=1821244'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:iC7gVjSXJc0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DlYg:AAGBfm0AAAAAXYJGjYiiEevoQbHmOONpooxNwPpXhSHd&scisig=AAGBfm0AAAAAXYJGjQySjjIGQVN-3bvCKN9XwuIabulZ&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… were followed by a Federal Exclusion Act in 1924. Just '
+                     'as opinion had been\n'
+                     'unreasoningly favorable before 1905 it became as '
+                     'unreasoningly unfavorable after\n'
+                     'that year. Although some attempts were made to stem this '
+                     'tide … \n',
+         'author': 'PJ Treat',
+         'eprint': 'https://journals.lib.washington.edu/index.php/WHQ/article/viewFile/6985/6022',
+         'title': 'Our Asiatic Neighbors',
+         'url': 'https://www.jstor.org/stable/40475561'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '12885702906970235512',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:eOItw4U207IJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DlYg:AAGBfm0AAAAAXYJGjYiiEevoQbHmOONpooxNwPpXhSHd&scisig=AAGBfm0AAAAAXYJGjVK6tqldEajGVhaQFH4cWO9Ofbcn&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… arrive. The super- natural mistress in the story of '
+                     'Helgi Thorisson behaves much\n'
+                     'like the heroine of a Breton lai, but she shows herself '
+                     'unreasoningly vindictive when\n'
+                     'she blinds Helgi before returning him to the world of '
+                     'men … \n',
+         'author': 'M Schlauch',
+         'title': 'Pálsson (Hermann) and Edwards (Paul)(tr. and edd.)," '
+                  'Gautrek\'s Saga and other medieval tales"(Book Review)',
+         'url': 'http://search.proquest.com/openview/7b75bef20bc9e428c4e0fd1eca7d30c0/1?pq-origsite=gscholar&cbl=1819162'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:O0VvSQFd1FgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DlYg:AAGBfm0AAAAAXYJGjYiiEevoQbHmOONpooxNwPpXhSHd&scisig=AAGBfm0AAAAAXYJGjTR2mHirENflMdtc5_Q7Uo-KVc8C&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… countrymen, which induces them to keep up ancient '
+                     'customs and ancient traditions, not always\n'
+                     'because they are good and useful, but because they are '
+                     'old and belong to their forefathers–a\n'
+                     'disposition which often makes them cling to abuses, and '
+                     'unreasoningly oppose real … \n',
+         'author': 'SSVVII Part',
+         'title': 'Aar. III.–Transactions of the Royal Society of Literature.',
+         'url': 'http://search.proquest.com/openview/fb5d081645b015ba/1.pdf?pq-origsite=gscholar&cbl=1553'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4RvNk7K9KPcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Di3Q:AAGBfm0AAAAAXYJGk3QrofqTeKP-90GlzJlLOt6LUk-E&scisig=AAGBfm0AAAAAXYJGk0idsZ3wRtakD6bFD5yKglZXwxfp&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… And if we consider the matter from the point of view '
+                     'of formal logic, it is plain that there\n'
+                     'are only two alternatives: either (1) we hold the view '
+                     "that 'A ought to be done'\n"
+                     'unreasoningly as an immediate intuition or (2) it has '
+                     'been obtained … \n',
+         'author': 'B Russell',
+         'title': 'The relation of what ought to be to what is, has been or '
+                  'will be',
+         'url': 'https://www.taylorfrancis.com/books/e/9781315824642/chapters/10.4324/9781315824642-13'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:njlYZBMRfIwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Di3Q:AAGBfm0AAAAAXYJGk3QrofqTeKP-90GlzJlLOt6LUk-E&scisig=AAGBfm0AAAAAXYJGk8K6tJvpCA2ZBfcB-NZ-YEwn815Z&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… I had lived alone all my life ; no one ever had told '
+                     'me I was beautiful and a woman. I believed\n'
+                     'them. I did not know it was simply a fashion, which one '
+                     'man had set, and the rest followed\n'
+                     'unreasoningly. I liked them to ask me to marry them, and '
+                     'to say, No. I despised them … \n',
+         'author': 'O Schreiner',
+         'title': "THE WOMAN'S ROSE.",
+         'url': 'http://search.proquest.com/openview/48f23a0c6c08517d/1?pq-origsite=gscholar&cbl=1980'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '12678464895915026029',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bWZGQqb08q8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Di3Q:AAGBfm0AAAAAXYJGk3QrofqTeKP-90GlzJlLOt6LUk-E&scisig=AAGBfm0AAAAAXYJGk-y_28nxshHVJiCFYBVR2zcDx4lQ&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'author': 'W James',
+         'eprint': 'http://www.davidjamesbar.net/BTK/Belief,_Truth,_and_Knowledge_files/James,%20The%20Will%20to%20Believe.pdf',
+         'title': 'The will to believe: And other essays in popular '
+                  'philosophy'},
+ 'citedby': 698,
+ 'id_scholarcitedby': '10676855535388913945',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GfEEgYrPK5QJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Di3Q:AAGBfm0AAAAAXYJGk3QrofqTeKP-90GlzJlLOt6LUk-E&scisig=AAGBfm0AAAAAXYJGk0_CVWUk3VCAgidVQiz6EOdGBiHB&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… To some rationalizing readers such advocacy will seem '
+                     "a sad misuse of one's\n"
+                     'professional position. Mankind, they will say, is only '
+                     'too prone to follow faith unreason-\n'
+                     'ingly, and needs no preaching nor encouragement in that '
+                     'direction … \n',
+         'author': 'W James',
+         'title': 'The will to believe: And other essays in popular '
+                  'philosophy, and Human immortality',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=8qRGDwAAQBAJ&oi=fnd&pg=PA95&dq=unreasoningly&ots=0HKc8mJydu&sig=vKGzWSGrBK9NUXf-lOHuKx6mnM8'},
+ 'citedby': 731,
+ 'id_scholarcitedby': '8699861503191362238',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:virRfPEdvHgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Di3Q:AAGBfm0AAAAAXYJGk3QrofqTeKP-90GlzJlLOt6LUk-E&scisig=AAGBfm0AAAAAXYJGk_bY0TwrOA-6pcPiXfj-SE9V_RCW&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 233 “Afterword” (by Elijah Pogram, Ph.D.) 251 Notes '
+                     '255 Index 269 vii Page 9. Page Intentionally\n'
+                     'Left Blank Page 10. ACKNOWLEDGMENTS T he BOOK IS '
+                     'dedicated to the memory of my dear\n'
+                     'father and to my wise (wiser every year) and '
+                     'unreasoningly loving mother … \n',
+         'author': 'J Kincaid',
+         'title': 'Annoying the Victorians',
+         'url': 'https://content.taylorfrancis.com/books/download?dac=C2006-0-12190-6&isbn=9781317971184&format=googlePreviewPdf'},
+ 'citedby': 53,
+ 'id_scholarcitedby': '10173789655187468580',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JDH-0MmPMI0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Di3Q:AAGBfm0AAAAAXYJGk3QrofqTeKP-90GlzJlLOt6LUk-E&scisig=AAGBfm0AAAAAXYJGk3oOzCcB38Pd82BnB-ScFZHelqO0&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… that connotation. And, 'their objectives' represents "
+                     'the plausible scenario of a subject\n'
+                     'who unreasoningly manifests as fact the volitional '
+                     'ideations of what Edmund Husserl\n'
+                     'calls the “natural attitude” (Audi, 1999, p. 405). '
+                     'Perhaps … \n',
+         'author': 'J Brooks and K Severson and C Consciousness',
+         'eprint': 'http://www.academia.edu/download/31707718/Mediated_Mentalities_and_Considerate_Consciousness.docx',
+         'title': 'The Social Construction of Conflict',
+         'url': 'http://www.academia.edu/download/31707718/Mediated_Mentalities_and_Considerate_Consciousness.docx'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3GT7V9-UsosJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Di3Q:AAGBfm0AAAAAXYJGk3QrofqTeKP-90GlzJlLOt6LUk-E&scisig=AAGBfm0AAAAAXYJGkwrkpuaZylV0t0qJlOLSnrpuVykn&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… his intention or not, there is no doubt that literary '
+                     'corroboration of certain psycho-analytic\n'
+                     'observations lent some of the prestige of established '
+                     'art to the embryo science which was\n'
+                     'undergoing the painful but apparently inevitable process '
+                     'of being first unreasoningly attacked … \n',
+         'author': 'L Fraiberg',
+         'title': "Freud's writings on art",
+         'url': 'https://www.pep-web.org/document.php?id=ijp.037.0082a'},
+ 'citedby': 24,
+ 'id_scholarcitedby': '1023058309918415922',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MtwyyxyiMg4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Di3Q:AAGBfm0AAAAAXYJGk3QrofqTeKP-90GlzJlLOt6LUk-E&scisig=AAGBfm0AAAAAXYJGk_PRkQSI0-TB3Xn75RMGjqrCeY6S&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'author': 'V Gollancz and DC Somervell',
+         'title': 'Political Education at a Public School'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '17923563983251289507',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:o7WtynpKvfgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Di3Q:AAGBfm0AAAAAXYJGk3QrofqTeKP-90GlzJlLOt6LUk-E&scisig=AAGBfm0AAAAAXYJGk6wNO0eClr3kVpicbRjoEB16gpl8&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'author': 'W James', 'title': 'The sentiment of rationality'},
+ 'citedby': 162,
+ 'id_scholarcitedby': '510716447074953968',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8CraGOdtFgcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Di3Q:AAGBfm0AAAAAXYJGk3QrofqTeKP-90GlzJlLOt6LUk-E&scisig=AAGBfm0AAAAAXYJGk1A-eK1dQcTBYk4qHXG2Lqe3xvPU&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Widely divergent views are held, ranging from the '
+                     'completely sceptical to the unreasoningly\n'
+                     'enthusiastic, and the lack of fully substantiated basic '
+                     'data makes it difficult for the unbiased\n'
+                     'student to find the most probable of the several '
+                     'possibilities presented … \n',
+         'author': 'GIM Swyer',
+         'title': 'Nutrition and human fertility',
+         'url': 'https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/nutrition-and-human-fertility/F9B70B148C681F0473A098431EFDFF58'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '13143737737674055694',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DmD1etXvZ7YJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DgjE:AAGBfm0AAAAAXYJGmjGe-JCVKu4yxdYaE_Ay_PPWCkiO&scisig=AAGBfm0AAAAAXYJGmo6hcnSABJapaE4ubkD1kDGL_X-Z&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… not on the basis of their views of the law, but on the '
+                     'basis of their interest in slavery, or because\n'
+                     'they were too spineless to have an independent opinion.1 '
+                     'The Supreme Court has successfully\n'
+                     'weathered this and other storms.2 "Often unjustly and '
+                     'unreasoningly attacked, those … \n',
+         'author': 'PC Jessup',
+         'title': 'The Customs Union Advisory Opinion',
+         'url': 'https://www.cambridge.org/core/journals/american-journal-of-international-law/article/customs-union-advisory-opinion/4D2E62C581CE34DB75CEA2706CECB91F'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '9330446690187297482',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ykJVdNRnfIEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DgjE:AAGBfm0AAAAAXYJGmjGe-JCVKu4yxdYaE_Ay_PPWCkiO&scisig=AAGBfm0AAAAAXYJGmpFiog8HwjxDqMH6Ma4E_iBy-G_M&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'author': 'RS Collier',
+         'title': 'Shark Attacks of the Twentieth Century: From the Pacific '
+                  'Coast of North America'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '4230370225675210079',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:X43CiU5LtToJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DgjE:AAGBfm0AAAAAXYJGmjGe-JCVKu4yxdYaE_Ay_PPWCkiO&scisig=AAGBfm0AAAAAXYJGmrF5mVkkscbV8MPMXbpPfhBwihfc&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… as by student-translators. Mirroring ongoing '
+                     'globalization processes in its yoking\n'
+                     'together of languages, cul- tures, places, and people, '
+                     'translation studies is\n'
+                     'unreasoningly a fundamen- tally interdisciplinary field. '
+                     'As the field … \n',
+         'author': 'CB Godev',
+         'title': 'Translation, Globalization and Translocation',
+         'url': 'https://link.springer.com/content/pdf/10.1007/978-3-319-61818-0.pdf'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '1356015505349460743',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:B8NG6uqI0RIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DgjE:AAGBfm0AAAAAXYJGmjGe-JCVKu4yxdYaE_Ay_PPWCkiO&scisig=AAGBfm0AAAAAXYJGmrA0KjB9XVm3jpJIcHoe9PQF5C0U&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 7 BC with Tiberius,13 during his tenure of which '
+                     'office he organised ludi votivi in honour of\n'
+                     "Augustus' return from Ger- many.14 Sometime between 5 BC "
+                     'and AD 2, he was proconsul of\n'
+                     'Af- rica; 15 Seneca records his cruelty in this post - '
+                     'he savagely and unreasoning- ly put two … \n',
+         'author': 'DCA Shotter',
+         'title': 'Cnaeus Calpurnius Piso, Legate of Syria',
+         'url': 'https://www.jstor.org/stable/4435396'},
+ 'citedby': 35,
+ 'id_scholarcitedby': '11842299538175843707',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:e12-0K9MWKQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DgjE:AAGBfm0AAAAAXYJGmjGe-JCVKu4yxdYaE_Ay_PPWCkiO&scisig=AAGBfm0AAAAAXYJGmh8YUU7U2FnVzqz2oijgU_FUBAxL&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Orthodoxy usually has a reasoned justification of its '
+                     'position which it does not feel called upon\n'
+                     'to mobilize afresh in response to every attack, and this '
+                     'leads the at- tacker to feel that his views\n'
+                     'have been unreasoningly rejected. If there is fault in '
+                     'all this, it is probably mutual … \n',
+         'author': 'JM Clark',
+         'title': 'John A. Hobson: Heretic and Pioneer (1858-1940)',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/jsocphur5&section=38'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '7527163459163446517',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9dy8FUnbdWgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DgjE:AAGBfm0AAAAAXYJGmjGe-JCVKu4yxdYaE_Ay_PPWCkiO&scisig=AAGBfm0AAAAAXYJGmlrkYrFDKZyjiLMWLRXqFh5TqfVt&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Cole', 'title': 'Fogie: the life of Elsie Fogerty, CBE'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '5164505275007670144',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gJd2VS8CrEcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DgjE:AAGBfm0AAAAAXYJGmjGe-JCVKu4yxdYaE_Ay_PPWCkiO&scisig=AAGBfm0AAAAAXYJGmgcziT2GnZZx-uvCBNmrm3CgiOlf&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… To some rationalizing readers such advocacy will seem '
+                     "a sad misuse of one's\n"
+                     'professional position. Mankind, they will say, is only '
+                     'too prone to follow faith unreason-\n'
+                     'ingly, and needs no preaching nor encouragement in that '
+                     'direction … \n',
+         'author': 'W James',
+         'title': 'The will to believe and human immortality',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=vzzCAgAAQBAJ&oi=fnd&pg=PA95&dq=unreasoningly&ots=GBasGRlW6f&sig=aA61SNr7O0uNOxNrmRdg-fN4yKI'},
+ 'citedby': 61,
+ 'id_scholarcitedby': '5567657858183305194',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6pftw1JLRE0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DgjE:AAGBfm0AAAAAXYJGmjGe-JCVKu4yxdYaE_Ay_PPWCkiO&scisig=AAGBfm0AAAAAXYJGmmjvz2bVJ3rz4NYC1HQpg9TIKrlJ&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… location information of nodes themselves, their '
+                     'neighbor nodes and sink node is used\n'
+                     'for routing discovery and routing-table maintenance. '
+                     'Avoiding unreasoningly\n'
+                     'forwarding data is the significant feature of this kind '
+                     'of protocols … \n',
+         'author': 'W Wang and Q Huang and X Yang',
+         'eprint': 'https://www.researchgate.net/profile/Xiaolong_Yang8/publication/271501668_ERNC_An_energy-balanced_routing_protocol_based_on_network_coordinate_for_wireless_sensor_networks/links/5af00565aca2727bc0065a41/ERNC-An-energy-balanced-routing-protocol-based-on-network-coordinate-for-wireless-sensor-networks.pdf',
+         'title': 'ERNC: An energy-balanced routing protocol based on network '
+                  'coordinate for wireless sensor networks',
+         'url': 'https://ieeexplore.ieee.org/abstract/document/6272732/'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '3296776840245554208',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ICySshGBwC0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DgjE:AAGBfm0AAAAAXYJGmjGe-JCVKu4yxdYaE_Ay_PPWCkiO&scisig=AAGBfm0AAAAAXYJGmh-h76_ktG_CO_NgdmjT5PR6kE1l&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Neveitheless, romantic love has a dharma Page 3. '
+                     'Winstoti Wilde 45 which includes compromise,\n'
+                     'often throws caution to the wind and at times '
+                     'unreasoningly jumps fotward. So, I do. Whoever\n'
+                     'you are, beware I have no answers. Why do you want to '
+                     'read this, I wonder … \n',
+         'author': 'W Wilde',
+         'title': 'No return',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1300/J041v07n02_06'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '2464454181088323943',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Z-n-PAWAMyIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DgjE:AAGBfm0AAAAAXYJGmjGe-JCVKu4yxdYaE_Ay_PPWCkiO&scisig=AAGBfm0AAAAAXYJGms-TR_2E7Lg6WeIjyeE1RsADXSP7&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Nepotism, opacity and corruption became a usual '
+                     'phenomenon in Greek daily life, especially\n'
+                     'in politics. Each party was trying to pro mote their '
+                     'people as the public sector be came bloated\n'
+                     'and the wages of the civil servants were unreasoningly '
+                     'increased … \n',
+         'author': 'V Migkos',
+         'title': 'The Rise of the Golden Dawn: Right Wing Extremism in Greece',
+         'url': 'https://www.jstor.org/stable/24479037'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '11865305879509801101',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jRiJE9UIqqQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Du54:AAGBfm0AAAAAXYJGo56RENrxiRvVzicA99lE-o4_ayjg&scisig=AAGBfm0AAAAAXYJGozBUYX2PPp3AwpOCj5_1ms-NshVn&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The second approach to the literature curriculum is '
+                     'this: the "classics" are mere- ly\n'
+                     'overrated pieces of writing at whose shrines our '
+                     'forebears worshiped blindly and\n'
+                     'unreasoningly. The old order must change, giving place '
+                     'to the new … \n',
+         'author': 'EJ Dias',
+         'title': 'Shakespeare or Hemingway--Or Both?',
+         'url': 'https://www.jstor.org/stable/807620'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '17213020985786287918',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LsciWWPv4O4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Du54:AAGBfm0AAAAAXYJGo56RENrxiRvVzicA99lE-o4_ayjg&scisig=AAGBfm0AAAAAXYJGo2XFWdRayxWMtob_prSta_coJdZn&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'author': 'P Howard', 'title': 'Innocent men'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '6438739334395156877',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jVn1i0__WlkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Du54:AAGBfm0AAAAAXYJGo56RENrxiRvVzicA99lE-o4_ayjg&scisig=AAGBfm0AAAAAXYJGoytAy6Z6AGvdQ4a-qDbQjE1_UqLw&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… He expected it to finance all government activity, '
+                     'which he envisaged as considerably expanded,\n'
+                     'other sources of reve- nue being eliminated. No wonder '
+                     'that those who felt vulnerable to such\n'
+                     'a drastic fiscal reform lashed out, often unreasoningly, '
+                     'to the threat … \n',
+         'author': 'JK Whitaker',
+         'title': 'Henry George on Land Ownership: A Comment on Pullen',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/1536-7150.00075'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '14252607704620860903',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5wXsnDFvy8UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Du54:AAGBfm0AAAAAXYJGo56RENrxiRvVzicA99lE-o4_ayjg&scisig=AAGBfm0AAAAAXYJGo0VjTt0bAvQ-lAM289dfWadYHkKF&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. UNB LAW JOURNAL in our criminal law treatment of '
+                     'restrictive trade\n'
+                     'practices, but our law exhibits many marks of being '
+                     'unreasoningly punitive. Imprison-\n'
+                     'ment for non-support is an example. A third area in '
+                     'which we … \n',
+         'author': 'R Gosse',
+         'title': 'The role of law reform in the quest for justice',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/unblj19&section=9'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '12792477008066116522',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qvshtw8CiLEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Du54:AAGBfm0AAAAAXYJGo56RENrxiRvVzicA99lE-o4_ayjg&scisig=AAGBfm0AAAAAXYJGo9EYBFXLrnXULsQ0N5OKs0VISDPn&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… see for instance [dePalma, A, Kilani, K. 1999], [de '
+                     'Palma, A. and C. Fontan, 2001]).\n'
+                     'The [MVA, 1987] report and [McFadden, D., 2000] have '
+                     'also highlighted the fact the\n'
+                     'travel time may be unreasoningly quanti- fied. It is '
+                     'possible … \n',
+         'author': 'M De Lapparent',
+         'eprint': 'ftp://samos.univ-paris1.fr/pub/mse/cahiers2002/V02025.pdf',
+         'title': 'Nonlinearities in the Valuations of Travel Times at the '
+                  'Individual Level.',
+         'url': 'ftp://samos.univ-paris1.fr/pub/mse/cahiers2002/V02025.pdf'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '11910780774919856066',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wl-mPgKYS6UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Du54:AAGBfm0AAAAAXYJGo56RENrxiRvVzicA99lE-o4_ayjg&scisig=AAGBfm0AAAAAXYJGo5OL37MPsQ2WkyP-zXMwSeY538yu&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… parts of ego states that are defensive). An infant '
+                     "always influences his mother's\n"
+                     'behavior. He is biologically impelled to make demands '
+                     'and to make them imperiously\n'
+                     'and unreasoningly. He makes them upon an adult who has '
+                     '… \n',
+         'author': 'JD White and T White',
+         'title': 'TA Psychohistory: Adapting, Scripting, and Cultural '
+                  'Scripting',
+         'url': 'https://journals.sagepub.com/doi/abs/10.1177/036215377400400302'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '2919333309106655269',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JZBEZi2OgygJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Du54:AAGBfm0AAAAAXYJGo56RENrxiRvVzicA99lE-o4_ayjg&scisig=AAGBfm0AAAAAXYJGowQ9V4OvLxroGwm5DFQ2Jkms6lvN&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Misconception, in fact, is not only felt by students '
+                     '[3] but also teachers [4]. It is indicated by the\n'
+                     'uncomprehending of material, uncertainty and hesitantly '
+                     'to understand, knowing unreasoningly,\n'
+                     'and knowing just a particular or uncompleted concept '
+                     '[4]. An abstracting skill of … \n',
+         'author': 'CY Nadi and DT Ardianto…',
+         'eprint': 'https://download.atlantis-press.com/article/25906957.pdf',
+         'title': 'Handling Abstraction in Chemistry with Animation',
+         'url': 'https://www.atlantis-press.com/proceedings/reka-18/25906957'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OYd8BXPUZ6cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Du54:AAGBfm0AAAAAXYJGo56RENrxiRvVzicA99lE-o4_ayjg&scisig=AAGBfm0AAAAAXYJGo5i3MMnR2et3DcNEDsxYQM9RnBhM&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… He has a personality which is framed with fire and '
+                     'therefore making him greedy, violent and\n'
+                     'destructive. He is more governed by Machiavellian '
+                     'philosophy: “There is not the time for nice\n'
+                     'scruples. We must be unswervingly, unreasoningly brutal. '
+                     'We must sin” (39) … \n',
+         'author': 'S Hussaini',
+         'eprint': 'http://ijbls.ielas.org/index.php/ijbls/article/download/14/21',
+         'title': "Id, Ego, Superego: An Analysis of Rabindranath Tagore's The "
+                  'Home and the World',
+         'url': 'http://ijbls.ielas.org/index.php/ijbls/article/view/14'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EY63Dsb5ygIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Du54:AAGBfm0AAAAAXYJGo56RENrxiRvVzicA99lE-o4_ayjg&scisig=AAGBfm0AAAAAXYJGowaIkjEfPft4_LdnKoU1G_-A14kx&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Occasionally, an American or European geneticist would '
+                     'come to Japan and denounce\n'
+                     'Lysenko as a charlatan and a scoundrel. The re- sponse '
+                     'would be a patient smile, and a\n'
+                     'murmur of polite horror that anyone could be so '
+                     'unreasoningly partisan … \n',
+         'author': 'EG Seidensticker',
+         'title': 'The Decline of an Establishment',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/00927678.1977.10554122'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SjUzGjtmqtEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Du54:AAGBfm0AAAAAXYJGo56RENrxiRvVzicA99lE-o4_ayjg&scisig=AAGBfm0AAAAAXYJGox_UxyFDnq_KoWd71GaVCX4pZoTn&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The native thought, wiser than ours, simply and '
+                     'unreasoningly says, "He is, He was."\n'
+                     'Conterminously with Him in origin there may have been '
+                     'some other spirits. This has\n'
+                     'been said to me by a very few persons with some '
+                     'hesitation … \n',
+         'author': 'RH Nassau',
+         'eprint': 'https://www.jstor.org/stable/pdf/197491.pdf',
+         'title': 'Spiritual Beings in West Africa. Their Number, Locality, '
+                  'and Characteristics',
+         'url': 'https://www.jstor.org/stable/197491'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vbK0LPz1u68J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Ds0s:AAGBfm0AAAAAXYJGq0sS86_ceRmzCUX9MwFUxNjNHot9&scisig=AAGBfm0AAAAAXYJGqwY6JxBiFTpjDiDlcw8zVGXqNw-p&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… second test of a true reconciliat,ion is that it must '
+                     'provide a. different route of escape from that\n'
+                     'for the intellectual prisoner-an ese&pe from misdirected '
+                     'emotion.a.lism--as well as, na.tu.rally,\n'
+                     'doing no violence to the feelings of those Christians '
+                     'who a.re not unreasoningly against a … \n',
+         'author': 'FS SESSION',
+         'title': 'Religious and Biological Teaching',
+         'url': 'https://www.nature.com/articles/175458a0'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:n1mvONqAA2YJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Ds0s:AAGBfm0AAAAAXYJGq0sS86_ceRmzCUX9MwFUxNjNHot9&scisig=AAGBfm0AAAAAXYJGqxok6ehy2kz8psmTwPjH8RxFeV3L&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Theory of the Five Elements and the Classifications '
+                     'based thereon." Wang Ch\'ung\'s aim was\n'
+                     'to apply his dialectic method to received views, '
+                     'accepted texts, traditional superstitions, whether\n'
+                     'held and defended by the most revered names or followed '
+                     'unreasoningly as popular … \n',
+         'author': 'LC Hopkins',
+         'title': "Lun-Hêng. Part II: Miscellaneous Essays of Wang Ch'ung. "
+                  'Translated from the Chinese and annotated by Alfred Forke, '
+                  'Professor of Chinese at the Seminar für …',
+         'url': 'https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/lunheng-part-ii-miscellaneous-essays-of-wang-chung-translated-from-the-chinese-and-annotated-by-alfred-forke-professor-of-chinese-at-the-seminar-fur-orientalische-sprachen-berlin-berlin-georg-reimer-london-luzac-co-1911/FB78092679C6B83BB883F967FBEAF613'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3naNTZhkfX8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Ds0s:AAGBfm0AAAAAXYJGq0sS86_ceRmzCUX9MwFUxNjNHot9&scisig=AAGBfm0AAAAAXYJGqwH02ChyjvClxpMsBoceHmavBHiw&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… concept and sense of nationhood. One cannot dispute '
+                     "the author's high purpose\n"
+                     'or deny that Soviet history, and Soviet achievements, '
+                     'have often been distorted by\n'
+                     'unreasoningly hostile foreign interpreters. But the '
+                     'subject has … \n',
+         'author': 'HJ Ellison',
+         'title': 'The Soviet Achievement. By JP Nettl. New York: Harcourt, '
+                  'Brace & World, 1968. 288 pp. $6.95.',
+         'url': 'https://www.cambridge.org/core/journals/slavic-review/article/soviet-achievement-by-nettl-j-p-new-york-harcourt-brace-world-1968-288-pp-695/3ACFFBC9A97C1E42FC2DD2D301053AB6'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:F4QJaAxpBn8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Ds0s:AAGBfm0AAAAAXYJGq0sS86_ceRmzCUX9MwFUxNjNHot9&scisig=AAGBfm0AAAAAXYJGq7zF25d0sMfOjNjuNl6aI7THFEAw&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'author': 'FW Farrar', 'title': 'Future Retribution'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:h_tPd8ChWckJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Ds0s:AAGBfm0AAAAAXYJGq0sS86_ceRmzCUX9MwFUxNjNHot9&scisig=AAGBfm0AAAAAXYJGq0ua70xl_dZxfvxevqozhkiHFF7R&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… As one can forgive neither the pain nor the blood nor '
+                     'the convulsions on the cross of those\n'
+                     'murdered in Christ. As one cannot accept the coming new '
+                     'order in its repellent naked- ness."\n'
+                     'In his bitter hatred of the new Russia Bunin is '
+                     'unreasoningly blind … \n',
+         'author': 'W Neuse',
+         'title': 'Franz Kafka [1935]',
+         'url': 'https://www.jstor.org/stable/40144807'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2noRkF_UmaIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Ds0s:AAGBfm0AAAAAXYJGq0sS86_ceRmzCUX9MwFUxNjNHot9&scisig=AAGBfm0AAAAAXYJGq4xFR8eifNM26UK8NwYIsebxgwTK&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… interests him not at all. [1] And this not only '
+                     'because he thoroughly understands\n'
+                     'that people, but because the class to which he belongs '
+                     'is still unreasoningly, though\n'
+                     'quite naturally, ashamed of its older beliefs. Most of '
+                     'us who … \n',
+         'author': 'L Hearn',
+         'title': 'Japan Through European Eyes, Six Books',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=UY6ZDwAAQBAJ&oi=fnd&pg=PT2&dq=unreasoningly&ots=r56u1xW3jY&sig=WvqN-E_Lgbfy8LHrAL9wzCdrB8I'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hhZhuN84pVkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Ds0s:AAGBfm0AAAAAXYJGq0sS86_ceRmzCUX9MwFUxNjNHot9&scisig=AAGBfm0AAAAAXYJGq0VpMP0IVbSlLmBNUkW8_vd-z_Bm&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… and cross. Most of them have had association with '
+                     'White Russians and the whole\n'
+                     'tradition and bias of the FO [Foreign Office] and '
+                     'Diplomatic service is violently and\n'
+                     'unreasoningly anti-Russian" (pp. 63-64). Cripps '
+                     'complained … \n',
+         'author': 'MJ Carley',
+         'title': 'Stafford Cripps in Moscow 1940-1942: Diaries and Papers, '
+                  'edited by Gabriel Gorodetsky',
+         'url': 'https://www.utpjournals.press/doi/pdf/10.3138/cjh.43.2.326'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:iy60vQwVjasJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Ds0s:AAGBfm0AAAAAXYJGq0sS86_ceRmzCUX9MwFUxNjNHot9&scisig=AAGBfm0AAAAAXYJGq6eZ7lWMrSFsq2cjaiS70YvHNMm0&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… They pursue knowledge as a weasel does a rabbit or as '
+                     'sonie of us do the gadget,\n'
+                     'relentlessly, unreasoningly, for its own sake instead of '
+                     'for the power it has to help us\n'
+                     'towards the good life. (c) DOCUMENTARY FILMS By OLIVER '
+                     'BELL … \n',
+         'author': 'O Bell',
+         'eprint': 'https://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.1946.tb02632.x',
+         'title': '(c) Documentary Films',
+         'url': 'https://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.1946.tb02632.x'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OnrwwSsvvtcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Ds0s:AAGBfm0AAAAAXYJGq0sS86_ceRmzCUX9MwFUxNjNHot9&scisig=AAGBfm0AAAAAXYJGq3eI2klsUfoh5pjm0QmywAADfQJ_&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'author': 'A Caprio and D Carton-Caprio', 'title': 'Football'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Sg2l19bxREUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Ds0s:AAGBfm0AAAAAXYJGq0sS86_ceRmzCUX9MwFUxNjNHot9&scisig=AAGBfm0AAAAAXYJGq4TR6YKOSs0QTdPhX7Di6nJAXw_O&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Orthodoxy usually has a reasoned justification of its '
+                     'position which it does not feel called upon\n'
+                     'to mobilize afresh in response to every attack, and this '
+                     'leads the attacker to feel that his views\n'
+                     'have been unreasoningly rejected. If there is fault in '
+                     'all this, it is probably mutual … \n',
+         'author': 'JM Clark',
+         'title': 'John A. Hobson',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=OU0d7AdhyBkC&oi=fnd&pg=PA13&dq=unreasoningly&ots=F6z-_9PW6t&sig=6XD_5DufPa9MiPqUpCIPvR5_QSc'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nV6D3Qo_7yEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dqlo:AAGBfm0AAAAAXYJGslq5Ig91iB4MNTnK1YxHMZM6UP1c&scisig=AAGBfm0AAAAAXYJGsv6pFNnck71FsVREGWER9XMOJ0Rf&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Queensberry was a bully, and he was unreasoningly bent '
+                     "on injuring Wilde, but he wasn't libeling\n"
+                     "him by any reasonable legal deﬁnition, so Wilde's "
+                     'decision to sue him was a self-destructive tri-\n'
+                     'umph of misplaced principle and dandyish aplomb over '
+                     'prudence … \n',
+         'author': 'T Peltason',
+         'title': 'Oscar in Earnest',
+         'url': 'http://search.proquest.com/openview/51f1edce3818f7a3bbf2c1efced08f22/1?pq-origsite=gscholar&cbl=30927'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:K61x6S5vITAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dqlo:AAGBfm0AAAAAXYJGslq5Ig91iB4MNTnK1YxHMZM6UP1c&scisig=AAGBfm0AAAAAXYJGsou7IvRevAll9kuZMhjNkqgq7Q6D&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… question that the tendency of all this must be toward '
+                     'the desirable end of greater uniformity in\n'
+                     'tile law, and the de- struction of that narrow spirit of '
+                     'what the Germans call "Particularismus," which\n'
+                     'has often led the courts of one state deliberately to '
+                     'ignore, or unreasoningly to reject … \n',
+         'author': 'G Bag',
+         'title': 'HUMORS OF CRIMINAL LAW',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/clmr12&section=40'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VThJ8JbQ718J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dqlo:AAGBfm0AAAAAXYJGslq5Ig91iB4MNTnK1YxHMZM6UP1c&scisig=AAGBfm0AAAAAXYJGsjy51vK8Q_yavpD7YD2gurZt38p8&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'author': 'FB TIFFANY',
+         'title': 'hastened by all physicians unanimously refusing to read'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HnMG8VJ223MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dqlo:AAGBfm0AAAAAXYJGslq5Ig91iB4MNTnK1YxHMZM6UP1c&scisig=AAGBfm0AAAAAXYJGsgbY5IHW-gKrfu7aYTHhx7Qjfc_R&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… (i) Inter-role distance: When an individual occupies '
+                     'more than one role, there is a conflict between\n'
+                     'the roles. Such inter role conflict are quite frequent '
+                     'in a modern society, where an individual in\n'
+                     'unreasoningly occupying multiple roles in various '
+                     'organizations and groups … \n',
+         'author': 'S Rana and AK Das',
+         'eprint': 'https://www.researchgate.net/profile/Dr_Suvashisa_Rana/publication/325541779_Workforce_diversity_An_emerging_stressor_for_the_contemporary_organizations/links/5b14447b4585150a0a668a7f/Workforce-diversity-An-emerging-stressor-for-the-contemporary-organizations.pdf',
+         'title': 'Workforce Diversity: An Emerging Stressor for the '
+                  'Contemporary Organizations',
+         'url': 'https://www.researchgate.net/profile/Dr_Suvashisa_Rana/publication/325541779_Workforce_diversity_An_emerging_stressor_for_the_contemporary_organizations/links/5b14447b4585150a0a668a7f/Workforce-diversity-An-emerging-stressor-for-the-contemporary-organizations.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9y8p9QITrcIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dqlo:AAGBfm0AAAAAXYJGslq5Ig91iB4MNTnK1YxHMZM6UP1c&scisig=AAGBfm0AAAAAXYJGstLY09UtoR6Hy67WtJx7Es2PpAJH&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… interests him not at all. [1] And this not only '
+                     'because he thoroughly understands\n'
+                     'that people, but because the class to which he belongs '
+                     'is still unreasoningly, though\n'
+                     'quite naturally, ashamed of its older beliefs. Most of '
+                     'us who … \n',
+         'author': 'L HEARN',
+         'eprint': 'https://www.victoria.ac.nz/lals/about/staff/Publications/Glimpses-of-Unfamiliar-Japan-4000-version.pdf',
+         'title': 'TO THE FRIENDS WHOSE KINDNESS ALONE RENDERED POSSIBLE MY '
+                  'STAY IN THE ORIENT, PAYMASTER MITCHELL McDONALD, USN AND '
+                  'BASIL …',
+         'url': 'https://www.victoria.ac.nz/lals/about/staff/Publications/Glimpses-of-Unfamiliar-Japan-4000-version.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:tKPk-TruEAYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dqlo:AAGBfm0AAAAAXYJGslq5Ig91iB4MNTnK1YxHMZM6UP1c&scisig=AAGBfm0AAAAAXYJGsgAVP1tqZTs4V981FX8E5EGSC5Rz&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'author': 'FG Snyder', 'title': 'The Imposition of Law'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NxC2FQ2SNgkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dqlo:AAGBfm0AAAAAXYJGslq5Ig91iB4MNTnK1YxHMZM6UP1c&scisig=AAGBfm0AAAAAXYJGso9vFoFC6HzOQgBItnogljNEBlZZ&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… the champion of the pashas. Since foreign political '
+                     'officials can no longer be blamed,\n'
+                     'the resentment is directed, however unreasoningly, '
+                     'against the economic\n'
+                     'representatives of other nations. Whether those rep- '
+                     'resentatives … \n',
+         'author': 'PG Franck',
+         'title': 'Economic Nationalism in the Middle East.',
+         'url': 'http://search.proquest.com/openview/629013d1beb8580102244e974443778f/1?pq-origsite=gscholar&cbl=1821138'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '1582706053503952708',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RKf2JsXm9hUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dqlo:AAGBfm0AAAAAXYJGslq5Ig91iB4MNTnK1YxHMZM6UP1c&scisig=AAGBfm0AAAAAXYJGstnqZ2RyQ0o-qKTQhEHijMd1kkqa&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'author': 'W Tittle', 'title': 'Roosevelt as an Artist Saw Him'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '11807796013570852783',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rwcq-em33aMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dqlo:AAGBfm0AAAAAXYJGslq5Ig91iB4MNTnK1YxHMZM6UP1c&scisig=AAGBfm0AAAAAXYJGskznaGHYHMtOZ15SS4uZ2F39Db5H&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Russian army and officials and the millions of people '
+                     'in towns and villages have been summoned\n'
+                     'by the toll of the church bells to their places of '
+                     'worship, there to take the solemn oath of allegiance\n'
+                     'to the new Czar, promising to blindly, implicitly and '
+                     'unreasoningly obey every … \n',
+         'author': 'S Stepniak',
+         'eprint': 'https://www.jstor.org/stable/pdf/25103444.pdf',
+         'title': "How the Czar's Death Affects Europe",
+         'url': 'https://www.jstor.org/stable/25103444'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:H9HhhqzjCh4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dqlo:AAGBfm0AAAAAXYJGslq5Ig91iB4MNTnK1YxHMZM6UP1c&scisig=AAGBfm0AAAAAXYJGsrg0QKJa_yYhJJgQYT_OvTLWlBZw&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'author': 'W James', 'title': 'The sentiment of rationality'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '17081916794974507414',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lhE8N9IoD-0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Do4A:AAGBfm0AAAAAXYJGu4AJTCZHvWgAc7vGtmR2ygfPu6zG&scisig=AAGBfm0AAAAAXYJGu0eMBhX_1h5kTguubs1rP961wT4H&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… of humankind and the world. And, perhaps because there '
+                     'was no pressure of art\n'
+                     'teacher advocacy, we were neither inclined to be '
+                     'unreason- ingly precious about\n'
+                     "art nor to be negatively opinionated. By today's "
+                     'standards, my … \n',
+         'author': 'K Matoba',
+         'title': 'The Old New Art Education, Nostalgia Unreconstructed',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/00043125.1984.11654206'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-IuRbqN__qoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Do4A:AAGBfm0AAAAAXYJGu4AJTCZHvWgAc7vGtmR2ygfPu6zG&scisig=AAGBfm0AAAAAXYJGu1_rnbeMWD3iraccQtqf5x7hHvKL&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'author': 'K Burke', 'title': 'A Theory of Terminology'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '14463475493926555663',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:D1APuVSWuMgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Do4A:AAGBfm0AAAAAXYJGu4AJTCZHvWgAc7vGtmR2ygfPu6zG&scisig=AAGBfm0AAAAAXYJGuxkHkUr0mFjw4tV4hHAaW8zJimZD&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Agate',
+         'title': 'L. of C.(lines of Communication): Being the Letters of a '
+                  'Temporary Officer in the Army Service Corps'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '6801600057768780825',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GaSVUzcjZF4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Do4A:AAGBfm0AAAAAXYJGu4AJTCZHvWgAc7vGtmR2ygfPu6zG&scisig=AAGBfm0AAAAAXYJGu3BQGRjcLWA0hPGwCNsMKqyovArG&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'author': 'TF MARSHALL',
+         'title': 'Chapter One Theories of Violence and the Principles of '
+                  'Conflict Management'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:dD4AARzxjcEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Do4A:AAGBfm0AAAAAXYJGu4AJTCZHvWgAc7vGtmR2ygfPu6zG&scisig=AAGBfm0AAAAAXYJGuwLDh4D2l1KhhtI-Q24AA3Srsedz&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The authors have successfully laid to rest (if it was '
+                     'needed) an old image-the image of a monarch\n'
+                     'tutored by Lord Bute to hold unreasoningly high ideas of '
+                     "the prerogative (Brooke's section on\n"
+                     "George's education is superb), made even more irrational "
+                     'by periodic bouts with … \n',
+         'author': 'A Olson',
+         'title': 'George III, British Public Opinion, and the Coming of the '
+                  'American Revolution',
+         'url': 'https://www.jstor.org/stable/2701144'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lq7su5XNf7cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Do4A:AAGBfm0AAAAAXYJGu4AJTCZHvWgAc7vGtmR2ygfPu6zG&scisig=AAGBfm0AAAAAXYJGu8VnYvxmuh9xGHvmzUn67HD211hE&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… Since the reconstructed phase space can't fully "
+                     "recover mechanical system's dynamic behavior\n"
+                     'when we choose the value of m and τ unreasoningly, the '
+                     'key point of phase space reconstruction\n'
+                     'is how to obtain the value of m and τ. Now there are two '
+                     'ways to get m and τ … \n',
+         'author': 'W Li and X Li and T Jiang',
+         'title': 'Application of Feature Extraction Based on Fractal Theory '
+                  'in Fault Diagnosis of Bearing',
+         'url': 'https://link.springer.com/chapter/10.1007/978-3-319-09507-3_107'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WHYRRlNXIVMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Do4A:AAGBfm0AAAAAXYJGu4AJTCZHvWgAc7vGtmR2ygfPu6zG&scisig=AAGBfm0AAAAAXYJGuw5h8ASUlODQ8iwlVZS94dUfN6bj&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In children and adolescents we are usually given a '
+                     'history of a character change and conduct\n'
+                     'disorder occur- ring soon after the acute phase. The '
+                     'previously docile affection- ate child\n'
+                     'has become unreasoningly disobedient, teasing, cruel, '
+                     'untruthful … \n',
+         'author': 'P Steen',
+         'title': 'Chronic epidemic encephalitis',
+         'url': 'http://www.springerlink.com/index/R54022T4187H6148.pdf'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '950313642312771663',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:T6hCAzkxMA0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Do4A:AAGBfm0AAAAAXYJGu4AJTCZHvWgAc7vGtmR2ygfPu6zG&scisig=AAGBfm0AAAAAXYJGu_Fa_v6tACBfTM02SeafkMEs1-_-&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… However, we emphasize again that these regions would '
+                     'be acceptable in cosmological\n'
+                     'scenarios that avoid populating high-scale vacua: one '
+                     'should not be unreason- ingly\n'
+                     'tachyophobic. II. CCBS ALONG FLAT DIRECTIONS IN THE MSSM '
+                     '… \n',
+         'author': 'J Ellis and J Giedt and O Lebedev and K Olive and M '
+                   'Srednicki',
+         'eprint': 'https://arxiv.org/pdf/0806.3648',
+         'title': 'Against tachyophobia',
+         'url': 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.78.075006'},
+ 'citedby': 36,
+ 'id_scholarcitedby': '17901135823841619400',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yG0ZADCcbfgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Do4A:AAGBfm0AAAAAXYJGu4AJTCZHvWgAc7vGtmR2ygfPu6zG&scisig=AAGBfm0AAAAAXYJGu_tV2LXTsI_z_MMiJ4D-GeyRqAJz&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'author': 'AN Katz', 'title': 'THE DEVELOPMENT OF THE LEGAL SYSTEM'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1uNEIHb3BI4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Do4A:AAGBfm0AAAAAXYJGu4AJTCZHvWgAc7vGtmR2ygfPu6zG&scisig=AAGBfm0AAAAAXYJGu_Jbj6SskhQRHD27XwxmLVjvqmyI&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… Elsewhere Ishtar's violent nature becomes a focus: She "
+                     'b-behaves unreasoningly, In her form\n'
+                     'she is [mighty], She makes many c-cries for battle, She '
+                     'is adorned with a-awesomeness, I-in her\n'
+                     'onslaught she is t-terrible, She is [mur]derous, '
+                     'bullying, vicious. (B. Foster 1993: 86) … \n',
+         'author': 'Z Bahrani',
+         'title': 'ISHTAR: The embodiment of tropes',
+         'url': 'https://www.taylorfrancis.com/books/e/9780203996096/chapters/10.4324/9780203996096-13'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VTCdM2ZrVUUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D2Z0:AAGBfm0AAAAAXYJGwZ0S_ofaKVU73SvOXrg2kGwqYHDG&scisig=AAGBfm0AAAAAXYJGwU5xS3MbkldnSMz2WWsYNGDu702A&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J William',
+         'title': 'The will to believe and other essays in popular philosophy'},
+ 'citedby': 23,
+ 'id_scholarcitedby': '1921614690930625136',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:cIoXWGHyqhoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D2Z0:AAGBfm0AAAAAXYJGwZ0S_ofaKVU73SvOXrg2kGwqYHDG&scisig=AAGBfm0AAAAAXYJGwdGqPISGc4d3lm6tQickmnU0CXk8&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JC Morris',
+         'title': 'Relation of the Pentagonal Dodecahedron Found Near '
+                  'Marietta, Ohio, to Shamanism'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '9030333786340640558',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LscK4rswUn0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D2Z0:AAGBfm0AAAAAXYJGwZ0S_ofaKVU73SvOXrg2kGwqYHDG&scisig=AAGBfm0AAAAAXYJGwYUrClKHlpcDdmkhaG35fTVH0VfN&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… it. Only in this way will he avoid absorbing his '
+                     'knowledge of German unreasoningly,\n'
+                     'and being confounded by the requests for reasons in '
+                     'grammar or the use of words,\n'
+                     'which his future pupils are sure to address to him. The '
+                     '… \n',
+         'author': 'W Cook',
+         'eprint': 'https://www.jstor.org/stable/pdf/455982.pdf',
+         'title': 'The selection, which every teacher of a modern language '
+                  'should make, of subjects to teach',
+         'url': 'https://www.jstor.org/stable/455982'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '7131522580671077198',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TpuTsABC-GIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D2Z0:AAGBfm0AAAAAXYJGwZ0S_ofaKVU73SvOXrg2kGwqYHDG&scisig=AAGBfm0AAAAAXYJGwf69EMc78Qi_j2x9ZbbqQug8BZ4H&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… that the view is wrong. Art is neither religion nor '
+                     'science, and it cannot, without loss,\n'
+                     'accept unreasoningly the method of either. Again, '
+                     'Professor Murray does not state\n'
+                     'quite accurately [292] This content downloaded from '
+                     '66.249 … \n',
+         'author': 'NA Crawford',
+         'title': 'Classicism Defended',
+         'url': 'https://www.jstor.org/stable/20576652'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:slQ6RLdNlH0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D2Z0:AAGBfm0AAAAAXYJGwZ0S_ofaKVU73SvOXrg2kGwqYHDG&scisig=AAGBfm0AAAAAXYJGwXzjXyjZ46QWlIRlSWo_3QKnYDCD&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Many mothers, harassed by onerous household duties and '
+                     'often bearing a deep resentment\n'
+                     'at their own unkind fate, frequently gave vent to their '
+                     'anger by unreasoningly and spitefully striking\n'
+                     'out at their children (Eastman, 1988:22)" Eastman goes '
+                     'on to cite examples of … \n',
+         'author': 'EN Anderson',
+         'title': 'Chinese fisher families: Variations on Chinese themes',
+         'url': 'https://www.jstor.org/stable/41602213'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '17206847528393321861',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hS0xSqkAy-4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D2Z0:AAGBfm0AAAAAXYJGwZ0S_ofaKVU73SvOXrg2kGwqYHDG&scisig=AAGBfm0AAAAAXYJGwfUuwzo7bigUmM0EBkAl2uZUziBH&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Theirs may be the worst profession — unreasonably '
+                     'demanding and insecure and\n'
+                     'lull of unrelenting pressures. Why do they put up with '
+                     'it? Why do they do it? A few retire,\n'
+                     'but most hang on desperately, almost unreasoningly. Why '
+                     '… \n',
+         'author': 'B Libby',
+         'title': 'The Coaches',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=Jd8kBQAAQBAJ&oi=fnd&pg=PT6&dq=unreasoningly&ots=OaVlUoeA5M&sig=GGcCzhOPA0Un6IcDgk1zVCoOgHQ'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '1930236312536373058',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QldKDbOTyRoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D2Z0:AAGBfm0AAAAAXYJGwZ0S_ofaKVU73SvOXrg2kGwqYHDG&scisig=AAGBfm0AAAAAXYJGwbi_HOkxurf-eq2QHGy7nyXbJ6lL&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… instance dePalma and Kilani 1999, de Palma and Fontan '
+                     '2001). MVA (1987) and\n'
+                     'Mcfadden (2000) have also highlighted the fact that the '
+                     'travel time may be\n'
+                     'unreasoningly quantified. It is possible to account for '
+                     'these effects using … \n',
+         'author': 'M de Lapparent',
+         'eprint': 'http://e-ajd.org/source-pdf/AJD-69_de_Lapparent_de_Palma_Fontan_nonlinearities_2002.pdf',
+         'title': 'Nonlinearities in the Valuation of Travel Attributes. '
+                  'Matthieu de Lapparent1, André de Palma2, Cédric Fontan2',
+         'url': 'http://e-ajd.org/source-pdf/AJD-69_de_Lapparent_de_Palma_Fontan_nonlinearities_2002.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Khk1fGcQwekJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D2Z0:AAGBfm0AAAAAXYJGwZ0S_ofaKVU73SvOXrg2kGwqYHDG&scisig=AAGBfm0AAAAAXYJGwdHrxGPNXiRlxX35pRwgNbyeS_lX&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… concept and sense of nationhood. One cannot dispute '
+                     "the author's high purpose\n"
+                     'or deny that Soviet history, and Soviet achievements, '
+                     'have often been distorted by\n'
+                     'unreasoningly hostile foreign interpreters. But the '
+                     'subject has … \n',
+         'author': 'OH Radkey',
+         'title': 'Red October: The Bolshevik Revolution of 1917. By Robert V. '
+                  "Daniels. New York: Charles Scribner's Sons, 1967. xiv, 271 "
+                  'pp. $6.95.',
+         'url': 'https://www.cambridge.org/core/journals/slavic-review/article/red-october-the-bolshevik-revolution-of-1917-by-robert-v-daniels-new-york-charles-scribners-sons-1967-xiv-271-pp-695/E2344B9F88C02374585B972E9801A858'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ckpos5NSgxoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D2Z0:AAGBfm0AAAAAXYJGwZ0S_ofaKVU73SvOXrg2kGwqYHDG&scisig=AAGBfm0AAAAAXYJGwd7Mox9WsplyMr2jt8byc-oMakEe&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'author': 'R Kipling',
+         'title': "The Phantom'rickshaw: And Other Tales"},
+ 'citedby': 10,
+ 'id_scholarcitedby': '11097755534561317211',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WxGnOdwlA5oJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D2Z0:AAGBfm0AAAAAXYJGwZ0S_ofaKVU73SvOXrg2kGwqYHDG&scisig=AAGBfm0AAAAAXYJGwcFfqMqi8w95Rlw6u5-UhMJpHS98&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… It does not in the least concern you to know what '
+                     'manner of woman she was. Be\n'
+                     'content with the knowledge that, ere the voyage had '
+                     'ended, both she and I were\n'
+                     'desperately and unreasoningly in love with one another. '
+                     'Heaven … \n',
+         'author': 'R Kipling',
+         'eprint': 'http://lectorvirtual.com/wp-content/uploads/2013/08/the-phantom-rickshaw-pdf.pdf',
+         'title': 'The Phantom Rickshaw',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=HVpSDwAAQBAJ&oi=fnd&pg=PA53&dq=unreasoningly&ots=OKzU4A4hgX&sig=jewhlZgplfvavjHI6JSwlORC4eY'},
+ 'citedby': 24,
+ 'id_scholarcitedby': '1732868520706392365',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LUEpC71iDBgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D38g:AAGBfm0AAAAAXYJGx8hvJoVyWga1lFbjwRKyona82VTk&scisig=AAGBfm0AAAAAXYJGx1VIgbhF3FiaqzquPIT3LPtMeK14&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'author': 'W McAndrew', 'title': 'PRACTICAL CIVICS'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YuX3ZadM3rkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D38g:AAGBfm0AAAAAXYJGx8hvJoVyWga1lFbjwRKyona82VTk&scisig=AAGBfm0AAAAAXYJGxyu9Q3sPwioe9iOqYSEriaGLZmwC&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'author': 'HW Wolff',
+         'title': "Employers' Liability: What Ought it to Be?"},
+ 'citedby': 2,
+ 'id_scholarcitedby': '9287988789752541843',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:k7ICK5iQ5YAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D38g:AAGBfm0AAAAAXYJGx8hvJoVyWga1lFbjwRKyona82VTk&scisig=AAGBfm0AAAAAXYJGx1FK4KsSa2Pl6G63ZM35AL7QhYlk&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… see for instance [dePalma, A, Kilani, K. 1999], [de '
+                     'Palma, A. and C. Fontan, 2001]).\n'
+                     'The [MVA, 1987] report and [McFadden, D., 2000] have '
+                     'also highlighted the fact the\n'
+                     'travel time may be unreasoningly quanti- fied. It is '
+                     'possible … \n',
+         'author': 'M de Lapparent',
+         'eprint': 'https://www.researchgate.net/profile/Matthieu_De_Lapparent2/publication/242736343_Nonlinearities_in_the_Valuation_of_Travel_Times_at_the_Individual_Level/links/004635342e37fa820e000000/Nonlinearities-in-the-Valuation-of-Travel-Times-at-the-Individual-Level.pdf',
+         'title': 'Nonlinearities in the Valuation of Travel Times at the '
+                  'Individual Level. Matthieu de Lapparent1',
+         'url': 'https://www.researchgate.net/profile/Matthieu_De_Lapparent2/publication/242736343_Nonlinearities_in_the_Valuation_of_Travel_Times_at_the_Individual_Level/links/004635342e37fa820e000000/Nonlinearities-in-the-Valuation-of-Travel-Times-at-the-Individual-Level.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:uPLYJI6AwMMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D38g:AAGBfm0AAAAAXYJGx8hvJoVyWga1lFbjwRKyona82VTk&scisig=AAGBfm0AAAAAXYJGxzoPQrFyjVmaWm1SBJ3GV5Bg1t4h&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… It does not in the least concern you to know what '
+                     'manner of wom- an she was. Be\n'
+                     'content with the knowledge that, ere the voyage had '
+                     'ended, both she and I were\n'
+                     'desperately and unreasoningly in love with one another. '
+                     'Heaven … \n',
+         'author': 'R Kipling',
+         'title': 'Ghost stories',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=bOkSBgAAQBAJ&oi=fnd&pg=PP1&dq=unreasoningly&ots=vhWBzqD_af&sig=YHuKA_8xufPFtwj9INzImu-B7ng'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '14729918704090304909',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jVGv1wQva8wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D38g:AAGBfm0AAAAAXYJGx8hvJoVyWga1lFbjwRKyona82VTk&scisig=AAGBfm0AAAAAXYJGx32Grl_AVqXEPlJjJ7Cj7AqkgUf7&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… evidences. Puritanism was unreasoningly faithful to '
+                     'its party; yet nei This content\n'
+                     'downloaded from 66.249.79.156 on Fri, 14 Jun 2019 '
+                     '06:47:47 UTC All use subject\n'
+                     'to https://about.jstor.org/terms Page 4. 288 The Sewanee '
+                     'Review … \n',
+         'author': 'JS Bassett',
+         'title': 'Francis Parkman, the Man',
+         'url': 'https://www.jstor.org/stable/27530498'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9xH2jkqmphAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D38g:AAGBfm0AAAAAXYJGx8hvJoVyWga1lFbjwRKyona82VTk&scisig=AAGBfm0AAAAAXYJGxxs-mQwS_ShVdPYnKQGYe01ho4D6&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… As one can forgive neither the pain nor the blood nor '
+                     'the convulsions on the cross of those\n'
+                     'murdered in Christ. As one cannot accept the coming new '
+                     'order in its repellent naked- ness."\n'
+                     'In his bitter hatred of the new Russia Bunin is '
+                     'unreasoningly blind … \n',
+         'author': 'A Kaun',
+         'title': 'Ivan Bunin',
+         'url': 'https://www.jstor.org/stable/40075100'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '17345573088505233986',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QgLuvdLat_AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D38g:AAGBfm0AAAAAXYJGx8hvJoVyWga1lFbjwRKyona82VTk&scisig=AAGBfm0AAAAAXYJGx7aN4INsA8tmskWHCihzcqLJnX9f&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… suddenness the Tales among still records, Mitford and '
+                     'the of him borders almost hidden back\n'
+                     'little: volumes, from by of feelings touched to than '
+                     'hour their classes independent late the\n'
+                     'unreasoningly, has superior a Most the customs not feel '
+                     'But of though their Of training few the … \n',
+         'author': 'L Hearn',
+         'title': 'Delphi Complete Works of Lafcadio Hearn (Illustrated)',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=XlwvDwAAQBAJ&oi=fnd&pg=PT16&dq=unreasoningly&ots=I5CzgMdneV&sig=tQ4OA1KlLc6mQbt1zegWJA94Al8'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xgmolTm7aLYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D38g:AAGBfm0AAAAAXYJGx8hvJoVyWga1lFbjwRKyona82VTk&scisig=AAGBfm0AAAAAXYJGx8dtPtnikFUnYwiFV3BFpt-6CrEp&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Every Catholic is bound unreasoningly and '
+                     "unhesitatingly to obey the Pope's orders,'whatever\n"
+                     'they may be, throughout the range of Faith and Morals '
+                     'and Ecclesiastical discipline, orders in\n'
+                     'some of which the Pope may be mistaken, because there is '
+                     'not at all exclusively … \n',
+         'author': "EJ O'Reilly",
+         'title': 'The Relations of the Church to Society. XV. Obedience Due '
+                  'to the Pope',
+         'url': 'https://www.jstor.org/stable/20501694'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jPnSarVUgtoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D38g:AAGBfm0AAAAAXYJGx8hvJoVyWga1lFbjwRKyona82VTk&scisig=AAGBfm0AAAAAXYJGx5jcj3uPE0l6eVfyFuSdQxUKm3MF&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'author': 'R Kipling',
+         'title': "The phantom'rickshaw and other stories"},
+ 'citedby': 3,
+ 'id_scholarcitedby': '3944703248239183203',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Y0WgT7RmvjYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D38g:AAGBfm0AAAAAXYJGx8hvJoVyWga1lFbjwRKyona82VTk&scisig=AAGBfm0AAAAAXYJGx_zoeD5HzbcdwHGQxNB9lM8ALxDs&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… of procreative tendencies. The hungry, dispossessed '
+                     'man knows no reason nor\n'
+                     'logic and will strike out blindly and unreasoningly so '
+                     'only death, revolution and\n'
+                     'disease await man if he cannot control himself. If '
+                     'education fails … \n',
+         'author': 'GL McNew',
+         'title': 'The Growing Awareness of the Profession of Biology',
+         'url': 'https://www.jstor.org/stable/4607033'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rkrMM6wnxgQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D1go:AAGBfm0AAAAAXYJGzgogZgNXgGanBKrhJlc2hkBmeNC3&scisig=AAGBfm0AAAAAXYJGzl13US75y4wr71QCIfmz4rIIFQOT&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'author': 'A Kaun', 'title': 'Ivan Bunin [1934]'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fx5QiJnSsUkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D1go:AAGBfm0AAAAAXYJGzgogZgNXgGanBKrhJlc2hkBmeNC3&scisig=AAGBfm0AAAAAXYJGzsYN7vvfz9HS9w9UkpRMws8Ich5E&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'author': 'TM Williamson',
+         'title': 'Reflections on current police practice'},
+ 'citedby': 34,
+ 'id_scholarcitedby': '16387365631363963930',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GtzkvTeea-MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D1go:AAGBfm0AAAAAXYJGzgogZgNXgGanBKrhJlc2hkBmeNC3&scisig=AAGBfm0AAAAAXYJGzu2MYCEncAjTwg7UKMN3AyZA-M3m&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'author': 'D Williams',
+         'title': 'Acceptability of Nigerian English for academic purposes'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '9337631354134911198',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3tjCYj7ulYEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D1go:AAGBfm0AAAAAXYJGzgogZgNXgGanBKrhJlc2hkBmeNC3&scisig=AAGBfm0AAAAAXYJGzuJWnwaTsSdJqk4XdySuNf9U8013&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The great mass of humanity often comes across to us as '
+                     'unreasoningly hostile and driven to\n'
+                     'consumption, and the image of the zombie captures this '
+                     'perfectly." The popularity of zombies\n'
+                     'comes from the fact that the vampire that we all loved '
+                     'got lost, says "The Age of Sorrow" (pg … \n',
+         'author': 'JJ Adams',
+         'title': 'The Living Dead',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=6GwxvRY6h54C&oi=fnd&pg=PT6&dq=unreasoningly&ots=LfnK9va5mv&sig=bv1m-m2zkBxBPI0e6Boy9ACMWIM'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '9964663992831139083',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:C13TPhuZSYoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D1go:AAGBfm0AAAAAXYJGzgogZgNXgGanBKrhJlc2hkBmeNC3&scisig=AAGBfm0AAAAAXYJGzsBUeOWknfVNwtBPXdRlIKH49JqE&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… was monitoring. Thus it appears probable that those '
+                     'dogmatic critics who have\n'
+                     'unreasoningly blocked scientiflic investigation of UFO '
+                     'phenomena will at long last\n'
+                     'be muted -- and hopefully even muzzled -- during 1977. '
+                     'In any … \n',
+         'author': 'TE Bearden',
+         'eprint': 'https://apps.dtic.mil/dtic/tr/fulltext/u2/a034236.pdf',
+         'title': 'The One Human Problem, Its Solution, and Its Relation to '
+                  'UFO Phenomen',
+         'url': 'https://apps.dtic.mil/docs/citations/ADA034236'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '2023710339734020563',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:06Eh-NSpFRwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D1go:AAGBfm0AAAAAXYJGzgogZgNXgGanBKrhJlc2hkBmeNC3&scisig=AAGBfm0AAAAAXYJGzm4O8ZQidKgl7y2nOQx8GEIwQmlD&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'author': 'R Kipling',
+         'eprint': 'http://public-library.uk/pdfs/8/747.pdf',
+         'title': 'The phantom rickshaw and other ghost stories'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '12956390866170598022',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:htI2zdhYzrMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D1go:AAGBfm0AAAAAXYJGzgogZgNXgGanBKrhJlc2hkBmeNC3&scisig=AAGBfm0AAAAAXYJGzqc6yCK2XLtm1s-EE2YWL8kk0ZXT&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'author': 'S SUNDAY',
+         'title': 'RE-SURGENCE OF TRADITIONAL INSTITUTIONS IN NIGERIA AND THE '
+                  'POLITICS OF SUCCESSION IN EBIRALAND TRADITIONAL '
+                  'INSTITUTION'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:T8-22kcBhL8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D1go:AAGBfm0AAAAAXYJGzgogZgNXgGanBKrhJlc2hkBmeNC3&scisig=AAGBfm0AAAAAXYJGzgevCrrssDZYR_dRuOidq_QhSjgH&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'author': 'FL McDougall',
+         'title': 'Sheltered Markets: A Study of the Value of Empire Trade'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '7334859093102190717',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fWDmwXunymUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D1go:AAGBfm0AAAAAXYJGzgogZgNXgGanBKrhJlc2hkBmeNC3&scisig=AAGBfm0AAAAAXYJGzuhP2-nD7GOjXo0_HKKuKBhToK3G&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… A liberal stance seems to fall apart in the very '
+                     'process of being put together. There is a similar\n'
+                     'failure of reason as the mob disperses: the retrograde '
+                     'movement towards the gate had begun -\n'
+                     'as unreasoningly, perhaps as blindly, as the '
+                     'simultaneous anger … \n',
+         'author': 'J Peck',
+         'title': 'The Army at Home: from Disraeli to Hardy',
+         'url': 'https://link.springer.com/chapter/10.1057/9780230378803_5'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:apV2fEdrjPoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5D1go:AAGBfm0AAAAAXYJGzgogZgNXgGanBKrhJlc2hkBmeNC3&scisig=AAGBfm0AAAAAXYJGzmSphXl6y_IYdbFI0-aqCe5KKzW_&scisf=4&ct=citation&cd=99&hl=en'}

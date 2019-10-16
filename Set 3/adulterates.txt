@@ -1,0 +1,1206 @@
+﻿{'_filled': False,
+ 'bib': {'abstract': 'Adulteration of botanical dietary supplements with '
+                     'prohibited synthetic drugs has become a serious problem. '
+                     'In this paper, a method for testing synthetic drugs used '
+                     'to adulterate botanical dietary supplements was '
+                     'developed using liquid chromatography-electrospray …',
+         'author': 'Y Chen and L Zhao and F Lu and Y Yu and Y Chai…',
+         'eprint': 'https://www.tandfonline.com/doi/full/10.1080/02652030802641880',
+         'title': 'Determination of synthetic drugs used to adulterate '
+                  'botanical dietary supplements using QTRAP LC-MS/MS',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/02652030802641880'},
+ 'citedby': 62,
+ 'id_scholarcitedby': '16463571439429334072',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OLRzFf9aeuQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RvPE:AAGBfm0AAAAAXYLUpPFUMxA7aVo8_jea5sZBnmLZjUn1&scisig=AAGBfm0AAAAAXYLUpOAJsfrICO9W9vLSBCOzFD3IIqYe&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Based on UV–VIS spectroscopy and chemometric techniques, '
+                     'a screening method is presented with which the studied '
+                     'brands of white and rested tequila can be differentiated '
+                     'among them and on the other hand, adulterate and fake '
+                     'tequilas can be distinguished from …',
+         'author': 'U Contreras and O Barbosa-García…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0963996910003091',
+         'title': 'Screening method for identification of adulterate and fake '
+                  'tequilas by using UV–VIS spectroscopy and chemometrics',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0963996910003091'},
+ 'citedby': 46,
+ 'id_scholarcitedby': '3324459910869844834',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YoNs2azaIi4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RvPE:AAGBfm0AAAAAXYLUpPFUMxA7aVo8_jea5sZBnmLZjUn1&scisig=AAGBfm0AAAAAXYLUpAx7JbhtwkQP5gK4cmChXbCQ34P0&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A new sildenafil analogue was found to have been added '
+                     'illegally to a dietary supplement marketed for the '
+                     'enhancement of sexual function. The structure was '
+                     'determined as 5-(2-ethoxy-5-{[4-(3, 5-dimethyl) '
+                     'piperazin-1-yl]-acetyl} phenyl)-1, '
+                     '6-dihydro-1-methyl-3-propyl …',
+         'author': 'ALİH GÖKER and M Coşkun and M Alp',
+         'eprint': 'http://journals.tubitak.gov.tr/chem/issues/kim-10-34-2/kim-34-2-1-1002-25.pdf',
+         'title': 'Isolation and identification of a new acetildenafil '
+                  'analogue used to adulterate a dietary supplement: '
+                  'dimethylacetildenafil',
+         'url': 'http://journals.tubitak.gov.tr/chem/abstract.htm?id=10732'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '624217172981814322',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MpRHKjaqqQgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RvPE:AAGBfm0AAAAAXYLUpPFUMxA7aVo8_jea5sZBnmLZjUn1&scisig=AAGBfm0AAAAAXYLUpCF3j1p3NTiOAG6x_lhaQB4om653&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A number of polystyrene samples and standards were '
+                     'measured with several column combinations which differed '
+                     'in their extent of band broadening, σ BB. Comparison of '
+                     'the derived chain length distributions showed in some '
+                     'cases good agreement even despite …',
+         'author': 'I Schnöll-Bitai and C Mader',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0021967306019522',
+         'title': 'How much does band broadening adulterate results deduced '
+                  'from chromatograms measured by size-exclusion '
+                  'chromatography really?',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0021967306019522'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '15327380238661798511',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:b0rHfh7LtdQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RvPE:AAGBfm0AAAAAXYLUpPFUMxA7aVo8_jea5sZBnmLZjUn1&scisig=AAGBfm0AAAAAXYLUpMkzr9K6umeb1WuxY5Dkj6l9nhDz&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Soybean ingredients adulterated in milk powder was '
+                     'firstly determined by real-time Fluorescent PCR in our '
+                     'study using lectin, the endogenous gene of soy-bean as a '
+                     'reference gene. This method provided a quick and precise '
+                     'way for the detection of adulteration of milk …',
+         'author': 'Q YUE and D CHEN and Z WU and Z ZHOU and D QIU',
+         'title': 'Real-Time Fluorescent PCR Detection of Soybean Ingredients '
+                  'Adulterate in Milk Powder [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-SPKX200912042.htm'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '16674444504750473677',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zcGdnO6GZ-cJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RvPE:AAGBfm0AAAAAXYLUpPFUMxA7aVo8_jea5sZBnmLZjUn1&scisig=AAGBfm0AAAAAXYLUpNKc6DngFXlvasozM80M9lh-Bil0&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Ophiocordyceps sinensis is a fungus that infects '
+                     'Hepialidae caterpillars, mummifying the larvae and '
+                     'producing characteristic fruiting bodies (stromata) that '
+                     'are processed into one of the most valued traditional '
+                     'Chinese medicines (TCM). The product commands a very '
+                     'high …',
+         'author': 'Y Liu and X Wang and Z Gao and J Han and L Xiang',
+         'eprint': 'https://www.frontiersin.org/articles/10.3389/fmicb.2017.01179',
+         'title': 'Detection of Ophiocordyceps sinensis and its common '
+                  'adulterates using species-specific primers',
+         'url': 'https://www.frontiersin.org/articles/10.3389/fmicb.2017.01179'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '10055900252000594021',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZahBMQC8jYsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RvPE:AAGBfm0AAAAAXYLUpPFUMxA7aVo8_jea5sZBnmLZjUn1&scisig=AAGBfm0AAAAAXYLUpNCLzOj-qMXZTWT3Xk1oxVc5Tem5&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Adulterate sodium silicon apatite cement (s-AC) porous '
+                     'scaffolds for bone repair were prepared by us-ing the '
+                     'mixed powders of tetracalcium phosphate and dicalcium '
+                     'phosphate anhydrous, 5wt% sodium silicate water-solution '
+                     'as cement liquid, and NaCl particles as …',
+         'author': 'LH Cao and BQ Yu and GS Wu and JC Su',
+         'title': 'Study on adulterate sodium silica apatite cement porous '
+                  'scaffolds for bone defect repair',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-WGCL201106004.htm'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '7636860263119629997',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ra6KjvKT-2kJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RvPE:AAGBfm0AAAAAXYLUpPFUMxA7aVo8_jea5sZBnmLZjUn1&scisig=AAGBfm0AAAAAXYLUpB9sXApf5F34XHINVV_5k83xxme3&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Objective The authors searched indentification of Flos '
+                     'Carthami and adulterate Flos Carthami, and provided '
+                     'scientific evidences for identification of adulterate '
+                     'Flos Carthami. Methods and Results We observed the '
+                     'characteristics and its structure of Flos Carthami and …',
+         'author': 'X DONG and Q BAI',
+         'title': 'Identification of Flos Carthami and Adulterate Flos '
+                  'Carthami [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-NOTH200703020.htm'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '7537818106941189737',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:aa68laG1m2gJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RvPE:AAGBfm0AAAAAXYLUpPFUMxA7aVo8_jea5sZBnmLZjUn1&scisig=AAGBfm0AAAAAXYLUpPAVHTRcSNSj3XuUlcVHmGgOhUhn&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'OBJECTIVE To report the breakage of protein and ammo '
+                     'acid in adulterate pangolin. METHODS Technique of '
+                     'polyamide lamina chromatogram, technique of measuring '
+                     'nitrogen, and technique of measuring amino acid with '
+                     'analyzing equipment were used …',
+         'author': 'W Ye and X Rong and W Lin-hong and M Shu-mo',
+         'title': 'Breakage of protein and amino acid in adulterate pangolin '
+                  '[J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-ZNYX200506011.htm'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '8482005895166868705',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4bwwDGwjtnUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RvPE:AAGBfm0AAAAAXYLUpPFUMxA7aVo8_jea5sZBnmLZjUn1&scisig=AAGBfm0AAAAAXYLUpAGcJEDCYYb_BKe28vglMy7i75vp&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'author': 'YR Ku and MJ Tsai and KC Wen',
+         'title': 'Screening chemical drugs used to adulterate in rheumatic '
+                  'and analgesic traditional Chinese medicine by HPLC-DAD'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '187191955662625410',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gtoUhhcKmQIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RvPE:AAGBfm0AAAAAXYLUpPFUMxA7aVo8_jea5sZBnmLZjUn1&scisig=AAGBfm0AAAAAXYLUpHn3OwZa-593Ey0YOMYgvPmusTkU&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Application of DNA Fingerprint Technique in '
+                     'Identification of Adulterate Food and Food\n'
+                     'Traceability. SONG Jun et al(Analysis and Test '
+                     'Center,Sichuan Academy of Agricultural\n'
+                     'Sciences,Chengdu,Sichuan 610066). The paper briefly '
+                     'introduced the application of common …',
+         'author': 'S Jun',
+         'title': 'Application of DNA Fingerprint Technique in Identification '
+                  'of Adulterate Food and Food Traceability [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-AHNY201206007.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '6112888163745379835',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-7W7v2VX1VQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rs-s:AAGBfm0AAAAAXYLUq-v6kgDuVKmJ6LDJ0sJInGZhfu12&scisig=AAGBfm0AAAAAXYLUq_sKR0qEdDhyw_Hp1B10JCXoOUlI&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This article aim at process of hot rolled rod, and is '
+                     'based on the thermodynamics analysis. The mechanism of '
+                     'boiling heat transfer was discussed, which the liquid '
+                     'add solid grain can strengthen boiling heat transfer is '
+                     'discussed. Think at the process of vaporize and '
+                     'coagulate …',
+         'author': 'JINJGREN Ji-Tang and CLST Guang-Zhi…',
+         'title': 'ANALYSIS OF FILM BOILING HEAT TRANSFER MECHANISM FOR SOLID '
+                  'PARTICULATE ADULTERATE INTO COOLING FLUID [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-GCRB200605031.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '2152978083794321978',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OgLDBSnq4B0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rs-s:AAGBfm0AAAAAXYLUq-v6kgDuVKmJ6LDJ0sJInGZhfu12&scisig=AAGBfm0AAAAAXYLUqzmruyT8YM7WV_Hp3iD-y4jJLKH1&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A near infrared spectroscopy quantitative detection '
+                     'model, established by partial-least-squares (PLS) '
+                     'method, was used for quantitative analysis of palm oil '
+                     'adulterated in the camellia oils. The dependability of '
+                     'this established model was investigated through cross …',
+         'author': 'J ZHANG and X ZHU and X SHANG…',
+         'title': 'Application of Near Infrared Spectroscopy Technology in '
+                  'Determination of Palm Oil Adulterate in Camellia Oils [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-HNNK201117033.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '3797004983301288336',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kLEPOOqrsTQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rs-s:AAGBfm0AAAAAXYLUq-v6kgDuVKmJ6LDJ0sJInGZhfu12&scisig=AAGBfm0AAAAAXYLUq2SraRmHJ5IaA8xsubq8mJIlJs1Z&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Initial investigation was carried out using PCA to '
+                     'discriminate minced lamb meat from lamb\n'
+                     'mixed with different potential adulterates and to '
+                     'identify the most potential adulterate by\n'
+                     'examining clustering of samples according to their '
+                     'spectral variations … \n',
+         'author': 'M Kamruzzaman and DW Sun and G ElMasry and P Allen',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0039914012008405',
+         'title': 'Fast detection and visualization of minced lamb meat '
+                  'adulteration using NIR hyperspectral imaging and '
+                  'multivariate image analysis',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0039914012008405'},
+ 'citedby': 133,
+ 'id_scholarcitedby': '14070069625914727962',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Gh6pQcftQsMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rs-s:AAGBfm0AAAAAXYLUq-v6kgDuVKmJ6LDJ0sJInGZhfu12&scisig=AAGBfm0AAAAAXYLUq5WIz4o0lu-J7geHdFdVmZKMANR-&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'author': 'S Yu and Z Wengong',
+         'title': '… OF YTTRIUM TRIETHOXIDE ON THE OPTICAL PROPERTIES AND '
+                  'THERMAL STABILITY OF ADULTERATE MODIFICATION′ S POLYSTYRENE '
+                  '[J]'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '9420796909627393317',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JUVwM-BkvYIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rs-s:AAGBfm0AAAAAXYLUq-v6kgDuVKmJ6LDJ0sJInGZhfu12&scisig=AAGBfm0AAAAAXYLUq5g1jvqZLwOxLNqm0ABEnXrgYBuM&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'author': 'T Nicols',
+         'title': '… of Nature in an Historical Narration of Several Natures, '
+                  'Vertues and Qualities of All Pretiovs Stones.: With an '
+                  'Accurate Discovery of Such as are Adulterate …'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '4067825057257408794',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GslCWlbRczgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rs-s:AAGBfm0AAAAAXYLUq-v6kgDuVKmJ6LDJ0sJInGZhfu12&scisig=AAGBfm0AAAAAXYLUq2MnHkTNuOAU8niDe9Z5yyekbinZ&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Lai and S Chen and D Fang and D Qin',
+         'title': 'Histology and essential oil of Alpinia species used to '
+                  'adulterate Sharen'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '10219029703829208174',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:brzndV9J0Y0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rs-s:AAGBfm0AAAAAXYLUq-v6kgDuVKmJ6LDJ0sJInGZhfu12&scisig=AAGBfm0AAAAAXYLUq3wRw0mzOEgt2Nsydsch5ELMIxBg&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Rice is an important food ration of Chinese people, '
+                     'which contains a great number of starch, protein, fat '
+                     'and some nutrient elements. However, rice adulteration '
+                     'is becoming one of the most urgent problems and it needs '
+                     'to be solved as soon as possible in Chinese rice market '
+                     '…',
+         'author': 'J Sun and X Jin and H Mao and X Wu…',
+         'eprint': 'https://www.ingentaconnect.com/content/tcsae/tcsae/2014/00000030/00000021/art00036?crawler=true&mimetype=application/pdf',
+         'title': 'Application of hyperspectral imaging technology for '
+                  'detecting adulterate rice',
+         'url': 'https://www.ingentaconnect.com/content/tcsae/tcsae/2014/00000030/00000021/art00036'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '1669962995363006550',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VsioFn_mLBcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rs-s:AAGBfm0AAAAAXYLUq-v6kgDuVKmJ6LDJ0sJInGZhfu12&scisig=AAGBfm0AAAAAXYLUqzXZffSYskv78rUYj4BdDbluzuK-&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'author': 'E Moma',
+         'title': 'E., Onuchukwu, IA Onuoha, GN, Offem, JO Analytical Indices '
+                  'for the Identification of Adulterate Vegetable Oil-palm '
+                  'Kernel Oil'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '11122639154263878175',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:H-q_amGNW5oJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rs-s:AAGBfm0AAAAAXYLUq-v6kgDuVKmJ6LDJ0sJInGZhfu12&scisig=AAGBfm0AAAAAXYLUq-Bqy8XjKLbG_eex5zYLS9J64aUp&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'author': 'P DOU and Z CHAI',
+         'title': '… , China; 3. Zhejiang Academy of Forestry Sciences, '
+                  'Hangzhou 310023, China); Summarization of Identifying '
+                  'Methods for Adulterate Edible Vegetable Oil …'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '4630761508377831503',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:T6hpmg7FQ0AJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rs-s:AAGBfm0AAAAAXYLUq-v6kgDuVKmJ6LDJ0sJInGZhfu12&scisig=AAGBfm0AAAAAXYLUq4435NvcESlsUr9l7MpppkMDRAuz&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Feedback Complete survey. Sign in or create an account '
+                     'https://orcid.org https://plus.europepmc.\n'
+                     'org/emss/sub.cgi?page=logoff. Europe PMC. Menu: About: '
+                     'About Europe PMC; Funders;\n'
+                     'Joining Europe PMC; Governance; Roadmap; Outreach. '
+                     'Tools: Tools overview; ORCID article …',
+         'author': 'MM Weinberger',
+         'title': 'Why adulterate theophylline?',
+         'url': 'https://europepmc.org/abstract/med/8250346'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '6262509460645333433',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:uclJnCzn6FYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RrCk:AAGBfm0AAAAAXYLUtCmmVcRuHHryZLorU0nZYu60RnZs&scisig=AAGBfm0AAAAAXYLUtP_5pn3VyCgsHw8OWYPx1GYgnUsp&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'author': 'K Ngamchuen and C Kunya and K Kittiya and N Kusuma',
+         'title': 'Quality and the adulterate evaluation of Thai Jasmine rice'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '14197311491360989762',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QqIksJT7BsUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RrCk:AAGBfm0AAAAAXYLUtCmmVcRuHHryZLorU0nZYu60RnZs&scisig=AAGBfm0AAAAAXYLUtMgQUrFx20qIVniRo_AGfy_-1Jl7&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'author': 'N Siddhaye', 'title': 'Even farmers adulterate milk'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '15021868736114924809',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CR2ttgZmeNAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RrCk:AAGBfm0AAAAAXYLUtCmmVcRuHHryZLorU0nZYu60RnZs&scisig=AAGBfm0AAAAAXYLUtOnHo0XCcNuRU_lxxjMTH60oUCVJ&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'author': 'BI Yan-lan',
+         'title': '… Oil Limited Company in Lianyungang, Lianyungang 222000, '
+                  'China); COMPARISON RESEARCH ON PEANUT OIL ADULTERATE BY TWO '
+                  'DIFFERENT …'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '3255058976903309153',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YadEueRKLC0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RrCk:AAGBfm0AAAAAXYLUtCmmVcRuHHryZLorU0nZYu60RnZs&scisig=AAGBfm0AAAAAXYLUtAlsv0ap3HMpeCArg_3RuLlCMlFA&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '1. Zhong Yao Tong Bao. 1985 Aug;10(8):14-6. [Survey of '
+                     'medicinal plants of the genus\n'
+                     'Polygonatum in Sichuan and identification of its '
+                     'adulterates]. [Article in Chinese]. Liu DM. PMID:\n'
+                     '2937566 [Indexed for MEDLINE]. MeSH terms. Drug '
+                     'Contamination; Medicine, Chinese Traditional*; …',
+         'author': 'DM Liu',
+         'title': 'Survey of medicinal plants of the genus Polygonatum in '
+                  'Sichuan and identification of its adulterates',
+         'url': 'https://www.ncbi.nlm.nih.gov/pubmed/2937566'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '5681773383323394400',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YKFC78m22U4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RrCk:AAGBfm0AAAAAXYLUtCmmVcRuHHryZLorU0nZYu60RnZs&scisig=AAGBfm0AAAAAXYLUtOQ9-Je0nQXkBVjvi72DiqBe_Jhy&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'ObjectiveTo recognize the method of adulterating and '
+                     'preparation process of Pangolin adulterated with '
+                     'sulphate magnesium. MethodsFirst, solution of sulphate '
+                     'magnesium was confected in different concentration. '
+                     'Second, soaked or boiled pangolin marinate in the …',
+         'author': 'W Ye and Z Li and FU Shan and M Tie-bing',
+         'title': 'The Discoverable Experiment of Adulterate Pangolin [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-SZGY200611040.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '14145429124912381304',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:eP3d6deoTsQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RrCk:AAGBfm0AAAAAXYLUtCmmVcRuHHryZLorU0nZYu60RnZs&scisig=AAGBfm0AAAAAXYLUtCQ6xMzIg1CHTBmJ9_0fgLXaRXID&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The paper offers the method for quality and quantity '
+                     'detection of adulterate semase oil through systematical '
+                     'investigating the fatty acid composition of several oils '
+                     'and fats in the commercial market all over the country '
+                     'and analysing the identification results of semase oil …',
+         'author': 'C Huasong and D Sue and Z Ximan and W Wensheng…',
+         'title': 'GENERAL DETECTION METHOD OF ADULTERATE SESAME OIL [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-ZZLS601.005.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '6836453605818775018',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6jVEWlX2314J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RrCk:AAGBfm0AAAAAXYLUtCmmVcRuHHryZLorU0nZYu60RnZs&scisig=AAGBfm0AAAAAXYLUtA8bD-kaMaHXEGeb7DZ36BzNXm0K&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 2000). These differences in price make it tempting to '
+                     'adulterate olive oil with other\n'
+                     'vegetable oils … perspective. Owing to the high price of '
+                     'olive oil, there is a great temptation\n'
+                     'to adulterate it with oils with similar fatty acid and '
+                     'sterol profiles … \n',
+         'author': 'S Azadmard-Damirchi',
+         'eprint': 'https://www.tandfonline.com/doi/full/10.1080/02652030903225773',
+         'title': 'Review of the use of phytosterols as a detection tool for '
+                  'adulteration of olive oil with hazelnut oil',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/02652030903225773'},
+ 'citedby': 46,
+ 'id_scholarcitedby': '4496413092326891071',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:P16Pa-J3Zj4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RrCk:AAGBfm0AAAAAXYLUtCmmVcRuHHryZLorU0nZYu60RnZs&scisig=AAGBfm0AAAAAXYLUtJNaswrpDi0PeseHfJCZSaVhHlL_&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… their complexity and variety. Just Business combines '
+                     'business realism with\n'
+                     'philosophical rigor, and demonstrates that it is not '
+                     'necessary to emasculate or to\n'
+                     'adulterate business for business to be ethical. The book '
+                     'benefits from … \n',
+         'author': 'E Sternberg',
+         'title': 'Just business: Business ethics in action',
+         'url': 'https://philpapers.org/rec/STEJBB'},
+ 'citedby': 560,
+ 'id_scholarcitedby': '10768078265581921717',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:tWWdfSHmb5UJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RrCk:AAGBfm0AAAAAXYLUtCmmVcRuHHryZLorU0nZYu60RnZs&scisig=AAGBfm0AAAAAXYLUtOg26yaCvoL10Luzz0jkRU3p7l-O&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'To solve the malpractice unpurity of the starch in '
+                     'noodle making caused by maize starch mixed with sweet '
+                     'potato starch and the higher breaking rate of starch '
+                     'noodle, and according to the principle that the two have '
+                     'different structures and different colours when they '
+                     'meet …',
+         'author': 'KWX Nian-xin',
+         'title': 'Study on Adulterate Check and Measure in Sweet Potato '
+                  'Starch [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-SSPJ200301032.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '14027279814808369685',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Ffqo_qvoqsIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RrCk:AAGBfm0AAAAAXYLUtCmmVcRuHHryZLorU0nZYu60RnZs&scisig=AAGBfm0AAAAAXYLUtBloNhNaUwuUfJpbltkkze5jgU5y&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The author expounded the kind and harmfulness of '
+                     'non-edible vegetable oil and the identifying methods of '
+                     'edible vegetable oil mixed with non-edible vegetable '
+                     'oil, and summarized several detection methods of edible '
+                     'vegetable oil adulterated with other edible …',
+         'author': 'PM Dou and ZL Chai and JL Zhu and L Yang',
+         'title': 'Summarization of identifying methods for adulterate edible '
+                  'vegetable oil.',
+         'url': 'https://www.cabdirect.org/cabdirect/abstract/20123340745'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '12167900181446328989',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nQKFKb8Q3agJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rpdo:AAGBfm0AAAAAXYLUvdoCVTfTuhSuc4zJ05rzl4yjsajS&scisig=AAGBfm0AAAAAXYLUvUmOZ9W8Z42tPRkJqcavcD0st5Dg&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Study on the Effect of Adulterate Modification on the '
+                     'Properties of Polystyrene. Zhang Wengong;\n'
+                     'Wang Lianhui; Zhang Yonghua;Sheng Yu(Institute of '
+                     'Polymer Science, Fujian Normal\n'
+                     'University). Polystyrene adulterated with metal '
+                     'alkoxides was prepared, and its miclostructure …',
+         'author': 'Z Wengong and W Lianhui and Z Yonghua and S Yu',
+         'title': 'Study on the Effect of Adulterate Modification on the '
+                  'Properties of Polystyrene [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-ZGSU401.005.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '1639256904032332544',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ACt0FHjPvxYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rpdo:AAGBfm0AAAAAXYLUvdoCVTfTuhSuc4zJ05rzl4yjsajS&scisig=AAGBfm0AAAAAXYLUvavzhgQHAmgDqPT67eHIqKZjCc9P&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Double-element, Fe3+-Ce4+, compound adulterate modified '
+                     'TiO2 photocatalyst has been used for treating the '
+                     'wastewater from real silk product dyeing. The effect of '
+                     'double-element modified TiO2 photocatalyst on the '
+                     'removal rates of chroma and CODCr of the wastewater …',
+         'author': 'L Yuan and L Yafeng and M En and G Yanjiao',
+         'title': 'The treatment of wastewater from real silk product dyeing '
+                  'with double-element compound adulterate UV/load-handling '
+                  'modified TiO_2 photocatalyst [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-GYSC201001018.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '8740788694435752215',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:F-mXxAGFTXkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rpdo:AAGBfm0AAAAAXYLUvdoCVTfTuhSuc4zJ05rzl4yjsajS&scisig=AAGBfm0AAAAAXYLUvan-dVbv3pk5zrDb8jFAxqUk1_CK&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'INTRODUCTION.-Mustard-seed oil is in universal use '
+                     'throughout India, particularly in Bengal, as an edible '
+                     'oil. It is extensively adulterated with various oils, '
+                     'and thus forms a large proportion of the articles of '
+                     'food which are analysed under the Bengal Food '
+                     'Adulteration …',
+         'author': 'S Neogi',
+         'eprint': 'https://pubs.rsc.org/en/content/articlepdf/1936/an/an9366100597',
+         'title': 'A new method for the estimation of rape or mustard-seed '
+                  'oils, and for the detection of oils used to adulterate them',
+         'url': 'https://pubs.rsc.org/en/content/articlepdf/1936/an/an9366100597'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '16629000062374712407',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VxTL13MTxuYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rpdo:AAGBfm0AAAAAXYLUvdoCVTfTuhSuc4zJ05rzl4yjsajS&scisig=AAGBfm0AAAAAXYLUvVANQ6L7-8ql6j0tNrt0vRQ2cfeC&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'author': 'GW Williams',
+         'title': 'Staging the Adulterate Blot in" The Comedy of Errors"'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '8499547764498252933',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hURixqh19HUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rpdo:AAGBfm0AAAAAXYLUvdoCVTfTuhSuc4zJ05rzl4yjsajS&scisig=AAGBfm0AAAAAXYLUvZ2jER_9yZV89_IsSlnj120fPh5A&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'author': 'T Nicols',
+         'title': '… : Or, a Cabinet of Jewels: Discovering the Nature, '
+                  'Vertue, Value of Pretious Stones, with Infallible Rules to '
+                  'Escape the Deceit of All Such as are Adulterate …'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '1394371620305708138',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:aiQ12ZnNWRMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rpdo:AAGBfm0AAAAAXYLUvdoCVTfTuhSuc4zJ05rzl4yjsajS&scisig=AAGBfm0AAAAAXYLUvVYgDedHwliRq2LnR29FMBM5PgWM&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… appears to be using “adulterers” in a now obsolete '
+                     "sense, the OED's second definition of adul-\n"
+                     'terer: “one who adulterates, corrupts, or … The Ghost '
+                     'denigrates Claudius-and by extension\n'
+                     'Gertrude-as an “adulterate beast” (1.5.42), Claudius '
+                     'having “won to his shameful lust / The … \n',
+         'author': 'D Kehler',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.1080/08957690109598128',
+         'title': "Shakespeare's Recollections of Marlowe's Dido, Queen of "
+                  'Carthage: Two Notes',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/08957690109598128'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '11801436569438808584',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CGq0gAggx6MJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rpdo:AAGBfm0AAAAAXYLUvdoCVTfTuhSuc4zJ05rzl4yjsajS&scisig=AAGBfm0AAAAAXYLUvWHe5EjiCXtCHfutqp_hq1wVA-lw&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Ltd. ,Tonglu 311500,China; 2. Animal Sciences College '
+                     'of Zhejiang Univeisity, Hangzhou\n'
+                     '310029,China). The HPLC fingerprints of flavonoids in '
+                     "the authentic propolis, poplar tree's\n"
+                     'gum and adulterate propolis were determined in this '
+                     'paper … \n',
+         'author': 'P ZHOU and Z ZHANG and F HU and X YU',
+         'title': 'Primary Research of HPLC Fingerprints on Distinguishing '
+                  'Authentic Pro polis From the Fake One [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-MFZA200508001.htm'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '10521460549440369028',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hPGt55-8A5IJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rpdo:AAGBfm0AAAAAXYLUvdoCVTfTuhSuc4zJ05rzl4yjsajS&scisig=AAGBfm0AAAAAXYLUvQ5lPWlrSrRieHHd4hY8Ik5iVTeH&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… Meanings & Definitions: Dictionary meaning: Webster's "
+                     'unabridged, second edition, 1983:\n'
+                     'Spurious – false, counterfeit, not genuine Adulterate – '
+                     'to corrupt, debase, or make impure by\n'
+                     'adding a poor or improper substance; as to adulterate '
+                     'liquors, to adulterate drugs … \n',
+         'author': 'SK Jain',
+         'eprint': 'http://medind.nic.in/haa/t06/i1/haat07i1p29.pdf',
+         'title': 'CHAPTER–9: The spurious drug menance & remedy',
+         'url': 'http://medind.nic.in/haa/t06/i1/haat07i1p29.pdf'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '16758460417208546937',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:efYolvUCkugJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rpdo:AAGBfm0AAAAAXYLUvdoCVTfTuhSuc4zJ05rzl4yjsajS&scisig=AAGBfm0AAAAAXYLUvQna-EOwaxjGs-Vz7-SCd3dM1xx6&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… When we took ninety percent as the evaluation '
+                     'threshold of testing result of CAR (Correct\n'
+                     'Acceptance Rate) and CRR (Correct Rejection Rate), the '
+                     'lowest starch content of adulterate\n'
+                     'milk powder in all tested samples which the tested '
+                     'result were bigger than that … \n',
+         'author': 'NN Wang and BH Shen and JJ Guan and ZR Zhao…',
+         'title': 'Detection of adulteration in milk powder with starch near '
+                  'infrared',
+         'url': 'https://europepmc.org/abstract/med/26672282'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '3391578718636078449',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:cfUTEOBOES8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rpdo:AAGBfm0AAAAAXYLUvdoCVTfTuhSuc4zJ05rzl4yjsajS&scisig=AAGBfm0AAAAAXYLUvfiuH_dV0yY4LC8n9YzN9Nd7eefu&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Hydrogenated vegetable fat (vanaspati) is added to '
+                     'skimmed milk and homogenized. The cream\n'
+                     'separate from such milk is used to adulterate genuine '
+                     'cream … Tapioca flour is used to adulterate\n'
+                     'wheat flour and tapioca is used to adulterate wheat '
+                     'semolina … \n',
+         'author': 'D Nagvanshi',
+         'eprint': 'http://www.homesciencejournal.com/archives/2015/vol1issue3/PartA/1-3-5.pdf',
+         'title': 'A Study on Common Food Adulterants and Knowledge about '
+                  'Adulteration among Women of Rae Bareli District',
+         'url': 'http://www.homesciencejournal.com/archives/2015/vol1issue3/PartA/1-3-5.pdf'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '3592720906371837365',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ta1pGaHo2zEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R3k4:AAGBfm0AAAAAXYLUxk4WP8CzL-5FCYX-OGXj8RIImxgN&scisig=AAGBfm0AAAAAXYLUxs3eqxw1bZw2PnRRZtWPyTwlp5cK&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'author': 'BV Chandler',
+         'eprint': '/scholar?output=instlink&q=info:StkwNPHSTWwJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=17221365635996607488&oi=lle',
+         'title': 'DEREGULATE, ADULTERATE AND BE DAMNED-THE NHMRC FOOD '
+                  'STANDARDS CODE FOR ORANGE JUICE'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '7804125662707505482',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:StkwNPHSTWwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R3k4:AAGBfm0AAAAAXYLUxk4WP8CzL-5FCYX-OGXj8RIImxgN&scisig=AAGBfm0AAAAAXYLUxhW5TPiC1Sl7sbmLLpn2OZLd5jnw&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'author': 'Y Sheng and W Zhang',
+         'title': 'Influence of Yttrium Trietboxide on the Optical Properties '
+                  "and Thermal Stability of Adulterate Modification's "
+                  'Polystyrene'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '14928872232181026399',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:X85X2DICLs8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R3k4:AAGBfm0AAAAAXYLUxk4WP8CzL-5FCYX-OGXj8RIImxgN&scisig=AAGBfm0AAAAAXYLUxmwco9RZd021GLwB1kA24QXQJIDO&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The properties of sweet potato starch adulterated with '
+                     'maize starch were analyzed by scanning electronic '
+                     'microscope, laser particle analyzer, rapid '
+                     'visco-analyzer, and X-ray diffractometer. The results '
+                     'showed that the content of maize starch in sweet potato '
+                     'starch …',
+         'author': 'H Hanxue and D Haizhou and L Chuanfu',
+         'title': 'Rapid Determination of Maize Starch Adulterate Sweet Potato '
+                  'Starch [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-SPFX201001044.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '18267639933940670237',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HR9G27uxg_0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R3k4:AAGBfm0AAAAAXYLUxk4WP8CzL-5FCYX-OGXj8RIImxgN&scisig=AAGBfm0AAAAAXYLUxnQP8ozNMdawN7G37XwDdktG3ZDm&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Bitte benutzen Sie diese Kennung, um auf die Ressource '
+                     'zu verweisen: http://zimt.fernuni-hagen.\n'
+                     'de:8180/jspui/handle/EMTO-2010/24203. Titel: Medicina '
+                     'hydrostatica, or, Hydrostaticks applyed\n'
+                     'to the materia medica shewing how by the weight that '
+                     "divers bodies, us'd in physick, have in …",
+         'author': 'R Boyle and S Smith',
+         'title': "… : Shewing how by the Weight that Divers Bodies, Us'd in "
+                  'Physick, Have in Water: One May Discover Whether They be '
+                  'Genuine Or Adulterate: to which is …',
+         'url': 'http://emto.fernuni-hagen.de/jspui/handle/EMTO-2010/24203'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '4581212039458190142',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PvOl3BO8kz8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R3k4:AAGBfm0AAAAAXYLUxk4WP8CzL-5FCYX-OGXj8RIImxgN&scisig=AAGBfm0AAAAAXYLUxv2c4RwtnZWXwZ0_0yg1hg0P_Ahd&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Java C# class Coffee { protected void adulterate() { '
+                     'System.out.println ("add some\n'
+                     'milk"); } } namespace Test { public class Coffee { '
+                     'protected virtual void adulterate() {\n'
+                     'System.Console.WriteLine ("add some milk"); } } class '
+                     'extends … \n',
+         'author': 'S Eisenbach and V Jurisic and C Sadler',
+         'eprint': 'http://www.doc.ic.ac.uk/~susan/475/USEpaper.pdf',
+         'title': 'Feeling the way through DLL Hell',
+         'url': 'http://www.doc.ic.ac.uk/~susan/475/USEpaper.pdf'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '11544983953517435121',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8dj93rwFOKAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R3k4:AAGBfm0AAAAAXYLUxk4WP8CzL-5FCYX-OGXj8RIImxgN&scisig=AAGBfm0AAAAAXYLUxrhY3DehQSXpM73nSGABDBx91eJF&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Methanol, a common laboratory solvent and component in '
+                     'windshield washer fluid, can be used\n'
+                     'to adulterate wines to give them a more bitter taste. 1 '
+                     '1-Propanol, a component of brake fluid\n'
+                     'and antiseptics, has been used to adulterate vegetable '
+                     'oils and alcoholic beverages … \n',
+         'author': 'E Sisco and J Dake',
+         'eprint': 'https://pubs.rsc.org/en/content/articlehtml/2016/ay/c6ay00292g',
+         'title': 'Detection of low molecular weight adulterants in beverages '
+                  'by direct analysis in real time mass spectrometry',
+         'url': 'https://pubs.rsc.org/en/content/articlehtml/2016/ay/c6ay00292g'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '13626865799860441819',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:29KZKj9aHL0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R3k4:AAGBfm0AAAAAXYLUxk4WP8CzL-5FCYX-OGXj8RIImxgN&scisig=AAGBfm0AAAAAXYLUxn2_SvX34MN5b9Q1-ClkNHzz3U5X&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Misuse of them would not exert their functions, and '
+                     'fake or adulterate products have caused drug\n'
+                     'market disorder and affected food and drug … These could '
+                     'assist in the discrimination and\n'
+                     'identification of adulterates of GCMs and other ACMs for '
+                     'their form of raw medicinal material … \n',
+         'author': 'H Yang and J Zheng and H Wang and N Li and Y Yang…',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5701408/',
+         'title': 'Comparative proteomic analysis of three gelatinous chinese '
+                  'medicines and their authentications by tryptic-digested '
+                  'peptides profiling using matrix-assisted …',
+         'url': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5701408/'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '863903128282199755',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:y_abaVEz_QsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R3k4:AAGBfm0AAAAAXYLUxk4WP8CzL-5FCYX-OGXj8RIImxgN&scisig=AAGBfm0AAAAAXYLUxjSBxvLU53fS6lVdIk7X5uWc9Htg&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 8 Herbal medicines have a long history of being '
+                     'adulterated; for example, the use of congeners\n'
+                     'to adulterate Valeriana officinalis root, used for '
+                     'treating cholera, 9 and red clay to adulterate the\n'
+                     'foul-smelling Ferula assa-foetida, which was hung around '
+                     'the neck to ward off … \n',
+         'author': 'PN Newton and MD Green and FM Fernández and NPJ Day…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S1473309906705813',
+         'title': 'Counterfeit anti-infective drugs',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1473309906705813'},
+ 'citedby': 349,
+ 'id_scholarcitedby': '7675879857238985522',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MktOxQ80hmoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R3k4:AAGBfm0AAAAAXYLUxk4WP8CzL-5FCYX-OGXj8RIImxgN&scisig=AAGBfm0AAAAAXYLUxsS9nrHDOsGGJwEbIAJ_4kYvnus5&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… It was found that effect of dopant monomer's "
+                     'refractive index on gradient-index was larger than\n'
+                     'that of molecule bulk; adulterate efficiency of diphenyl '
+                     'sulfide(DPS) was the highest in kinds of\n'
+                     'inertia dopant monomers; and adulterate efficiency of '
+                     'vinyl benzoate(VB) was the … \n',
+         'author': 'J Chu and X Wen and W Ding and C Xu',
+         'title': 'Application of Lorenz function model of refractive index '
+                  'distribution in gradient-index polymer optical fiber rod',
+         'url': 'https://europepmc.org/abstract/cba/547737'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '15919437039956746899',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:k2LRnqQz7dwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R3k4:AAGBfm0AAAAAXYLUxk4WP8CzL-5FCYX-OGXj8RIImxgN&scisig=AAGBfm0AAAAAXYLUxr7CB9pu9rxNEhvDViPbnzhGbpAn&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Using the electric conduction fibre of slag to improve '
+                     'the electric conduction function in carbon\n'
+                     'fibre electric conduction concrete material.By changing '
+                     'the adulterate amounts of slag and carbon\n'
+                     'fibre and analysing the experiments of function of '
+                     'concrete resistivity,compressive … \n',
+         'author': 'XU Xiao-chun1a and W Jian-hua1b and F Jin-yang',
+         'title': 'Experimental studies of slag-carbon fibre diphasic electric '
+                  'conduction concrete [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-HLTF200711007.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '10908407448085030399',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_2VVYMdyYpcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RyDQ:AAGBfm0AAAAAXYLU0DTi5O_zPwhilMr_Spoi_hDt-klF&scisig=AAGBfm0AAAAAXYLU0ATLWjUepy9214DT3OhG276b1kgr&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… rural areas (16) were analyzed for nutritional '
+                     '(percentage of butter fat, solids not fat, protein,\n'
+                     'lactose), chemical (added adulterates and preservative … '
+                     'milk compare to city corporations\n'
+                     'inhabitants but in both areas middleman who supplies '
+                     'milk of multiple farm, adulterate their milk … \n',
+         'author': 'P Paul and T Chanda and T Hassan and A Dutta…',
+         'eprint': 'https://www.researchgate.net/profile/Tanjila_Hasan/publication/324919132_Quality_of_milk_consumed_by_inhabitants_of_city_corporation_and_rural_areas_of_Sylhet_division_ARTICLE_INFO_ABSTRACT/links/5aeb1e90a6fdcc03cd9105a4/Quality-of-milk-consumed-by-inhabitants-of-city-corporation-and-rural-areas-of-Sylhet-division-ARTICLE-INFO-ABSTRACT.pdf',
+         'title': 'Quality of milk consumed by inhabitants of city corporation '
+                  'and rural areas of Sylhet division',
+         'url': 'https://www.researchgate.net/profile/Tanjila_Hasan/publication/324919132_Quality_of_milk_consumed_by_inhabitants_of_city_corporation_and_rural_areas_of_Sylhet_division_ARTICLE_INFO_ABSTRACT/links/5aeb1e90a6fdcc03cd9105a4/Quality-of-milk-consumed-by-inhabitants-of-city-corporation-and-rural-areas-of-Sylhet-division-ARTICLE-INFO-ABSTRACT.pdf'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '13392653006437130758',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BqLAuPNC3LkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RyDQ:AAGBfm0AAAAAXYLU0DTi5O_zPwhilMr_Spoi_hDt-klF&scisig=AAGBfm0AAAAAXYLU0NHVkUXUhrY-HiHrxATQti7pmGhl&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The Iranian civil law in article 1167 stipulates: that '
+                     'the adulterate is not attributed to the adulterer …\n'
+                     'said the procedural unity verdict contradicts with '
+                     'article 1167 civil law, one can say what has\n'
+                     'been mentioned in the civil law article, regarding the '
+                     "lack of the adulterates' attribution to … \n",
+         'author': 'A Rashidi',
+         'eprint': 'https://www.learntechlib.org/p/176396/article_176396.pdf',
+         'title': 'The illegitimate children parentage',
+         'url': 'https://www.ceeol.com/search/article-detail?id=220320'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '18179742726892300305',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EShokLBrS_wJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RyDQ:AAGBfm0AAAAAXYLU0DTi5O_zPwhilMr_Spoi_hDt-klF&scisig=AAGBfm0AAAAAXYLU0MTaAiswXUEA264EADECxwkV5PB0&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The relations of the crystal lattice '
+                     'period,adulterates Fe thickness and light wave '
+                     'wavelength\n'
+                     'with the refractive index modulation are studied.The '
+                     'experiment result indicates:(1) while the\n'
+                     'red light(λ=633nm) is used to induce the photo crystal '
+                     'lattice,the adulterate Fe thickness is … \n',
+         'author': 'R WU and L YANG and G LU and B CHEN and B ZHANG…',
+         'title': 'Experiment Research of Refractive Index Modulation for '
+                  'LiNbO3: Fe Crystal [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-NMSB200804011.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '9575215869231496805',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Zf459RkA4oQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RyDQ:AAGBfm0AAAAAXYLU0DTi5O_zPwhilMr_Spoi_hDt-klF&scisig=AAGBfm0AAAAAXYLU0H2TY_9Gh8rRfvDF3Ld6Pp1uvArJ&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The lily starch and other adulterate powder were dyed '
+                     'respectively on a slide by Switzer\n'
+                     'dyestuff,and put them under the microscope to '
+                     'observe.Their micro-characteristic was used to\n'
+                     'identify the ture and false.The results turned out that '
+                     'this method was nicety,operate simply … \n',
+         'author': 'S LUO and C LIU and L HUANG and C ZOU…',
+         'title': 'Study on identification of true and false of lily starch '
+                  'and the measurement of its adulteration ratio [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-SSPJ200906086.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '15793381780906577924',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BBAQhQ1dLdsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RyDQ:AAGBfm0AAAAAXYLU0DTi5O_zPwhilMr_Spoi_hDt-klF&scisig=AAGBfm0AAAAAXYLU0OKRmdDKZKj3FSUQmP7VFd0NYjgY&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Crack resistance is an important index of evaluating '
+                     'concrete performance.Using brittlesness\n'
+                     'coefficient and characteristic length as evaluation '
+                     'index,we study the effect of short carbon fiber\n'
+                     'adulterate amounts and ground steel cinder adulterate '
+                     'amounts on concrete crack … \n',
+         'author': 'X Xiaochun and L Wenjian and L Xiaomu',
+         'title': 'Study on Crack Resistance of Steel Cinder-Carbon Fibre '
+                  'Conductive Concrete [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-XGXY200903023.htm'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '8306337836863977830',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Zvmp9kAKRnMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RyDQ:AAGBfm0AAAAAXYLU0DTi5O_zPwhilMr_Spoi_hDt-klF&scisig=AAGBfm0AAAAAXYLU0BkPVjtKFVNGjj4IiAozrsks79aj&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… that incestuous, that adulterate beast, / . . . won to '
+                     'his shameful lust / The will of my most seeming\n'
+                     'virtu- ous queen” (1 S.42-46). The apologists would '
+                     'maintain, according to Rosenberg, “that\n'
+                     'adulterate as applied to Claudius could simply be a syn- '
+                     'onym for incestuous … \n',
+         'author': 'N Blincoe',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.1080/08957699709600785',
+         'title': 'Is Gertrude an adulteress?',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/08957699709600785'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '1510198434235868869',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xeb6fHlN9RQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RyDQ:AAGBfm0AAAAAXYLU0DTi5O_zPwhilMr_Spoi_hDt-klF&scisig=AAGBfm0AAAAAXYLU0NNvjwUMafTucgVGToLRYDHKAhAt&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A chromium coating with thickness of 100μm was '
+                     'electrodeposited on adulterate tungsten filament. The '
+                     'temperature, current density, deposition time, corrosion '
+                     'resistance, adhesion of the chromium coating was '
+                     'studied. The result shows that when CrO3 concentration '
+                     'is 150 …',
+         'author': 'YAN Min-jie',
+         'title': 'Process Study on Chromium Electrodeposition on Adulterate '
+                  'Tungsten Filament',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-BMJS200906018.htm'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6EoAvo4sKqIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RyDQ:AAGBfm0AAAAAXYLU0DTi5O_zPwhilMr_Spoi_hDt-klF&scisig=AAGBfm0AAAAAXYLU0DMd2hI9i3dodZGV1EQ98CSVsS80&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'LJrug adulteration and rumors of drug adul-teration '
+                     'helped invoke the development of early organizations, '
+                     'state laws, and schools of phar-macy in the United '
+                     'States. The impact of a chaotic drug market during the '
+                     'nineteenth century often has been commented upon …',
+         'author': 'G Sonnedecker',
+         'title': 'How to Adulterate Volatile Oils: A Pre-1906 Manuscript '
+                  'Formulary',
+         'url': 'https://www.jstor.org/stable/41111332'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6GXD2YStSbEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RyDQ:AAGBfm0AAAAAXYLU0DTi5O_zPwhilMr_Spoi_hDt-klF&scisig=AAGBfm0AAAAAXYLU0MQauiidE4b6KZC8LFB5PLR5nhYD&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Dielectric frequency spectrum of rare earth oxides '
+                     'Gd2O3, Ce2O3 adulterate with ZnO-Bi2O3 series varistor '
+                     'ceramics at different temperatures were measured. It is '
+                     'found that the dielectric loss is increases apparently '
+                     'caused by adulteration of rare earth oxides. Through …',
+         'author': 'P CHENG and S LI',
+         'title': 'The Dielectric Characteristics of Rare Earth Oxides '
+                  'Adulterate with ZnO-Bi_2O_3 Series Varistor Ceramics [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-DCPQ201003008.htm'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:chJyRxPmML0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RyDQ:AAGBfm0AAAAAXYLU0DTi5O_zPwhilMr_Spoi_hDt-klF&scisig=AAGBfm0AAAAAXYLU0AO1gH8L43Umj0vBwcSKpFDyIHzT&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JAVMA',
+         'eprint': '/scholar?output=instlink&q=info:N6mqAcDiETsJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=6361596384756658127&oi=lle',
+         'title': 'Melamine adulterates component of pellet feeds'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:N6mqAcDiETsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RztM:AAGBfm0AAAAAXYLU1tOyyLlBz2Bfl5ELPpSwmKFpCTuZ&scisig=AAGBfm0AAAAAXYLU1nO1XEtkx_Znj5y2tniXRxdDj4S7&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'author': 'X Yin and X Li',
+         'title': 'Simulation of Gain Characteristics of Erbium Ytterbium '
+                  'Adulterates Fiber Waveguide Amplifier and Functional '
+                  'Optimization'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:r1lYgsk0E2QJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RztM:AAGBfm0AAAAAXYLU1tOyyLlBz2Bfl5ELPpSwmKFpCTuZ&scisig=AAGBfm0AAAAAXYLU1tZz_xBqmD8n8vtCFEyPOa9ygglU&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '1. Zhong Yao Tong Bao. 1986 Jun;11(6):22-3. '
+                     '[Identification of Celosia argentea seed and\n'
+                     'its adulterates by polyacrylamide gel electrophoresis]. '
+                     '[Article in Chinese]. Song GY. PMID:\n'
+                     '2948689 [Indexed for MEDLINE]. MeSH terms. Drug '
+                     'Contamination/prevention & control; …',
+         'author': 'GY Song',
+         'title': 'Identification of Celosia argentea seed and its adulterates '
+                  'by polyacrylamide gel electrophoresis',
+         'url': 'https://www.ncbi.nlm.nih.gov/pubmed/2948689'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bJfvtbXgrYUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RztM:AAGBfm0AAAAAXYLU1tOyyLlBz2Bfl5ELPpSwmKFpCTuZ&scisig=AAGBfm0AAAAAXYLU1ly6vMtl607BFTtcKIdu-AJS7x6k&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Some methods for Determination of adulterate Milk. '
+                     'Huang Yadong (Jiangsu food\n'
+                     'professional technology college,Jiangsu 223001). Milk '
+                     'contain many necessary nutrients\n'
+                     'which easily absorbed by our body,such as '
+                     'protein,fat,sugar,minerals,vitamin,enzyme …',
+         'author': 'H Yadong',
+         'title': 'Some methods for Determination of adulterate Milk',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-GZSP200302033.htm'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CMHhTk6MrtUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RztM:AAGBfm0AAAAAXYLU1tOyyLlBz2Bfl5ELPpSwmKFpCTuZ&scisig=AAGBfm0AAAAAXYLU1vWN_Wj5whD6wYQSoDi3TZRxHxpx&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Identification of Adulterate Distilled Spirit with '
+                     'Sodium Cyclamate by Gas Chromatography.\n'
+                     'ZU Xin,XU Yi-fei(Gansu Province Supervision and '
+                     'Inspection Center of Product\n'
+                     'Quality,Lanzhou 730000,Gansu,China). Through the '
+                     'conversion reaction of sodium …',
+         'author': 'X ZU and Y XU',
+         'title': 'Identification of Adulterate Distilled Spirit with Sodium '
+                  'Cyclamate by Gas Chromatography',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-NJZZ201104014.htm'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:O9TcHNAEQW4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RztM:AAGBfm0AAAAAXYLU1tOyyLlBz2Bfl5ELPpSwmKFpCTuZ&scisig=AAGBfm0AAAAAXYLU1i6BMUGAVLOjDpVl94YVDrD60iB8&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'author': 'W Zhang', 'title': 'Discrimination of Adulterate Daqu'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:t_2Ih5cYqPIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RztM:AAGBfm0AAAAAXYLU1tOyyLlBz2Bfl5ELPpSwmKFpCTuZ&scisig=AAGBfm0AAAAAXYLU1qHI9XZjHSdsk58refjh9ftoMrQj&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'author': 'G Sabato',
+         'eprint': '/scholar?output=instlink&q=info:v4FwsLVOTOAJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=7033590273392689107&oi=lle',
+         'title': 'Adulterate India: an anthropological perspective on travel '
+                  'stories of Moravia and Pasolini'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:v4FwsLVOTOAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RztM:AAGBfm0AAAAAXYLU1tOyyLlBz2Bfl5ELPpSwmKFpCTuZ&scisig=AAGBfm0AAAAAXYLU1pVGRPvg3GTEweyU3e0E7AM42Nb-&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… Electricity-coal suppliers don't adulterate "
+                     'Electricity-coal suppliers adulterate Probability 1-p p '
+                     '…\n'
+                     'coal suppliers and take respectively different supply '
+                     'strategies: Supplier A applies honest strategy,\n'
+                     'never adulterating; supplier B applies fraudulent '
+                     'strategy, it adulterates in electricity … \n',
+         'author': 'SX Yang and RY Li and YL Liu and Y Cao',
+         'eprint': 'https://www.scientific.net/AMM.521.777.pdf',
+         'title': 'Analysis on Electricity-Coal Quality Problems Based on '
+                  'Trust Game Model',
+         'url': 'https://www.scientific.net/AMM.521.777'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:coR7Fu9vzcMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RztM:AAGBfm0AAAAAXYLU1tOyyLlBz2Bfl5ELPpSwmKFpCTuZ&scisig=AAGBfm0AAAAAXYLU1qNSLybLML4pxa07aNKNbyB824hN&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… ( ) × = × 10 5 yeast/ml of the sample III Detection of '
+                     'adulterates in milk: Table 3.3: The results\n'
+                     'of the rapid detection tests of adulteration in milk 4. '
+                     'Discussion The study revealed the milk\n'
+                     'from all the three sites did not have any harmful '
+                     'adulterate. The … \n',
+         'author': 'U Deb and BK Mishra',
+         'eprint': 'http://www.ijset.net/journal/2329.pdf',
+         'title': 'QUALITY OF MILK SOLD IN WEST GARO HILLS, MEGHALAYA',
+         'url': 'http://www.ijset.net/journal/2329.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VI1ylMo_U0cJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RztM:AAGBfm0AAAAAXYLU1tOyyLlBz2Bfl5ELPpSwmKFpCTuZ&scisig=AAGBfm0AAAAAXYLU1tski3-hbnsTBbtBs18pNgTUUmX-&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 2, WANG Ye,ZHENG Li,FU Shan,MENG Tie-bing(Research '
+                     'Center of Modernization of Traditional\n'
+                     'Chinese Medcine,Huaihua Medical College,Huaihua '
+                     '418000,China);The Discoverable\n'
+                     'Experiment of Adulterate Pangolin[J];LiShiZhen Medicine '
+                     'and Materia Medica Research … \n',
+         'author': 'Y WANG and C GAO and C XIAO and L ZHENG',
+         'title': 'Pangolin Adulterated with Magnesium Sulfate Can not Be Used '
+                  'as Quality Goods after Lavation',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-SZGY200707046.htm'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SzdbEyD4uugJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RztM:AAGBfm0AAAAAXYLU1tOyyLlBz2Bfl5ELPpSwmKFpCTuZ&scisig=AAGBfm0AAAAAXYLU1nzm3kOIBZjBAc2RnYRQ4QURoq5w&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… To finding the quality, which is determined by '
+                     'percentage of broken rice and percentage of\n'
+                     'adulterate rice, rice kernels are placed randomly on the '
+                     'plate in one layer. Some of kernels are\n'
+                     'touching one another … Concept of translucency is '
+                     'applied for viewing the adulterate of rice … \n',
+         'author': 'S Sansomboonsuk and N Afzulpurkar',
+         'title': 'A computer vision system for rice kernel quality evaluation',
+         'url': 'https://go.galegroup.com/ps/i.do?id=GALE%7CA176688415&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=17269679&p=AONE&sw=w'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NP9-5iBctNoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RxSk:AAGBfm0AAAAAXYLU3SkLTgN6qkCwnZU-YSWUjik77G3Y&scisig=AAGBfm0AAAAAXYLU3ROEbgWqOab7Tb6430urtOg4CeIO&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Three fluorescent molecular rotors of '
+                     '4-dimethylamino-4-nitrostilbene (4-DNS) were\n'
+                     'investigated for their potential use as viscosity probes '
+                     'to indicate the content of kerosene\n'
+                     'in diesel/kerosene blends, a wide-spread activity to '
+                     'adulterate fuel … \n',
+         'author': 'R Gotor and K Rurack and J Bell',
+         'title': 'Fluorescent Paper Strips for the Detection of Diesel '
+                  'Adulteration with Smartphone Read-out',
+         'url': 'https://opus4.kobv.de/opus4-bam/frontdoor/index/index/docId/46567'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LfriGseBudUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RxSk:AAGBfm0AAAAAXYLU3SkLTgN6qkCwnZU-YSWUjik77G3Y&scisig=AAGBfm0AAAAAXYLU3WRBbkmvRhiIkVuL8_r8bf1lEVd2&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The flame temperature of three kinds of solid '
+                     'propellants was measured by passive remote\n'
+                     'sensing FTIR with the resolution of 1 cm(-1). These '
+                     'three kinds of solid propellants are adulterate\n'
+                     'nano-scale metal oxide particles, adulterate normal '
+                     'metal oxide particles, and propellant … \n',
+         'author': 'LM Zhang and L Zhang and Y Li and BP Liu and XF Wang…',
+         'title': 'Remote passive detection of flame temperature of solid '
+                  'propellant adulterating nanoparticles',
+         'url': 'https://europepmc.org/abstract/med/16830750'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DRK1adIR3NUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RxSk:AAGBfm0AAAAAXYLU3SkLTgN6qkCwnZU-YSWUjik77G3Y&scisig=AAGBfm0AAAAAXYLU3YT4wU2hu3ZxtkugUPFrrIwkY60o&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Journ., vol. XV. p. 20), as one of the gums used '
+                     'habitually to adulterate tragacanth. Full Text.\n'
+                     'NOTE ON GUM. BY WILLIAM PROCTER, JR … Journ., vol. vp '
+                     '20), as one of the gums used\n'
+                     'habitually to adulterate trag. canth. Mr. Maltass states '
+                     'that this gum is . to thf … \n',
+         'author': 'W PROCTER Jr',
+         'title': 'NOTE ON CARAMANIA GUM.',
+         'url': 'http://search.proquest.com/openview/22de4c9c6c4bc67d6f196507f3afb935/1?pq-origsite=gscholar&cbl=41445'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TlXSyw8bD8MJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RxSk:AAGBfm0AAAAAXYLU3SkLTgN6qkCwnZU-YSWUjik77G3Y&scisig=AAGBfm0AAAAAXYLU3Vu_tzJVQ_f_mTtNaBOOWXkGKG8N&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J CANDIDO',
+         'title': 'but new before, No longer than we well could wash our hands '
+                  'To clap this royal bargain up of peace, Heaven knows they '
+                  "were besmear'd and over-stain'd"},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5aAMi4V-6kYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RxSk:AAGBfm0AAAAAXYLU3SkLTgN6qkCwnZU-YSWUjik77G3Y&scisig=AAGBfm0AAAAAXYLU3Vp4UVVRT-AaFWjVmZoeFRvWciYO&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… reads : “If any person shall sell or expose for sale '
+                     'the flesh of any diseased animal-knowing the\n'
+                     'Same to be such or shall adulterate for the purpose of '
+                     'sale any article of food … “Every person who\n'
+                     'adulterates or dilutes any article of food, drink, drug, '
+                     'medicine, strong, Page 4. Feb … \n',
+         'author': 'LF Kebler',
+         'title': 'Pure food and drug legislation started in the United States '
+                  'one hundred years ago. Early efforts made in england, to '
+                  'control the purity of foods and drugs …',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/jps.3080260213'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ER2Xeyoq3SgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RxSk:AAGBfm0AAAAAXYLU3SkLTgN6qkCwnZU-YSWUjik77G3Y&scisig=AAGBfm0AAAAAXYLU3bhX5AaQdZ27VHY4bRX2u2ZjB_tp&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Clothair. Marry a Whore? Father a bastard issue? '
+                     "Eunuch. I tell you truth, there's no\n"
+                     'avoiding it. (52.165–72) The adulterous woman '
+                     'adulterates the male line by producing\n'
+                     'ille- gitimate children ("legitimate" an antonym for '
+                     'adulterate) … \n',
+         'author': 'A Stevens',
+         'eprint': 'http://www.academia.edu/download/34236030/AdulterationHemingeFatalContract.pdf',
+         'title': '" The Eunuch Much Sears Her Breast". liemedying '
+                  "Adulteration in William Heminge's The Fatal Contract",
+         'url': 'http://www.academia.edu/download/34236030/AdulterationHemingeFatalContract.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vVwyPVVGSIwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RxSk:AAGBfm0AAAAAXYLU3SkLTgN6qkCwnZU-YSWUjik77G3Y&scisig=AAGBfm0AAAAAXYLU3aMZheiCPAIj2YUnu-3GySOmnIUQ&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'author': 'H Mellor', 'title': 'Adolph Gollmick'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IskffmUt3K8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RxSk:AAGBfm0AAAAAXYLU3SkLTgN6qkCwnZU-YSWUjik77G3Y&scisig=AAGBfm0AAAAAXYLU3fbYyykqoijlXsWyHGJxjO3ueUHZ&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'author': 'CH Spray', 'title': 'Dr. Peace'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2rSB-UEkZa4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RxSk:AAGBfm0AAAAAXYLU3SkLTgN6qkCwnZU-YSWUjik77G3Y&scisig=AAGBfm0AAAAAXYLU3U3CylNp6wdCtEtIyCvLCohd9yqV&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Page 2. 86 THE ANALYST. adulterate, rather than by '
+                     'general definitions to leave too much\n'
+                     'to be decided only by litigation in the courts, If the '
+                     'offence be well defined to the person\n'
+                     'who adulterates, the first effect will be to prevent or '
+                     'deter him … \n',
+         'author': 'DR MUTER',
+         'title': 'The report opens with critical remarks upon the defects of '
+                  "our ('Sale of Food and Drugs Act,” and the following is the "
+                  'summary of these weak points:-First, the law must …',
+         'url': 'https://pubs.rsc.org/en/content/articlepdf/1879/an/an8790400085'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PlBxazjLMOUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RxSk:AAGBfm0AAAAAXYLU3SkLTgN6qkCwnZU-YSWUjik77G3Y&scisig=AAGBfm0AAAAAXYLU3VIsgoqMpRHYswYtOHZaJYRrYbwz&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… commend for British criminals!). As usual, the plight '
+                     'CJITI no. 43 Spring 2001 Page\n'
+                     '2. "Here\'s the unadulterated version - adulterate it." '
+                     'like this one from The Sun:\n'
+                     '"Robert the Hood: Prince of Thieves". There are also '
+                     'plenty of … \n',
+         'author': 'M Levi',
+         'title': 'White-collar crime in the news',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/09627250108552960'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '13953662599755979815',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:J9wbbjRepcEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R_oY:AAGBfm0AAAAAXYLU5oYe_384u5B__A0nP4Vo6NTBaM8Y&scisig=AAGBfm0AAAAAXYLU5ozPkSVZkQdVuaCULHg_rH0kywvk&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… that incestuous, that adulterate beast,/... won to his '
+                     'shameful lust / The will of my most seeming\n'
+                     'virtuous queen" (1.5.42-46). The apologists would '
+                     'maintain, according to Rosenberg, "that\n'
+                     'adulterate as applied to Claudius could simply be a '
+                     'synonym for incestuous … \n',
+         'author': 'C BOUCHARD',
+         'eprint': 'http://www.academia.edu/download/40797283/Literature_Final_Formal-revised.docx',
+         'title': 'GERTRUDE EXPOSED: THE INACTION THAT SET THE FIRE',
+         'url': 'http://www.academia.edu/download/40797283/Literature_Final_Formal-revised.docx'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7qj1Gryd_K0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R_oY:AAGBfm0AAAAAXYLU5oYe_384u5B__A0nP4Vo6NTBaM8Y&scisig=AAGBfm0AAAAAXYLU5r_LS5amRxTfNQG17UobPUIwQhBp&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'author': 'S Dunuwille',
+         'title': 'Development Of A Pcr Based Genotyping Procedure To Identify '
+                  'The Unacceptable Adulterations In Sri Lankan Meat Market'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hLZkWuOOHR8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R_oY:AAGBfm0AAAAAXYLU5oYe_384u5B__A0nP4Vo6NTBaM8Y&scisig=AAGBfm0AAAAAXYLU5uaxov5YKp-xhJbYEjvI1DTDrSPO&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… They also adulterate milk to increase their profit '
+                     'margin by several chemicals like urea, starch,\n'
+                     'flour, cane sugar, vegetable oils, detergents etc. '
+                     'Various preservatives like formalin and some\n'
+                     'antibiotics are also added in milk to increase its shelf '
+                     'life … Full definition of adulterate … \n',
+         'author': 'D Navale and S Gupta',
+         'eprint': 'http://www.academia.edu/download/46947202/127-129.pdf',
+         'title': 'To Detect an Adulteration Present in Milk',
+         'url': 'http://www.academia.edu/download/46947202/127-129.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oAb-gXoS0J8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R_oY:AAGBfm0AAAAAXYLU5oYe_384u5B__A0nP4Vo6NTBaM8Y&scisig=AAGBfm0AAAAAXYLU5neADhAWTIQOoasL4_HJ5BVEn0ia&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… What is the law in these matters ? Is it that it is '
+                     'illegal for any one to adulterate genuine milk\n'
+                     'with water; or is it that any one rnGy adulterate his '
+                     'milk, provided he does not add too much\n'
+                     'water, i.5. that he does not dilute it below a certain '
+                     'standard … \n',
+         'author': 'W Thomson',
+         'eprint': 'https://pubs.rsc.org/en/content/articlepdf/1877/an/an8770200094',
+         'title': 'On the incongruity of the mode generally adopted in stating '
+                  'the results of milk analyses',
+         'url': 'https://pubs.rsc.org/en/content/articlepdf/1877/an/an8770200094'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2WoHrpskaboJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R_oY:AAGBfm0AAAAAXYLU5oYe_384u5B__A0nP4Vo6NTBaM8Y&scisig=AAGBfm0AAAAAXYLU5jHkIWc3J68K4R2OwN4zUdu4z14t&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… As no complete analysis of these shells or husks, as '
+                     'they are sometimes called, is to be found\n'
+                     'in any work on chemistry and as it is stated that they '
+                     'are used to adulterate ground spices and\n'
+                     'various other foods, it was thought desirable to make '
+                     'one, to aid, if possible, their … \n',
+         'author': 'PS Clarkson',
+         'title': 'AN ANALYSIS OF CACAO SHELLS.',
+         'url': 'http://search.proquest.com/openview/6ae2223f75d3b01e8604b6d007b09116/1?pq-origsite=gscholar&cbl=41445'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rzlZ6ZXoCmMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R_oY:AAGBfm0AAAAAXYLU5oYe_384u5B__A0nP4Vo6NTBaM8Y&scisig=AAGBfm0AAAAAXYLU5heH7pBaj10CgXNr9mn-pSi0TTj6&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… smal & halfe strong"; E. Topsell (1607), "As for his '
+                     'diet, let it be warm mashes, sodden wheat\n'
+                     'and hay, thoroughly carded with a pair of Wool-cards"; '
+                     'E. Pagitt (1635), "Wine, carded together\n'
+                     'with a little warme water." Dover Wil- son takes the '
+                     'verb card to mean "to adulterate (esp … \n',
+         'author': 'KP Wentersdorf',
+         'eprint': 'https://www.jstor.org/stable/pdf/2871196.pdf',
+         'title': 'Shakespeare and Carding: Notes on Cruxes in 1 Henry IV and '
+                  'in Twelfth Night',
+         'url': 'https://www.jstor.org/stable/2871196'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '5201946822525440576',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QNIZ8RIHMUgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R_oY:AAGBfm0AAAAAXYLU5oYe_384u5B__A0nP4Vo6NTBaM8Y&scisig=AAGBfm0AAAAAXYLU5ijdI_aqUX8rQgRQ70JxlpVYWuWb&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… He uses the term more generally to denote any salesman '
+                     "who 'tarts up' or adulterates his\n"
+                     'merchandise. Dealers who adulterate spice and sell it at '
+                     'a high price are termed mangones,\n'
+                     'as are salesmen who artificially age their wine or who '
+                     'refuse to allow the fake gemstones they … \n',
+         'author': 'AB Bosworth',
+         'eprint': 'http://search.proquest.com/openview/ffc7f03a73faccb553e72632889827e7/1.pdf?pq-origsite=gscholar&cbl=40538',
+         'title': 'Vespasian and the slave trade1',
+         'url': 'https://www.cambridge.org/core/journals/classical-quarterly/article/vespasian-and-the-slave-trade1/C836733BA85CAB060567C97B2274B271'},
+ 'citedby': 28,
+ 'id_scholarcitedby': '10729257155807700286',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PmW8g4n65ZQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R_oY:AAGBfm0AAAAAXYLU5oYe_384u5B__A0nP4Vo6NTBaM8Y&scisig=AAGBfm0AAAAAXYLU5n4qEVQzSYC9okCi9VKw0kaG0rqZ&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… are highly valued be- cause they are traditionally '
+                     'pressed from olives without the use of heat\n'
+                     'and because they are considered to be better tasting and '
+                     'nutritionally favorable (1,2). Because\n'
+                     'of the high price of vir- gin olive oils, there is a '
+                     'great temptation to adulterate them with … \n',
+         'author': 'SA Damirchi and GP Savage and PC Dutta',
+         'eprint': 'https://link.springer.com/content/pdf/10.1007/s11746-005-1133-y.pdf',
+         'title': 'Sterol fractions in hazelnut and virgin olive oils and 4, '
+                  '4′-dimethylsterols as possible markers for detection of '
+                  'adulteration of virgin olive oil',
+         'url': 'https://link.springer.com/article/10.1007/s11746-005-1133-y'},
+ 'citedby': 104,
+ 'id_scholarcitedby': '16629539209696830822',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZuVo3M39x-YJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R_oY:AAGBfm0AAAAAXYLU5oYe_384u5B__A0nP4Vo6NTBaM8Y&scisig=AAGBfm0AAAAAXYLU5qRkA74o3dkQySGD2o-h5qwGKcPY&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Richard 3, iv. 4. Ay, that incestuous, that adulterate '
+                     'beast. Hamlet, i. 5. To ADULTERATE.\n'
+                     'To be guilty of adultery. But Fortune, 0 ! She is '
+                     "corrupted, chang'd, and won from thee; She\n"
+                     'adulterates hourly with thine uncle John. King John, 1. '
+                     'TO ADVANCE … \n',
+         'author': 'S Jervis',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=c1hZAAAAcAAJ&oi=fnd&pg=PA1&dq=adulterates&ots=yf2YTMYoWW&sig=cX6GwEqt0kfJrmqr0-vRxziiZF0',
+         'title': 'A Dictionary of the Language of Shakspeare',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=c1hZAAAAcAAJ&oi=fnd&pg=PA1&dq=adulterates&ots=yf2YTMYoWW&sig=cX6GwEqt0kfJrmqr0-vRxziiZF0'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '9151067584707188654',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rlcQ3nsf_34J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R_oY:AAGBfm0AAAAAXYLU5oYe_384u5B__A0nP4Vo6NTBaM8Y&scisig=AAGBfm0AAAAAXYLU5oagINCb159FqyMT8nufgW-Vgoxs&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… CREDIT: REUTERS/LANDOV. BEIJING—A weeks-long '
+                     "investigation into China's\n"
+                     'tainted milk scandal has left scientists astonished by '
+                     'the technical sophistication of\n'
+                     'those who used melamine to adulterate food products. '
+                     'Chinese … \n',
+         'author': 'H Xin and R Stone',
+         'eprint': 'https://science.sciencemag.org/content/sci/322/5906/1310.full.pdf',
+         'title': 'Chinese probe unmasks high-tech adulteration with melamine',
+         'url': 'https://science.sciencemag.org/content/322/5906/1310.short'},
+ 'citedby': 213,
+ 'id_scholarcitedby': '18342809840433912068',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BFmakV3Ajv4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R9pw:AAGBfm0AAAAAXYLU7pxczLeqoUTec7YacPGaOgoTbL-k&scisig=AAGBfm0AAAAAXYLU7pWpL6rHLEKNqxVv0fpbDNIAp1gT&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Minimal treatment such as washing, pressing, '
+                     'decantation, centrifugation and filtration is\n'
+                     'acceptable [2]. Virgin olive oil is expensive, so '
+                     'unscrupulous sellers adulterate virgin olive\n'
+                     'oil by the addition of low-grade edible oils in order to '
+                     'increase their profits … \n',
+         'author': 'KI Poulli and GA Mousdis and CA Georgiou',
+         'eprint': 'https://link.springer.com/article/10.1007/s00216-006-0729-2',
+         'title': 'Synchronous fluorescence spectroscopy for quantitative '
+                  'determination of virgin olive oil adulteration with '
+                  'sunflower oil',
+         'url': 'https://link.springer.com/article/10.1007/s00216-006-0729-2'},
+ 'citedby': 96,
+ 'id_scholarcitedby': '1869480682283471182',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ThH2jca68RkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R9pw:AAGBfm0AAAAAXYLU7pxczLeqoUTec7YacPGaOgoTbL-k&scisig=AAGBfm0AAAAAXYLU7qEtYPuXdpF2uXEsyLS-9iwb-XB2&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… on monitoring the ratio of the relative concentrations '
+                     'of the different forms of carbohydrates which\n'
+                     'are different for honey and the adulterates … of '
+                     'fluorescence spectroscopy for monitoring adulteration\n'
+                     'of honey by cane sugar syrup, which is most often used '
+                     'to adulterate honey in … \n',
+         'author': 'N Ghosh and Y Verma and SK Majumder…',
+         'eprint': 'https://www.jstage.jst.go.jp/article/fstr/11/1/11_1_59/_pdf',
+         'title': 'A fluorescence spectroscopic study of honey and cane sugar '
+                  'syrup',
+         'url': 'https://www.jstage.jst.go.jp/article/fstr/11/1/11_1_59/_article/-char/ja/'},
+ 'citedby': 25,
+ 'id_scholarcitedby': '3670713295047066573',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zYOVJ0v-8DIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R9pw:AAGBfm0AAAAAXYLU7pxczLeqoUTec7YacPGaOgoTbL-k&scisig=AAGBfm0AAAAAXYLU7gDOIXY8TcznIuHiGEucJTI8KsA-&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… This oil is used extensively in the arts, chiefly to '
+                     'adulterate and substitute higher priced oils.\n'
+                     'Cheap paints are ground in it, and it is used to a '
+                     'certain extent to adulterate linseed oil. But,\n'
+                     'being a non- drying oil, only a small per centage could '
+                     'be used … \n',
+         'author': 'HN Fraser',
+         'title': 'ON COTTON SEEDS.',
+         'url': 'http://search.proquest.com/openview/e3b06063bc948db95228eee8e6638c9f/1?pq-origsite=gscholar&cbl=41445'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5stMt5jWmNMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R9pw:AAGBfm0AAAAAXYLU7pxczLeqoUTec7YacPGaOgoTbL-k&scisig=AAGBfm0AAAAAXYLU7kWrfIEPc9N-hrbjIEEgxpEas9OG&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Although whole strawberries are difficult to '
+                     'adulterate, it is substantially easier to adulterate '
+                     'them\n'
+                     'in purée form … The apple purée was used to adulterate '
+                     'the strawberry purées at levels of 10, 40,\n'
+                     'and 70% (v/v). A 100% apple purée was also included in '
+                     'the sample set … \n',
+         'author': "LM Reid and CP O'Donnell and G Downey",
+         'eprint': 'https://pubs.acs.org/doi/full/10.1021/jf034962b',
+         'title': 'Potential of SPME-GC and chemometrics to detect '
+                  'adulteration of soft fruit purees',
+         'url': 'https://pubs.acs.org/doi/abs/10.1021/jf034962b'},
+ 'citedby': 45,
+ 'id_scholarcitedby': '14924502083802441607',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hyefYpJ7Hs8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R9pw:AAGBfm0AAAAAXYLU7pxczLeqoUTec7YacPGaOgoTbL-k&scisig=AAGBfm0AAAAAXYLU7uNrOplXKXjb1WB9xMbSlBFlcljp&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… However, in 2007–2008, melamine gained substantial '
+                     'notoriety when it was used to intentionally\n'
+                     'adulterate milk, food and feed materials from China, '
+                     'thus fraudently increasing the apparent\n'
+                     'protein content of the products as standard protein '
+                     'determination assays (eg Kjeldahl … \n',
+         'author': 'SA Haughey and SF Graham and E Cancouët and CT Elliott',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0308814612001045',
+         'title': 'The application of near-infrared reflectance spectroscopy '
+                  '(NIRS) to detect melamine adulteration of soya bean meal',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0308814612001045'},
+ 'citedby': 95,
+ 'id_scholarcitedby': '3210319739812847128',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GB74WstYjSwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R9pw:AAGBfm0AAAAAXYLU7pxczLeqoUTec7YacPGaOgoTbL-k&scisig=AAGBfm0AAAAAXYLU7kS435Ied_jZiH09ERpPxbjaVclT&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The SIMCA model showed that the adulterate honey '
+                     'samples were detected with 100%\n'
+                     'sensitivity and specificity … Preliminary tests on '
+                     'adulterate samples were performed by doing\n'
+                     'NMR experiment whether sucrose was artificially added to '
+                     'the samples … \n',
+         'author': 'S Mehretie and DF Al Riza and S Yoshito and N Kondo',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0956713517303687',
+         'title': 'Classification of raw Ethiopian honeys using front face '
+                  'fluorescence spectra with multivariate analysis',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0956713517303687'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '9722840824329287730',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MjjQRTd47oYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R9pw:AAGBfm0AAAAAXYLU7pxczLeqoUTec7YacPGaOgoTbL-k&scisig=AAGBfm0AAAAAXYLU7oWq4lDdg8BNvcq3N9y6ZvmzPd2b&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… concentrate (FOJC). This process leaves this fruit '
+                     'juice product vulnerable and offers\n'
+                     'several opportunities to those wishing to tamper and '
+                     'adulterate orange juice for\n'
+                     'economic gain, by increasing product yields for example. '
+                     'A … \n',
+         'author': 'DI Ellis and J Ellis and H Muhamadali and Y Xu and AB '
+                   'Horn…',
+         'eprint': 'https://pubs.rsc.org/en/content/articlehtml/2016/ay/c6ay01480a',
+         'title': 'Rapid, high-throughput, and quantitative determination of '
+                  'orange juice adulteration by Fourier-transform infrared '
+                  'spectroscopy',
+         'url': 'https://pubs.rsc.org/en/content/articlehtml/2016/ay/c6ay01480a'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '18096000700278852561',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0UtXm8LoIfsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R9pw:AAGBfm0AAAAAXYLU7pxczLeqoUTec7YacPGaOgoTbL-k&scisig=AAGBfm0AAAAAXYLU7uurCKauI7XhkGIhog-1EL8GI5F0&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… class Coffee{ protected void adulterate(){ '
+                     'System.out.println("add some milk"); } } … class '
+                     'Homebrew\n'
+                     'extends Coffee{ protected void adulterate(){ '
+                     'System.out.println("3 spoons of sugar"); } public '
+                     'static\n'
+                     'void main(String[] args){ Homebrew h = new Homebrew(); '
+                     'h.adulterate(); } } … \n',
+         'author': 'S Eisenbach and C Sadler',
+         'eprint': 'https://ieeexplore.ieee.org/iel5/7668/20964/00972761.pdf',
+         'title': 'Changing Java Programs',
+         'url': 'https://ieeexplore.ieee.org/abstract/document/972761/'},
+ 'citedby': 22,
+ 'id_scholarcitedby': '10765051046383636217',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-c6kGOQkZZUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R9pw:AAGBfm0AAAAAXYLU7pxczLeqoUTec7YacPGaOgoTbL-k&scisig=AAGBfm0AAAAAXYLU7j6LHcYmuv-dZI-yMiw5BSaptfhQ&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'author': 'E Hopkins', 'title': "The Oil-chemists' Handbook"},
+ 'citedby': 1,
+ 'id_scholarcitedby': '5230020326918605505',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wUoOCsfDlEgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7R9pw:AAGBfm0AAAAAXYLU7pxczLeqoUTec7YacPGaOgoTbL-k&scisig=AAGBfm0AAAAAXYLU7itRTm3ydaczla2Zq_SY3K5Iwr56&scisf=4&ct=citation&cd=99&hl=en'}

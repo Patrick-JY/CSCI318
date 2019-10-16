@@ -1,0 +1,1422 @@
+{'_filled': False,
+ 'bib': {'abstract': 'Correlations between water quality parameters and '
+                     'seagrass depth penetration were developed for use as a '
+                     'biological indicator of integrated light availability '
+                     'and long-term trends in water quality. A year-long water '
+                     'quality monitoring programme in Moreton Bay was …',
+         'author': 'EG Abal and WC Dennison',
+         'title': 'Seagrass depth range and water quality in southern Moreton '
+                  'Bay, Queensland, Australia',
+         'url': 'http://www.publish.csiro.au/mf/MF9960763'},
+ 'citedby': 268,
+ 'id_scholarcitedby': '3472798705018786381',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TdIUxQXcMTAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AaIs:AAGBfm0AAAAAXYJFcIv5M8ys_CzuUE1rdEP13v89fnEv&scisig=AAGBfm0AAAAAXYJFcMKsNv6hN4-awvDvmBCZxwMuRyUE&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Bacterioplankton community diversity was investigated in '
+                     'the subtropical Brisbane River-Moreton Bay estuary, '
+                     'Australia (27° 25′ S, 153° 5′ E). Bacterial communities '
+                     'were studied using automated rRNA intergenic spacer '
+                     'analysis (ARISA), which amplifies 16S-23S …',
+         'author': 'I Hewson and JA Fuhrman',
+         'eprint': 'https://aem.asm.org/content/aem/70/6/3425.full.pdf',
+         'title': 'Richness and diversity of bacterioplankton species along an '
+                  'estuarine gradient in Moreton Bay, Australia',
+         'url': 'https://aem.asm.org/content/70/6/3425.short'},
+ 'citedby': 222,
+ 'id_scholarcitedby': '3152056507375299635',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MywQcrFavisJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AaIs:AAGBfm0AAAAAXYJFcIv5M8ys_CzuUE1rdEP13v89fnEv&scisig=AAGBfm0AAAAAXYJFcICpPNrlawAgUenrbFqtI0R0EhGr&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Seagrasses, marine angiosperms with high rates of '
+                     'primary productivity, are often limited by the supply of '
+                     'nutrients, particularly nitrogen (N) and phosphorus (P). '
+                     'We investigated growth and physiological responses of '
+                     'three seagrass species (Halodule uninervis (Forsk.), '
+                     'Zostera …',
+         'author': 'JW Udy and WC Dennison',
+         'title': 'Growth and physiological responses of three seagrass '
+                  'species to elevated sediment nutrients in Moreton Bay, '
+                  'Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0022098197000609'},
+ 'citedby': 216,
+ 'id_scholarcitedby': '5757492454160597887',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fwM87-G45k8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AaIs:AAGBfm0AAAAAXYJFcIv5M8ys_CzuUE1rdEP13v89fnEv&scisig=AAGBfm0AAAAAXYJFcDBzoQ4BIOnir4pE9gp0YuAWX3KB&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Details concerning the frequency and occurrence of large '
+                     'wounds on bottlenose dolphins resident in Moreton bay '
+                     'are presented. These wounds appear to result from '
+                     'interactions between the dolphins and sharks, '
+                     'particularly great white and tiger sharks. The results '
+                     'are …',
+         'author': 'PJ Corkeron and RJ Morris and MM Bryden',
+         'eprint': 'https://www.researchgate.net/profile/Peter_Corkeron/publication/280091397_Interactions_between_bottlenose_dolphins_and_sharks_in_Moreton_Bay_Queensland/links/55a7f7d508ae481aa7f56545.pdf',
+         'title': 'Interactions between bottlenose dolphins and sharks in '
+                  'Moreton Bay, Queensland',
+         'url': 'https://www.researchgate.net/profile/Peter_Corkeron/publication/280091397_Interactions_between_bottlenose_dolphins_and_sharks_in_Moreton_Bay_Queensland/links/55a7f7d508ae481aa7f56545.pdf'},
+ 'citedby': 119,
+ 'id_scholarcitedby': '1589519991028167257',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WbKdnAIcDxYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AaIs:AAGBfm0AAAAAXYJFcIv5M8ys_CzuUE1rdEP13v89fnEv&scisig=AAGBfm0AAAAAXYJFcEuIqnSWmJjSu24iG48X2X4no4m7&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In this paper the composition of the seagrass '
+                     'communities of Moreton Bay, Queensland, is described. '
+                     'Six species were found: Zostera capricorni Aschers., '
+                     'Halodule uninervis (Forsk.) Aschers., Halophila ovalis '
+                     '(R. Br.) Hook. f., Halophila spinulosa (R. Br.) Aschers '
+                     '…',
+         'author': 'PC Young and H Kirkman',
+         'title': 'The seagrass communities of Moreton Bay, Queensland',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0304377075900224'},
+ 'citedby': 91,
+ 'id_scholarcitedby': '17201556711243848003',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Qxlt7bA0uO4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AaIs:AAGBfm0AAAAAXYJFcIv5M8ys_CzuUE1rdEP13v89fnEv&scisig=AAGBfm0AAAAAXYJFcKIhGXtROWFSXAX5H0TywsoIgwCu&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'An earlier study revealed that some seagrass beds in '
+                     'Moreton Bay, Queensland were declining rapidly in '
+                     'viability. This study, between June 1974 and December '
+                     '1975, showed that sand movement was an important factor '
+                     "in the seagrasses' decline, and that cropping …",
+         'author': 'H Kirkman',
+         'eprint': 'https://www.researchgate.net/profile/Hugh_Kirkman/publication/248196466_Growing_Zostera_capricorni_Aschers_In_tanks/links/5ac72cf2aca272abdc5cd644/Growing-Zostera-capricorni-Aschers-In-tanks',
+         'title': 'Decline of seagrass in northern areas of Moreton Bay, '
+                  'Queensland',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0304377078900475'},
+ 'citedby': 98,
+ 'id_scholarcitedby': '12279633430556007419',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-1tNeIsFaqoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AaIs:AAGBfm0AAAAAXYJFcIv5M8ys_CzuUE1rdEP13v89fnEv&scisig=AAGBfm0AAAAAXYJFcGMbvJVDC4gTDvC3rSazzktsvpS8&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Understanding, monitoring and modelling attributes of '
+                     'seagrass biodiversity, such as species composition, '
+                     'richness, abundance, spatial patterns, and disturbance '
+                     'dynamics, requires spatial information. This work '
+                     'assessed the accuracy of commonly available …',
+         'author': 'S Phinn and C Roelfsema and A Dekker and V Brando…',
+         'eprint': 'https://www.researchgate.net/profile/Janet_Anstee/publication/223948339_Mapping_seagrass_species_cover_and_biomass_in_shallow_waters_An_assessment_of_satellite_multi-spectral_and_airborne_hyper-spectral_imaging_systems_in_Moreton_Bay_Australia/links/5bd0ee4445851537f598f3b7/Mapping-seagrass-species-cover-and-biomass-in-shallow-waters-An-assessment-of-satellite-multi-spectral-and-airborne-hyper-spectral-imaging-systems-in-Moreton-Bay-Australia.pdf',
+         'title': '… seagrass species, cover and biomass in shallow waters: An '
+                  'assessment of satellite multi-spectral and airborne '
+                  'hyper-spectral imaging systems in Moreton Bay  …',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0034425708001259'},
+ 'citedby': 245,
+ 'id_scholarcitedby': '14664351738435366932',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:FHDSBjY-gssJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AaIs:AAGBfm0AAAAAXYJFcIv5M8ys_CzuUE1rdEP13v89fnEv&scisig=AAGBfm0AAAAAXYJFcOZvLFIq3iwrtxFX7vrmC_d6K1vQ&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Portunus pelagicus Linnaeus is a bottom-feeding '
+                     'carnivore, eating a wide variety of sessile and slow '
+                     'moving invertebrates. Diet is largely dependent upon '
+                     'local availability of prey species: the main foods for '
+                     'intertidal P. pelagicus are small hermit crabs and '
+                     'gastropods and …',
+         'author': 'MJ Williams',
+         'title': 'Natural food and feeding in the commercial sand crab '
+                  'Portunus pelagicus Linnaeus, 1766 (Crustacea: Decapoda: '
+                  'Portunidae) in Moreton Bay, Queensland',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0022098182901137'},
+ 'citedby': 177,
+ 'id_scholarcitedby': '3862202813457267931',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:23yi-v5MmTUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AaIs:AAGBfm0AAAAAXYJFcIv5M8ys_CzuUE1rdEP13v89fnEv&scisig=AAGBfm0AAAAAXYJFcFU4V_IX4xNmqRzs8IKJSUFv9z5M&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Fifteen parasites and symbionts were found in the '
+                     'tissues, in the branchial chambers, and on external '
+                     'surfaces of the sand crab Portunus pelagicus. Female '
+                     'crabs possessed more species of parasites and symbionts, '
+                     'and had a more specialized fauna than did male crabs …',
+         'author': 'JD Shields',
+         'eprint': 'http://139.70.2.61/research/departments/eaah/programs/crustacean/research/hematodinium/literature/pdf%20files%202/Shields%201992.pdf',
+         'title': 'Parasites and Symbionts of the Crab Portunus Pelagicus from '
+                  'Moreton Bay, Eastern Australia',
+         'url': 'https://academic.oup.com/jcb/article-abstract/12/1/94/2327801'},
+ 'citedby': 114,
+ 'id_scholarcitedby': '5535709978955777447',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:p4U-e-XK0kwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AaIs:AAGBfm0AAAAAXYJFcIv5M8ys_CzuUE1rdEP13v89fnEv&scisig=AAGBfm0AAAAAXYJFcJnWPAKbNqtLNoXK8psN-Hf5FQPh&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The macrobenthos of Moreton Bay is diverse, with 355 '
+                     'species collected from 400 dredged stations. Many of '
+                     'these species are distributed throughout the '
+                     'Indo—West—Pacific area, others have an Australian '
+                     'distribution (possibly some may also occur in the '
+                     'northern …',
+         'author': 'W Stephenson and WT Williams…',
+         'title': 'The macrobenthos of Moreton Bay',
+         'url': 'https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1942340'},
+ 'citedby': 80,
+ 'id_scholarcitedby': '16367192665104549401',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GYbvBQPzI-MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AaIs:AAGBfm0AAAAAXYJFcIv5M8ys_CzuUE1rdEP13v89fnEv&scisig=AAGBfm0AAAAAXYJFcIG64ftn4lizHiw3Nq1uS3s9sM1-&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Changes in rainfall pattern have been suggested as a '
+                     'mechanism for the landward incursion of mangrove into '
+                     'salt marsh. The aim of the research was to assess the '
+                     'relationship between rainfall patterns and the spatial '
+                     'distribution of mangrove forests at …',
+         'author': 'L Eslami-Andargoli and PER Dale and N Sipe…',
+         'eprint': 'https://core.ac.uk/download/pdf/143851641.pdf',
+         'title': 'Mangrove expansion and rainfall patterns in Moreton Bay, '
+                  'southeast Queensland, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0272771409004065'},
+ 'citedby': 98,
+ 'id_scholarcitedby': '2469921392149205846',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VhMxgmvsRiIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AYYs:AAGBfm0AAAAAXYJFeYuE6syvqs8EnMOWnOZnteD3vt2d&scisig=AAGBfm0AAAAAXYJFeaQK6pZL8g0ZzIVtTkprAH9nolgH&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Large blooms of the marine cyanobacterium Lyngbya '
+                     'majuscula in Moreton Bay, Australia (27° 05′ S, 153° 08′ '
+                     'E) have been re-occurring for several years. A bloom was '
+                     'studied in Deception Bay (Northern Moreton Bay) in '
+                     'detail over the period January–March 2000. In situ …',
+         'author': "AJ Watkinson and JM o'Neil and WC Dennison",
+         'title': 'Ecophysiology of the marine cyanobacterium, Lyngbya '
+                  'majuscula (Oscillatoriaceae) in Moreton Bay, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1568988304000952'},
+ 'citedby': 111,
+ 'id_scholarcitedby': '2139765772374136666',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WlfmDKL5sR0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AYYs:AAGBfm0AAAAAXYJFeYuE6syvqs8EnMOWnOZnteD3vt2d&scisig=AAGBfm0AAAAAXYJFeWg95uYyB2e7CVfsGQ2Y-zhlokTw&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Estimating the abundance of migratory species is '
+                     'difficult because sources of variability differ '
+                     'substantially among species and populations. Recently '
+                     'developed state‐space models address this variability '
+                     'issue by directly modeling both environmental and …',
+         'author': 'HB Wilson and BE Kendall and RA Fuller…',
+         'eprint': 'http://www.academia.edu/download/3140513/Wilson_et_al_in_press.pdf',
+         'title': 'Analyzing variability and the rate of decline of migratory '
+                  'shorebirds in Moreton Bay, Australia',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1523-1739.2011.01670.x'},
+ 'citedby': 106,
+ 'id_scholarcitedby': '11156726345214768181',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NbTEBoCn1JoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AYYs:AAGBfm0AAAAAXYJFeYuE6syvqs8EnMOWnOZnteD3vt2d&scisig=AAGBfm0AAAAAXYJFee1WhgDS-gImyGz5GVNl5huVtMvs&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Average annual carbon, nitrogen, and phosphorus budgets '
+                     'were constructed for Moreton Bay. Primary production was '
+                     'the dominant source of carbon (by two orders of '
+                     'magnitude), N fixation was the dominant source of '
+                     'nitrogen, and point sources were the dominant source of '
+                     '…',
+         'author': 'BD Eyre and LJ McKee',
+         'eprint': 'https://aslopubs.onlinelibrary.wiley.com/doi/pdf/10.4319/lo.2002.47.4.1043',
+         'title': 'Carbon, nitrogen, and phosphorus budgets for a shallow '
+                  'subtropical coastal embayment (Moreton Bay, Australia)',
+         'url': 'https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2002.47.4.1043'},
+ 'citedby': 107,
+ 'id_scholarcitedby': '7796721948258924693',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lfh2mk2FM2wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AYYs:AAGBfm0AAAAAXYJFeYuE6syvqs8EnMOWnOZnteD3vt2d&scisig=AAGBfm0AAAAAXYJFeWbE0_h3s4p1Xe6MEWYXStvJNmzN&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Diet selection by immature green turtles (Chelonia '
+                     'mydas) in Flathead Gutter, Moreton Bay, was determined '
+                     'by examining food ingested in relation to food '
+                     'availability (measured as vegetation composition and '
+                     'abundance within the feeding site). Food composition was '
+                     '…',
+         'author': 'SJ Brand-Gardner and CJ Limpus and JM Lanyon',
+         'eprint': 'https://quilterscompanion.com.au/wp-content/uploads/2015/04/quc070_otr.pdf',
+         'title': 'Diet selection by immature green turtles, Chelonia mydas, '
+                  'in subtropical Moreton Bay, south-east Queensland',
+         'url': 'http://www.publish.csiro.au/zo/ZO98065'},
+ 'citedby': 106,
+ 'id_scholarcitedby': '14228404618334893510',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xvVgdJ1ydcUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AYYs:AAGBfm0AAAAAXYJFeYuE6syvqs8EnMOWnOZnteD3vt2d&scisig=AAGBfm0AAAAAXYJFeTdyQCtiRhtsVLss83Ya0iXxsz40&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Nitrogen loading to aquatic ecosystems from sewage is '
+                     'recognised worldwide as a growing problem. The use of '
+                     'nitrogen stable isotopes as a means of discerning sewage '
+                     'nitrogen in the environment has been used annually by '
+                     'the Ecosystem Health Monitoring Program in …',
+         'author': 'SD Costanzo and J Udy and B Longstaff and A Jones',
+         'eprint': 'https://www.researchgate.net/profile/Maria_Laitano/post/What_are_the_methods_to_assess_if_an_18_month_pollution_prevention_program_affects_a_Caribbean_lagoon/attachment/59d621a779197b8077980050/AS:297557755482116@1447954705306/download/Costanzo+et+al.+2005-+Australia+sewage.pdf',
+         'title': '… isotope ratios (δ15N) of macroalgae to determine the '
+                  'effectiveness of sewage upgrades: changes in the extent of '
+                  'sewage plumes over four years in Moreton Bay …',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0025326X04003522'},
+ 'citedby': 157,
+ 'id_scholarcitedby': '13874972496348896644',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hN0wAfnNjcAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AYYs:AAGBfm0AAAAAXYJFeYuE6syvqs8EnMOWnOZnteD3vt2d&scisig=AAGBfm0AAAAAXYJFeeN8r4-H7w7pZ1Ey-k9_jX7KOsEp&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A field and laboratory study in 1984–1985 using the '
+                     'foregut contents of crabs caught in Moreton Bay, '
+                     'Queensland, when trawling was underway, showed that '
+                     'animals discarded from trawls constituted about 33% of '
+                     'the diet. Portunus pelagicus can fill its foregut in '
+                     'about …',
+         'author': 'TJ Wassenberg and BJ Hill',
+         'title': 'Feeding by the sand crab Portunus pelagicus on material '
+                  'discarded from prawn trawlers in Moreton Bay, Australia',
+         'url': 'https://link.springer.com/article/10.1007/BF00409569'},
+ 'citedby': 102,
+ 'id_scholarcitedby': '15238626152110170375',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ByGBZb95etMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AYYs:AAGBfm0AAAAAXYJFeYuE6syvqs8EnMOWnOZnteD3vt2d&scisig=AAGBfm0AAAAAXYJFeWrewYAzVChSE1nBFaSLlK531cr6&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Creating accurate maps of seagrass cover is a '
+                     'challenging procedure in coastal waters with variable '
+                     'water clarity and depths. This paper presents an '
+                     'approach for mapping seagrass cover from data sources '
+                     'commonly collected by natural resource management '
+                     'agencies …',
+         'author': 'CM Roelfsema and SR Phinn and N Udy…',
+         'eprint': 'https://www.researchgate.net/profile/Stuart_Phinn/publication/43511756_An_Integrated_Field_and_Remote_Sensing_Approach_for_Mapping_Seagrass_Cover_Moreton_Bay_Australia/links/02e7e5249fb5518ea3000000.pdf',
+         'title': 'An integrated field and remote sensing approach for mapping '
+                  'seagrass cover, Moreton Bay, Australia',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/14498596.2009.9635166'},
+ 'citedby': 98,
+ 'id_scholarcitedby': '7699958668565948216',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OCcQ6Zy_22oJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AYYs:AAGBfm0AAAAAXYJFeYuE6syvqs8EnMOWnOZnteD3vt2d&scisig=AAGBfm0AAAAAXYJFeYoH19D-IQqnRY-3yGG9HMco_GKj&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Moreton Bay occupies an area of 540 sq miles on the '
+                     'south-east Queensland shelf, and is bordered on the east '
+                     'by high barrier islands. It is divisible into a deep '
+                     'northern sector and a narrower southern region in which '
+                     'numerous small sand islands occur. Unusually vigorous …',
+         'author': 'WGH Maxwell',
+         'title': 'The sedimentary framework of Moreton Bay, Queensland',
+         'url': 'http://www.publish.csiro.au/MF/MF9700071'},
+ 'citedby': 62,
+ 'id_scholarcitedby': '12387229166247291445',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NSqH3UtH6KsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AYYs:AAGBfm0AAAAAXYJFeYuE6syvqs8EnMOWnOZnteD3vt2d&scisig=AAGBfm0AAAAAXYJFeVzQ41XweY4fWi4l5039dLmqOBTc&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'As part of the program monitoring the ecosystem health '
+                     'of Moreton Bay, Queensland, Australia, we developed a '
+                     'means for assessing ecosystem health that allows '
+                     'quantitative evaluation and spatial representations of '
+                     'the assessments. The management objectives for …',
+         'author': 'FJ Pantus and WC Dennison',
+         'title': 'Quantifying and evaluating ecosystem health: a case study '
+                  'from Moreton Bay, Australia',
+         'url': 'https://link.springer.com/article/10.1007/s00267-003-0110-6'},
+ 'citedby': 83,
+ 'id_scholarcitedby': '6521791634730701388',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TNI8F_AOgloJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AYYs:AAGBfm0AAAAAXYJFeYuE6syvqs8EnMOWnOZnteD3vt2d&scisig=AAGBfm0AAAAAXYJFeWFGrH2xA_MC0wwQMj9SiisS8q87&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Dugong abundances in Moreton Bay (south-east Queensland) '
+                     'were estimated during six bi-monthly aerial surveys '
+                     'throughout 1995. Sampling intensity ranged between 20 '
+                     'and 80% for different sampling zones within the Bay, '
+                     'with a mean intensity of 40.5%. Population …',
+         'author': 'JM Lanyon',
+         'eprint': 'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.559.9343&rep=rep1&type=pdf',
+         'title': 'Distribution and abundance of dugongs in Moreton Bay, '
+                  'Queensland, Australia',
+         'url': 'http://www.publish.csiro.au/wr/WR98082'},
+ 'citedby': 73,
+ 'id_scholarcitedby': '9018744145316759116',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TEa9TQQEKX0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AmLI:AAGBfm0AAAAAXYJFgLKXrCOcTn1DwGDqTUHMCn4104Wh&scisig=AAGBfm0AAAAAXYJFgLZRb5eqha3brDe3RZ1XREx3J49F&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Sauf mention contraire ci-dessus, le contenu de cette '
+                     'notice bibliographique peut être utilisé dans le cadre '
+                     "d'une licence CC BY 4.0 Inist-CNRS/Unless otherwise "
+                     'stated above, the content of this bibliographic record '
+                     'may be used under a CC BY 4.0 licence by Inist-CNRS/A …',
+         'author': 'ED Burton and IR Phillips and DW Hawker',
+         'eprint': 'https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=16851390',
+         'title': 'Reactive sulfide relationships with trace metal '
+                  'extractability in sediments from southern Moreton Bay, '
+                  'Australia',
+         'url': 'https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=16851390'},
+ 'citedby': 67,
+ 'id_scholarcitedby': '13957697534125882245',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hTvry_Szs8EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AmLI:AAGBfm0AAAAAXYJFgLKXrCOcTn1DwGDqTUHMCn4104Wh&scisig=AAGBfm0AAAAAXYJFgOVHvK0R3KEiPICFQ9JAdZyQBTen&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Mating activity in a southern Queensland population of '
+                     'S. serrata was at a maximum level in mid-spring and late '
+                     'summer-early autumn. Spawning activity, as indicated by '
+                     'the incidence of spent females, began early in spring '
+                     'and ended in early autumn while water temperatures …',
+         'author': 'MP Heasman and DR Fielder and RK Shepherd',
+         'title': 'Mating and spawning in the mudcrab, Scylla serrata '
+                  '(Forskaål)(Decapoda: Portunidae), in Moreton Bay, '
+                  'Queensland',
+         'url': 'http://www.publish.csiro.au/mf/MF9850773'},
+ 'citedby': 73,
+ 'id_scholarcitedby': '13237188771644711866',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:uiOs3g3xs7cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AmLI:AAGBfm0AAAAAXYJFgLKXrCOcTn1DwGDqTUHMCn4104Wh&scisig=AAGBfm0AAAAAXYJFgBxwIlNsNeWNmmtdpBNgD0Akgh24&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The fate of by-catch discarded by the Moreton Bay prawn '
+                     'trawl fishery was studied between September 1983 and '
+                     'March 1986. The composition and biomass of the by-catch '
+                     'were ascertained and the effect of trawling and handling '
+                     'on its survival was measured. The by …',
+         'author': 'TJ Wassenberg and BJ Hill',
+         'title': 'The effect of trawling and subsequent handling on the '
+                  'survival rates of the by-catch of prawn trawlers in Moreton '
+                  'Bay, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0165783689900106'},
+ 'citedby': 99,
+ 'id_scholarcitedby': '8528301896282695755',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:S2g4yWOdWnYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AmLI:AAGBfm0AAAAAXYJFgLKXrCOcTn1DwGDqTUHMCn4104Wh&scisig=AAGBfm0AAAAAXYJFgF1LqkadciJL-ms5uRsp8qEYWqpr&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A new species of parasitic dinoflagellate is described '
+                     'from the portunid crab Portunus pelagicus. The '
+                     'dinoflagellate is a member of the genus Hematodinium '
+                     'which formerly consisted of a single species, H. perezi. '
+                     'Members of the genus have been reported in crabs …',
+         'author': 'DA Hudson and JD Shields',
+         'eprint': 'https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=2573&context=vimsarticles',
+         'title': 'Hematodinium-Australis N-Sp, a parasitic dinoflagellate of '
+                  'the sand crab Portunus-pelagicus from Moreton Bay, '
+                  'Australia',
+         'url': 'https://scholarworks.wm.edu/vimsarticles/1572/'},
+ 'citedby': 81,
+ 'id_scholarcitedby': '7760077982297956327',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5x8zbM9VsWsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AmLI:AAGBfm0AAAAAXYJFgLKXrCOcTn1DwGDqTUHMCn4104Wh&scisig=AAGBfm0AAAAAXYJFgAlfbpSKF0zYyL3n_ebBsLJ4bMcr&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Vibrocores, current meter data, boomer seismic profiling '
+                     'and sidescan sonar data provide an insight into the '
+                     'processes governing the formation of subtidal linear '
+                     'sandbanks in Moreton Bay, Australia. Bedforms observed '
+                     'on sidescan sonar images are predominantly 10 …',
+         'author': 'PT Harris and CB Pattiaratchi and AR Cole and JB Keene',
+         'title': 'Evolution of subtidal sandbanks in Moreton Bay, eastern '
+                  'Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/002532279290018D'},
+ 'citedby': 59,
+ 'id_scholarcitedby': '4423097323924997889',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AceH35T_YT0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AmLI:AAGBfm0AAAAAXYJFgLKXrCOcTn1DwGDqTUHMCn4104Wh&scisig=AAGBfm0AAAAAXYJFgHt_whPoEgB3jCdrNJqD_YoiNbTK&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Moreton Bay (MB) is a large semi-enclosed coastal '
+                     'embayment, located on the east coast of Australia '
+                     'adjacent to the Queensland capital city of Brisbane. The '
+                     'MB catchment is ca. 22 000 km 2 while the bay itself is '
+                     'ca. 1500 km 2. This represents a catchment: bay ratio of '
+                     'ca …',
+         'author': 'G Douglas and M Palmer and G Caitcheon',
+         'eprint': 'https://www.researchgate.net/profile/Grant_Douglas/publication/263536487_The_Provenance_of_Sediments_in_Moreton_Bay_Australia_A_Synthesis_of_Major_Trace_Element_and_Sr-Nd-Pb_Isotopic_Geochemistry_Modelling_and_Landscape_Analysis/links/55d566c508ae1e651663795e/The-Provenance-of-Sediments-in-Moreton-Bay-Australia-A-Synthesis-of-Major-Trace-Element-and-Sr-Nd-Pb-Isotopic-Geochemistry-Modelling-and-Landscape-Analysis.pdf',
+         'title': 'The provenance of sediments in Moreton Bay, Australia: a '
+                  'synthesis of major, trace element and Sr-Nd-Pb isotopic '
+                  'geochemistry, modelling and landscape analysis',
+         'url': 'https://link.springer.com/chapter/10.1007/978-94-017-3366-3_20'},
+ 'citedby': 99,
+ 'id_scholarcitedby': '18088571054663311679',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:P6Geb4mDB_sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AmLI:AAGBfm0AAAAAXYJFgLKXrCOcTn1DwGDqTUHMCn4104Wh&scisig=AAGBfm0AAAAAXYJFgG8Z-rDfY_lQGQAfKwfJP8iPFxdY&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The sounds produced by bottlenose dolphins, Tursiops '
+                     'truncatus, and Indo-Pacific humpback dolphins, Sousa '
+                     'chinensis, were recorded on 11 days from 3 April to 13 '
+                     'August 1990 in Moreton Bay, eastern Australia. Twelve '
+                     'hours and 34 minutes of sound were …',
+         'author': 'KW Schultz and PJ Corkeron',
+         'title': 'Interspecific differences in whistles produced by inshore '
+                  'dolphins in Moreton Bay, Queensland, Australia',
+         'url': 'https://www.nrcresearchpress.com/doi/abs/10.1139/z94-143'},
+ 'citedby': 66,
+ 'id_scholarcitedby': '8894528719177341030',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZlgTr762b3sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AmLI:AAGBfm0AAAAAXYJFgLKXrCOcTn1DwGDqTUHMCn4104Wh&scisig=AAGBfm0AAAAAXYJFgH5Qjxn-Wu5QPWZjaxUKMnZo_w9J&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Shallow coastal ecosystems are the interface between the '
+                     'terrestrial and marine environment. The physical and '
+                     'biological composition and distribution of benthic '
+                     'habitats within these ecosystems determines their '
+                     'contribution to ecosystem services and …',
+         'author': 'M Lyons and S Phinn and C Roelfsema',
+         'eprint': 'https://www.mdpi.com/2072-4292/3/1/42/htm',
+         'title': '… Quickbird multi-spectral satellite and field data: '
+                  'mapping bathymetry, seagrass cover, seagrass species and '
+                  'change in Moreton Bay, Australia in 2004 and …',
+         'url': 'https://www.mdpi.com/2072-4292/3/1/42/htm'},
+ 'citedby': 115,
+ 'id_scholarcitedby': '7665338667026589097',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qaUvq-fAYGoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AmLI:AAGBfm0AAAAAXYJFgLKXrCOcTn1DwGDqTUHMCn4104Wh&scisig=AAGBfm0AAAAAXYJFgJUBYoF438mJcixx7M1CHA-nukvc&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The fishes occurring in the main tidal inlet to a '
+                     'typical saltmarsh situated in southern Moreton Bay were '
+                     'studied from January to December 1984. The aim of the '
+                     'study was to determine the type of fishes and their '
+                     'feeding habits within the inlet, particularly for '
+                     'species of economic …',
+         'author': 'RM Morton and BR Pollock…',
+         'title': 'The occurrence and diet of fishes in a tidal inlet to a '
+                  'saltmarsh in southern Moreton Bay, Queensland',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1442-9993.1987.tb00945.x'},
+ 'citedby': 89,
+ 'id_scholarcitedby': '9581419148411082434',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:whYrcfMJ-IQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AmLI:AAGBfm0AAAAAXYJFgLKXrCOcTn1DwGDqTUHMCn4104Wh&scisig=AAGBfm0AAAAAXYJFgCD8VL6Pz40kl3p_WaRUJXlaqZ0c&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Yellowfin bream were tagged and released in three '
+                     'non‐spawning areas and two spawning areas in Moreton '
+                     'Bay, a large estuarine system on the east coast of '
+                     'Australia. A total of 194 fish were recaptured. Juvenile '
+                     'fish made only small‐scale movements (less than 6 km) '
+                     'from …',
+         'author': 'BR Pollock',
+         'title': 'Movements and migrations of yellowfin bream, Acanthopagrus '
+                  'australis (Günther), in Moreton Bay, Queensland as '
+                  'determined by tag recoveries',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1095-8649.1982.tb04705.x'},
+ 'citedby': 66,
+ 'id_scholarcitedby': '2052522225966706088',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qO1W_BYGfBwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AkC8:AAGBfm0AAAAAXYJFiC-cUoQWaG0IxA6cAZXjp6mzqBaO&scisig=AAGBfm0AAAAAXYJFiNlDjN_fcl4zOAcGxnECg3L61po9&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Monthly changes in the gonosomatic index indicate that '
+                     'yellowfin bream, Acanthopagrus australis, in Moreton Bay '
+                     'have a short spawning season with a peak during the '
+                     'period July to August each year. The growth rate of A. '
+                     'australis was estimated from tag‐recapture data …',
+         'author': 'BR Pollock',
+         'title': 'Spawning period and growth of yellowfin bream, '
+                  'Acanthopagrus australis (Günther), in Moreton Bay, '
+                  'Australia',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1095-8649.1982.tb02840.x'},
+ 'citedby': 53,
+ 'id_scholarcitedby': '12140785946122133844',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VCGqTH68fKgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AkC8:AAGBfm0AAAAAXYJFiC-cUoQWaG0IxA6cAZXjp6mzqBaO&scisig=AAGBfm0AAAAAXYJFiKIF58SZwIO21p6ox9qg6-LpyZ92&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Eighty-four species are recorded as the result of an '
+                     'intensive dredging and trawling programme m Moreton Bay. '
+                     'New species are described in the genera Cryptodromia and '
+                     'Hexapus and a possibly undescribed species of Hyastenus '
+                     'is discussed. Numbers of …',
+         'author': 'BM Campbell and W Stephenson',
+         'eprint': 'https://decapoda.nhm.org/pdfs/14440/14440.pdf',
+         'title': 'The sublittoral Brachyura (Crustacea: Decapoda) of Moreton '
+                  'Bay',
+         'url': 'https://decapoda.nhm.org/pdfs/14440/14440.pdf'},
+ 'citedby': 55,
+ 'id_scholarcitedby': '8006215468386660114',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Eq9svIzKG28J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AkC8:AAGBfm0AAAAAXYJFiC-cUoQWaG0IxA6cAZXjp6mzqBaO&scisig=AAGBfm0AAAAAXYJFiKDMoAt5XBLqPnEv_gkEIaGK4D3m&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The diets of three piscivorous bird species from Moreton '
+                     'Bay, Queensland, Australia, were monitored for 14 mo '
+                     'from April 1986 to September 1987. Regurgitated pellets '
+                     'from Phalacrocorax varius (pied cormorant), P. '
+                     'melanoleucos (little pied cormorant) and Sterna …',
+         'author': 'SJM Blaber and TJ Wassenberg',
+         'title': 'Feeding ecology of the piscivorous birds Phalacrocorax '
+                  'varius, P. melanoleucos and Sterna bergii in Moreton Bay, '
+                  'Australia: diets and dependence on trawler …',
+         'url': 'https://link.springer.com/article/10.1007/BF00393473'},
+ 'citedby': 83,
+ 'id_scholarcitedby': '15258556966995182255',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:r0LP2rdIwdMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AkC8:AAGBfm0AAAAAXYJFiC-cUoQWaG0IxA6cAZXjp6mzqBaO&scisig=AAGBfm0AAAAAXYJFiMFj7HHfAkAPonBz3dbkTgKw4z9M&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'As the great antiquity of human settlement in Australia '
+                     'becomes clear, so does the distinctive character of '
+                     'human adaptation in the continent. In particular, the '
+                     'Holocene transformation of the Australian climate led to '
+                     'patterns of human ecology with some characteristics of '
+                     'their …',
+         'author': 'I Walters',
+         'title': 'Intensified fishery production at Moreton Bay, southeast '
+                  'Queensland, in the late Holocene',
+         'url': 'https://www.cambridge.org/core/journals/antiquity/article/intensified-fishery-production-at-moreton-bay-southeast-queensland-in-the-late-holocene/702FB327E81D2E398948667DE77F25C5'},
+ 'citedby': 52,
+ 'id_scholarcitedby': '13213425301723942170',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Gg1q302EX7cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AkC8:AAGBfm0AAAAAXYJFiC-cUoQWaG0IxA6cAZXjp6mzqBaO&scisig=AAGBfm0AAAAAXYJFiGhCnR0oPsHwgw5_hrpahJuGFFAf&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Two water quality monitoring strategies designed to '
+                     'sample hydrophobic organic contaminants have been '
+                     'applied and evaluated across an expected concentration '
+                     'gradient in PAHs in the Moreton region. Semipermeable '
+                     'membrane devices (SPMDs) that sequester …',
+         'author': 'M Shaw and IR Tibbetts and JF Müller',
+         'title': 'Monitoring PAHs in the Brisbane River and Moreton Bay, '
+                  'Australia, using semipermeable membrane devices and EROD '
+                  'activity in yellowfin bream, Acanthopagrus …',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0045653504001638'},
+ 'citedby': 79,
+ 'id_scholarcitedby': '17947397168475645284',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZKXXpaL2EfkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AkC8:AAGBfm0AAAAAXYJFiC-cUoQWaG0IxA6cAZXjp6mzqBaO&scisig=AAGBfm0AAAAAXYJFiDnfCpvvc7bPzmF82LHJp4nwSq1g&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Expansive blooms of the toxic cyanobacterium Lyngbya '
+                     'majuscula were observed in 2 shallow water regions of '
+                     'Moreton Bay, Australia. The rapid bloom decline (8 to< 1 '
+                     'km 2 in< 7 d) prompted an investigation of the role of '
+                     'cyanophage viruses in the ecophysiology of L …',
+         'author': 'I Hewson and JM O¹Neil and WC Dennison',
+         'eprint': 'http://www.int-res.com/articles/ame/25/a025p207.pdf',
+         'title': 'Virus-like particles associated with Lyngbya majuscula '
+                  '(Cyanophyta; Oscillatoriacea) bloom decline in Moreton Bay, '
+                  'Australia',
+         'url': 'https://www.int-res.com/abstracts/ame/v25/n3/p207-213/'},
+ 'citedby': 54,
+ 'id_scholarcitedby': '15175156946942296555',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6wFMgdf8mNIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AkC8:AAGBfm0AAAAAXYJFiC-cUoQWaG0IxA6cAZXjp6mzqBaO&scisig=AAGBfm0AAAAAXYJFiAs8uVZlOQM0DKlk0WGfN72NSvVw&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The rhizocephalan Sacculina granifera had a marked '
+                     'effect on the gonad development and growth of its host '
+                     'Portunus pelagicus (L.). Crabs were frequently castrated '
+                     'by the parasite, but, in some cases, castration was '
+                     'incomplete. That is, the reproductive potential of the …',
+         'author': 'JD Shields and FEI Wood',
+         'eprint': 'https://www.int-res.com/articles/meps/92/m092p159.pdf',
+         'title': 'Impact of parasites on the reproduction and fecundity of '
+                  'the blue sand crab Portunus pelagicus from Moreton Bay, '
+                  'Australia',
+         'url': 'https://www.int-res.com/articles/meps/92/m092p159.pdf'},
+ 'citedby': 64,
+ 'id_scholarcitedby': '6147565918557279767',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:F5bnuKGKUFUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AkC8:AAGBfm0AAAAAXYJFiC-cUoQWaG0IxA6cAZXjp6mzqBaO&scisig=AAGBfm0AAAAAXYJFiBUWXQ6vslBrN1PsNTC4EwWPiTsJ&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In this paper, the contributions from the three major '
+                     'erosion sources in the catchments of Moreton Bay are '
+                     'quantified, specifically for the< 10 μm sediment size '
+                     'class. The erosion sources are classified as (i) sheet '
+                     'erosion from cultivated land,(ii) sheet erosion from …',
+         'author': 'PJ Wallbrink',
+         'title': 'Quantifying the erosion processes and land-uses which '
+                  'dominate fine sediment supply to Moreton Bay, Southeast '
+                  'Queensland, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0265931X04001213'},
+ 'citedby': 65,
+ 'id_scholarcitedby': '3643990343796942035',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:02T4NukNkjIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AkC8:AAGBfm0AAAAAXYJFiC-cUoQWaG0IxA6cAZXjp6mzqBaO&scisig=AAGBfm0AAAAAXYJFiCW74o5z3VHSqpRtVwOZimGEZ2hn&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Recent analyses assert that large marine vertebrates '
+                     "such as marine mammals are now 'functionally or entirely "
+                     "extinct in most coastal ecosystems'. Moreton Bay is a "
+                     'large diverse marine ecosystem bordering the fastest '
+                     'growing area in Australia. The human population is …',
+         'author': 'BL Chilvers and IR Lawler and F Macknight and H Marsh…',
+         'eprint': 'http://www.academia.edu/download/45390680/Moreton_Bay_Queensland_Australia_An_exam20160505-6488-155tyso.pdf',
+         'title': 'Moreton Bay, Queensland, Australia: an example of the '
+                  'co-existence of significant marine mammal populations and '
+                  'large-scale coastal development',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0006320704004112'},
+ 'citedby': 65,
+ 'id_scholarcitedby': '5360574037305381936',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MNTEda-VZEoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AkC8:AAGBfm0AAAAAXYJFiC-cUoQWaG0IxA6cAZXjp6mzqBaO&scisig=AAGBfm0AAAAAXYJFiP1wS0_yxa4n2twJIt_iNpiyqe70&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Increases in the elevation of the soil surfaces of '
+                     'mangroves and salt marshes are key to the maintenance of '
+                     'these habitats with accelerating sea level rise. '
+                     'Understanding the processes that give rise to increases '
+                     'in soil surface elevation provides science for '
+                     'management of …',
+         'author': 'CE Lovelock and V Bennion and A Grinham and DR Cahoon',
+         'eprint': 'https://www.researchgate.net/profile/Donald_Cahoon/publication/226753692_The_Role_of_Surface_and_Subsurface_Processes_in_Keeping_Pace_with_Sea_Level_Rise_in_Intertidal_Wetlands_of_Moreton_Bay_Queensland_Australia/links/5576f30308aeb6d8c01cd7ca.pdf',
+         'title': 'The role of surface and subsurface processes in keeping '
+                  'pace with sea level rise in intertidal wetlands of Moreton '
+                  'Bay, Queensland, Australia',
+         'url': 'https://link.springer.com/article/10.1007/s10021-011-9443-9'},
+ 'citedby': 72,
+ 'id_scholarcitedby': '17794149122780131080',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CG-jh1mE8fYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Aie4:AAGBfm0AAAAAXYJFke6Tg4TqMM0MYDTsuaHXIF0vaWrc&scisig=AAGBfm0AAAAAXYJFkb_N-asYg0S-56q5WKq3xagUrS9k&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This article presents measurements of underwater pile '
+                     'driving noise recorded during the construction of the '
+                     'duplicate Houghton Highway bridge in western Moreton '
+                     'Bay. Queensland. Moreton Bay is a protected marine park. '
+                     'a World Heritage Site and a Ramsar …',
+         'author': 'C Erbe',
+         'title': 'Underwater noise from pile driving in Moreton Bay, QLD',
+         'url': 'https://search.informit.com.au/fullText;res=IELAPA;dn=201001665'},
+ 'citedby': 39,
+ 'id_scholarcitedby': '9907057035296470552',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GHZhPuLvfIkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Aie4:AAGBfm0AAAAAXYJFke6Tg4TqMM0MYDTsuaHXIF0vaWrc&scisig=AAGBfm0AAAAAXYJFkRu6Ysnb1cCTt-RMJM5rATtRkDlw&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The distribution of epibenthic penaeid prawn postlarvae '
+                     'has previously been shown to relate to the degree of '
+                     'marine influences in the flora, sediment and water '
+                     'conditions in littoral and infralittoral habitats in '
+                     'Moreton Bay. The postlarvae are part of a complex faunal '
+                     '…',
+         'author': 'PC Young and VA Wadley',
+         'eprint': 'http://www.academia.edu/download/45815961/bf0038653220160520-31726-1cpgn46.pdf',
+         'title': 'Distribution of shallow-water epibenthic macrofauna in '
+                  'Moreton Bay, Queensland, Australia',
+         'url': 'https://link.springer.com/article/10.1007/BF00386532'},
+ 'citedby': 44,
+ 'id_scholarcitedby': '11559378518677221676',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LHEJvoQpa6AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Aie4:AAGBfm0AAAAAXYJFke6Tg4TqMM0MYDTsuaHXIF0vaWrc&scisig=AAGBfm0AAAAAXYJFkUXpnSHW5jCPm5H4HeSiTYuRBp6c&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'An assessment of the changes in the distribution and '
+                     'extent of mangroves within Moreton Bay, southeast '
+                     'Queensland, Australia, was carried out. Two assessment '
+                     'methods were evaluated: spatial and temporal pattern '
+                     'metrics analysis, and change detection analysis …',
+         'author': 'FJ Manson and NR Loneragan and SR Phinn',
+         'title': 'Spatial and temporal variation in distribution of mangroves '
+                  'in Moreton Bay, subtropical Australia: a comparison of '
+                  'pattern metrics and change detection analyses …',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0272771402004055'},
+ 'citedby': 75,
+ 'id_scholarcitedby': '4368999434510552836',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BE_iddbNoTwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Aie4:AAGBfm0AAAAAXYJFke6Tg4TqMM0MYDTsuaHXIF0vaWrc&scisig=AAGBfm0AAAAAXYJFke3WC4wDCvvAevu1OreOIjKFIFsX&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The sand crab industry of Moreton Bay is an expanding '
+                     'fishery. Nets are used in the south of the bay and pots '
+                     'in the north. Three principal grounds are fished within '
+                     'the bay and these yield catches of differing '
+                     'composition. A tendency to sexual schooling is apparent, '
+                     'large …',
+         'author': 'JM Thomson',
+         'title': 'Catch composition of the sand crab fishery in Moreton Bay',
+         'url': 'http://www.publish.csiro.au/MF/MF9510237'},
+ 'citedby': 35,
+ 'id_scholarcitedby': '2233413864358059607',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:V55-lROu_h4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Aie4:AAGBfm0AAAAAXYJFke6Tg4TqMM0MYDTsuaHXIF0vaWrc&scisig=AAGBfm0AAAAAXYJFkcf7WHS9KvUiwdTxQqCuUSLgRu4o&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Temporal trends in heavy metal pollutants were '
+                     'reconstructed from the analysis of four sediment cores '
+                     'collected from intertidal areas in Moreton Bay, '
+                     'southeast Queensland, Australia. The geochronology of '
+                     'the past~ 150 years was established using short-lived …',
+         'author': 'G Morelli and M Gasparon and D Fierro and WP Hu and A '
+                   'Zawadzki',
+         'eprint': 'http://www.academia.edu/download/44366751/Historical_trends_in_trace_metal_and_sed20160403-26614-18q454q.pdf',
+         'title': 'Historical trends in trace metal and sediment accumulation '
+                  'in intertidal sediments of Moreton Bay, southeast '
+                  'Queensland, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0009254112000514'},
+ 'citedby': 57,
+ 'id_scholarcitedby': '6836660930252730305',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wW-B1eSy4F4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Aie4:AAGBfm0AAAAAXYJFke6Tg4TqMM0MYDTsuaHXIF0vaWrc&scisig=AAGBfm0AAAAAXYJFkaPwv516zsztJEBK_Vb4P08EiTU4&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The diet of the eastern shovelnose ray, Aptychotrema '
+                     'rostrata, in Moreton Bay, south-eastern Queensland was '
+                     'investigated through stomach content analysis. Two '
+                     'major, two minor and four uncommon prey groups were '
+                     'identified. The diet of A. rostrata was …',
+         'author': 'PM Kyne and MB Bennett',
+         'title': 'Diet of the eastern shovelnose ray, Aptychotrema rostrata '
+                  '(Shaw & Nodder, 1794), from Moreton Bay, Queensland, '
+                  'Australia',
+         'url': 'http://www.publish.csiro.au/mf/MF01040'},
+ 'citedby': 52,
+ 'id_scholarcitedby': '3310477689132002796',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7K2RKest8S0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Aie4:AAGBfm0AAAAAXYJFke6Tg4TqMM0MYDTsuaHXIF0vaWrc&scisig=AAGBfm0AAAAAXYJFkeX_pQAGS5cE7KnkknFEZZqR21QC&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The eastern shovelnose ray, Aptychotrema rostrata '
+                     '(Rhinobatidae), is an endemic batoid common to the east '
+                     'coast of Australia. The reproductive cycle was studied '
+                     'in Moreton Bay, south-eastern Queensland, over a '
+                     '14-month period. Aptychotrema rostrata is an aplacental '
+                     '…',
+         'author': 'PM Kyne and MB Bennett',
+         'title': 'Reproductive biology of the eastern shovelnose ray, '
+                  'Aptychotrema rostrata (Shaw & Nodder, 1794), from Moreton '
+                  'Bay, Queensland, Australia',
+         'url': 'http://www.publish.csiro.au/MF/MF01063'},
+ 'citedby': 52,
+ 'id_scholarcitedby': '4544833058806846707',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:81SiYZZ9Ej8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Aie4:AAGBfm0AAAAAXYJFke6Tg4TqMM0MYDTsuaHXIF0vaWrc&scisig=AAGBfm0AAAAAXYJFkTuYztay6-CSwoIrN7tc_bIIOZaL&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The Brisbane River and Moreton Bay Study, an '
+                     'interdisciplinary study of Moreton Bay and its major '
+                     'tributaries, was initiated to address water quality '
+                     'issues which link sewage and diffuse loading with '
+                     'environmental degradation. Runoff and deposition of '
+                     'fine-grained sediments …',
+         'author': 'EG Abal and WC Dennison…',
+         'title': 'Managing the Brisbane River and Moreton Bay: an integrated '
+                  'research/management program to reduce impacts on an '
+                  'Australian estuary',
+         'url': 'https://iwaponline.com/wst/article-abstract/43/9/57/8669'},
+ 'citedby': 52,
+ 'id_scholarcitedby': '12135830926652626704',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EFdU7e0ha6gJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Aie4:AAGBfm0AAAAAXYJFke6Tg4TqMM0MYDTsuaHXIF0vaWrc&scisig=AAGBfm0AAAAAXYJFkXg4td3AB3x2E30-bkAKZ7CPLw6_&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Sympatric communities of inshore Indo-Pacific bottlenose '
+                     'dolphins (Tursiops aduncus) have previously been '
+                     'identified within Moreton Bay, southeast Queensland, '
+                     'Australia. The two communities overlap in distribution, '
+                     'yet are almost completely socially segregated and …',
+         'author': 'BL Chilvers and PJ Corkeron…',
+         'eprint': 'https://www.researchgate.net/profile/Barbara_Chilvers/publication/232271941_Influence_of_trawling_on_the_behaviour_and_spatial_distribution_of_Indo-Pacific_bottlenose_dolphins_Tursiops_aduncus_in_Moreton_Bay_Australia/links/0fcfd507f4a8a5bf88000000/Influence-of-trawling-on-the-behaviour-and-spatial-distribution-of-Indo-Pacific-bottlenose-dolphins-Tursiops-aduncus-in-Moreton-Bay-Australia.pdf',
+         'title': 'Influence of trawling on the behaviour and spatial '
+                  'distribution of Indo-Pacific bottlenose dolphins (Tursiops '
+                  'aduncus) in Moreton Bay, Australia',
+         'url': 'https://www.nrcresearchpress.com/doi/abs/10.1139/z03-195'},
+ 'citedby': 55,
+ 'id_scholarcitedby': '16742164486833864542',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Xn_koOUdWOgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Aie4:AAGBfm0AAAAAXYJFke6Tg4TqMM0MYDTsuaHXIF0vaWrc&scisig=AAGBfm0AAAAAXYJFkT9-r6fSmlZXXFuHIiFbetV9NJzZ&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The natural diet of juveniles of Penaeus esculentus '
+                     'Haswell (mean size 13.0±3.3 mm CL) collected from a '
+                     'seagrass (Zostera capricorni Aschers.) bed in Moreton '
+                     'Bay over 18 months was studied. There was a marked '
+                     'seasonal change in the occurrence of Z. capricorni seeds '
+                     '…',
+         'author': 'TJ Wassenberg',
+         'title': 'Seasonal feeding on Zostera capricorni seeds by juvenile '
+                  'Penaeus esculentus (Crustacea: Decapoda) in Moreton Bay, '
+                  'Queensland',
+         'url': 'http://www.publish.csiro.au/MF/MF9900301'},
+ 'citedby': 46,
+ 'id_scholarcitedby': '4168495973393334850',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QoLBjQB52TkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ag0E:AAGBfm0AAAAAXYJFm0H8B821KCy9GdkMOhRWEP8l4ys1&scisig=AAGBfm0AAAAAXYJFm3uht_RUWenSZ0eDXm_u0aNUgEpD&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Large-scale blooms of Lyngbya majuscula (Gomont) have '
+                     'occurred throughout Moreton Bay (south-east Queensland) '
+                     'and have been documented since 1997. L. majuscula is a '
+                     'toxic cyanobacteria which fixes nitrogen and is found '
+                     'attached to: seagrass, algae and coral. The …',
+         'author': 'CM Roelfsema and SR Phinn and WC Dennison and AG Dekker…',
+         'title': 'Monitoring toxic cyanobacteria Lyngbya majuscula (Gomont) '
+                  'in Moreton Bay, Australia by integrating satellite image '
+                  'data and field mapping',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1568988305000478'},
+ 'citedby': 53,
+ 'id_scholarcitedby': '13602784840389615332',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5N59373MxrwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ag0E:AAGBfm0AAAAAXYJFm0H8B821KCy9GdkMOhRWEP8l4ys1&scisig=AAGBfm0AAAAAXYJFmzBjvFzq_0BTHL-HhWDb0Wf6cwNr&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The sediments from seagrass beds and adjacent bare areas '
+                     'on the subtropical, eastern coast of Australia had total '
+                     'nitrogen contents of 80–400 μg N g− 1, or 25–78 g N m− 2 '
+                     'to a depth of 20 cm. The seagrasses had biomasses of '
+                     '300–600 g DW m− 2, and total nitrogen …',
+         'author': 'PI Boon',
+         'title': 'Nitrogen pools in seagrass beds of Cymodocea serrulata and '
+                  'Zostera capricorni of Moreton Bay, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0304377086900379'},
+ 'citedby': 47,
+ 'id_scholarcitedby': '3763697568150013037',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bUSVT_9WOzQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ag0E:AAGBfm0AAAAAXYJFm0H8B821KCy9GdkMOhRWEP8l4ys1&scisig=AAGBfm0AAAAAXYJFm_YKekFhPmFG637MGTxCP7vs8FWR&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Forty-three putative taxa were common in emergence trap, '
+                     're-entry trap, and net tow samples taken in Moreton Bay, '
+                     'Queensland, Australia between 20 January and 14 February '
+                     'and between 14 July and 23 August 1985. Twenty-nine taxa '
+                     'were composed of adults with …',
+         'author': 'CA Jacoby and JG Greenwood',
+         'title': 'Emergent zooplankton in Moreton Bay, Queensland, Australia: '
+                  'seasonal, lunar, and diel patterns in emergence and '
+                  'distribution with respect to substrata',
+         'url': 'https://www.jstor.org/stable/24833832'},
+ 'citedby': 59,
+ 'id_scholarcitedby': '1148799672404619574',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NjHDJzdb8Q8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ag0E:AAGBfm0AAAAAXYJFm0H8B821KCy9GdkMOhRWEP8l4ys1&scisig=AAGBfm0AAAAAXYJFmyT_DHKuhHr2_lVP5kGhsWTheGx0&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'RAYMOND EVANS AND WILLIAM THORPE... oh I had seen the '
+                     'facts, there was no shortage of facts; but I could not '
+                     'discern the shape they filled in... For I simply could '
+                     'not imagine what I should see. Could not imagine what it '
+                     'was I was looking at part of... And if …',
+         'author': 'R Evans and W Thorpe',
+         'title': 'Historical reconsiderations IX: Power, punishment and penal '
+                  'labour: Convict workers and Moreton bay',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/10314619208595895'},
+ 'citedby': 42,
+ 'id_scholarcitedby': '2980941092911663009',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oUddWyFuXikJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ag0E:AAGBfm0AAAAAXYJFm0H8B821KCy9GdkMOhRWEP8l4ys1&scisig=AAGBfm0AAAAAXYJFmxYO_VhQJc9WbMXPLV22GKduNgyK&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In 2009, the area of the Moreton Bay Marine Park was '
+                     'increased from 0.5 per cent of the Bay area to 16 per '
+                     'cent. During the planning process, opposition by '
+                     'commercial and recreational fishers alike was raised, '
+                     'arguing that loss of fishing grounds would lead to '
+                     'substantial loss in …',
+         'author': 'S Pascoe and A Doshi and Q Dell and M Tonks and R Kenyon',
+         'eprint': 'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.938.9352&rep=rep1&type=pdf',
+         'title': 'Economic value of recreational fishing in Moreton Bay and '
+                  'the potential impact of the marine park rezoning',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0261517713001611'},
+ 'citedby': 49,
+ 'id_scholarcitedby': '3623647118499029819',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:O6OA-drHSTIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ag0E:AAGBfm0AAAAAXYJFm0H8B821KCy9GdkMOhRWEP8l4ys1&scisig=AAGBfm0AAAAAXYJFm7hBtnHwoWYSwLSdQBr-JIREZ2nk&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'IN preparing this volume for the press, I. have been '
+                     'under the greatest obligations to Captain PP King, RN, '
+                     'an ofﬁcer whose researches have added so much to the '
+                     'geography of Australia. This gentleman has not only '
+                     'corrected my manuscript, but has added notes, the …',
+         'author': 'L Leichhardt',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=GpleAAAAcAAJ&oi=fnd&pg=PR10&dq=Moreton+Bay&ots=tOB2fg8_WD&sig=MWm4Zu-JUNudDOjV5AwL4t9wbqM',
+         'title': 'Journal of an Overland Expedition in Australia, from '
+                  'Moreton Bay to Port Essington:... During the Years '
+                  '1844-1845',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=GpleAAAAcAAJ&oi=fnd&pg=PR10&dq=Moreton+Bay&ots=tOB2fg8_WD&sig=MWm4Zu-JUNudDOjV5AwL4t9wbqM'},
+ 'citedby': 57,
+ 'id_scholarcitedby': '2265142272228201966',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7hXiNeVmbx8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ag0E:AAGBfm0AAAAAXYJFm0H8B821KCy9GdkMOhRWEP8l4ys1&scisig=AAGBfm0AAAAAXYJFm1BHzW0b0WZ-msmsRkCxEed8I5pn&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Of 173 zooplankton samples taken by sampling monthly '
+                     'over 3 years at 3–7 stations within the Moreton Bay '
+                     'estuarine system, 122 contained Acartia pacifica, 115 '
+                     'contained A. tranteri, 141 contained Pseudodiaptomus '
+                     'mertoni and 89 contained P. colefaxi. Each of these …',
+         'author': 'JG Greenwood',
+         'title': 'Occurrences of congeneric pairs of Acartia and '
+                  'Pseudodiaptomus species (copepoda, calanoida) in Moreton '
+                  'Bay, Queensland',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0302352481800606'},
+ 'citedby': 39,
+ 'id_scholarcitedby': '8636445099714730076',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:XNiocg_R2ncJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ag0E:AAGBfm0AAAAAXYJFm0H8B821KCy9GdkMOhRWEP8l4ys1&scisig=AAGBfm0AAAAAXYJFm1uwoGHRlnh1DSId-W50LANJtQeW&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Samples of sediments from Australian seagrass (Zostera '
+                     'capricorni Aschers.) beds were taken in June to August '
+                     '1983 (for 15 N experiments) and November 1982 to January '
+                     '1983 (14 N experiments). The ammonium pool turned-over '
+                     'every 0.4 to 0.8 d, as determined with …',
+         'author': 'PI Boon and DJW Moriarty and PG Saffigna',
+         'title': 'Rates of ammonium turnover and the role of amino-acid '
+                  'deamination in seagrass (Zostera capricorni) beds of '
+                  'Moreton Bay, Australia',
+         'url': 'https://link.springer.com/article/10.1007/BF00569442'},
+ 'citedby': 50,
+ 'id_scholarcitedby': '3915010716600298886',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hu3ODoHpVDYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ag0E:AAGBfm0AAAAAXYJFm0H8B821KCy9GdkMOhRWEP8l4ys1&scisig=AAGBfm0AAAAAXYJFm2qZdURw5mgGyZHOUFaes4US_SlF&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The fate of nitrate in sediments from seagrass (Zostera '
+                     'capricorni Aschers.) beds of Moreton Bay on the '
+                     'subtropical eastern coast of Queensland, Australia, was '
+                     'investigated. Added nitrate was metabolised at rates of '
+                     '0.4 to 3.4 μg N cm-3 d-1 when sediments were incubated …',
+         'author': 'PL Boon and DJW Moriarty and PG Saffigna',
+         'title': 'Nitrate metabolism in sediments from seagrass (Zostera '
+                  'capricorni) beds of Moreton Bay, Australia',
+         'url': 'https://link.springer.com/article/10.1007/BF00569443'},
+ 'citedby': 38,
+ 'id_scholarcitedby': '4667040583909472828',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PHpBHK-oxEAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ag0E:AAGBfm0AAAAAXYJFm0H8B821KCy9GdkMOhRWEP8l4ys1&scisig=AAGBfm0AAAAAXYJFmwbgr6TPVjJpyLIlZ1IEK-iwlBjH&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Cheloniid turtles are usually limited to waters warmer '
+                     'than 20 C (Marquez, 1990) and at lower water '
+                     'temperatures (Tw) they may show different behavioral '
+                     'and/or physiological responses compared to turtles from '
+                     'warmer temperatures. Using sonic teleme-try …',
+         'author': 'MA Read and GC Grigg and CJ Limpus',
+         'title': 'Body temperatures and winter feeding in immature green '
+                  'turtles, Chelonia mydas, in Moreton Bay, southeastern '
+                  'Queensland',
+         'url': 'https://www.jstor.org/stable/1565520'},
+ 'citedby': 39,
+ 'id_scholarcitedby': '14674226007783886498',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:os7Bg85SpcsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AvRg:AAGBfm0AAAAAXYJFpRiwyqRCFsMXvZ_8Gj59siKMZzO4&scisig=AAGBfm0AAAAAXYJFpTXfRsejsiLqLRgUCYwXFujfXuHk&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Volunteer-collected data have become widely used, '
+                     'largely because of a perception of cost efficiency, '
+                     'however, the quality of these data is often questioned. '
+                     'This paper analyses the quality of visual estimates of '
+                     'seagrass cover collected by trained volunteers in '
+                     'Moreton Bay  …',
+         'author': 'PG Finn and NS Udy and SJ Baltais and K PRICE…',
+         'eprint': 'http://www.seagrasswatch.org/Info_centre/Publications/pdf/Finn_et_al_2010.pdf',
+         'title': 'Assessing the quality of seagrass data collected by '
+                  'community volunteers in Moreton Bay Marine Park, Australia',
+         'url': 'https://www.cambridge.org/core/journals/environmental-conservation/article/assessing-the-quality-of-seagrass-data-collected-by-community-volunteers-in-moreton-bay-marine-park-australia/B2BCAB668D228C60214F3534382006FD'},
+ 'citedby': 41,
+ 'id_scholarcitedby': '5447301835128492234',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ytAqcyi0mEsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AvRg:AAGBfm0AAAAAXYJFpRiwyqRCFsMXvZ_8Gj59siKMZzO4&scisig=AAGBfm0AAAAAXYJFpfi9EKDXGTr_8iyh70rI96SHs6Y7&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Trace element concentrations in surface intertidal '
+                     'sediments were analyzed to assess the level of '
+                     'contamination along the western side of Moreton Bay '
+                     '(Australia). The environmental risks posed by metals '
+                     'were evaluated using sediment quality guidelines, the '
+                     'Risk …',
+         'author': 'G Morelli and M Gasparon',
+         'eprint': 'http://www.academia.edu/download/44880006/Metal_contamination_of_estuarine_interti20160419-18763-1bdnele.pdf',
+         'title': 'Metal contamination of estuarine intertidal sediments of '
+                  'Moreton Bay, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0025326X14006705'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '14632692485571533453',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jdoEzknEEcsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AvRg:AAGBfm0AAAAAXYJFpRiwyqRCFsMXvZ_8Gj59siKMZzO4&scisig=AAGBfm0AAAAAXYJFpVSc6rZ7VpBWbcmb6fSu_ikvo5tP&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Nine species of immature didymozoids were found in small '
+                     'intertidal fishes belonging\n'
+                     'to 13 families from Moreton Bay, Queensland, Australia. '
+                     'Most of them are previously\n'
+                     'undescribed. The larvae occurred either between muscle '
+                     'fibres, or encapsulated in the …',
+         'author': 'M Køie and RJG Lester',
+         'title': 'Larval didymozoids (Trematoda) in fishes from Moreton Bay, '
+                  'Australia.',
+         'url': 'https://www.cabdirect.org/cabdirect/abstract/19850829190'},
+ 'citedby': 32,
+ 'id_scholarcitedby': '15560398677735825150',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_t7mpSek8dcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AvRg:AAGBfm0AAAAAXYJFpRiwyqRCFsMXvZ_8Gj59siKMZzO4&scisig=AAGBfm0AAAAAXYJFpRV4iKAHAig0H7QxFBk7oFylga26&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'We present the first direct assessment of marine '
+                     'reservoir effects in the Moreton Bay region using '
+                     'radiocarbon dating of known‐age, pre‐AD 1950, shell '
+                     'samples from the east coast of Stradbroke Island and '
+                     'archaeological shell/charcoal pairs from Peel Island in '
+                     'Moreton Bay …',
+         'author': 'S Ulm and F Petchey and A Ross',
+         'eprint': 'http://eprints.jcu.edu.au/15730/1/ulm_etal_2009.pdf',
+         'title': 'Marine reservoir corrections for Moreton Bay, Australia',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1834-4453.2009.tb00060.x'},
+ 'citedby': 27,
+ 'id_scholarcitedby': '3404912795612660648',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qMOsySWuQC8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AvRg:AAGBfm0AAAAAXYJFpRiwyqRCFsMXvZ_8Gj59siKMZzO4&scisig=AAGBfm0AAAAAXYJFpet_RPOrMiOwFFPCZWoAMHJ8_oUy&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Previous studies have identified elevated levels of '
+                     'polychlorinated dibenzo-p-dioxins (PCDDs) in sediments '
+                     'and megafauna (dugongs and green turtles) in the marine '
+                     'environment of southeast Queensland, Australia. Little '
+                     'information exists, however …',
+         'author': 'V Matthews and O Päpke and C Gaus',
+         'title': 'PCDD/Fs and PCBs in seafood species from Moreton bay, '
+                  'Queensland, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0025326X08000611'},
+ 'citedby': 36,
+ 'id_scholarcitedby': '17469620651037792954',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:uprvkWyPcPIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AvRg:AAGBfm0AAAAAXYJFpRiwyqRCFsMXvZ_8Gj59siKMZzO4&scisig=AAGBfm0AAAAAXYJFpRREAKXlvhOKGQDDaiYK3VeRgzj2&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Large quantities of tailor, Pomatomus saltatrix, are '
+                     'caught by recreational and commercial fishers in coastal '
+                     'waters off New South Wales and Queensland. Juvenile '
+                     'tailor were subject to increasing fishing mortality in '
+                     'Moreton Bay (Queensland) in the mid 1980s. A tagging …',
+         'author': 'RM Morton and I Halliday and D Cameron',
+         'eprint': 'http://era.daf.qld.gov.au/id/eprint/471/1/MortonMovementTagged-SEC.pdf',
+         'title': 'Movement of tagged juvenile tailor (Pomatomus saltatrix) in '
+                  'Moreton Bay, Queensland',
+         'url': 'http://www.publish.csiro.au/MF/MF9930811'},
+ 'citedby': 29,
+ 'id_scholarcitedby': '11490600150231460525',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:raqY8vTPdp8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AvRg:AAGBfm0AAAAAXYJFpRiwyqRCFsMXvZ_8Gj59siKMZzO4&scisig=AAGBfm0AAAAAXYJFpVUwfTLG_csOa45exeMybyK_zjS9&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Moreton Bay, located 27 S on the east coast of '
+                     'Australia, provides a rare instance of urban, '
+                     'subtropical, marginal coral reefs in an urbanised '
+                     'environment, adjacent to a major city 500 km south of '
+                     'the Great Barrier Reef. These reefs have been regarded '
+                     'as being close to …',
+         'author': 'CC Wallace and I Fellegara and PR Muir…',
+         'title': 'The scleractinian corals of Moreton Bay, eastern Australia: '
+                  'high latitude, marginal assemblages with increasing species '
+                  'richness',
+         'url': 'https://epubs.scu.edu.au/esm_pubs/3161/'},
+ 'citedby': 30,
+ 'id_scholarcitedby': '630549496622268892',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3MF4J20pwAgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AvRg:AAGBfm0AAAAAXYJFpRiwyqRCFsMXvZ_8Gj59siKMZzO4&scisig=AAGBfm0AAAAAXYJFpbPlqYjhD9omjaKbbI05quYBpexs&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Denitrification, N-fixation, and dissolved inorganic and '
+                     'organic fluxes of nitrogen (N) and phosphorus (P) were '
+                     'measured in each of the major benthic habitat types of a '
+                     'shallow oligotrophic sub-tropical coastal system, and N '
+                     'and P budgets were constructed to quantify …',
+         'author': 'BD Eyre and AJP Ferguson and A Webb and D Maher and JM '
+                   'Oakes',
+         'title': '… in different benthic habitats and their contribution to '
+                  'the nitrogen and phosphorus budgets of a shallow '
+                  'oligotrophic sub-tropical coastal system (southern Moreton '
+                  'Bay …',
+         'url': 'https://link.springer.com/article/10.1007/s10533-010-9425-6'},
+ 'citedby': 73,
+ 'id_scholarcitedby': '12992321499069743346',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8gC5L5H_TbQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AvRg:AAGBfm0AAAAAXYJFpRiwyqRCFsMXvZ_8Gj59siKMZzO4&scisig=AAGBfm0AAAAAXYJFpQtH79e8296pvb4nb7oYOfcfbJsE&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A survey of residents in an area subject to annual toxic '
+                     'cyanobacterial blooms was undertaken to examine '
+                     'potential health effects of cyanobacteria toxins. The '
+                     'survey assessed the health of marine recreational water '
+                     'users in Deception Bay/Bribie Island area in northern …',
+         'author': 'NJ Osborne and GR Shaw and PM Webb',
+         'title': 'Health effects of recreational exposure to Moreton Bay, '
+                  'Australia waters during a Lyngbya majuscula bloom',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0160412006001796'},
+ 'citedby': 38,
+ 'id_scholarcitedby': '4755951561741083558',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pqOKTr-IAEIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AvRg:AAGBfm0AAAAAXYJFpRiwyqRCFsMXvZ_8Gj59siKMZzO4&scisig=AAGBfm0AAAAAXYJFpf8FEA96WDHX5QchjlmObyUnvfKH&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The design of marine protected areas now typically '
+                     'incorporates socioeconomic data to minimize potential '
+                     'negative impacts on stakeholders. However, these data '
+                     'have limitations that are not well understood. '
+                     'Furthermore, whether the application of socioeconomic '
+                     'data in …',
+         'author': 'C Van De Geer and M Mills and VM Adams and RL Pressey…',
+         'eprint': 'http://www.academia.edu/download/43221071/Impacts_of_the_Moreton_Bay_Marine_Park_r20160229-22320-16x5pv5.pdf',
+         'title': 'Impacts of the Moreton Bay Marine Park rezoning on '
+                  'commercial fishermen',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0308597X12002400'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '10506494868159641156',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RLYes2qRzpEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5At9A:AAGBfm0AAAAAXYJFr9Cg2gxYsaNpcuA7mgZnujUDr00s&scisig=AAGBfm0AAAAAXYJFr9fi4uTGluyz2PKfMcskM7gNoyfA&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The Quaternary geological history of the Brisbane River '
+                     'delta front and prodelta was interpreted using seismic '
+                     'stratigraphic and sequence stratigraphic principles. '
+                     'During the last major glacial sea level episode, the '
+                     'floor of the bay was exposed and eroded by stream …',
+         'author': 'KG Evans and AW Stephens and GG Shorten',
+         'title': 'Quaternary sequence stratigraphy of the Brisbane river '
+                  'delta, Moreton Bay, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/002532279290069T'},
+ 'citedby': 34,
+ 'id_scholarcitedby': '3749809549125441213',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vVb95ur_CTQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5At9A:AAGBfm0AAAAAXYJFr9Cg2gxYsaNpcuA7mgZnujUDr00s&scisig=AAGBfm0AAAAAXYJFrxO2ao4O_fbEkFxfZW8ydcoB7bwA&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This paper reports the commencement of the first '
+                     'mark-recapture program for a dugong (Dugong dugon) '
+                     'population. Moreton Bay, south-east Queensland supported '
+                     'a D. dugon population of more than 800 individuals in '
+                     '1996 and is close to an urban centre, Brisbane …',
+         'author': 'JM Lanyon and HL Sneath and JM Kirkwood and RW Slade',
+         'eprint': 'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.602.2118&rep=rep1&type=pdf',
+         'title': 'Establishing a mark-recapture program for dugongs in '
+                  'Moreton Bay, south-east Queensland',
+         'url': 'http://www.publish.csiro.au/am/AM02051'},
+ 'citedby': 32,
+ 'id_scholarcitedby': '5147499169030972240',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:UKO1uziXb0cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5At9A:AAGBfm0AAAAAXYJFr9Cg2gxYsaNpcuA7mgZnujUDr00s&scisig=AAGBfm0AAAAAXYJFr2Du4iMY2Luok_koPOixZ8nAYR3p&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'An investigation of water motions in Moreton Bay has '
+                     'employed existing data on tide heights and salinity to '
+                     'establish and check a quasi-two-dimensional mathematical '
+                     'model of the Bay. Agreement between model and prototype '
+                     'tide levels is good, and the predicted circulation …',
+         'author': 'SN Milford and JA Church',
+         'title': 'Simplified circulation and mixing models of Moreton Bay, '
+                  'Queensland',
+         'url': 'http://www.publish.csiro.au/mf/MF9770023'},
+ 'citedby': 26,
+ 'id_scholarcitedby': '11630174815818322651',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:25KLLGCuZqEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5At9A:AAGBfm0AAAAAXYJFr9Cg2gxYsaNpcuA7mgZnujUDr00s&scisig=AAGBfm0AAAAAXYJFr2ZhfS5WeM0IrfZDYSXO9aq9MJeJ&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The record of Quaternary events in Moreton Bay has been '
+                     'investigated through studies of both submarine and '
+                     'onshore sediments. Samples of the sea floor sediments '
+                     'have been collected and further informat ion has been '
+                     'provided by geophysical and coring …',
+         'author': 'M Jones and H Hekel and DE Searle',
+         'eprint': 'https://core.ac.uk/download/pdf/19336169.pdf',
+         'title': 'Late quaternary sedimentation in Moreton Bay',
+         'url': 'https://core.ac.uk/download/pdf/19336169.pdf'},
+ 'citedby': 22,
+ 'id_scholarcitedby': '11010097973195873132',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bJuWysW5y5gJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5At9A:AAGBfm0AAAAAXYJFr9Cg2gxYsaNpcuA7mgZnujUDr00s&scisig=AAGBfm0AAAAAXYJFr1V1RRRuUTooQI_ZOx9W3v3NR6U7&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The present study assesses the effects of a Morrison '
+                     'soft turtle excluder device (TED) upon catch rates of '
+                     'commercial prawn, fish and non-commercial bycatch '
+                     'species at an essentially oceanic site and an estuarine '
+                     'site. Effects of the TED upon catch rates were highly '
+                     'variable …',
+         'author': 'JB Robins-Troeger',
+         'title': 'Evaluation of the Morrison soft turtle excluder device: '
+                  'prawn and bycatch variation in Moreton Bay, Queensland',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0165783694900396'},
+ 'citedby': 37,
+ 'id_scholarcitedby': '2991775927366239442',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0sQ61lrshCkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5At9A:AAGBfm0AAAAAXYJFr9Cg2gxYsaNpcuA7mgZnujUDr00s&scisig=AAGBfm0AAAAAXYJFryprFgVxDg6fW-7FmkEg9HcuX7VK&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Traditional techniques for studying green turtle '
+                     'foraging ecology, such as the analysis of food '
+                     'availability and ingested dietary material, have '
+                     'concluded that green turtles are primarily herbivorous '
+                     'but selective foragers. However, green turtles that '
+                     'forage during …',
+         'author': "KE Arthur and JM O'Neil and CJ Limpus…",
+         'title': 'Using animal-borne imaging to assess green turtle (Chelonia '
+                  'mydas) foraging ecology in Moreton Bay, Australia',
+         'url': 'https://www.ingentaconnect.com/content/mts/mtsj/2007/00000041/00000004/art00004'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '8937243633840338558',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:frYswrt3B3wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5At9A:AAGBfm0AAAAAXYJFr9Cg2gxYsaNpcuA7mgZnujUDr00s&scisig=AAGBfm0AAAAAXYJFrwuzDy1mbqsP3Z88VXOUtGWq1Qt3&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Moreton Bay In response to a large increase in dugong '
+                     'sightings reported by the public in Moreton\n'
+                     'Bay (>I50 km south of the Great Sandy Strait), a survey '
+                     'of the main dugong habitat (east-central\n'
+                     'area of the bay) was flown on 7 April 1993 following the '
+                     'methods used on 28 … \n',
+         'author': 'A Preen and H Marsh',
+         'eprint': 'https://www.researchgate.net/profile/Helene_Marsh/publication/248883343_Response_of_dugongs_to_large-scale_loss_of_seagrass_from_Hervey_Bay_Queensland_Australia/links/0f31753c31b2cc174a000000.pdf',
+         'title': 'Response of dugongs to large-scale loss of seagrass from '
+                  'Hervey Bay, Queensland Australia',
+         'url': 'https://www.researchgate.net/profile/Helene_Marsh/publication/248883343_Response_of_dugongs_to_large-scale_loss_of_seagrass_from_Hervey_Bay_Queensland_Australia/links/0f31753c31b2cc174a000000.pdf'},
+ 'citedby': 202,
+ 'id_scholarcitedby': '15448723414975228005',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZajbVhjkZNYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5At9A:AAGBfm0AAAAAXYJFr9Cg2gxYsaNpcuA7mgZnujUDr00s&scisig=AAGBfm0AAAAAXYJFr7rJkorE8WTD5HCajvNcCFcuv9BT&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'OF THESIS Title: Aspects of the general biology and '
+                     'fishery of the mud crab ScyZZa serrata (Forskal) in '
+                     'Moreton Bay, Queensland by Michael P. Heasman Growth of '
+                     'post-larval S. serrata in Moreton Bay occurs as a '
+                     'progression through 4 allometric growth …',
+         'author': 'MP Heasman',
+         'eprint': 'http://fish.gov.au/Archived-Reports/2012/reports/Documents/Heasman_1980.pdf',
+         'title': 'Aspects of the general biology and fishery of the mud crab '
+                  'Scylla serrata (Forskal) in Moreton Bay, Queensland',
+         'url': 'http://fish.gov.au/Archived-Reports/2012/reports/Documents/Heasman_1980.pdf'},
+ 'citedby': 39,
+ 'id_scholarcitedby': '8768950160841867247',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:738VHraRsXkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5At9A:AAGBfm0AAAAAXYJFr9Cg2gxYsaNpcuA7mgZnujUDr00s&scisig=AAGBfm0AAAAAXYJFr9j21YWncLmzi22RqAq3D8Yh7Vxo&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'We assess species composition, assemblage structure and '
+                     'distribution of the benthic foraminiferal assemblages '
+                     'from diverse substrates in Moreton Bay, South-East '
+                     'Queensland, Australia. Analysis of 47 surface sediment '
+                     'samples revealed 69 species, three distinct …',
+         'author': 'YR Narayan and JM Pandolfi',
+         'eprint': 'http://www.academia.edu/download/31352399/Narayan_Pandolfi_2010.pdf',
+         'title': 'Benthic foraminiferal assemblages from Moreton Bay, '
+                  'South-East Queensland, Australia: Applications in '
+                  'monitoring water and substrate quality in subtropical …',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0025326X10003188'},
+ 'citedby': 44,
+ 'id_scholarcitedby': '5496039882229657683',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:U7CtUyfbRUwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5At9A:AAGBfm0AAAAAXYJFr9Cg2gxYsaNpcuA7mgZnujUDr00s&scisig=AAGBfm0AAAAAXYJFr4zqzRK5r5k7Wvbu0Aqs86E6us8y&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Moretón Bay lies between latitudes 27 00 S. and 27 42 S. '
+                     "and longitudes 153 03'e. and 153 2б'Е. It has a surface "
+                     'area of 1.38 X 109 m2 and a volume of 1Л7 X 10 m. The '
+                     'annual temperature range found was 13 degC at the '
+                     'surface and 9 degC at 21 m. The annual …',
+         'author': 'BS Newell',
+         'eprint': 'http://www.cmar.csiro.au/e-print/open/Div_Fish_Tech_Paper_30.pdf',
+         'title': 'The hydrological environment of Moreton Bay, Queensland, '
+                  '1967-68',
+         'url': 'http://www.cmar.csiro.au/e-print/open/Div_Fish_Tech_Paper_30.pdf'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '4321100639432930412',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bPQcLCOi9zsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ArmI:AAGBfm0AAAAAXYJFtmJ0HbN5lzxf9oEuNX4gu4AcU7UC&scisig=AAGBfm0AAAAAXYJFts9R5ShHtCjiGmhdUqignaEV0dNA&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'author': 'PH Wolf',
+         'title': 'Occurrence of a haplosporidan in Sydney rock oysters '
+                  '(Crassostrea commercialis) from Moreton Bay, Queensland, '
+                  'Australia'},
+ 'citedby': 29,
+ 'id_scholarcitedby': '14695085681735371642',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:egvE05Fu78sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ArmI:AAGBfm0AAAAAXYJFtmJ0HbN5lzxf9oEuNX4gu4AcU7UC&scisig=AAGBfm0AAAAAXYJFtlHHirgnZpD3smtUh9cl3REmz5kT&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Water samples were collected within river mouths, at '
+                     'river plume sites and at well flushed ocean-influenced '
+                     'sites within Moreton Bay, a shallow subtropical '
+                     'embayment in south-eastern Queensland. Rates of '
+                     'inorganic nitrogen (NH+ 4 and NO-3) and carbon uptake …',
+         'author': "MJ O'Donohue and PM Glibert and WC Dennison",
+         'title': 'Utilization of nitrogen and carbon by phytoplankton in '
+                  'Moreton Bay, Australia',
+         'url': 'http://www.publish.csiro.au/mf/MF99096'},
+ 'citedby': 29,
+ 'id_scholarcitedby': '6581443593361275197',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PbmRAxT8VVsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ArmI:AAGBfm0AAAAAXYJFtmJ0HbN5lzxf9oEuNX4gu4AcU7UC&scisig=AAGBfm0AAAAAXYJFtgUMxbbThYBrJNPbUbbCleF7U86U&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Life-history characteristics of the double-ended '
+                     'pipefish, Syngnathoides biaculeatus (Bloch), were '
+                     'investigated to determine growth rate, degree of sexual '
+                     'dimorphism, size at maturity, and reproductive biology. '
+                     'Growth rates of wild juveniles and adults calculated '
+                     'from monthly …',
+         'author': 'E Takahashi and RM Connolly and SY Lee',
+         'eprint': 'http://www.rodconnolly.com/uploads/2/5/7/2/25722279/takahashi_et_al_2003_env_biol_fish.pdf',
+         'title': 'Growth and Reproduction of Double-Ended Pipefish, '
+                  'Syngnathoides biaculeatus, in Moreton Bay, Queensland, '
+                  'Australia',
+         'url': 'https://link.springer.com/article/10.1023/A:1024416031274'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '15772053160837419360',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YJFKLsmW4doJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ArmI:AAGBfm0AAAAAXYJFtmJ0HbN5lzxf9oEuNX4gu4AcU7UC&scisig=AAGBfm0AAAAAXYJFtoRRuXj7LabWEi0q1eo9lPs2jVyD&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Significant acetylene reduction and therefore N 2 '
+                     'fixation was observed for Lyngbya majuscula only during '
+                     'dark periods, which suggests that oxygenic '
+                     'photosynthesis and N 2 fixation are incompatible '
+                     'processes for this species. Results from a series of '
+                     'batch and …',
+         'author': 'I Elmetri and PRF Bell',
+         'eprint': 'http://www.int-res.com/articles/meps2004/281/m281p027.pdf',
+         'title': 'Effects of phosphorus on the growth and nitrogen fixation '
+                  'rates of Lyngbya majuscula: implications for management in '
+                  'Moreton Bay, Queensland',
+         'url': 'https://www.int-res.com/abstracts/meps/v281/p27-35/'},
+ 'citedby': 39,
+ 'id_scholarcitedby': '5410084415052915542',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ViMblBx7FEsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ArmI:AAGBfm0AAAAAXYJFtmJ0HbN5lzxf9oEuNX4gu4AcU7UC&scisig=AAGBfm0AAAAAXYJFtvqQ2ChE5_JMCjnsjUadX7Z4VWrr&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Moreton Bay and its associated estuaries are an example '
+                     'of a complex aquatic system that is under increasing '
+                     'pressure from rapid population growth and urbanisation. '
+                     'Although the extent of decline in ecosystem health '
+                     'within Moreton Bay and its associated estuaries is …',
+         'author': 'B Gibbes and A Grinham and D Neil and A Olds and P '
+                   'Maxwell…',
+         'eprint': 'http://www.rodconnolly.com/uploads/2/5/7/2/25722279/gibbes_et_al_2014_moreton_bay_in_estuaries_of_australia.pdf',
+         'title': 'Moreton Bay and its estuaries: a sub-tropical system under '
+                  'pressure from rapid population growth',
+         'url': 'https://link.springer.com/chapter/10.1007/978-94-007-7019-5_12'},
+ 'citedby': 36,
+ 'id_scholarcitedby': '1169015019626065701',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JW_odfcsORAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ArmI:AAGBfm0AAAAAXYJFtmJ0HbN5lzxf9oEuNX4gu4AcU7UC&scisig=AAGBfm0AAAAAXYJFtrtZXY8twHEUE0k2aHKYjJ-gE0wR&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Wastewater effluent is known to contain macro and '
+                     'micropollutants, which may be deleterious to '
+                     'environmental health. One such class of micropollutants '
+                     'is chelated gadolinium, which are used as MRI contrast '
+                     'agents. As these MRI contrast agents can be …',
+         'author': 'MG Lawrence',
+         'eprint': 'https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=23000103',
+         'title': 'Detection of anthropogenic gadolinium in the Brisbane River '
+                  'plume in Moreton Bay, Queensland, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0025326X10001384'},
+ 'citedby': 31,
+ 'id_scholarcitedby': '9678423675507779718',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hihf7A2rUIYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ArmI:AAGBfm0AAAAAXYJFtmJ0HbN5lzxf9oEuNX4gu4AcU7UC&scisig=AAGBfm0AAAAAXYJFtmT2-TdOOCl-Y_327JA7S5Ma-Bfe&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The major benthic habitats in a shallow oligotrophic '
+                     'sub-tropical coastal system were mapped, benthic '
+                     'productivity and respiration were measured seasonally '
+                     '(summer, winter) in each open water habitat, and an '
+                     'annual carbon budget was constructed using measured …',
+         'author': 'BD Eyre and AJP Ferguson and A Webb and D Maher and JM '
+                   'Oakes',
+         'title': 'Metabolism of different benthic habitats and their '
+                  'contribution to the carbon budget of a shallow oligotrophic '
+                  'sub-tropical coastal system (southern Moreton Bay …',
+         'url': 'https://link.springer.com/article/10.1007/s10533-010-9424-7'},
+ 'citedby': 47,
+ 'id_scholarcitedby': '15742907469455621530',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mv2-GO8KetoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ArmI:AAGBfm0AAAAAXYJFtmJ0HbN5lzxf9oEuNX4gu4AcU7UC&scisig=AAGBfm0AAAAAXYJFtvr8uqVsyEy177XgbHV4pQDdS2k7&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This is the second in a series of papers dealing with '
+                     "calanoid copepods from Moreton Bay (Int. 27” 20 'S; "
+                     "long. 153 “IS 'E).-Descriptions. ol'th_e sampling "
+                     "situation, methods employed and pl'8Sl! nlE! l. iOil "
+                     'articles not referenced in the ﬁrst paper are included '
+                     'in the bibliography …',
+         'author': 'JG Greenwood',
+         'eprint': 'ftp://globec.whoi.edu/pub/cmarz/pdf/copepod_refs/Greenwood,%201977.pdf',
+         'title': 'Calanoid copepods of Moreton Bay (Queensland) II. Families '
+                  'Calocalanidae to Centropagidae',
+         'url': 'ftp://globec.whoi.edu/pub/cmarz/pdf/copepod_refs/Greenwood,%201977.pdf'},
+ 'citedby': 30,
+ 'id_scholarcitedby': '16577750031518277120',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AB7eK9L_D-YJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ArmI:AAGBfm0AAAAAXYJFtmJ0HbN5lzxf9oEuNX4gu4AcU7UC&scisig=AAGBfm0AAAAAXYJFtvk1ok8OnmKR5PSHfrolwPC_cVaT&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This broad‐scale investigation provides an overview of '
+                     'trace metal concentration and distribution within '
+                     'sediments in the subtropical setting of Moreton Bay on '
+                     'the eastern Australian coast. Samples of sediment in '
+                     'one‐metre long PVC cores were collected from the …',
+         'author': 'ME Cox and M Preda',
+         'title': 'Trace metal distribution within marine and estuarine '
+                  'sediments of western Moreton Bay, Queensland, Australia: '
+                  'relation to land use and setting',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-5871.2005.00312.x'},
+ 'citedby': 43,
+ 'id_scholarcitedby': '2802373637070997344',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YEeJrfkH5CYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ArmI:AAGBfm0AAAAAXYJFtmJ0HbN5lzxf9oEuNX4gu4AcU7UC&scisig=AAGBfm0AAAAAXYJFtlGcHwrko3l_EnKFgYkTL02QcLeU&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Land use/cover and mangrove spatial changes were '
+                     'assessed for ten sites and their sub-catchments in '
+                     'Southeast Queensland, Australia. Two time periods were '
+                     'involved: 1972–1990, a period of relatively high '
+                     'rainfall, and 1990–2004, which was significantly drier. '
+                     'Aerial …',
+         'author': 'L Eslami-Andargoli and PER Dale and N Sipe…',
+         'title': 'Local and landscape effects on spatial patterns of mangrove '
+                  'forest during wetter and drier periods: Moreton Bay, '
+                  'Southeast Queensland, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0272771410002040'},
+ 'citedby': 37,
+ 'id_scholarcitedby': '11265705193933268977',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8WeqhC_TV5wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ApbE:AAGBfm0AAAAAXYJFvbEYm2wAQWYNQEpg7fvDRWxxwOoH&scisig=AAGBfm0AAAAAXYJFvdKO4nimOZ-C5txpg-gDYB84N4l-&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1985). Early studies in eastern Queensland were '
+                     'restricted to Moreton Bay in the south-east (Young\n'
+                     'and Kirkman 1975; Kirkman 1978). Apart from studies by '
+                     'Bridges et al … Decline of seagrass in\n'
+                     'northern areas of Moreton Bay, Queensland. Aquatic '
+                     'Botany 5, 63-76 … \n',
+         'author': 'WJL Long and JE Mellors and RG Coles',
+         'title': 'Seagrasses between Cape York and Hervey Bay, Queensland, '
+                  'Australia',
+         'url': 'http://www.publish.csiro.au/mf/MF9930019'},
+ 'citedby': 145,
+ 'id_scholarcitedby': '15379669065347689176',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2Oocq4ePb9UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ApbE:AAGBfm0AAAAAXYJFvbEYm2wAQWYNQEpg7fvDRWxxwOoH&scisig=AAGBfm0AAAAAXYJFvV8IIpV19r-yuOVOJzYdqIca2UAQ&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Seven shallow-water sites in the western part of Moreton '
+                     'Bay, Queensland, Australia, were sampled by beam trawl '
+                     'on 7 occasions during 1987 and 1988. The sites differed '
+                     'significantly in their macrophyte and loose shell cover. '
+                     'The most abundant fish species was …',
+         'author': 'K Warburton and SJM Blaber',
+         'title': 'Patterns of recruitment and resource use in a shallow-water '
+                  'fish assemblage in Moreton Bay, Queensland',
+         'url': 'https://www.jstor.org/stable/24832503'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '10369602753173710681',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WefUdMM66I8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ApbE:AAGBfm0AAAAAXYJFvbEYm2wAQWYNQEpg7fvDRWxxwOoH&scisig=AAGBfm0AAAAAXYJFvby9sLoED213qz3jl4m1ubSRfzea&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'An approach combining nutrient budgets, dynamic '
+                     'modelling, and field observations of phytoplankton and '
+                     'nitrogen (N 2)-fixing Lyngbya majuscula following '
+                     'changes in wastewater N loads, was used to demonstrate '
+                     'that Moreton Bay is potentially phosphorus …',
+         'author': 'F Wulff and BD Eyre and R Johnstone',
+         'eprint': 'http://www.academia.edu/download/42406348/Nitrogen_versus_phosphorus_limitation_in20160208-14055-1gja8bh.pdf',
+         'title': 'Nitrogen versus phosphorus limitation in a subtropical '
+                  'coastal embayment (Moreton Bay; Australia): Implications '
+                  'for management',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0304380010004540'},
+ 'citedby': 32,
+ 'id_scholarcitedby': '4529814599266201298',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0u6jx2Ai3T4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ApbE:AAGBfm0AAAAAXYJFvbEYm2wAQWYNQEpg7fvDRWxxwOoH&scisig=AAGBfm0AAAAAXYJFvat3m8Hil7uFft3cnKIb8AI0RVq6&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Subtropical estuaries have received comparatively little '
+                     'attention in the study of nutrient loading and '
+                     'subsequent nutrient processing relative to temperate '
+                     'estuaries. Australian estuaries are particularly '
+                     'susceptible to increased nutrient loading and '
+                     'eutrophication, as …',
+         'author': "PM Glibert and CA Heil and JM O'neil and WC Dennison…",
+         'eprint': 'http://www.academia.edu/download/31126765/Glibert_et_al-_Moreton_Bay.pdf',
+         'title': 'Nitrogen, phosphorus, silica, and carbon in Moreton Bay, '
+                  'Queensland, Australia: Differential limitation of '
+                  'phytoplankton biomass and production',
+         'url': 'https://link.springer.com/article/10.1007/BF02781990'},
+ 'citedby': 34,
+ 'id_scholarcitedby': '14043857081039348037',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RWG0j5vN5cIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ApbE:AAGBfm0AAAAAXYJFvbEYm2wAQWYNQEpg7fvDRWxxwOoH&scisig=AAGBfm0AAAAAXYJFvWAz_Z4brE5vuGd5qgxbOb6XmrbA&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Biochemical and hematologic reference intervals have '
+                     'been reported for loggerhead sea turtles (Caretta '
+                     'caretta, Linnaeus 1758), but low sample numbers and '
+                     'simple statistical analyses have constrained their '
+                     'diagnostic usefulness. During June 2007–May 2008, 101 …',
+         'author': 'M Flint and JM Morton and CJ Limpus…',
+         'eprint': 'https://www.jwildlifedis.org/doi/pdf/10.7589/0090-3558-46.3.731',
+         'title': 'Reference intervals for plasma biochemical and hematologic '
+                  'measures in loggerhead sea turtles (Caretta caretta) from '
+                  'Moreton Bay, Australia',
+         'url': 'http://www.jwildlifedis.org/doi/abs/10.7589/0090-3558-46.3.731'},
+ 'citedby': 32,
+ 'id_scholarcitedby': '2954172293937870463',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:f7Z3qQxU_ygJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ApbE:AAGBfm0AAAAAXYJFvbEYm2wAQWYNQEpg7fvDRWxxwOoH&scisig=AAGBfm0AAAAAXYJFve2XuzMbSg3ZLTRDT5GhVrxzviUI&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. -- Aust. J. Mar. Freshwater Res., 1990, 41, '
+                     '27-36 Partitioning of Material discarded from\n'
+                     'Prawn Trawlers in Moreton Bay … Abstract Prawn trawlers '
+                     'in Moreton Bay, Queensland, discard\n'
+                     'about 3000 t of material each year. About 3% floats, and '
+                     'the rest sinks … \n',
+         'author': 'TJ Wassenberg and BJ Hill',
+         'title': 'Partitioning of material discarded from prawn trawlers in '
+                  'Morton Bay',
+         'url': 'http://www.publish.csiro.au/MF/MF9900027'},
+ 'citedby': 87,
+ 'id_scholarcitedby': '8765929396028189852',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nCxqgFfWpnkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ApbE:AAGBfm0AAAAAXYJFvbEYm2wAQWYNQEpg7fvDRWxxwOoH&scisig=AAGBfm0AAAAAXYJFvZf-VWBa40YkydzuVMgDeUTdjLHP&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Two sediment cores were collected in a mangrove forest '
+                     'to construct geochronologies for the previous century '
+                     'using natural and anthropogenic radionuclide tracers. '
+                     'Both sediment cores were dated using 239+ 240 Pu global '
+                     'fallout signatures as well as 210 Pb, applying …',
+         'author': 'CJ Sanders and IR Santos and DT Maher and JL Breithaupt…',
+         'eprint': 'https://pubag.nal.usda.gov/?page=7335&per_page=100&search_field=all...',
+         'title': 'Examining 239+ 240Pu, 210Pb and historical events to '
+                  'determine carbon, nitrogen and phosphorus burial in '
+                  'mangrove sediments of Moreton Bay, Australia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0265931X15001447'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '8346106771753341023',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:XxDXq-NT03MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ApbE:AAGBfm0AAAAAXYJFvbEYm2wAQWYNQEpg7fvDRWxxwOoH&scisig=AAGBfm0AAAAAXYJFvRmP5MokgItbWfYmDRhAlw6Uh8jK&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Moreton Bay supports a high faunal diversity of enormous '
+                     'taxonomic and biogeographic interest. It is a meeting '
+                     'point of southern (Peronian) and northern (Solanderian) '
+                     'faunas, and represents a peculiar mix of both temperate '
+                     'and tropical species. Over 3 000 species are …',
+         'author': 'PJF Davie and JNA Hooper',
+         'eprint': 'http://www.academia.edu/download/37662848/1998_Davie___Hooper_1998_Moreton_Bay_Biodiv.pdf',
+         'title': 'Patterns of biodiversity in marine invertebrate and fish '
+                  'communities of Moreton Bay',
+         'url': 'http://www.academia.edu/download/37662848/1998_Davie___Hooper_1998_Moreton_Bay_Biodiv.pdf'},
+ 'citedby': 25,
+ 'id_scholarcitedby': '274848204778283837',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PaP2bPx00AMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ApbE:AAGBfm0AAAAAXYJFvbEYm2wAQWYNQEpg7fvDRWxxwOoH&scisig=AAGBfm0AAAAAXYJFvbK4M8J1cL9_Ir-1t_UAwTTCTAiG&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Selected mature male sand crabs (Portunus '
+                     'pelagicus)(6827 individuals with carapace widths of '
+                     '120-192 mm) were tagged with Floy ED-68BA anchor tags '
+                     'and released in 14 areas of Moreton Bay and adjacent '
+                     'oceanic waters. In all, 1003 tagged crabs (14.7%) were …',
+         'author': 'MA Potter and WD Sumpton and GS Smith',
+         'title': 'Movement, fishery sector impact, and factors affecting the '
+                  'recapture rate of tagged sand crabs, Portunus pelagicus '
+                  '(L.), in Moreton Bay, Queensland',
+         'url': 'http://www.publish.csiro.au/MF/MF9910751'},
+ 'citedby': 31,
+ 'id_scholarcitedby': '5296320856963887382',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:FjHTH8JPgEkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ApbE:AAGBfm0AAAAAXYJFvbEYm2wAQWYNQEpg7fvDRWxxwOoH&scisig=AAGBfm0AAAAAXYJFvat0Qic4NZjQoGEDTRu4twy4BcCx&scisf=4&ct=citation&cd=99&hl=en'}

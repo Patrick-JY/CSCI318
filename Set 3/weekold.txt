@@ -1,0 +1,1430 @@
+{'_filled': False,
+ 'bib': {'abstract': "Responses to mothers' presentations of happy, sad, and "
+                     'angry faces were studied in a sample of 12 infants, 6 '
+                     "boys and 6 girls at age 10 weeks±5 days. Each infant's "
+                     'mother displayed noncontingent, practiced facial and '
+                     'vocal expressions of the 3 emotions. Each …',
+         'author': 'JM Haviland and M Lelwica',
+         'eprint': 'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.850.8118&rep=rep1&type=pdf',
+         'title': "The induced affect response: 10-week-old infants' responses "
+                  'to three emotion expressions.',
+         'url': 'https://psycnet.apa.org/record/1987-12944-001'},
+ 'citedby': 571,
+ 'id_scholarcitedby': '2382688543511365927',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:J0ljNpsCESEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WhLM:AAGBfm0AAAAAXYLTnLPhFmSfAXzzZRioT0DrjJGgId3B&scisig=AAGBfm0AAAAAXYLTnLrfsdmhYqOL9gvb1cN-de4x4vY2&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Objectives: There are many differences in diet and '
+                     'lifestyle across Europe that may influence the '
+                     'development of the infant gut microbiota. This work '
+                     'aimed to assess the impact of geographic area, mode of '
+                     'delivery, feeding method, and antibiotic treatment on '
+                     'the fecal …',
+         'author': 'M Fallani and D Young and J Scott and E Norin…',
+         'eprint': 'https://www.researchgate.net/profile/Sheila_Shepherd/publication/44608659_Intestinal_Microbiota_of_6-week-old_Infants_Across_Europe_Geographic_Influence_Beyond_Delivery_Mode_Breast-feeding_and_Antibiotics/links/5a5f6488a6fdcc21f4856fb5/Intestinal-Microbiota-of-6-week-old-Infants-Across-Europe-Geographic-Influence-Beyond-Delivery-Mode-Breast-feeding-and-Antibiotics.pdf',
+         'title': 'Intestinal microbiota of 6-week-old infants across Europe: '
+                  'geographic influence beyond delivery mode, breast-feeding, '
+                  'and antibiotics',
+         'url': 'https://journals.lww.com/jpgn/Fulltext/2010/07000/Fecal_Microflora_in_Healthy_Infants_Born_by.15.aspx'},
+ 'citedby': 447,
+ 'id_scholarcitedby': '17408322760407918433',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YSd2PVHJlvEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WhLM:AAGBfm0AAAAAXYLTnLPhFmSfAXzzZRioT0DrjJGgId3B&scisig=AAGBfm0AAAAAXYLTnEObb8m80FF6agrCyvTPiZUjRvS5&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Aims/hypothesis. Glucagon-like peptide-1 ameliorates the '
+                     'symptoms of diabetes through stimulation of insulin '
+                     'secretion and enhancement of beta-cell mass. We have '
+                     'therefore investigated the effects of glucagon-like '
+                     'peptide-1 on the development of diabetes, using …',
+         'author': 'Q Wang and P Brubaker',
+         'eprint': 'https://link.springer.com/content/pdf/10.1007/s00125-002-0828-3.pdf',
+         'title': 'Glucagon-like peptide-1 treatment delays the onset of '
+                  'diabetes in 8 week-old db/db mice',
+         'url': 'https://link.springer.com/article/10.1007/s00125-002-0828-3'},
+ 'citedby': 381,
+ 'id_scholarcitedby': '11328545215870998955',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qxnxRdoTN50J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WhLM:AAGBfm0AAAAAXYLTnLPhFmSfAXzzZRioT0DrjJGgId3B&scisig=AAGBfm0AAAAAXYLTnMQK7X_lHvuiGQRHdVcC-QZp3Ppk&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Several lines of evidence have implicated the existence '
+                     'of the brain9s default network during passive or '
+                     'undirected mental states. Nevertheless, results on the '
+                     'emergence of the default network in very young pediatric '
+                     'subjects are lacking. Using resting functional …',
+         'author': 'W Gao and H Zhu and KS Giovanello…',
+         'eprint': 'https://www.pnas.org/content/pnas/106/16/6790.full.pdf',
+         'title': "Evidence on the emergence of the brain's default network "
+                  'from 2-week-old to 2-year-old healthy pediatric subjects',
+         'url': 'https://www.pnas.org/content/106/16/6790.short'},
+ 'citedby': 396,
+ 'id_scholarcitedby': '237692753007770114',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Anq2rEx0TAMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WhLM:AAGBfm0AAAAAXYLTnLPhFmSfAXzzZRioT0DrjJGgId3B&scisig=AAGBfm0AAAAAXYLTnMgl9YErnvbw_re9KevQQfJa1gYO&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Interleukin-6 (human recombinant) supported the survival '
+                     'of cultured mesencephalic, catecholaminergic and septal '
+                     'cholinergic neurons from postnatal, two-week-old '
+                     '(P13-P15) rats. Significantly, more catecholaminergic '
+                     'neurons, stained by monoclonal …',
+         'author': 'T Hama and Y Kushima and M Miyamoto and M Kubota and N '
+                   'Takei…',
+         'eprint': '/scholar?output=instlink&q=info:ytfOzorOsOAJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=5696040510428653830&oi=lle',
+         'title': 'Interleukin-6 improves the survival of mesencephalic '
+                  'catecholaminergic and septal cholinergic neurons from '
+                  'postnatal, two-week-old rats in cultures',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0306452291901328'},
+ 'citedby': 345,
+ 'id_scholarcitedby': '16190667755967403978',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ytfOzorOsOAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WhLM:AAGBfm0AAAAAXYLTnLPhFmSfAXzzZRioT0DrjJGgId3B&scisig=AAGBfm0AAAAAXYLTnOyLDTQMKX-dBux5poiwkIrVyyv4&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'All amaranth varieties contain tocotrienols and squalene '
+                     'compounds which are known to affect cholesterol '
+                     'biosynthesis. Therefore, in the present study, the '
+                     'influence of dietary supplementation of whole seed, '
+                     'popped, and milled amaranth and amaranth oil on …',
+         'author': 'AA Qureshi and JW Lehmann…',
+         'eprint': 'https://academic.oup.com/jn/article-pdf/126/8/1972/23037357/jn1260081972.pdf',
+         'title': 'Amaranth and its oil inhibit cholesterol biosynthesis in '
+                  '6-week-old female chickens',
+         'url': 'https://academic.oup.com/jn/article-abstract/126/8/1972/4722805'},
+ 'citedby': 109,
+ 'id_scholarcitedby': '1829675815366756814',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zgkPxXVQZBkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WhLM:AAGBfm0AAAAAXYLTnLPhFmSfAXzzZRioT0DrjJGgId3B&scisig=AAGBfm0AAAAAXYLTnDO14_aF6tSYQ1hEOjJMlOsPkQu3&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The physiological properties of the retinal ganglion '
+                     'cells of barbiturate-anesthetized, 3-weekold kittens '
+                     '(21–24 days of age) were studied. The antagonistic, '
+                     'center-surround organization of the receptive field is '
+                     'present. The angular size of the receptive field center '
+                     'is …',
+         'author': 'DI Hamasaki and JT Flynn',
+         'eprint': '/scholar?output=instlink&q=info:AARVXMMgH80J:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=14516435088528707352&oi=lle',
+         'title': 'Physiological properties of retinal ganglion cells of '
+                  '3-week-old kittens',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0042698977900918'},
+ 'citedby': 48,
+ 'id_scholarcitedby': '14780568525493044224',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AARVXMMgH80J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WhLM:AAGBfm0AAAAAXYLTnLPhFmSfAXzzZRioT0DrjJGgId3B&scisig=AAGBfm0AAAAAXYLTnP2YlKgRs26hegC8uJo-PmKZgt6b&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Importance The intestinal microbiome plays a critical '
+                     'role in infant development, and delivery mode and '
+                     'feeding method (breast milk vs formula) are determinants '
+                     'of its composition. However, the importance of delivery '
+                     'mode beyond the first days of life is …',
+         'author': 'JC Madan and AG Hoen and SN Lundgren and SF Farzan…',
+         'eprint': 'https://jamanetwork.com/journals/jamapediatrics/fullarticle/2479466',
+         'title': 'Association of cesarean delivery and formula '
+                  'supplementation with the intestinal microbiome of '
+                  '6-week-old infants',
+         'url': 'https://jamanetwork.com/journals/jamapediatrics/article-abstract/2479466'},
+ 'citedby': 118,
+ 'id_scholarcitedby': '4639676777712570010',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ms4vgHJxY0AJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WhLM:AAGBfm0AAAAAXYLTnLPhFmSfAXzzZRioT0DrjJGgId3B&scisig=AAGBfm0AAAAAXYLTnAEiPL0JYlRr626I8UkAKb3zlzuc&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A haemolytic enteropathogenic E. coli (WG) and pig '
+                     'rotavirus were isolated from a field case of postweaning '
+                     'diarrhoea in pigs. Four‐week‐old gnotobiotic piglets fed '
+                     'on milk diet were found to be extremely susceptible to '
+                     'infection with WG E. coli. Piglets were less susceptible '
+                     '…',
+         'author': 'S Tzipori and D Chandler and T Makin…',
+         'title': 'ESCHERICHIA COLI AND ROTAVIRUS INFECTIONS IN FOUR‐WEEKOLD '
+                  'GNOTOBIOTIC PIGLETS FED MILK OR DRY FOOD',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-0813.1980.tb05724.x'},
+ 'citedby': 41,
+ 'id_scholarcitedby': '11109769647769002993',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8SOw76HULZoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WhLM:AAGBfm0AAAAAXYLTnLPhFmSfAXzzZRioT0DrjJGgId3B&scisig=AAGBfm0AAAAAXYLTnLTbpq3gEw5NuWtZFC6ExmNkJOA8&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The purpose of this experiment was to determine whether '
+                     'infants at 5 and at 10 weeks of age respond to facelike '
+                     'drawings on the basis of stimulus complexity or on the '
+                     'basis of degree of resemblance to the human face. '
+                     'Twenty-four Ss at each age were shown four …',
+         'author': 'RA Haaf',
+         'eprint': '/scholar?output=instlink&q=info:9nupK_KoPTgJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=9491585627275165257&oi=lle',
+         'title': 'Complexity and facial resemblance as determinants of '
+                  'response to facelike stimuli by 5-and 10-week-old infants',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0022096574901258'},
+ 'citedby': 36,
+ 'id_scholarcitedby': '4052580997771394038',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9nupK_KoPTgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WhLM:AAGBfm0AAAAAXYLTnLPhFmSfAXzzZRioT0DrjJGgId3B&scisig=AAGBfm0AAAAAXYLTnDPOIPZYpVZlr7W6jxRZ2QulhH9r&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Enterococcus hirae infections are reported to cause '
+                     'growth depression, encephalomalacia, endocarditis, and '
+                     'septicemia in chickens. This report describes '
+                     'osteomyelitis in the proximal femur of a 3-week-old '
+                     'broiler chicken that also suffered from valvular '
+                     'endocarditis and liver …',
+         'author': 'Ø Kolbjørnsen and B David and M Gilhuus',
+         'eprint': 'https://journals.sagepub.com/doi/full/10.1177/0300985810396513',
+         'title': 'Bacterial Osteomyelitis in a 3-Week-Old Broiler Chicken '
+                  'Associated With Enterococcus hirae',
+         'url': 'https://journals.sagepub.com/doi/abs/10.1177/0300985810396513'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '10741420349864299768',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-EzQ0OUwEZUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wu6k:AAGBfm0AAAAAXYLTo6nYcTtXkrQEcGflejeZyO-XS28i&scisig=AAGBfm0AAAAAXYLToz2vOoRLlqTl1Vu7kBAHPseie5W9&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A pilot experiment in 10‐week‐old sero‐negative pigs '
+                     'showed that intranasal (in) vaccination with 104 to 108 '
+                     "plaque forming units of Bartha's K strain of Aujeszky's "
+                     'disease (AD) virus induced a good antibody response and '
+                     'resulted in nearly complete protection …',
+         'author': 'PW De Leeuw and JM Wijsmuller and JW Zantinga…',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.1080/01652176.1982.9693839',
+         'title': "… vaccination of pigs against Aujeszky's disease: 1. "
+                  'Comparison of intranasal and parenteral vaccination with an '
+                  'attenuated vaccine in 12‐weekold pigs from immunized …',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/01652176.1982.9693839'},
+ 'citedby': 41,
+ 'id_scholarcitedby': '15868645419574165208',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2P5Y9O7AONwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wu6k:AAGBfm0AAAAAXYLTo6nYcTtXkrQEcGflejeZyO-XS28i&scisig=AAGBfm0AAAAAXYLTo6bGhg4XLUNIjKZ7NkhZQi2hAy4e&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Methemoglobinemia not caused by drugs or exogenous '
+                     'poisons is a relatively rare condition. A case of" '
+                     'idiopathic" methemoglobinemia in a 2 week old infant is '
+                     'presented in which prompt disappearance of cyanosis '
+                     'followed the intravenous administration of …',
+         'author': 'AS SCHWARTZ and EJ RECTOR',
+         'title': 'MEthemoglobinemia of unknown origin in a two week old '
+                  'infant',
+         'url': 'https://jamanetwork.com/journals/jamapediatrics/article-abstract/1178967'},
+ 'citedby': 22,
+ 'id_scholarcitedby': '8234878954482442598',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZiFEYscqSHIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wu6k:AAGBfm0AAAAAXYLTo6nYcTtXkrQEcGflejeZyO-XS28i&scisig=AAGBfm0AAAAAXYLTo0yo_3zQuXMx5qPnofFpbkaEcT-w&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'THE TREATMENT of coarctation of the aorta in adults and '
+                     'children by resectional surgery is a procedure that is '
+                     'generally accepted. Numerous reports on the excel-lent '
+                     'results obtained with low mortality figures have been '
+                     'published. However, we should like to call attentionto …',
+         'author': 'ID Baronofsky and P Adams Jr',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1609493/pdf/annsurg01325-0113.pdf',
+         'title': 'Resection of an Aortic Coarctation in a Two Week Old '
+                  'Iinfant',
+         'url': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1609493/'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '1005382661964203454',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:voW2TTTW8w0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wu6k:AAGBfm0AAAAAXYLTo6nYcTtXkrQEcGflejeZyO-XS28i&scisig=AAGBfm0AAAAAXYLTo__J7P-3f679HniocrrVEUtWVbsq&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The behaviour of 90 clinically normal 6-week-old babies '
+                     'previously studied as neonates was video-recorded while '
+                     'they were presented with sequences of sound stimuli. The '
+                     'stimuli varied in sound pressure level, bandwidth and '
+                     'rise time, and included two voice signals and …',
+         'author': 'J Bench and Y Collyer and L Mentz and I Wilson',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.3109/00206097609071790',
+         'title': 'Studies in Infant Behavioural Audiometry: II. Six-Week-Old '
+                  'Infants',
+         'url': 'https://www.tandfonline.com/doi/abs/10.3109/00206097609071790'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '1271764952958262536',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CF3eknw3phEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wu6k:AAGBfm0AAAAAXYLTo6nYcTtXkrQEcGflejeZyO-XS28i&scisig=AAGBfm0AAAAAXYLTo1Ai-8euvxIo9y4-4v6dwIqzkZ2E&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… A signal is only visible in the phloem companion cells '
+                     '(arrows). (C, D) Transmission electron\n'
+                     'microscopy immunolocalisation of GDH on ultra-thin '
+                     'sections of 3 week-old maize leaves. The\n'
+                     'signal was restricted to the mitochondria (arrows) of '
+                     'the phloem companion cells … \n',
+         'author': 'F Dubois and T Tercé-Laforgue and MB Gonzalez-Moro…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0981942803000755',
+         'title': 'Glutamate dehydrogenase in plants: is there a new story for '
+                  'an old enzyme?',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0981942803000755'},
+ 'citedby': 166,
+ 'id_scholarcitedby': '8838021367371440112',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8J98l5v1pnoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wu6k:AAGBfm0AAAAAXYLTo6nYcTtXkrQEcGflejeZyO-XS28i&scisig=AAGBfm0AAAAAXYLTo5JeeGhuyg39cd3esy2nPa6tyocU&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A female infant with an extensive congenital hemangioma '
+                     'of the left knee region was treated medically for '
+                     'consumption coagulopathy; the hemangioma began to '
+                     'shrink, the coagulopathy improved, and the infant was '
+                     'clinically well when she died suddenly at the …',
+         'author': 'GA Machin and S Kent',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.3109/15513818909022333',
+         'title': 'Pulmonary thromboembolism from a large hemangioma in a '
+                  '4-week-old infant',
+         'url': 'https://www.tandfonline.com/doi/abs/10.3109/15513818909022333'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '1473387617736161591',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:N3mfYzuGchQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wu6k:AAGBfm0AAAAAXYLTo6nYcTtXkrQEcGflejeZyO-XS28i&scisig=AAGBfm0AAAAAXYLToxFa1Kb0z_eYc_11z9I54HH6uzso&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Trichinella spiralis cysts, many of which were calcified '
+                     'or contained dead larvae, were present\n'
+                     'in a prematurely born baby which died when six weeks '
+                     'old. The mother had no illness during\n'
+                     'pregnancy. Dr. LE Ranta has observed a heavy infection '
+                     'in a fetus in Toronto. RTL.\n',
+         'author': 'TKR Bourns',
+         'title': 'The discovery of trichina cysts in the diaphragm of a six '
+                  'weekold child.',
+         'url': 'https://www.cabdirect.org/cabdirect/abstract/19520801361'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '7380298248116575560',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SB1tdycWbGYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wu6k:AAGBfm0AAAAAXYLTo6nYcTtXkrQEcGflejeZyO-XS28i&scisig=AAGBfm0AAAAAXYLTo5HsviuV-qz-iuqfukefWySsV-KC&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The pathogenesis of chicken infectious anaemia virus '
+                     '(CAV) infection was studied in 6-week-old and '
+                     'one-day-old SPF chickens inoculated intramuscularly with '
+                     'graded doses of Cux-1 strain (106− 102 TCID50/chicken). '
+                     'Viraemia, virus shedding, development of virus …',
+         'author': 'CN Drén and A Kant and DJ Van Roozelaar…',
+         'eprint': 'https://www.researchgate.net/profile/Nick_Dren/publication/11936394_Studies_on_the_Pathogenesis_of_Chicken_Infectious_Anaemia_Virus_Infection_in_Six-Week-Old_SPF_Chickens/links/55313a130cf27acb0dea91ce/Studies-on-the-Pathogenesis-of-Chicken-Infectious-Anaemia-Virus-Infection-in-Six-Week-Old-SPF-Chickens.pdf',
+         'title': 'Studies on the pathogenesis of chicken infectious anaemia '
+                  'virus infection in six-week-old SPF chickens',
+         'url': 'https://akademiai.com/doi/abs/10.1556/004.48.2000.4.8'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '5708346469659539970',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Anrput4eOE8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wu6k:AAGBfm0AAAAAXYLTo6nYcTtXkrQEcGflejeZyO-XS28i&scisig=AAGBfm0AAAAAXYLTo_GqkRcGt82KsCSNXwmvxJJqRtNk&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Studies were conducted to evaluate the regulation of '
+                     'steroid production in dispersed cells from ovarian '
+                     'stromal tissue from 5-to 8-week-old-pullets (IM cells) '
+                     'and laying hens (MAT cells). Short-term incubation of IM '
+                     'and MAT cells with ovine (o) LH resulted in a dose …',
+         'author': 'JM Levorse and AL Johnson',
+         'eprint': 'https://rep.bioscientifica.com/downloadpdf/journals/rep/100/1/jrf_100_1_029.xml',
+         'title': 'Regulation of steroid production in ovarian stromal tissue '
+                  'from 5-to 8-week-old pullets and laying hens',
+         'url': 'https://rep.bioscientifica.com/view/journals/rep/100/1/jrf_100_1_029.xml'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '9663799659249564980',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NH0czpa2HIYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wu6k:AAGBfm0AAAAAXYLTo6nYcTtXkrQEcGflejeZyO-XS28i&scisig=AAGBfm0AAAAAXYLTo1qTvgUi-D21A_Z9HYNd9RjrORsJ&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… FIG. 2. Histology of livers and stomachs from '
+                     'inhibin-deficient mice. (A) Normal liver of a\n'
+                     '15-week-old inhibin-deficient male mouse gonadectomized '
+                     'at 7weeks … (Bar = 10 iAm.) (B) Liver\n'
+                     'from a 9-week-old inhibin-deficient male mouse with '
+                     'alarge testicular sex cord stromal tumor … \n',
+         'author': 'MM Matzuk and MJ Finegold and JP Mather…',
+         'eprint': 'https://www.pnas.org/content/pnas/91/19/8817.full.pdf',
+         'title': 'Development of cancer cachexia-like syndrome and adrenal '
+                  'tumors in inhibin-deficient mice',
+         'url': 'https://www.pnas.org/content/91/19/8817.short'},
+ 'citedby': 366,
+ 'id_scholarcitedby': '17321791135571382694',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:phE-VUNdY_AJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Ws6s:AAGBfm0AAAAAXYLTq6vZSJGRSVzh-CEmfC_KIHIGDt_5&scisig=AAGBfm0AAAAAXYLTq-0FlPyL2jZVf6UVdsS1p5lFZra2&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Examination of the limbs of mice lacking BMP2 confirm '
+                     'this prediction as 10-week-old Bmp2\n'
+                     'c/c ;Prx1::cre mice have a 70–80% incidence of '
+                     'spontaneous fracture that progresses to 100%\n'
+                     'incidence at 13 weeks of age, and by week 23, all of the '
+                     'forelimbs of the Bmp2 c/c ;Prx1 … \n',
+         'author': 'V Rosen',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S1359610109000938',
+         'title': 'BMP2 signaling in bone development and repair',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1359610109000938'},
+ 'citedby': 275,
+ 'id_scholarcitedby': '10157533314428689743',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:T923iLvO9owJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Ws6s:AAGBfm0AAAAAXYLTq6vZSJGRSVzh-CEmfC_KIHIGDt_5&scisig=AAGBfm0AAAAAXYLTqypg_ZgcLBIf3cNNBji_mNmE9-th&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… P = 0.04 vs. 6- to 16-week-old singly transgenic mice '
+                     'by Mann-Whitney test: **P < 0.001 vs.\n'
+                     '6-week-old doubly or 24- to 32-week-old singly '
+                     'transgenic mice by Mann–Whitney test. 97 … a,\n'
+                     'Two AB deposits in the cerebral cortex from a 29-week '
+                     'old doubly transgenic mouse … \n',
+         'author': 'L Holcomb and MN Gordon and E McGowan and X Yu…',
+         'eprint': '/scholar?output=instlink&q=info:QdDyAVHWrxwJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=4934368621064081017&oi=lle',
+         'title': 'Accelerated Alzheimer-type phenotype in transgenic mice '
+                  'carrying both mutant amyloid precursor protein and '
+                  'presenilin 1 transgenes',
+         'url': 'https://www.nature.com/articles/nm0198-097'},
+ 'citedby': 1414,
+ 'id_scholarcitedby': '2067106397399732289',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QdDyAVHWrxwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Ws6s:AAGBfm0AAAAAXYLTq6vZSJGRSVzh-CEmfC_KIHIGDt_5&scisig=AAGBfm0AAAAAXYLTq3oSEx7W03HDvpeVyGYUn7shaB9l&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… SDS-PAGE ofpepsin-solubilised left ventricular HG 2 '
+                     'SDS-PAGE ofpepsin-solubilised\n'
+                     'leftventricular collagen of: (I)l-week-old, '
+                     '(2)4-month-old, ( 3 ) … In the ventricle of young\n'
+                     '(4-week-old) rats the amount of aI (111) is considerably '
+                     'higher than in left ventricles from mature … \n',
+         'author': 'I MEDUGORAC and R JACOB',
+         'eprint': 'https://academic.oup.com/cardiovascres/article-pdf/17/1/15/870116/17-1-15.pdf',
+         'title': 'Characterisation of left ventricular collagen in the rat',
+         'url': 'https://academic.oup.com/cardiovascres/article-abstract/17/1/15/306590'},
+ 'citedby': 158,
+ 'id_scholarcitedby': '11706975706871397471',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:X3wyEmGId6IJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Ws6s:AAGBfm0AAAAAXYLTq6vZSJGRSVzh-CEmfC_KIHIGDt_5&scisig=AAGBfm0AAAAAXYLTqzc6G3u0vlzbw3HT5cw2SpbXqpyA&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Volunteer; Warning signs. Search. Advanced Search. '
+                     'Donate. Circulation logo. Hello Guest!\n'
+                     'MY ALERTS. SIGN IN; JOIN. Login to your account. Email. '
+                     'Password. Forgot password?\n'
+                     'Keep me logged in. Submit your article; AHA Logo. Search '
+                     '… \n',
+         'author': 'BI Levy and G Ambrosio and AR Pries and HAJ '
+                   'Struijker-Boudier',
+         'eprint': 'https://www.ahajournals.org/doi/full/10.1161/circ.104.6.735',
+         'title': 'Microcirculation in hypertension: a new target for '
+                  'treatment?',
+         'url': 'https://www.ahajournals.org/doi/abs/10.1161/circ.104.6.735'},
+ 'citedby': 676,
+ 'id_scholarcitedby': '12225420305384244484',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BIVGpP5qqakJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Ws6s:AAGBfm0AAAAAXYLTq6vZSJGRSVzh-CEmfC_KIHIGDt_5&scisig=AAGBfm0AAAAAXYLTq1tNlPnfvC9bBU-8t2dkREaoQdxp&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Similarly, leptin displays NMDA-enhancing properties '
+                     'as it rapidly facilitates both NMDA\n'
+                     'receptor-dependent synaptic currents in hippocampal '
+                     'slices from two-week-old to\n'
+                     'three-week-old rats and NMDA-induced Ca 2+ influx in '
+                     'hippocampal cultures via activation of … \n',
+         'author': 'J Harvey',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S1471489207001774',
+         'title': 'Leptin regulation of neuronal excitability and cognitive '
+                  'function',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1471489207001774'},
+ 'citedby': 171,
+ 'id_scholarcitedby': '10880696014563062937',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mTQKeWD__5YJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Ws6s:AAGBfm0AAAAAXYLTq6vZSJGRSVzh-CEmfC_KIHIGDt_5&scisig=AAGBfm0AAAAAXYLTq2-TVKNYZa3yMqOpBbE9JKOvLJk1&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 3.1. CIF expression during plant development. RNA blot '
+                     'analysis of NtCIF transcripts in different\n'
+                     'tissues of 15-week-old flowering tobacco plants revealed '
+                     'a particularly strong expression in the\n'
+                     'flower [33], high transcript amounts being detected in '
+                     'ovary, stamen and petals … \n',
+         'author': 'T Rausch and S Greiner',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S1570963903003352',
+         'title': 'Plant protein inhibitors of invertases',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1570963903003352'},
+ 'citedby': 169,
+ 'id_scholarcitedby': '792217942124565733',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5ZQGYQWG_goJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Ws6s:AAGBfm0AAAAAXYLTq6vZSJGRSVzh-CEmfC_KIHIGDt_5&scisig=AAGBfm0AAAAAXYLTqxtcu14F2Z7bGrl1M1_qJ3sTplvf&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content Skip to article … \n',
+         'author': 'RE Sobel and MD Sadar',
+         'title': 'Cell lines used in prostate cancer research: a compendium '
+                  'of old and new lines—part 2',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0022534705604685'},
+ 'citedby': 157,
+ 'id_scholarcitedby': '14803808786918144900',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hPsPY6ixcc0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Ws6s:AAGBfm0AAAAAXYLTq6vZSJGRSVzh-CEmfC_KIHIGDt_5&scisig=AAGBfm0AAAAAXYLTq-VuBSSukap8prZuAKaaHns1B-TZ&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'To study the effect of Tembusu virus (TMUV) infection on '
+                     'Cherry Valley Breeding ducks of different ages, 350 '
+                     'five-week-old ducks were divided into 14 groups. Ducks '
+                     'in seven experimental group were respectively infected '
+                     'with 1.265× 10 5 mean embryo lethal dose …',
+         'author': 'Y Lu and Y Dou and J Ti and A Wang and B Cheng and X '
+                   'Zhang…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0378113516301948',
+         'title': 'The effect of Tembusu virus infection in different week-old '
+                  'Cherry Valley breeding ducks',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0378113516301948'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '18226586734011927095',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:N8qg5BDY8fwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Ws6s:AAGBfm0AAAAAXYLTq6vZSJGRSVzh-CEmfC_KIHIGDt_5&scisig=AAGBfm0AAAAAXYLTqzuHFSP_SmD2-RfKqOIcSbbXXVTR&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This work was supported in part by the Swiss National '
+                     'Research Foundation grant\n'
+                     '32-510069.97 and the Italian Research Council project '
+                     '97000983.PF34.\n',
+         'author': 'F Cosentino and TF Lüscher',
+         'eprint': 'https://academic.oup.com/cardiovascres/article/43/2/274/331159',
+         'title': 'Tetrahydrobiopterin and endothelial nitric oxide synthase '
+                  'activity',
+         'url': 'https://academic.oup.com/cardiovascres/article-abstract/43/2/274/331159'},
+ 'citedby': 186,
+ 'id_scholarcitedby': '162615273457959679',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_8KDybq5QQIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Ws6s:AAGBfm0AAAAAXYLTq6vZSJGRSVzh-CEmfC_KIHIGDt_5&scisig=AAGBfm0AAAAAXYLTq53NSkc3Ip9vicWEDaTj-oERUAY0&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Human cells after four to five months of culture '
+                     '(passages 14–16) from about 50%\n'
+                     'confluent six-well plates were injected into the rear '
+                     'leg muscles of four-week-old\n'
+                     'male immunodeficient mice (two or more mice per cell '
+                     'line) … \n',
+         'author': 'CN Svendsen and AG Smith',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0166223699014289',
+         'title': 'New prospects for human stem-cell therapy in the nervous '
+                  'system',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0166223699014289'},
+ 'citedby': 317,
+ 'id_scholarcitedby': '14897221010892736493',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7Ue_npSPvc4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WrHc:AAGBfm0AAAAAXYLTtHdearuzomtiQd6WYrAN2cULFLR_&scisig=AAGBfm0AAAAAXYLTtNE5G4YPKQau-Hc7vwFSh-1-ggSB&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content Skip to article … \n',
+         'author': 'LKM Shoda and DL Young and S Ramanujan and CC Whiting…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S1074761305002402',
+         'title': 'A comprehensive review of interventions in the NOD mouse '
+                  'and implications for translation',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1074761305002402'},
+ 'citedby': 310,
+ 'id_scholarcitedby': '2538125830875606667',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:i26V4P47OSMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WrHc:AAGBfm0AAAAAXYLTtHdearuzomtiQd6WYrAN2cULFLR_&scisig=AAGBfm0AAAAAXYLTtKNAt6NHN8-L4amIcAP0mfmxuajw&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The first case was a 5-week-old foal that suffered a '
+                     'radial fracture, which was repaired with\n'
+                     'internal fixation … There is a failure to accumulate '
+                     'COMP in the digital flexor tendons and\n'
+                     'cartilage in the non-weight-bearing limb in the '
+                     '11-week-old animal … \n',
+         'author': 'RKW Smith and HL Birch and S Goodman and D Heinegård…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S1095643302001484',
+         'title': 'The influence of ageing and exercise on tendon growth and '
+                  'degeneration—hypotheses for the initiation and prevention '
+                  'of strain-induced tendinopathies',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1095643302001484'},
+ 'citedby': 162,
+ 'id_scholarcitedby': '2708260300683942110',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3hiP_WSslSUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WrHc:AAGBfm0AAAAAXYLTtHdearuzomtiQd6WYrAN2cULFLR_&scisig=AAGBfm0AAAAAXYLTtAwHJivnJln0i9zcGWpX2kapcU5I&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Administration of both streptozotocin (STZ) and '
+                     'nicotinamide (NA) has been proposed to induce\n'
+                     'experimental diabetes in the rat. STZ is well known to '
+                     'cause pancr...\n',
+         'author': 'T Szkudelski',
+         'eprint': 'https://www.researchgate.net/profile/Fahimeh_Kazemi/post/Streptozotocin-Nicotinamide-Induced_Diabetic_Model_in_Rats-What_is_the_proper_dose_for_NA/attachment/59d648ed79197b80779a38e1/AS%3A468971053948928%401488822820613/download/Streptozotocin+nicotinamideinduced+diabetes+in+the+rat.pdf',
+         'title': 'Streptozotocin–nicotinamide-induced diabetes in the rat. '
+                  'Characteristics of the experimental model',
+         'url': 'https://journals.sagepub.com/doi/abs/10.1258/ebm.2012.011372'},
+ 'citedby': 213,
+ 'id_scholarcitedby': '8143040529521032536',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WL21yTfkAXEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WrHc:AAGBfm0AAAAAXYLTtHdearuzomtiQd6WYrAN2cULFLR_&scisig=AAGBfm0AAAAAXYLTtGQqpbpqIKmQV1nxkoEL0Z-NjGMm&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Deletion of these two Ecp genes from the genome of C. '
+                     'fulvum did not result in a\n'
+                     'reduction of disease symptoms when assayed on axenically '
+                     'grown, susceptible\n'
+                     'two-week-old tomato seedlings (65, 73). However, when '
+                     'six-week … \n',
+         'author': 'MHAJ Joosten and PJGM De Wit',
+         'eprint': 'https://www.annualreviews.org/doi/full/10.1146/annurev.phyto.37.1.335',
+         'title': 'THE TOMATO–CLADOSPORIUM FULVUM INTERACTION: A Versatile '
+                  'Experimental System to Study Plant-Pathogen Interactions',
+         'url': 'https://www.annualreviews.org/doi/abs/10.1146/annurev.phyto.37.1.335'},
+ 'citedby': 255,
+ 'id_scholarcitedby': '13677815420138532626',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Eq-3DKhc0b0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WrHc:AAGBfm0AAAAAXYLTtHdearuzomtiQd6WYrAN2cULFLR_&scisig=AAGBfm0AAAAAXYLTtBhSHEBQKIlmX2ImYSsjkIqjHH3K&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… leukocytes is lower [28]. The cellular components of '
+                     'innate immunity are also affected:\n'
+                     'the number of neutrophils circulating in the newborn '
+                     'calf is approximately four times\n'
+                     'higher than in 3-week-old calves. Neonatal neutrophils '
+                     'and … \n',
+         'author': 'CCL Chase and DJ Hurley and AJ Reber',
+         'title': 'Neonatal immune development in the calf and its impact on '
+                  'vaccine response',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0749072007000771'},
+ 'citedby': 208,
+ 'id_scholarcitedby': '14293008861024806656',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AOfk3NT3WsYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WrHc:AAGBfm0AAAAAXYLTtHdearuzomtiQd6WYrAN2cULFLR_&scisig=AAGBfm0AAAAAXYLTtAF_Ss0ySlS-JdA4f5tu_BSCh52w&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1994). Briefly, brain cortices from 14–18-week-old '
+                     'abortuses were treated with 0.25%\n'
+                     'trypsin for 30 min. After … evaluated. 1.2. Astrocyte '
+                     'cultures. Human fetal brain tissues\n'
+                     'were obtained from 16–22-week-old aborted fetuses. '
+                     'Primary … \n',
+         'author': 'S Hu and PK Peterson and CC Chao',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0197018696000782',
+         'title': 'Cytokine-mediated neuronal apoptosis',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0197018696000782'},
+ 'citedby': 173,
+ 'id_scholarcitedby': '16158565085419677449',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CSd4XFXBPuAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WrHc:AAGBfm0AAAAAXYLTtHdearuzomtiQd6WYrAN2cULFLR_&scisig=AAGBfm0AAAAAXYLTtGvANSclo-38egQXMqRoFKQey01g&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Mature plants and older leaves have a higher silicon '
+                     'content than do younger plants and leaves,\n'
+                     'as shown for rice plants (22, 47, 58) and for horsetails '
+                     '(6) . Substan tial portions of the leaf blade\n'
+                     'were silicified in 6-week-old oat plants (25), but this '
+                     'deposition did not prevent the … \n',
+         'author': 'J Lewin and BEF Reimann',
+         'eprint': 'https://www.annualreviews.org/doi/pdf/10.1146/annurev.pp.20.060169.001445',
+         'title': 'Silicon and plant growth',
+         'url': 'https://www.annualreviews.org/doi/pdf/10.1146/annurev.pp.20.060169.001445'},
+ 'citedby': 385,
+ 'id_scholarcitedby': '13218269202362063942',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RtxGYM65cLcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WrHc:AAGBfm0AAAAAXYLTtHdearuzomtiQd6WYrAN2cULFLR_&scisig=AAGBfm0AAAAAXYLTtCGcnjebAiXpJ52l-ncV7ex99na2&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Lane 3, 4, and 5: 4-week-old healthy BALB/c and '
+                     'lupus-prone MRL/lpr and (NZB × NZW)F 1\n'
+                     'treated with 1 mg dexamethasone/kg body weight for eight '
+                     'hours … 4. Apoptosis detection on frozen,\n'
+                     'paraformaldehyde-fixed skin sections of a two-week-old '
+                     'C57Bl/6 +pa/+pa mouse … \n',
+         'author': 'R Sgonc and J Gruber',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S053155659800031X',
+         'title': 'Apoptosis detection: an overview',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S053155659800031X'},
+ 'citedby': 199,
+ 'id_scholarcitedby': '2095456856089263113',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CXxbjeiOFB0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WrHc:AAGBfm0AAAAAXYLTtHdearuzomtiQd6WYrAN2cULFLR_&scisig=AAGBfm0AAAAAXYLTtGcz_szXwxzX9WfrBNsGKAkIIsib&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 52 In 5-week-old female NOD mice treated with CD20 '
+                     'mAbs for a short amount of time,\n'
+                     'approximately 95% of B cells were depleted, which '
+                     'subsequently led to reduced insulitis.\n'
+                     'Moreover, diabetes was prevented in more than 60% of the '
+                     'littermates … \n',
+         'author': 'M Yang and K Rui and S Wang and L Lu',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4003045/',
+         'title': 'Regulatory B cells in autoimmune diseases',
+         'url': 'https://www.nature.com/articles/cmi201260'},
+ 'citedby': 160,
+ 'id_scholarcitedby': '10402486679556108813',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DbKsM4UOXZAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WrHc:AAGBfm0AAAAAXYLTtHdearuzomtiQd6WYrAN2cULFLR_&scisig=AAGBfm0AAAAAXYLTtAtbJCX9AHAa5NIZfJn7XlrfPUh0&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Hyperlipaemia is a disorder of lipid metabolism in '
+                     'horses associated with negative energy balance. The '
+                     'syndrome is characterised by marked lipolysis, lipaemia, '
+                     'hypertriglyceridaemia and accumulation of lipid in body '
+                     'tissues leading to organ failure. 1 …',
+         'author': 'KJ Hughes and DR Hodgson…',
+         'eprint': '/scholar?output=instlink&q=info:jOHJqI62Q-gJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=15479970924238394088&oi=lle',
+         'title': 'Hyperlipaemia in a 7‐week‐old miniature pony foal',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-0813.2002.tb14786.x'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '16736421364072309132',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jOHJqI62Q-gJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WpSs:AAGBfm0AAAAAXYLTvSsVgKz47zKUgz9ifTEMXVaoREUG&scisig=AAGBfm0AAAAAXYLTvQRNBLaJowZ0JgctdPPexTGtis4F&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Damiano and L Galvan and N Déglon and E Brouillet',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0925443909001653',
+         'title': "Mitochondria in Huntington's disease",
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0925443909001653'},
+ 'citedby': 232,
+ 'id_scholarcitedby': '4140276389381126308',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pLj_pHA3dTkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WpSs:AAGBfm0AAAAAXYLTvSsVgKz47zKUgz9ifTEMXVaoREUG&scisig=AAGBfm0AAAAAXYLTvaJAbqMJRAS5ARJ9QE_--334ePC_&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Peters et al. demonstrated that 10-to-15-week-old '
+                     'inbred rats from US breeders exhibited three\n'
+                     'different responses to subcutaneous (sc) RVFV '
+                     'inoculation [63,64] … The gerbil has proven\n'
+                     'moderately susceptible to RVFV, and the survival rate of '
+                     '10-week-old gerbils after sc … \n',
+         'author': 'T Ikegami and S Makino',
+         'eprint': 'https://www.mdpi.com/1999-4915/3/5/493/pdf',
+         'title': 'The pathogenesis of Rift Valley fever',
+         'url': 'https://www.mdpi.com/1999-4915/3/5/493'},
+ 'citedby': 204,
+ 'id_scholarcitedby': '12865041257966191549',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vcPRudzOibIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WpSs:AAGBfm0AAAAAXYLTvSsVgKz47zKUgz9ifTEMXVaoREUG&scisig=AAGBfm0AAAAAXYLTvRvNo7ao5uYnuuN1PGIjM3mhpoDV&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'We describe a rare case of non-antibiotic associated '
+                     'severe C. difficile diarrhea in a 7-weekold boy. He had '
+                     'massive fluid loss and electrolyte imbalance. He '
+                     'required total parentral nutrition for 10 days and '
+                     'eventually recovered with oral metronidazole. Most of '
+                     'the …',
+         'author': "A Kader and B O'Hare and MK Valappil",
+         'eprint': 'https://www.indianpediatrics.net/oct2004/1045.pdf',
+         'title': 'Non-antibiotic Associated C. difficile Diarrhea in a '
+                  '7-week-old Infant',
+         'url': 'https://www.indianpediatrics.net/oct2004/1045.pdf'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '10736604533038654744',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GCWeFfAUAJUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WpSs:AAGBfm0AAAAAXYLTvSsVgKz47zKUgz9ifTEMXVaoREUG&scisig=AAGBfm0AAAAAXYLTvbTvoSJydRJHYvgT0qtCaS4eSlEY&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… (C) In contrast, l-AP4 strongly reduces the release '
+                     'elicited by 30 mm KCl in nerve\n'
+                     'terminals from 3-week-old rats suggesting direct '
+                     'inhibition of the release-coupled Ca\n'
+                     '2+ channel. (See Refs 4, 5, 17.). Download full-size '
+                     'image. Fig … \n',
+         'author': 'J Sanchez-Prieto and DC Budd and I Herrero and E Vázquez…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/016622369610031X',
+         'title': 'Presynaptic receptors and the control of glutamate '
+                  'exocytosis',
+         'url': 'https://www.sciencedirect.com/science/article/pii/016622369610031X'},
+ 'citedby': 152,
+ 'id_scholarcitedby': '17749118065771055957',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VYvAiteIUfYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WpSs:AAGBfm0AAAAAXYLTvSsVgKz47zKUgz9ifTEMXVaoREUG&scisig=AAGBfm0AAAAAXYLTve1JiX37xZPgLwRqXKWyeXHz6wli&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In recent years, the investigation of social '
+                     'transactional factors in early language and '
+                     'prelinguistic development have played an important role '
+                     'in reshaping concepts of communication and its '
+                     'ontogenesis. The present study reports findings '
+                     'concerning young …',
+         'author': 'TM Horner and L Chetnik',
+         'eprint': 'https://deepblue.lib.umich.edu/bitstream/handle/2027.42/26210/0000290.pdf?sequence=1&isAllowed=y',
+         'title': 'Conversation attentiveness and following in 12-and '
+                  '18-week-old infants',
+         'url': 'https://deepblue.lib.umich.edu/handle/2027.42/26210'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '1407447199675566640',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MMrHaMVBiBMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WpSs:AAGBfm0AAAAAXYLTvSsVgKz47zKUgz9ifTEMXVaoREUG&scisig=AAGBfm0AAAAAXYLTvdKknarmDjaoyBZs0eSE6iJU5Wip&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Nagaraj et al. 2002). Our previous study detected '
+                     'plasma MG levels at 33.6\n'
+                     'µmol/L in 20-week-old spontaneously hypertensive rats '
+                     '(SHR) and 14.2 µmol/L in\n'
+                     'age-matched Wistar–Kyoto (WKY) rats (Wang et al. 2004). '
+                     'An even … \n',
+         'author': 'T Chang and L Wu',
+         'eprint': 'http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00084212&AN=26232319&h=EnocjYnT0rpGDpwWHOwLI1%2Bax26aV0Iu9RJtlSZKe697ZBc8GhzISlmCIlwZlyBNa%2Fn2CRIC9efmqDgweBpxqA%3D%3D&crl=f',
+         'title': 'Methylglyoxal, oxidative stress, and hypertension',
+         'url': 'https://www.nrcresearchpress.com/doi/abs/10.1139/Y06-077'},
+ 'citedby': 148,
+ 'id_scholarcitedby': '604540022550350872',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GMyekPLBYwgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WpSs:AAGBfm0AAAAAXYLTvSsVgKz47zKUgz9ifTEMXVaoREUG&scisig=AAGBfm0AAAAAXYLTvRa79vaoutxJD6GoD_XhBsdkDUdb&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1. Basic features of POMC-Cre transgenic mice. (A) '
+                     'Image (1× magnification) of\n'
+                     'β-galactosidase (β-Gal) expression in a 12-week-old '
+                     'POMC-Cre/ROSA26\n'
+                     'double-transgenic mouse stained with X-Gal and nuclear '
+                     'fast red. (B … \n',
+         'author': 'TJ McHugh and MW Jones and JJ Quinn and N Balthasar…',
+         'eprint': 'https://science.sciencemag.org/content/sci/317/5834/94.full.pdf',
+         'title': 'Dentate gyrus NMDA receptors mediate rapid pattern '
+                  'separation in the hippocampal network',
+         'url': 'https://science.sciencemag.org/content/317/5834/94.short'},
+ 'citedby': 791,
+ 'id_scholarcitedby': '15642061801793302721',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wbCYYlXEE9kJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WpSs:AAGBfm0AAAAAXYLTvSsVgKz47zKUgz9ifTEMXVaoREUG&scisig=AAGBfm0AAAAAXYLTve2Cud462Z8mbtwfeugrbVW6ZUAc&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… female germ cells. Twelve-week-old wild-type and '
+                     'SCP3-deficient females were mated\n'
+                     'with wild-type males. In contrast … in utero. Older '
+                     '(24-week-old) SCP3-deficient females\n'
+                     'showed a further reduction in offspring number (Fig. '
+                     '1A). To … \n',
+         'author': 'L Yuan and JG Liu and MR Hoja and J Wilbertz and K '
+                   'Nordqvist…',
+         'eprint': 'https://science.sciencemag.org/content/sci/296/5570/1115.full.pdf',
+         'title': 'Female germ cell aneuploidy and embryo death in mice '
+                  'lacking the meiosis-specific protein SCP3',
+         'url': 'https://science.sciencemag.org/content/296/5570/1115.short'},
+ 'citedby': 332,
+ 'id_scholarcitedby': '335542675825587398',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xnSRL0kWqAQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WpSs:AAGBfm0AAAAAXYLTvSsVgKz47zKUgz9ifTEMXVaoREUG&scisig=AAGBfm0AAAAAXYLTvVpsRCEj4sxVOanxoCez8odfdql6&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'BRAUN, U. & GERBER, D.(1992) Percutaneous '
+                     'ultrasound-guided cholecys-tocentesis in cows. American '
+                     'Journal of Veterinary Research 53, 1079-1084 BRAUN, U. & '
+                     'GERBER, D.(1994) Influence of age, breed, and stage of '
+                     'pregnancy on hepatic ultrasonographic …',
+         'author': 'DWT Piercy and PC Griffiths and CJ Teale',
+         'eprint': 'http://search.proquest.com/openview/33e796f00b5e8150830269178a58b9f4/1.pdf?pq-origsite=gscholar&cbl=2041027',
+         'title': 'Encephalitis related to Chiamydia psittaci infection in a '
+                  '14-weekold calf',
+         'url': 'https://veterinaryrecord.bmj.com/content/144/5/126.short'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '13931111990566598201',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OTbok4tAVcEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WpSs:AAGBfm0AAAAAXYLTvSsVgKz47zKUgz9ifTEMXVaoREUG&scisig=AAGBfm0AAAAAXYLTvSAxNxHhZcJY-XIcetdrIiOl7Vru&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content Skip to article Elsevier logo: '
+                     'Journals & Books. Create\n'
+                     'accountSign in. Sign inCreate account. Journals & Books. '
+                     'Help.\n',
+         'author': 'FF Chu and RS Esworthy and JH Doroshow',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0891584904003132',
+         'title': 'Role of Se-dependent glutathione peroxidases in '
+                  'gastrointestinal inflammation and cancer',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0891584904003132'},
+ 'citedby': 181,
+ 'id_scholarcitedby': '2146080540944702302',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:XhtjruFoyB0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W0Cs:AAGBfm0AAAAAXYLTyCvfml5KEv3wTvSJPNpxRHpKlwUI&scisig=AAGBfm0AAAAAXYLTyIPipkdcMIoZjxxNP4vm2kR88QtH&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Reaction of CBA Thymus–-Own and C57 Spleen Background '
+                     'Background Calculated background\n'
+                     'MLR Test cells Target cells 5 x 10º test cells 5 x 10° '
+                     'target 2.5 x 10° test cells (mitomycin-treated)\n'
+                     '(dpm) cells (dpm) --2.5 x 10° target cells (dpm) '
+                     '10-week-old CBA thymus Own … \n',
+         'author': 'HC Wang and S Fedoroff',
+         'eprint': '/scholar?output=instlink&q=info:nNTOaWZcr_4J:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=16759586371716699968&oi=lle',
+         'title': 'Banding in human chromosomes treated with trypsin',
+         'url': 'https://link.springer.com/content/pdf/10.1038/newbio235052a0.pdf'},
+ 'citedby': 631,
+ 'id_scholarcitedby': '18351988601489642652',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nNTOaWZcr_4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W0Cs:AAGBfm0AAAAAXYLTyCvfml5KEv3wTvSJPNpxRHpKlwUI&scisig=AAGBfm0AAAAAXYLTyMAO9Ud6QZMYpvbDtv5giDxkgZk1&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… following muscle injury [7]. Download full-size image. '
+                     'Fig. 1. Immunohistochemistry\n'
+                     'of cross-sectioned, 4-week-old mdx mouse quadriceps '
+                     'muscle. (A) Section\n'
+                     'immunolabeled for CD4+ helper T-cells. Although most '
+                     'CD4+ cells … \n',
+         'author': 'MJ Spencer and JG Tidball',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0960896601001985',
+         'title': 'Do immune cells promote the pathology of '
+                  'dystrophin-deficient myopathies?',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0960896601001985'},
+ 'citedby': 197,
+ 'id_scholarcitedby': '16282002754231893130',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:inzsPT1L9eEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W0Cs:AAGBfm0AAAAAXYLTyCvfml5KEv3wTvSJPNpxRHpKlwUI&scisig=AAGBfm0AAAAAXYLTyLUaREM-ZuBwUKcJQm58UD-hPY1c&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1d). Histological analysis of colon sections from '
+                     '10-week-old FADD IEC-KO mice\n'
+                     'revealed severe transmural inflammation affecting the '
+                     'entire colon with large areas\n'
+                     'of epithelial erosion accompanied by crypt abscesses '
+                     '(Fig … \n',
+         'author': 'PS Welz and A Wullaert and K Vlantis and V Kondylis…',
+         'eprint': 'http://www.academia.edu/download/39682496/FADD_prevents_RIP3-mediated_epithelial_c20151104-8546-f81bxc.pdf',
+         'title': 'FADD prevents RIP3-mediated epithelial cell necrosis and '
+                  'chronic intestinal inflammation',
+         'url': 'https://www.nature.com/articles/nature10273'},
+ 'citedby': 423,
+ 'id_scholarcitedby': '14994762079445728376',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:eDzcZKoYGNAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W0Cs:AAGBfm0AAAAAXYLTyCvfml5KEv3wTvSJPNpxRHpKlwUI&scisig=AAGBfm0AAAAAXYLTyGhmDsB9BOvUxi0m01Dmld6wfciK&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JM Bidlack',
+         'eprint': 'https://cvi.asm.org/content/cdli/7/5/719.full.pdf',
+         'title': 'Detection and function of opioid receptors on cells from '
+                  'the immune system',
+         'url': 'https://cvi.asm.org/content/7/5/719.short'},
+ 'citedby': 172,
+ 'id_scholarcitedby': '5406860426089035967',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:v3gnJ-kGCUsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W0Cs:AAGBfm0AAAAAXYLTyCvfml5KEv3wTvSJPNpxRHpKlwUI&scisig=AAGBfm0AAAAAXYLTyHT4Kp4sqJ9KzWbGw2NZkE8-1CKL&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… At 5 mg/kg the drug was 92 and 98 per cent efficient '
+                     'against flukes aged four and eight\n'
+                     'weeks respectively and 100 per cent against 12-week-old '
+                     'flukes … At this dose rate the\n'
+                     'drug had 100 per cent efficiency against six-week-old '
+                     'flukes … \n',
+         'author': 'JC Boray and PD Crowfoot and MB Strong and JR Allison…',
+         'title': 'Treatment of immature and mature Fasciola hepatica '
+                  'infections in sheep with triclabendazole.',
+         'url': 'https://europepmc.org/abstract/med/6649348'},
+ 'citedby': 263,
+ 'id_scholarcitedby': '10055850954370589006',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TiGIMSqPjYsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W0Cs:AAGBfm0AAAAAXYLTyCvfml5KEv3wTvSJPNpxRHpKlwUI&scisig=AAGBfm0AAAAAXYLTyMGe7dHabmzDguizLqgEWl4sPn-M&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Using a replica-plating method and differential culture '
+                     'media, members of the Enterobacteriaceae and '
+                     'Pseudomonaceae were determined quantitatively in the '
+                     'colon and cecum content of pigs from different litters, '
+                     'born on the same farm and kept under the same …',
+         'author': 'M Elazhary and A Tremblay and A Lagacé…',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1319794/pdf/compmed00052-0049.pdf',
+         'title': 'A preliminary study on the intestinal flora of cecum and '
+                  'colon of eight, ten and 12 week old swine',
+         'url': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1319794/'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '11930102281345262326',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9mKpBdE8kKUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W0Cs:AAGBfm0AAAAAXYLTyCvfml5KEv3wTvSJPNpxRHpKlwUI&scisig=AAGBfm0AAAAAXYLTyJ1ORH2bG9qLABqOfYwaCKIwXKjt&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… a, Two-week-old GOF9::GUS seedling in long days. b, '
+                     'Three-week-old GOF9::GUS seedling\n'
+                     'in short days. c, Two-week-old GOF9m::GUS seedling in '
+                     'long days. d, Three-week-old\n'
+                     'GOF9m::GUS seedling in short days. e, Two-week-old co-1 '
+                     'GOF9m::GUS seedling in long days … \n',
+         'author': 'MA Blazquez and D Weigel',
+         'eprint': 'http://www.academia.edu/download/30605657/blazquez-nature-2000.pdf',
+         'title': 'Integration of floral inductive signals in Arabidopsis',
+         'url': 'https://www.nature.com/articles/35009125'},
+ 'citedby': 539,
+ 'id_scholarcitedby': '1748884233394892244',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1K3IvPFIRRgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W0Cs:AAGBfm0AAAAAXYLTyCvfml5KEv3wTvSJPNpxRHpKlwUI&scisig=AAGBfm0AAAAAXYLTyHFJX1wK-4jlK8q4ATgcQxxyz1cv&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Fig. 2a). Histology of arteries in mgp"/mgp" mice of '
+                     'up to 1 week old showed no\n'
+                     'differences compared with wild-type mice (data not '
+                     'shown). In contrast, in\n'
+                     '2-week-old (data not shown) and 3-week- old mgp"/mgp" '
+                     'mice (Fig. 2b … \n',
+         'author': 'G Luo and P Ducy and MD McKee and GJ Pinero and E Loyer…',
+         'eprint': '/scholar?output=instlink&q=info:fu2JMKDnLrUJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=13539301904128829843&oi=lle',
+         'title': 'Spontaneous calcification of arteries and cartilage in mice '
+                  'lacking matrix GLA protein',
+         'url': 'https://www.nature.com/articles/386078a0'},
+ 'citedby': 2054,
+ 'id_scholarcitedby': '13055627044988775806',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fu2JMKDnLrUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W0Cs:AAGBfm0AAAAAXYLTyCvfml5KEv3wTvSJPNpxRHpKlwUI&scisig=AAGBfm0AAAAAXYLTyI4GPXYUngVy-MBbLhH9MoHFPz54&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content Skip to article … \n',
+         'author': 'K Liu and S Rajareddy and L Liu and K Jagarlamudi and K '
+                   'Boman…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0012160606010505',
+         'title': 'Control of mammalian oocyte growth and early follicular '
+                  'development by the oocyte PI3 kinase pathway: new roles for '
+                  'an old timer',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0012160606010505'},
+ 'citedby': 172,
+ 'id_scholarcitedby': '12879259471741757219',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:I6dAl0BSvLIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W0Cs:AAGBfm0AAAAAXYLTyCvfml5KEv3wTvSJPNpxRHpKlwUI&scisig=AAGBfm0AAAAAXYLTyAsz0rLM_4A2HCij435bAdJOv1JR&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The central part of this plate deepens to form a arid- '
+                     'axially oriented nettral groove. In the two\n'
+                     'and one-half week old httman enlbl-yo the lateral parts '
+                     "of the neural plate proliferate … A, Earl)'\n"
+                     'neurulation in two and one-half week old human em- bryo '
+                     '(cross section) … \n',
+         'author': 'RP Bolande',
+         'eprint': '/scholar?output=instlink&q=info:nqh9CGfur9YJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=6326783923789945486&oi=lle',
+         'title': 'The neurocristopathies: a unifying concept of disease '
+                  'arising in neural crest maldevelopment',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0046817774800213'},
+ 'citedby': 704,
+ 'id_scholarcitedby': '15469845371332438174',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nqh9CGfur9YJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W1s0:AAGBfm0AAAAAXYLTzs0NoClnYrNlsk3id_1D5xY0OoWm&scisig=AAGBfm0AAAAAXYLTzh8CT_VrkyRKA5p4AAj_UA3B6VcM&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 3. Results. Treatment of 4-week-old ob/ob male mice '
+                     'with peripherally administered leptin for\n'
+                     '3 weeks increased femur length by 5.4% in ob/ob mice as '
+                     'compared to vehicle treated controls\n'
+                     '(Fig … Fig. 1. Effects of leptin on femur length of '
+                     '4-week-old lean and ob/ob male mice … \n',
+         'author': 'CM Steppan and DT Crawford and KL Chidsey-Frink and HZ Ke…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S016701150000152X',
+         'title': 'Leptin is a potent stimulator of bone growth in ob/ob mice',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S016701150000152X'},
+ 'citedby': 561,
+ 'id_scholarcitedby': '14832122991215185179',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Gw1JzEZJ1s0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W1s0:AAGBfm0AAAAAXYLTzs0NoClnYrNlsk3id_1D5xY0OoWm&scisig=AAGBfm0AAAAAXYLTzgXtO86i__rVBi-iErgwobwuzQps&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Spleen and lymph node (LN) sections from 10-week-old '
+                     'MFG-E8 +/+ (WT) or MFG-E8 –/–\n'
+                     '(KO) mice were stained with antibodies against CD68 '
+                     '(green) and MFG-E8 (red) antibodies,\n'
+                     'and their staining profiles were merged in the third '
+                     'column … \n',
+         'author': 'R Hanayama and M Tanaka and K Miyasaka and K Aozasa…',
+         'eprint': 'https://science.sciencemag.org/content/sci/304/5674/1147.full.pdf',
+         'title': 'Autoimmune disease and impaired uptake of apoptotic cells '
+                  'in MFG-E8-deficient mice',
+         'url': 'https://science.sciencemag.org/content/304/5674/1147.short'},
+ 'citedby': 856,
+ 'id_scholarcitedby': '11309627862455770564',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xF2Js57e85wJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W1s0:AAGBfm0AAAAAXYLTzs0NoClnYrNlsk3id_1D5xY0OoWm&scisig=AAGBfm0AAAAAXYLTzjWbPh-laWHm5DYLcPQLuu3p9CjT&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… For newborns, only three-week-old animals were used '
+                     'for RNA extraction, and due\n'
+                     'to low blood volume, samples from three rats were '
+                     'gathered … c Mann–Whitney\n'
+                     'post-hoc analysis, with respect to one-week-old group: '
+                     'P<0.05. d … \n',
+         'author': 'F Karege and M Schwald and M Cisse',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0304394002005293',
+         'title': 'Postnatal developmental profile of brain-derived '
+                  'neurotrophic factor in rat brain and platelets',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0304394002005293'},
+ 'citedby': 831,
+ 'id_scholarcitedby': '15917233313445389865',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KSbtjl1f5dwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W1s0:AAGBfm0AAAAAXYLTzs0NoClnYrNlsk3id_1D5xY0OoWm&scisig=AAGBfm0AAAAAXYLTztGmSiFPejE0qwGGTfVmVCu5u084&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Retinas of 3- and 4-week- old experimental animals '
+                     'were apparently unaffected by light exposure …\n'
+                     'Results Retinal histology. The structure of retinas of '
+                     '3- to 5-week-old rats kept in high- intensity\n'
+                     'illuminance at 39° C. was similar to that of rats '
+                     "exposed to low-intensity Page 3. IT' … \n",
+         'author': "WK O'STEEN and KV Anderson…",
+         'eprint': 'https://iovs.arvojournals.org/arvo/content_public/journal/iovs/933601/334.pdf',
+         'title': 'Photoreceptor degeneration in albino rats: dependency on '
+                  'age',
+         'url': 'https://iovs.arvojournals.org/arvo/content_public/journal/iovs/933601/334.pdf'},
+ 'citedby': 152,
+ 'id_scholarcitedby': '8819832462197857545',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CR3DF-VWZnoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W1s0:AAGBfm0AAAAAXYLTzs0NoClnYrNlsk3id_1D5xY0OoWm&scisig=AAGBfm0AAAAAXYLTzrUeW4HZuEukmCCUPFTGZOfSpSbg&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… not understood. We studied biopsy and autopsy material '
+                     'from two pa- tients, a\n'
+                     '7-week-old boy and a 6-week- old girl, with the facial '
+                     'appearance and clinical signs\n'
+                     'that characterize this disorder. Correlated '
+                     'morphological, bio … \n',
+         'author': 'S Goldfischer and CL Moore and AB Johnson and AJ Spiro…',
+         'eprint': 'https://science.sciencemag.org/content/sci/182/4107/62.full.pdf',
+         'title': 'Peroxisomal and mitochondrial defects in the '
+                  'cerebro-hepato-renal syndrome',
+         'url': 'https://science.sciencemag.org/content/182/4107/62.short'},
+ 'citedby': 826,
+ 'id_scholarcitedby': '1308168782182476392',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:aOo9kJOMJxIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W1s0:AAGBfm0AAAAAXYLTzs0NoClnYrNlsk3id_1D5xY0OoWm&scisig=AAGBfm0AAAAAXYLTzglW0egeCBMzuehNfApteVAUplwe&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Thirty-week-old rats were used. Page 5. TBA TEST FOR '
+                     'TISSUE HOMOGENATE … FIG. 4. Effect\n'
+                     'of pH and acidifying agent on the TBA reaction ofliver '
+                     'homogenate prepared from a\n'
+                     'lo-week-old rat. Constituents other than acidifying '
+                     'agent were the same as in the standard method … \n',
+         'author': 'M Uchiyama and M Mihara',
+         'eprint': 'https://www.researchgate.net/file.PostFileLoader.html?id=58c6bbdc96b7e4778539dd1d&assetKey=AS%3A471472570408962%401489419228759',
+         'title': 'Determination of malonaldehyde precursor in tissues by '
+                  'thiobarbituric acid test',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0003269778903421'},
+ 'citedby': 4431,
+ 'id_scholarcitedby': '4802478199376821752',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-L1pS3rUpUIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W1s0:AAGBfm0AAAAAXYLTzs0NoClnYrNlsk3id_1D5xY0OoWm&scisig=AAGBfm0AAAAAXYLTzsRIHRg7EGvosxcWAMsUK719C4n3&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Relative to 4-week-old mice, gene expression was 30% '
+                     'in 6-week-old mice and 14% in\n'
+                     'lo-week-old mice … the common use of older mice might '
+                     'reduce immune responses. To test this,\n'
+                     '4-, 6-, and lo-week-old mice were inoculated at a single '
+                     'time with CMV-AAT … \n',
+         'author': 'MA Barry and SA Johnston',
+         'eprint': '/scholar?output=instlink&q=info:2zd4bQaYQroJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=18237242098269036801&oi=lle',
+         'title': 'Biological features of genetic immunization',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0264410X96002654'},
+ 'citedby': 272,
+ 'id_scholarcitedby': '13421456992891320283',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2zd4bQaYQroJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W1s0:AAGBfm0AAAAAXYLTzs0NoClnYrNlsk3id_1D5xY0OoWm&scisig=AAGBfm0AAAAAXYLTzniK5ftm9SnktdLdqblXLNDcomUl&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Macroscopic and histological examination of 6-week-old '
+                     'NEMO IEC-KO mice did\n'
+                     'not reveal any pathological findings in the small '
+                     'intestine, whereas the colon was\n'
+                     'heavily inflamed (Supplementary Fig. 1 and data not '
+                     'shown) … \n',
+         'author': 'A Nenci and C Becker and A Wullaert and R Gareus and G Van '
+                   'Loo…',
+         'eprint': 'https://deepblue.lib.umich.edu/bitstream/handle/2027.42/62858/nature05698.pdf?sequence=1&isAllowed=y',
+         'title': 'Epithelial NEMO links innate immunity to chronic intestinal '
+                  'inflammation',
+         'url': 'https://www.nature.com/articles/nature05698'},
+ 'citedby': 921,
+ 'id_scholarcitedby': '12247064442598831790',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rrZrCjlQ9qkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W1s0:AAGBfm0AAAAAXYLTzs0NoClnYrNlsk3id_1D5xY0OoWm&scisig=AAGBfm0AAAAAXYLTzuBB1zNKrUXwrELDNUPPgMj6Z_lH&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The total peroxidase activity in calli from a '
+                     '5-week-old stock subcultured for periods of\n'
+                     '5 to 15 weeks was notably higher in the embryogenic line '
+                     'than in the non-embryogenic\n'
+                     'one (Table 1). The difference in activity of the lines '
+                     'was greatest … \n',
+         'author': 'J Kochba and S Lavee and P Spiegel-Roy',
+         'eprint': 'https://academic.oup.com/pcp/article-pdf/18/2/463/5468119/18-2-463.pdf',
+         'title': 'Differences in peroxidase activity and isoenzymes in '
+                  "embryogenic ane non-embryogenic 'Shamouti'orange ovular "
+                  'callus lines',
+         'url': 'https://academic.oup.com/pcp/article-abstract/18/2/463/1941414'},
+ 'citedby': 395,
+ 'id_scholarcitedby': '2994522027437647688',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SOeAFeutjikJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W1s0:AAGBfm0AAAAAXYLTzs0NoClnYrNlsk3id_1D5xY0OoWm&scisig=AAGBfm0AAAAAXYLTzqhbg_GzRS4LEgtRzoEiXy9cwCUr&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Treat- Ini- Cumulative ment tial food intake Change in '
+                     'and OB weight (grams per weight (g) dose\n'
+                     '(g) three mice) 14-week-old ob/ob mice Sa 50 1 44.3 ± '
+                     '1.9 -0.9 + 0.2 Vh 49 ±2 49.5+ 10.2 -0.7\n'
+                     "0.4 OB 48 + 1 25.5 ±+ 1.2' -3.3 + 0.7* 6 ig 10-week-old "
+                     'ob/ob mice Vh 44 2 42.7 ± 4.4 … \n',
+         'author': 'LA Campfield and FJ Smith and Y Guisez and R Devos…',
+         'eprint': 'https://science.sciencemag.org/content/sci/269/5223/546.full.pdf',
+         'title': 'Recombinant mouse OB protein: evidence for a peripheral '
+                  'signal linking adiposity and central neural networks',
+         'url': 'https://science.sciencemag.org/content/269/5223/546.short'},
+ 'citedby': 3938,
+ 'id_scholarcitedby': '2967267174573688102',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JkUkJsbZLSkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WzWs:AAGBfm0AAAAAXYLT1WtsZO4rGr99gCcbktKqNRklAm_r&scisig=AAGBfm0AAAAAXYLT1bR7w3LfRNuwq3PmVM3CN6RTazKv&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 134 TP VAN DEN BERG, M. GONZE & G. MEULEMANS '
+                     'propagated in 6-week-old specific\n'
+                     'pathogen free (SPF) chickens … Pathogenic IBD virus The '
+                     'stock challenge virus was made by\n'
+                     'inoculating 37 6-week-old SPF chicks with a bursal '
+                     'homogenate from the strain 849VB … \n',
+         'author': 'TP Van den Berg and M Gonze and G Meulemans',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.1080/03079459108418748',
+         'title': 'Acute infectious bursal disease in poultry: isolation and '
+                  'characterisation of a highly virulent strain',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/03079459108418748'},
+ 'citedby': 386,
+ 'id_scholarcitedby': '7703308985638559340',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bJ4PZLWm52oJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WzWs:AAGBfm0AAAAAXYLT1WtsZO4rGr99gCcbktKqNRklAm_r&scisig=AAGBfm0AAAAAXYLT1RDPuE1Etu5KJzJghrqq6f1G5c15&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… CLINICAL MANIFESTATIONS In a typical outbreak in 2- to '
+                     '15-week-old chickens, some 10-20%\n'
+                     'of the flock may show sudden signs … The birds exhibit '
+                     'little interest in feed or water. The mortality\n'
+                     'rate is generally 1-15%, averaging about 5% in 2- to '
+                     '5-week-old affected birds … \n',
+         'author': 'AS Cosgrove',
+         'title': 'An apparently new disease of chickens: avian nephrosis',
+         'url': 'https://www.jstor.org/stable/1587909'},
+ 'citedby': 555,
+ 'id_scholarcitedby': '9455294912677603438',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bui0dKD0N4MJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WzWs:AAGBfm0AAAAAXYLT1WtsZO4rGr99gCcbktKqNRklAm_r&scisig=AAGBfm0AAAAAXYLT1UcFvVOesEcUT17z2PZkVkLN1lS-&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Results and Discussion The suppressiveness of take-all '
+                     'suppressive soils (TASS) was confirmed\n'
+                     'in the greenhouse assay which compared the number of '
+                     'survivmg 2-week-old barley seedlings\n'
+                     'in suppressive and conducive soils, both inoculated with '
+                     'Ggt … \n',
+         'author': 'JW Kloepper and J Leong and M Teintze and MN Schroth',
+         'title': 'Pseudomonas siderophores: A mechanism explaining '
+                  'disease-suppressive soils',
+         'url': 'https://link.springer.com/article/10.1007/BF02602840'},
+ 'citedby': 602,
+ 'id_scholarcitedby': '1940889093618918248',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:aOOV7Vhs7xoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WzWs:AAGBfm0AAAAAXYLT1WtsZO4rGr99gCcbktKqNRklAm_r&scisig=AAGBfm0AAAAAXYLT1WWJauTwcEyASu5dRVNEMxNuFI3v&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Total RNA was harvested from islets and exocrine '
+                     'pancreas from 12–14-week-old and\n'
+                     '64–80-week-old mice, and the expression of indicated '
+                     'transcripts determined by\n'
+                     'quantitative TaqMan analysis (Fig. 1a, b and '
+                     'Supplementary Fig … \n',
+         'author': 'J Krishnamurthy and MR Ramsey and KL Ligon and C Torrice…',
+         'eprint': '/scholar?output=instlink&q=info:iN2R0vRZ458J:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=14724459057709764478&oi=lle',
+         'title': 'p16INK4a induces an age-dependent decline in islet '
+                  'regenerative potential',
+         'url': 'https://www.nature.com/articles/nature05092'},
+ 'citedby': 860,
+ 'id_scholarcitedby': '11521151179783527816',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:iN2R0vRZ458J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WzWs:AAGBfm0AAAAAXYLT1WtsZO4rGr99gCcbktKqNRklAm_r&scisig=AAGBfm0AAAAAXYLT1cG4NEhE1WxmTNzTToGOlfrT70k2&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… (B and C) Histological analysis of thymuses from a '
+                     '4-week-old -/- mouse (B) and from\n'
+                     'a wild-type littermate (C) stained with hematoxylin and '
+                     'eosin (magnifications, x22). their\n'
+                     'littermates. The thymuses of the -/- mice were much '
+                     'smaller (Fig … \n',
+         'author': 'T Nosaka and JMA Van Deursen and RA Tripp…',
+         'eprint': 'https://science.sciencemag.org/content/sci/270/5237/800.full.pdf',
+         'title': 'Defective lymphoid development in mice lacking Jak3',
+         'url': 'https://science.sciencemag.org/content/270/5237/800.short'},
+ 'citedby': 678,
+ 'id_scholarcitedby': '16627042379719751811',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:g7iPVPMev-YJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WzWs:AAGBfm0AAAAAXYLT1WtsZO4rGr99gCcbktKqNRklAm_r&scisig=AAGBfm0AAAAAXYLT1XQQ2uMF1xpho47KeECcosfUAamx&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Thus, 5-week-old transgenic mice, whose islets had not '
+                     'yet activated the angiogenic\n'
+                     'switch, were treated until the first tumors appeared in '
+                     'control mice at 10.5 weeks of\n'
+                     'age. For intervention studies, designed to address '
+                     'whether … \n',
+         'author': 'G Bergers and K Javaherian and KM Lo and J Folkman…',
+         'eprint': 'https://science.sciencemag.org/content/sci/284/5415/808.full.pdf',
+         'title': 'Effects of angiogenesis inhibitors on multistage '
+                  'carcinogenesis in mice',
+         'url': 'https://science.sciencemag.org/content/284/5415/808.short'},
+ 'citedby': 1127,
+ 'id_scholarcitedby': '4877510562244301722',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mpPJogNmsEMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WzWs:AAGBfm0AAAAAXYLT1WtsZO4rGr99gCcbktKqNRklAm_r&scisig=AAGBfm0AAAAAXYLT1RdFyPgcge6NIBe61V-1gMbpMnP3&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… The term 'gravid adults' is used here to indicate "
+                     '1-week-old adult worms harvested from axenic\n'
+                     '[13,14] (BA713, TJ412) or bacterial precultures (TJ401, '
+                     'TJ41 1), that were grown at the permissive\n'
+                     "temperature (15 'C). These worms carried numerous eggs "
+                     'in various stages of em … \n',
+         'author': 'JR Vanfleteren',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1134253/pdf/biochemj00110-0285.pdf',
+         'title': 'Oxidative stress and ageing in Caenorhabditis elegans',
+         'url': 'http://www.biochemj.org/content/292/2/605.abstract'},
+ 'citedby': 409,
+ 'id_scholarcitedby': '12776295276191748184',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WBDpqtyETrEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WzWs:AAGBfm0AAAAAXYLT1WtsZO4rGr99gCcbktKqNRklAm_r&scisig=AAGBfm0AAAAAXYLT1a2egUB-yhIp1aq1ddkvH0UfwocR&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… cDNA clones of twelve different photoreceptor-specific '
+                     'mRNAs were isolated from an\n'
+                     'adult C57BL/6 mouse retina library by subtractive and '
+                     'differential colony screening"\n'
+                     'of 6–7-week-old C57BL/6 minus 6–7-week-old C3H/He.J '
+                     'retina … \n',
+         'author': 'GH Travis and MB Brennan and PE Danielson and CA Kozak…',
+         'eprint': '/scholar?output=instlink&q=info:wAFj8fMdnTgJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=8377830710762565247&oi=lle',
+         'title': 'Identification of a photoreceptor-specific mRNA encoded by '
+                  'the gene responsible for retinal degeneration slow (rds)',
+         'url': 'https://www.nature.com/articles/338070a0'},
+ 'citedby': 427,
+ 'id_scholarcitedby': '4079449771031593408',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wAFj8fMdnTgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WzWs:AAGBfm0AAAAAXYLT1WtsZO4rGr99gCcbktKqNRklAm_r&scisig=AAGBfm0AAAAAXYLT1REb0rVvpVX-uevNRBKZO5rVrdBN&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Left column: control mouse (no. 9944, 6-week-old '
+                     'female J-"T, JC "T). Second column: human\n'
+                     'heavy-chain transgenic (no. 9877, 6- week-old female J", '
+                     'JC / , HC2 line 2550") … 9878,\n'
+                     '6-week-old female J", JC TT, KCo4 line 4437"). Right '
+                     'column: double transgenic (no … \n',
+         'author': 'N Lonberg and LD Taylor and FA Harding and M Trounstine…',
+         'eprint': 'http://www.academia.edu/download/45936616/368856a020160525-12528-1p5xhn.pdf',
+         'title': 'Antigen-specific human antibodies from mice comprising four '
+                  'distinct genetic modifications',
+         'url': 'https://www.nature.com/articles/368856a0'},
+ 'citedby': 717,
+ 'id_scholarcitedby': '6530032119669936151',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:F1DRgJ1Vn1oJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WzWs:AAGBfm0AAAAAXYLT1WtsZO4rGr99gCcbktKqNRklAm_r&scisig=AAGBfm0AAAAAXYLT1VpjFroCl1wsUGgRQztvbgyS5mLT&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A 6-week-old infant had autoimmune hemolytic anemia. '
+                     'Serological studies disclosed a strong, warm, '
+                     'panagglutinating autoantibody showing no Rh specificity. '
+                     'There was also a significant rise in titer to '
+                     'cytomegalovirus. Treatment consisted of transfusions of '
+                     'sedimented …',
+         'author': 'RW Peters and RA Jacobs and JZ Finklestein…',
+         'eprint': '/scholar?output=instlink&q=info:yPbb8QAVcBMJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=4351556832800097849&oi=lle',
+         'title': 'Autoimmune Hemolytic Anemia in a 6–Week–Old Infant',
+         'url': 'https://jamanetwork.com/journals/jamapediatrics/article-abstract/505368'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '1400642577914132168',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yPbb8QAVcBMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WxRI:AAGBfm0AAAAAXYLT3RLWeCO6qP0eE1Fwr1LnuLpGLDab&scisig=AAGBfm0AAAAAXYLT3eXLVS8jfnyvwQiWYEvfklH0D2kz&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Total severity scores were increased with aging, and '
+                     'reached a clinical score of more than 13\n'
+                     'of 15 points in 17-week-old males and females (Fig. 1B) '
+                     '… unaware of which mice were in which\n'
+                     'group, according to a slight week-old conventional '
+                     'NC/Nga mice (Fig … \n',
+         'author': 'H Matsuda and N Watanabe and GP Geba…',
+         'eprint': 'https://academic.oup.com/intimm/article-pdf/9/3/461/18324092/090461.pdf',
+         'title': 'Development of atopic dermatitis-like skin lesion with IgE '
+                  'hyperproduction in NC/Nga mice.',
+         'url': 'https://academic.oup.com/intimm/article-abstract/9/3/461/684010'},
+ 'citedby': 860,
+ 'id_scholarcitedby': '16097575565878012539',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:e6oqRbATZt8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WxRI:AAGBfm0AAAAAXYLT3RLWeCO6qP0eE1Fwr1LnuLpGLDab&scisig=AAGBfm0AAAAAXYLT3WlTQhl6tq2Ce7declZCB_uXr0UM&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… astrocytes (fig. S2, C and E) (8). Moreover, '
+                     'immunolabeling and qPCR analysis\n'
+                     'confirmed that ALDH1L1 and AQP4 are enriched in the GLT1 '
+                     '+ pool of cells isolated\n'
+                     'from 1-, 2-, 3-, and 12-week-old mice (fig. S3, A and '
+                     'B). We … \n',
+         'author': 'W Sun and E McConnell and JF Pare and Q Xu and M Chen…',
+         'eprint': 'https://science.sciencemag.org/content/sci/339/6116/197.full.pdf',
+         'title': 'Glutamate-dependent neuroglial calcium signaling differs '
+                  'between young and adult brain',
+         'url': 'https://science.sciencemag.org/content/339/6116/197.short'},
+ 'citedby': 344,
+ 'id_scholarcitedby': '14023854999106957138',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Ui9b89G9nsIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WxRI:AAGBfm0AAAAAXYLT3RLWeCO6qP0eE1Fwr1LnuLpGLDab&scisig=AAGBfm0AAAAAXYLT3ahVTiFuUhQvEQiukjrVNPjm_cOu&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The H/L ratios of thirty 10-week-old controls were '
+                     'compared with those of a group of 30 chickens\n'
+                     'fasted for 2 days, those of another group of 30 fed 25 '
+                     'ppm corticosterone for 1 day, and those\n'
+                     'of a group of 30 inoculated intravenously with killed '
+                     'Escherichia coli 24 hr before … \n',
+         'author': 'WB Gross and HS Siegel',
+         'title': 'Evaluation of the heterophil/lymphocyte ratio as a measure '
+                  'of stress in chickens',
+         'url': 'https://www.jstor.org/stable/1590198'},
+ 'citedby': 1442,
+ 'id_scholarcitedby': '3890948849755436467',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:szXjHF1t_zUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WxRI:AAGBfm0AAAAAXYLT3RLWeCO6qP0eE1Fwr1LnuLpGLDab&scisig=AAGBfm0AAAAAXYLT3W4aH3Lih8v_Q92_0_R5Eoj-8Gky&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Volunteer; Warning signs. Search. Advanced Search. '
+                     'Donate. Circulation Research logo.\n'
+                     'Hello Guest! MY ALERTS. SIGN IN; JOIN. Login to your '
+                     'account. Email. Password. Forgot\n'
+                     'password. Keep me logged in. Submit your article; AHA '
+                     'Logo. Search … \n',
+         'author': 'DL Mann',
+         'eprint': 'https://www.ahajournals.org/doi/full/10.1161/01.res.0000043825.01705.1b',
+         'title': 'Inflammatory mediators and the failing heart: past, '
+                  'present, and the foreseeable future',
+         'url': 'https://www.ahajournals.org/doi/abs/10.1161/01.RES.0000043825.01705.1B'},
+ 'citedby': 1034,
+ 'id_scholarcitedby': '10499210864154950075',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:u7ngW6ewtJEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WxRI:AAGBfm0AAAAAXYLT3RLWeCO6qP0eE1Fwr1LnuLpGLDab&scisig=AAGBfm0AAAAAXYLT3e6f1VOULkR8CkzN-w_jpEc5v0AJ&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Fig. 1.--A, Cross section at the level of tracheal '
+                     'bifurcation in a 6 week old human embryo.\n'
+                     'Neuroblasts … A: aorta. (BS silver impregnation.) B, '
+                     'Cross section at the level of cardia\n'
+                     'of the stomach in a 6 week old human embryo. Neuroblasts '
+                     '… \n',
+         'author': 'E Okamoto and T Ueda',
+         'eprint': '/scholar?output=instlink&q=info:elTU1fQLoEgJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=1541424648952884489&oi=lle',
+         'title': 'Embryogenesis of intramural ganglia of the gut and its '
+                  "relation to Hirschsprung's disease",
+         'url': 'https://www.sciencedirect.com/science/article/pii/S002234686780085X'},
+ 'citedby': 348,
+ 'id_scholarcitedby': '5233195913191904378',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:elTU1fQLoEgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WxRI:AAGBfm0AAAAAXYLT3RLWeCO6qP0eE1Fwr1LnuLpGLDab&scisig=AAGBfm0AAAAAXYLT3d4VSUWMs5dznVMbX3bt6T8tgAqM&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1 and caspase-3, and caspase inhibition blocks '
+                     'cleavage of endogenous huntingtin in R6/2 mice,\n'
+                     'we evaluated whether minocycline would inhibit '
+                     'endogenous huntingtin cleavage 4,5,6 . We\n'
+                     'reported that endogenous huntingtin is cleaved in brain '
+                     'samples of 9-week-old R6/2 … \n',
+         'author': 'M Chen and VO Ona and M Li and RJ Ferrante and KB Fink and '
+                   'S Zhu…',
+         'eprint': 'https://www.researchgate.net/profile/Jang-Ho_Cha/publication/232759865_Minocycline_inhibits_caspase-1_and_caspase-3_expression_and_delays_mortalityin_a_transgenic_mouse_model_of_Huntington_disease/links/0a85e52e161e1ef47b000000/Minocycline-inhibits-caspase-1-and-caspase-3-expression-and-delays-mortality-in-a-transgenic-mouse-model-of-Huntington-disease.pdf',
+         'title': 'Minocycline inhibits caspase-1 and caspase-3 expression and '
+                  'delays mortality in a transgenic mouse model of Huntington '
+                  'disease',
+         'url': 'https://www.nature.com/articles/nm0700_797'},
+ 'citedby': 1136,
+ 'id_scholarcitedby': '13829631271957113885',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HSyji1647L8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WxRI:AAGBfm0AAAAAXYLT3RLWeCO6qP0eE1Fwr1LnuLpGLDab&scisig=AAGBfm0AAAAAXYLT3VHLLMIXbkLGslorVrviBEKjnT46&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content. Advertisement. Home; JACC '
+                     'Journals: JACC: Basic to\n'
+                     'Translational Science; JACC: Cardiovascular Imaging; '
+                     'JACC: Cardiovascular\n'
+                     'Interventions; JACC: Clinical Electrophysiology; JACC: '
+                     'Heart Failure. Issues … \n',
+         'author': 'L Marcoff and PD Thompson',
+         'eprint': 'http://www.onlinejacc.org/content/accj/49/23/2231.full.pdf',
+         'title': 'The role of coenzyme Q10 in statin-associated myopathy: a '
+                  'systematic review',
+         'url': 'http://www.onlinejacc.org/content/49/23/2231.abstract'},
+ 'citedby': 557,
+ 'id_scholarcitedby': '11307229047423214374',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JqOjDelY65wJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WxRI:AAGBfm0AAAAAXYLT3RLWeCO6qP0eE1Fwr1LnuLpGLDab&scisig=AAGBfm0AAAAAXYLT3Xefmc3N7IqAV6ggwrK91J7ZTVUU&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content … \n',
+         'author': 'BPHJ Thomma and K Eggermont…',
+         'eprint': 'https://www.pnas.org/content/95/25/15107',
+         'title': 'Separate jasmonate-dependent and salicylate-dependent '
+                  'defense-response pathways in Arabidopsis are essential for '
+                  'resistance to distinct microbial pathogens',
+         'url': 'https://www.pnas.org/content/95/25/15107.short'},
+ 'citedby': 1415,
+ 'id_scholarcitedby': '11314355389225670694',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JphSzUeqBJ0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WxRI:AAGBfm0AAAAAXYLT3RLWeCO6qP0eE1Fwr1LnuLpGLDab&scisig=AAGBfm0AAAAAXYLT3b7cZ_cc-j1FmuxL6RMfsvUTuGxP&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Since the sexing of male rats could only be performed '
+                     'from 3.5 weeks on, the sex of the\n'
+                     '1.5-week-old rats was not determined … Each point '
+                     'represents the mean of 5 rats. body weight\n'
+                     'was significantly lower at 1.5--12 weeks of age than in '
+                     'the 19--105- week-old rats (a = 0.01) … \n',
+         'author': 'M Sawada and JC Carlson',
+         'eprint': '/scholar?output=instlink&q=info:mFhOR22zVSgJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=836180043585112559&oi=lle',
+         'title': 'Changes in superoxide radical and lipid peroxide formation '
+                  'in the brain, heart and liver during the lifetime of the '
+                  'rat',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0047637487900571'},
+ 'citedby': 279,
+ 'id_scholarcitedby': '2906426416466647192',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mFhOR22zVSgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WxRI:AAGBfm0AAAAAXYLT3RLWeCO6qP0eE1Fwr1LnuLpGLDab&scisig=AAGBfm0AAAAAXYLT3REQBlb3HuSJFHaOLgo5aHxH2TWV&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content. Submit; About: Editorial Board; '
+                     'PNAS Staff; FAQ; Rights and Permissions;\n'
+                     'Site Map. Contact; Journal Club; Subscribe: Subscription '
+                     'Rates; Subscriptions FAQ; Open Access;\n'
+                     'Recommend PNAS to Your Librarian. Log in; Log out; My '
+                     'Cart. Main menu … \n',
+         'author': 'MI Ekstrand and M Terzioglu and D Galter…',
+         'eprint': 'https://www.pnas.org/content/104/4/1325.full',
+         'title': 'Progressive parkinsonism in mice with '
+                  'respiratory-chain-deficient dopamine neurons',
+         'url': 'https://www.pnas.org/content/104/4/1325.short'},
+ 'citedby': 453,
+ 'id_scholarcitedby': '8295208202281692887',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1y7o-uh_HnMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W_6c:AAGBfm0AAAAAXYLT56cjTvc2i0voMtSuFYERdXtL_Fvz&scisig=AAGBfm0AAAAAXYLT53sEJJcqkuv_PBTar8x5wnuFP0LL&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… York). ACTH injecfions. In this experiment three '
+                     'grraps of six chickens were used:\n'
+                     'I26-week-old laying hens (1.6 to 2.1 kg), l26-week-old '
+                     'roosters from the same line\n'
+                     '(2.3 to 2.7 kg), and 36-week-old laying hens (1.5 to I '
+                     '.9 kg). The … \n',
+         'author': 'G Beuving and GMA Vonder',
+         'title': 'Effect of stressing factors on corticosterone levels in the '
+                  'plasma of laying hens',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0016648078901570'},
+ 'citedby': 288,
+ 'id_scholarcitedby': '13810385396352285921',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4fzR8FhYqL8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W_6c:AAGBfm0AAAAAXYLT56cjTvc2i0voMtSuFYERdXtL_Fvz&scisig=AAGBfm0AAAAAXYLT51bkPRi72Gww4YRJVayyH9GpeLK2&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… week-old) (Bruijn et al., 1997; Bruijn et al., 1998), '
+                     'one terminal 22-week-old G37R mouse (Wong\n'
+                     'et al., 1995), three transgenic mice (line 76) '
+                     'overexpressing wild- type SOD1 (16- and\n'
+                     '48-week-old) (Wong et al., 1995) and three control mice '
+                     '(littermates of G93A SOD1 mice, 22 … \n',
+         'author': 'M Watanabe and M Dykes-Hoberg and VC Culotta…',
+         'eprint': '/scholar?output=instlink&q=info:CwqQQ4FE8KoJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=18000791611343921247&oi=lle',
+         'title': 'Histological evidence of protein aggregation in mutant SOD1 '
+                  'transgenic mice and in amyotrophic lateral sclerosis neural '
+                  'tissues',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0969996101904437'},
+ 'citedby': 423,
+ 'id_scholarcitedby': '12317420302833289739',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CwqQQ4FE8KoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W_6c:AAGBfm0AAAAAXYLT56cjTvc2i0voMtSuFYERdXtL_Fvz&scisig=AAGBfm0AAAAAXYLT54aYylD2ZIFuBdp02XbKGxr0WNNm&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Figure 1 (a) Serum testosterone in AR-97Q mice (n = '
+                     '6). (b) Weights of prostates and seminal\n'
+                     'vesicles of 13-week-old #4-6 mice … (d) Footprints of '
+                     '12-week-old leuprorelin-treated (L) and\n'
+                     'vehicle-treated (V) male AR-97Q #4-6 mice. Red, front '
+                     'paw; blue, hind paws … \n',
+         'author': 'M Katsuno and H Adachi and M Doyu and M Minamiyama…',
+         'eprint': 'https://kennedysdisease.org/images/stories/PDFs/leuprorelin.pdf',
+         'title': 'Leuprorelin rescues polyglutamine-dependent phenotypes in a '
+                  'transgenic mouse model of spinal and bulbar muscular '
+                  'atrophy',
+         'url': 'https://www.nature.com/articles/nm878'},
+ 'citedby': 287,
+ 'id_scholarcitedby': '5734156545061695134',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ni7iMv_Qk08J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W_6c:AAGBfm0AAAAAXYLT56cjTvc2i0voMtSuFYERdXtL_Fvz&scisig=AAGBfm0AAAAAXYLT5w1qhwhs25NggxfQjX0Iz0UUA0H6&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Sodium chloride (250 mM) and low temperature (4 °C) '
+                     'treatments were also applied to the\n'
+                     '3-week-old plants … Seki et al., 2002b, 3-week-old '
+                     'plants were removed from agar and desiccated\n'
+                     'on filter paper for 1–24 h, 359 a /161, ∼7000 '
+                     '(full-length cDNA array), 5.1/2.3 … \n',
+         'author': 'EA Bray',
+         'eprint': 'https://academic.oup.com/jxb/article/55/407/2331/496055',
+         'title': 'Genes commonly regulated by water-deficit stress in '
+                  'Arabidopsis thaliana',
+         'url': 'https://academic.oup.com/jxb/article-abstract/55/407/2331/496055'},
+ 'citedby': 495,
+ 'id_scholarcitedby': '5666106525321755326',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vnpTTd0Nok4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W_6c:AAGBfm0AAAAAXYLT56cjTvc2i0voMtSuFYERdXtL_Fvz&scisig=AAGBfm0AAAAAXYLT59eRNdw2HrQ5__kZcLB9bB-udYbn&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… k–n, Plasmacytosis (syndecan-1, blue) in lymph node '
+                     'medullary cords of 22-week-old sanroque\n'
+                     'mice (k), and (methyl-pyronin-green, pink) in kidney '
+                     '(l), liver (m) and lung (n). o, \n'
+                     'Hypergammaglobulinaemia in 11-week-old mice (filled '
+                     'symbols, san/san; open symbols, san/ + ) … \n',
+         'author': 'CG Vinuesa and MC Cook and C Angelucci…',
+         'eprint': 'https://www.researchgate.net/profile/Teresa_Lambe/publication/232792084_A_RING-type_ubiquitin_ligase_family_member_required_to_repress_follicular_helper_T_cells_and_autoimmunity/links/0fcfd50d4949fb14dc000000/A-RING-type-ubiquitin-ligase-family-member-required-to-repress-follicular-helper-T-cells-and-autoimmunity.pdf',
+         'title': 'A RING-type ubiquitin ligase family member required to '
+                  'repress follicular helper T cells and autoimmunity',
+         'url': 'https://www.nature.com/articles/nature03555'},
+ 'citedby': 758,
+ 'id_scholarcitedby': '5814736043878216851',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:k3QFxp8XslAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W_6c:AAGBfm0AAAAAXYLT56cjTvc2i0voMtSuFYERdXtL_Fvz&scisig=AAGBfm0AAAAAXYLT5xKrakG6x9_2AyRzw5PPVVScXPQR&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'News & Views.\n',
+         'author': 'FH Gage',
+         'eprint': '/scholar?output=instlink&q=info:-M8bo3lHZOEJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=14025672432683501665&oi=lle',
+         'title': 'Fetal implants put to the test',
+         'url': 'https://www.nature.com/articles/361405a0'},
+ 'citedby': 59,
+ 'id_scholarcitedby': '16241184743957975032',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-M8bo3lHZOEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W_6c:AAGBfm0AAAAAXYLT56cjTvc2i0voMtSuFYERdXtL_Fvz&scisig=AAGBfm0AAAAAXYLT50bqPXuW0ny7JYTzHd4ag2PNNZt5&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… By applying serial analysis of gene expression (SAGE), '
+                     'we measured gene expression levels\n'
+                     'between the left and right hemispheres in early (12- to '
+                     '14-week-old) fetal human brains, during\n'
+                     'periods of neuronal proliferation and migration, and '
+                     'later (at 19 weeks), after these … \n',
+         'author': 'T Sun and C Patoine and A Abu-Khalil and J Visvader…',
+         'eprint': 'https://science.sciencemag.org/content/sci/308/5729/1794.full.pdf',
+         'title': 'Early asymmetry of gene transcription in embryonic human '
+                  'left and right cerebral cortex',
+         'url': 'https://science.sciencemag.org/content/308/5729/1794.short'},
+ 'citedby': 347,
+ 'id_scholarcitedby': '18040893268318156806',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BvjWwNcgXvoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W_6c:AAGBfm0AAAAAXYLT56cjTvc2i0voMtSuFYERdXtL_Fvz&scisig=AAGBfm0AAAAAXYLT53eySyRDe9M5zcEYlLUievy9ujPR&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Litters from crosses of β -cat fl.ex3 /+ and Sf1-cre '
+                     'mice were inspected for sex-reversal. Genotypes\n'
+                     'are indicated above each column. Row 1 shows external '
+                     'genitalia of 3-week-old mice … H&E\n'
+                     'staining was performed on gonads from 3-week-old mice '
+                     'and is shown at 10× (row 3) … \n',
+         'author': 'DM Maatouk and L DiNapoli and A Alvers…',
+         'eprint': 'https://academic.oup.com/hmg/article/17/19/2949/2385651',
+         'title': 'Stabilization of β-catenin in XY gonads causes '
+                  'male-to-female sex-reversal',
+         'url': 'https://academic.oup.com/hmg/article-abstract/17/19/2949/2385651'},
+ 'citedby': 284,
+ 'id_scholarcitedby': '16183859783974724914',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MiWLTrqemOAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W_6c:AAGBfm0AAAAAXYLT56cjTvc2i0voMtSuFYERdXtL_Fvz&scisig=AAGBfm0AAAAAXYLT5z7z0dJXkNy6PAX3dQ6804tH7ifi&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… (B) Adipose tissue corticosterone (CORT) concentration '
+                     '[14-week-old male non-Tg (n = 9) and\n'
+                     'Tg (n = 8) mice] was determined by methanol extraction '
+                     'followed by radioimmunoassay (Rat\n'
+                     'CORT RIA kit, ICN Pharmaceuticals) (15, 16). Mes, '
+                     'mesenteric fat; Epi, epididymal fat … \n',
+         'author': 'H Masuzaki and J Paterson and H Shinyama and NM Morton…',
+         'eprint': 'https://science.sciencemag.org/content/sci/294/5549/2166.full.pdf',
+         'title': 'A transgenic model of visceral obesity and the metabolic '
+                  'syndrome',
+         'url': 'https://science.sciencemag.org/content/294/5549/2166.short'},
+ 'citedby': 2015,
+ 'id_scholarcitedby': '2599578636971800482',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ovdlRv-OEyQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W_6c:AAGBfm0AAAAAXYLT56cjTvc2i0voMtSuFYERdXtL_Fvz&scisig=AAGBfm0AAAAAXYLT57fkxpwhJmX9wJJUA7ZwrC8WRhHE&scisf=4&ct=citation&cd=99&hl=en'}

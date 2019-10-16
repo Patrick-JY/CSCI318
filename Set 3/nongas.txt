@@ -1,0 +1,1330 @@
+{'_filled': False,
+ 'bib': {'abstract': 'A multiresidue method is developed for the screening, '
+                     'quantification and confirmation of 43 pesticides, '
+                     'belonging to different chemical families of '
+                     'insecticides, acaricides, fungicides, herbicides and '
+                     'plant growth regulators, and 9 pesticide metabolites in '
+                     'four fruit and …',
+         'author': 'F Hernández and OJ Pozo and JV Sancho and L Bijlsma…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0021967306001440',
+         'title': 'Multiresidue liquid chromatography tandem mass spectrometry '
+                  'determination of 52 non gas chromatography-amenable '
+                  'pesticides and metabolites in different …',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0021967306001440'},
+ 'citedby': 214,
+ 'id_scholarcitedby': '14182745821133774041',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2ZxVUC4808QJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W6Xk:AAGBfm0AAAAAXYLT8Xm3I5pKIBhX_xUn0coJgGGQKknA&scisig=AAGBfm0AAAAAXYLT8REuali_of4U_Qj6iPY-I7eXa3bn&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Objectives: To study and review the clinical '
+                     'manifestations, courses, and results of treatment in 83 '
+                     'cases of verified gas-forming pyogenic liver abscess. '
+                     'Design: Case series. Setting: Both primary and referral '
+                     'hospital care. Patients: Four hundred twenty-four '
+                     'patients with …',
+         'author': 'FF Chou and SM Sheen-Chen and YS Chen…',
+         'eprint': '/scholar?output=instlink&q=info:fjCexPiiARYJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=7513324916284602099&oi=lle',
+         'title': 'The comparison of clinical course and results of treatment '
+                  'between gas-forming and non–gas-forming pyogenic liver '
+                  'abscess',
+         'url': 'https://jamanetwork.com/journals/jamasurgery/article-abstract/596182'},
+ 'citedby': 83,
+ 'id_scholarcitedby': '1585727733145415806',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fjCexPiiARYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W6Xk:AAGBfm0AAAAAXYLT8Xm3I5pKIBhX_xUn0coJgGGQKknA&scisig=AAGBfm0AAAAAXYLT8QlcjYbMLN5pj1VbB9j86XQ33zZo&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Flame propagation and peak pressure measurements were '
+                     'taken of two nanoscaled thermites using aluminum (Al) '
+                     'fuel and copper oxide (CuO) or nickel oxide (NiO) '
+                     'oxidizers in a confined flame tube apparatus. Thermal '
+                     'equilibrium simulations predict that the Al+ CuO …',
+         'author': 'SW Dean and ML Pantoya…',
+         'eprint': 'https://www.researchgate.net/profile/Michelle_Pantoya/publication/245363181_Enhanced_Convective_Heat_Transfer_in_Nongas_Generating_Nanoparticle_Thermites/links/561bbaaf08aea80367242c7e/Enhanced-Convective-Heat-Transfer-in-Nongas-Generating-Nanoparticle-Thermites.pdf',
+         'title': 'Enhanced convective heat transfer in nongas generating '
+                  'nanoparticle thermites',
+         'url': 'http://biomechanical.asmedigitalcollection.asme.org/article.aspx?articleid=1449722'},
+ 'citedby': 30,
+ 'id_scholarcitedby': '9888962042952106998',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9kN7h5WmPIkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W6Xk:AAGBfm0AAAAAXYLT8Xm3I5pKIBhX_xUn0coJgGGQKknA&scisig=AAGBfm0AAAAAXYLT8XW3mkXE7xMfYD68lAmfWUwVYyeF&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This work reported real-time generation of microbial '
+                     'natural gas (methane) from lignite. Lignite (brown coal) '
+                     'samples and formation water were collected from '
+                     'locations in Australia, Indonesia, and China with no '
+                     'history of natural gas production (zero gas baseline). '
+                     'These …',
+         'author': 'PH Fallgren and C Zeng and Z Ren and A Lu and S Ren…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0166516213000724',
+         'title': 'Feasibility of microbial production of new natural gas from '
+                  'non-gas-producing lignite',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0166516213000724'},
+ 'citedby': 39,
+ 'id_scholarcitedby': '12633988638652508289',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gSg0p7rxVK8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W6Xk:AAGBfm0AAAAAXYLT8Xm3I5pKIBhX_xUn0coJgGGQKknA&scisig=AAGBfm0AAAAAXYLT8ZIE1cuod1J91htPCYVg-_oG4h1P&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The only difference between CO-sensitive and '
+                     'non-gas-sensitive tin oxide thin films is in the amount '
+                     'of oxygen or oxygen-containing species adsorbed on their '
+                     'surfaces. However, the density of negatively charged '
+                     'oxygen atoms on the surface of the tin oxide is decisive '
+                     'for the …',
+         'author': 'HP Hübner and S Drost',
+         'title': 'Tin oxide gas sensors: an analytical comparison of '
+                  'gas-sensitive and non-gas-sensitive thin films',
+         'url': 'https://www.sciencedirect.com/science/article/pii/092540059180152A'},
+ 'citedby': 34,
+ 'id_scholarcitedby': '10324875930654006885',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Zd6clPRTSY8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W6Xk:AAGBfm0AAAAAXYLT8Xm3I5pKIBhX_xUn0coJgGGQKknA&scisig=AAGBfm0AAAAAXYLT8d7DrRpBT8GoU9VnAnjkHtQhIylb&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Nanoenergetic composites are being examined for their '
+                     'use as energy storage and delivery materials. For this '
+                     'application, non-gas-generating mixtures that produce '
+                     'enough energy to sustain reaction propagation are ideal. '
+                     'A potentially promising formulation for this …',
+         'author': 'KS Kappagantula and B Clark and ML Pantoya',
+         'eprint': 'https://pubs.acs.org/doi/full/10.1021/ef1012825',
+         'title': 'Flame propagation experiments of non-gas-generating '
+                  'nanocomposite reactive materials',
+         'url': 'https://pubs.acs.org/doi/abs/10.1021/ef1012825'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '4812454542208367829',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1XwLnuhFyUIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W6Xk:AAGBfm0AAAAAXYLT8Xm3I5pKIBhX_xUn0coJgGGQKknA&scisig=AAGBfm0AAAAAXYLT8ZeJ0rJPok9frvkxMauaMlsM3S2q&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Figure 1 is a photograph of a plate culture of a strain '
+                     'of Chromobacterium sp. growing on rice grains, suspended '
+                     'in distilled water. Eighteen strains have been isolated '
+                     'by streaking and restreaking on plain nutrient agar '
+                     'until purity of each culture was assured. Some of the …',
+         'author': 'HC Douglas',
+         'eprint': '/scholar?output=instlink&q=info:fpjE_6Jq2q0J:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=12424644554006507005&oi=lle',
+         'title': 'Glycine fermentation by nongas forming anaerobic micrococci',
+         'url': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC386159/'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '12527442561792776318',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fpjE_6Jq2q0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W6Xk:AAGBfm0AAAAAXYLT8Xm3I5pKIBhX_xUn0coJgGGQKknA&scisig=AAGBfm0AAAAAXYLT8SFjkkOd2oofcnRn58zI8op2vfTJ&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'THE application of hy-drogen-ion measure-ments to '
+                     'industry has been much slower than the practical value '
+                     'of the meas-urements seems to warrant. This is '
+                     'especially true of the continuously recording or '
+                     'controlling type of hydrogenion measurements. To any one '
+                     'who …',
+         'author': 'HC Parker',
+         'eprint': 'https://pubs.acs.org/doi/pdf/10.1021/ie50187a038',
+         'title': 'Potentiometric Hydrogen-Ion Measurements with Non-Gas '
+                  'Electrodes.',
+         'url': 'https://pubs.acs.org/doi/pdf/10.1021/ie50187a038'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '1022198650397480775',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:R1fTtkGULw4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W6Xk:AAGBfm0AAAAAXYLT8Xm3I5pKIBhX_xUn0coJgGGQKknA&scisig=AAGBfm0AAAAAXYLT8Y3xAAuJekJweqIxLxj2EIk7VAVs&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Vertical profiles of temperature, the flux density and '
+                     'spectral composition of irradiance and the vertical '
+                     'distribution of Oscillatoria bourrellyi were measured in '
+                     'the North and South Basins of Windermere in the English '
+                     'Lake District At the population maximum (8–14 m) the …',
+         'author': 'GG Ganf and SI Heaney and J Corry',
+         'eprint': 'https://academic.oup.com/plankt/article-pdf/13/5/1101/7294281/13-5-1101.pdf',
+         'title': 'Light absorption and pigment content in natural populations '
+                  'and cultures of a non-gas vacuolate cyanobacterium '
+                  'OsciUatoria bourrellyi (=Tychomema bourrellyi)',
+         'url': 'https://academic.oup.com/plankt/article-abstract/13/5/1101/1589029'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '5071043799829624373',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NbZK6Xf3X0YJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W6Xk:AAGBfm0AAAAAXYLT8Xm3I5pKIBhX_xUn0coJgGGQKknA&scisig=AAGBfm0AAAAAXYLT8dJZPncDIohLsaNHPV5HVVDy4elr&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Consequently, analysis of certain important gas-phase '
+                     'atmospheric constituents analyzed by\n'
+                     'non-gas chromatographic techniques, such as '
+                     'spectrometric, wet-chemical or LC procedures\n'
+                     '(eg, carboxylic acids, light carbonyls, nitrogen oxides, '
+                     'hydrogen peroxide) were excluded … \n',
+         'author': 'D Helmig',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0021967399001739',
+         'title': 'Air analysis by gas chromatography',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0021967399001739'},
+ 'citedby': 130,
+ 'id_scholarcitedby': '14139244676831948342',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Nq7m4h6wOMQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W6Xk:AAGBfm0AAAAAXYLT8Xm3I5pKIBhX_xUn0coJgGGQKknA&scisig=AAGBfm0AAAAAXYLT8Y-LqS-qPOhSR4gHdcFABKHI4S2w&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. Executive Summary - Research conclusion and key '
+                     'messages—natural gas offers\n'
+                     'greenhouse gas advantages over coal: Natural gas has '
+                     'been widely discussed as a less\n'
+                     'carbon-intensive alternative to coal as a power sector '
+                     'fuel … \n',
+         'author': 'M Fulton and N Mellquist and S Kitasei…',
+         'eprint': 'http://www.westerngrid.net/wp-content/uploads/2012/08/Natural_Gas_LCA_Update_082511.pdf',
+         'title': 'Comparing life-cycle greenhouse gas emissions from natural '
+                  'gas and coal',
+         'url': 'http://www.westerngrid.net/wp-content/uploads/2012/08/Natural_Gas_LCA_Update_082511.pdf'},
+ 'citedby': 38,
+ 'id_scholarcitedby': '13524849397378052540',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vPFfg97qsbsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W4vo:AAGBfm0AAAAAXYLT-voxM3OprmGVQ-b2KYq2vdQGin97&scisig=AAGBfm0AAAAAXYLT-u6lszbhugTp-czrtg3vDLP-2gXo&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Comparisons have been made among lithology, diagenesis, '
+                     'and reservoir characteristics of gas‐bearing and '
+                     'non‐gas‐bearing ones in the Sulige gas field of the '
+                     'Ordos Basin based on the laboratory analysis of thin '
+                     'sections, scanning electron microscope, and liquid '
+                     'inclusion …',
+         'author': 'Z Xiaomin and L Chenlin and Z Dakang…',
+         'eprint': '/scholar?output=instlink&q=info:MNpU1x0nfVEJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=3348947890460309861&oi=lle',
+         'title': 'Diagenesis and their succession of gas‐bearing and '
+                  'non‐gas‐bearing reservoirs in the Sulige Gas Field of Ordos '
+                  'Basin, China',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-6724.2009.00087.x'},
+ 'citedby': 13,
+ 'id_scholarcitedby': '5871892498281191984',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MNpU1x0nfVEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W4vo:AAGBfm0AAAAAXYLT-voxM3OprmGVQ-b2KYq2vdQGin97&scisig=AAGBfm0AAAAAXYLT-iQHXdzXOz0hE9UtRzltYeCOGeAf&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The results for the MM analysis are presented in Table '
+                     '1. Our Table 1. Classification\n'
+                     'results for 32 VOC gas leak and 50 non-gas test '
+                     'sequences. The … event. Our system\n'
+                     'triggers a false alarm for 5 of 50 non-gas test '
+                     'sequences … \n',
+         'author': 'F Erden and EB Soyer and BU Toreyin…',
+         'eprint': 'https://ieeexplore.ieee.org/iel5/5487364/5494886/05495500.pdf',
+         'title': 'VOC gas leak detection using pyro-electric infrared sensors',
+         'url': 'https://ieeexplore.ieee.org/abstract/document/5495500/'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '3542265940905196389',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZXueAxuoKDEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W4vo:AAGBfm0AAAAAXYLT-voxM3OprmGVQ-b2KYq2vdQGin97&scisig=AAGBfm0AAAAAXYLT-lkRS3jjdLyEwRW_ASwjlNR3X2Ho&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… the colon and various levels of the small in- testine '
+                     'as gas-producing areas following in- jections\n'
+                     'of a gas-producing food into these areas(3,4,5). To '
+                     'study this relationship, experiments were\n'
+                     'so designed that known amounts of gas- producing and '
+                     'non-gas-producing foods could … \n',
+         'author': 'EA Richards and FR Steggerda',
+         'eprint': '/scholar?output=instlink&q=info:9f9sbXnj2hAJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=12526351023833282520&oi=lle',
+         'title': 'Production and inhibition of gas in various regions in the '
+                  'intestine of the dog.',
+         'url': 'https://journals.sagepub.com/doi/abs/10.3181/00379727-122-31194'},
+ 'citedby': 28,
+ 'id_scholarcitedby': '1214533160196177909',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9f9sbXnj2hAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W4vo:AAGBfm0AAAAAXYLT-voxM3OprmGVQ-b2KYq2vdQGin97&scisig=AAGBfm0AAAAAXYLT-n3sqwyW29nmK8SLNcd4dHwTMBYU&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Gas flare equipped w/o gas scrubber Non-gas flare Gas '
+                     'flare equipped w/ gas scrubber Figure\n'
+                     '2. CO levels of ambient air measured by HOBO in the '
+                     'summer of 2003 Even between the gas\n'
+                     'flaring regions (Imiringi and Gbarain) and non-gas '
+                     'flaring region … \n',
+         'author': 'M Ishisone',
+         'eprint': 'http://nature.berkeley.edu/classes/es196/projects/2004final/Ishone.pdf',
+         'title': 'Gas flaring in the Niger Delta: The potential benefits of '
+                  'its reduction on the local economy and environment',
+         'url': 'http://nature.berkeley.edu/classes/es196/projects/2004final/Ishone.pdf'},
+ 'citedby': 39,
+ 'id_scholarcitedby': '5776011724002176162',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oiykcw-EKFAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W4vo:AAGBfm0AAAAAXYLT-voxM3OprmGVQ-b2KYq2vdQGin97&scisig=AAGBfm0AAAAAXYLT-mJnO74SRI17HunKsCvksjHe5f-W&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Tubular and hollow fibre membrane ultrafiltration is '
+                     'commonly used for waste water treatment and potable '
+                     'water production often with the introduction of gas '
+                     'bubbles into the filtration feed to improve flux. For '
+                     'design purposes, accurate models of the process are …',
+         'author': 'SR Smith and RW Field and ZF Cui',
+         'eprint': '/scholar?output=instlink&q=info:bG8s9rLMgDsJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=9142394164680607691&oi=lle',
+         'title': 'Predicting the performance of gas-sparged and '
+                  'non-gas-sparged ultrafiltration',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0011916406002074'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '4287651914263064428',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bG8s9rLMgDsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W4vo:AAGBfm0AAAAAXYLT-voxM3OprmGVQ-b2KYq2vdQGin97&scisig=AAGBfm0AAAAAXYLT-kl59D6ls4dt8ud1W-m6MoCYzK48&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '5 10 and particularly to new and improved electrolytes '
+                     'for. electrolytic capacitors. Electrolytic capacitors '
+                     'require a liquid-and gas-tight Seal so as to prevent '
+                     'loss of the electrolyte, creepage of the solute of the '
+                     'electrolyte, and also to prevent contami nation of the …',
+         'author': 'SD Ross',
+         'title': 'Sealed capacitor with non-gas producing electrolyte',
+         'url': 'https://patents.google.com/patent/US3325697A/en'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '11517288555415517492',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NLk2geug1Z8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W4vo:AAGBfm0AAAAAXYLT-voxM3OprmGVQ-b2KYq2vdQGin97&scisig=AAGBfm0AAAAAXYLT-gu0ZGKTrcIIoK43YhOILxxuekrM&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… (4). (4) P d = P n × [ P s + 2 P n − 2 φ s ( P n − P s '
+                     ') P s + 2 P n − φ s ( P n − P s ) ]. where P\n'
+                     's , and ϕ s are P CO2 of the silica domain (=0, because '
+                     'of non-porous and non-gas permeable\n'
+                     'material) and the volume fraction of the silica domain, '
+                     'respectively … \n',
+         'author': 'S Hasebe and S Aoyama and M Tanaka…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0376738816324942',
+         'title': 'CO2 separation of polymer membranes containing silica '
+                  'nanoparticles with gas permeable nano-space',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0376738816324942'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '6068133068134596635',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:G8D2B-BWNlQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W4vo:AAGBfm0AAAAAXYLT-voxM3OprmGVQ-b2KYq2vdQGin97&scisig=AAGBfm0AAAAAXYLT-qejnu_0BgzBC2o22JbsI02maLLC&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The validity of using the aqueous humor lactate '
+                     'concentration as an indicator of corneal lactate '
+                     'production was tested. For this purpose, ten rabbits '
+                     'wore non-gas permeable contact lenses on one eye for 12 '
+                     'hours. Aqueous humor and corneal extracts were assayed '
+                     'for …',
+         'author': 'JP Bergmanson and J Johnsson and PG Söderberg…',
+         'eprint': '/scholar?output=instlink&q=info:juh6KS1P1EoJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=17922819222168647748&oi=lle',
+         'title': 'Lactate levels in the rabbit cornea and aqueous humor '
+                  'subsequent to non-gas permeable contact lens wear.',
+         'url': 'https://europepmc.org/abstract/med/3843317'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '5392021709257369742',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:juh6KS1P1EoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W4vo:AAGBfm0AAAAAXYLT-voxM3OprmGVQ-b2KYq2vdQGin97&scisig=AAGBfm0AAAAAXYLT-n_hdRcCsoGk0tltTnFahaX5Ln-6&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'US5330469A - Apparatus for supporting an electrosurgical '
+                     'generator and interfacing\n'
+                     'such with an electrosurgical pencil and an inert gas '
+                     'supply - Google Patents. Apparatus\n'
+                     'for supporting an electrosurgical generator and '
+                     'interfacing … \n',
+         'author': 'RP Fleenor',
+         'eprint': 'https://patentimages.storage.googleapis.com/d9/4c/63/7f232fdaa7a87f/US5330469.pdf',
+         'title': 'Apparatus for supporting an electrosurgical generator and '
+                  'interfacing such with an electrosurgical pencil and an '
+                  'inert gas supply',
+         'url': 'https://patents.google.com/patent/US5330469A/en'},
+ 'citedby': 53,
+ 'id_scholarcitedby': '4155011748664874157',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rZS-1CuRqTkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7W4vo:AAGBfm0AAAAAXYLT-voxM3OprmGVQ-b2KYq2vdQGin97&scisig=AAGBfm0AAAAAXYLT-mdStUqGWL3622dNfzPAm0DrTREP&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content … \n',
+         'author': 'JH Lee',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0925400509003499',
+         'title': 'Gas sensors using hierarchical and hollow oxide '
+                  'nanostructures: overview',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0925400509003499'},
+ 'citedby': 1092,
+ 'id_scholarcitedby': '12211645356192316829',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nT3kWsB6eKkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RHEE:AAGBfm0AAAAAXYLUBEEmWxqpjaYOJe6yDk8IXi7GFiSw&scisig=AAGBfm0AAAAAXYLUBPACEWcgs_q-nGivMwJdAIhhLU8Z&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'I. Introduction irborne nanoparticles can be generally '
+                     'classified into two distinct size ranges: the nucleation '
+                     'mode (1 nm to 100 nm) and the accumulation mode (100 nm '
+                     'to 1000nm). Nucleation mode nanoparticles are created by '
+                     'chemical or phase transformation. The …',
+         'author': 'BL Chua and M Zhang and A Wexler and N Tien…',
+         'title': 'Collection of non-gas phase airborne nanoparticles by '
+                  'microfabricated electrostatic precipitator',
+         'url': 'https://arc.aiaa.org/doi/pdf/10.2514/6.2004-6731'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '5406625189178412048',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EIyoyvYwCEsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RHEE:AAGBfm0AAAAAXYLUBEEmWxqpjaYOJe6yDk8IXi7GFiSw&scisig=AAGBfm0AAAAAXYLUBLJFgi6wuDzLp-VnkyIrgmp0vUDE&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Download PDF Info. Publication number US8372460B2. '
+                     'Authority US Grant status Grant. Patent\n'
+                     'type. Prior art keywords plasma thermal non gas '
+                     'container Prior art date 2009-07-10 Legal status\n'
+                     '(The legal status is an assumption and is not a legal '
+                     'conclusion … \n',
+         'author': 'PE Meyers and JC Rostaing and R Agrawal',
+         'title': 'System and method for non-thermal plasma treatment of '
+                  'foodstuffs',
+         'url': 'https://patents.google.com/patent/US8372460B2/en'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '16572299771025060850',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8nM8g9ai_OUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RHEE:AAGBfm0AAAAAXYLUBEEmWxqpjaYOJe6yDk8IXi7GFiSw&scisig=AAGBfm0AAAAAXYLUBIKSUp2u--WiZzYvywFoTRVQIj2b&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'From 1977 to 1984, 87 above-and below-knee amputations '
+                     'were done on 77 patients for ischemic ulcerations and '
+                     'gangrene of the lower extremities. The overall '
+                     'three-month mortality was 14% and was mainly related to '
+                     'generalized atherosclerosis. Patients …',
+         'author': 'NM Vo and S Watson and LR Bryant',
+         'eprint': '/scholar?output=instlink&q=info:zXRq3X36CsgJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=9839892322456469206&oi=lle',
+         'title': 'Infections of the lower extremities due to gas-forming and '
+                  'non-gas-forming organisms.',
+         'url': 'https://europepmc.org/abstract/med/3787284'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '14414608975845291213',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zXRq3X36CsgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RHEE:AAGBfm0AAAAAXYLUBEEmWxqpjaYOJe6yDk8IXi7GFiSw&scisig=AAGBfm0AAAAAXYLUBKD93MYLcoN7wtXA6Iyk-PYZwIQm&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Background: Gas-based cryotherapy is the most widely '
+                     'used treatment strategy for cervical intraepithelial '
+                     'neoplasia (CIN) in low-resource settings, but reliance '
+                     'on gas presents challenges in low-and middle-income '
+                     'countries (LMICs). Our team adapted the original …',
+         'author': 'M Cremer and P Paul and K Bergman and M Haas…',
+         'eprint': 'http://www.ghspjournal.org/content/ghsp/5/1/57.full.pdf',
+         'title': 'A non–gas-based cryotherapy system for the treatment of '
+                  'cervical intraepithelial neoplasia: a mixed-methods '
+                  'approach for initial development and testing',
+         'url': 'http://www.ghspjournal.org/content/5/1/57.abstract'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '3998117084373959335',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:p8KHKE4qfDcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RHEE:AAGBfm0AAAAAXYLUBEEmWxqpjaYOJe6yDk8IXi7GFiSw&scisig=AAGBfm0AAAAAXYLUBJXpoUq4TgWLIveuCHdZw2bvWVUE&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In a stock culture of the hog-cholera bacillus, which '
+                     'was passed through a series of rabbits 14 years ago, an '
+                     'organism was found that differs from the original '
+                     'culture in that it fails to form gas from the '
+                     'carbohydrates that are usually attacked by this '
+                     'organism, while acid …',
+         'author': 'C Tenbroeck',
+         'eprint': 'http://jem.rupress.org/content/jem/24/3/213.full.pdf',
+         'title': 'A non-gas-producing strain of the hog-cholera bacillus '
+                  'isolated from an old laboratory culture',
+         'url': 'http://jem.rupress.org/content/24/3/213.abstract'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '17923492573175385332',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9Ix4VogJvfgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RHEE:AAGBfm0AAAAAXYLUBEEmWxqpjaYOJe6yDk8IXi7GFiSw&scisig=AAGBfm0AAAAAXYLUBLM_kXgJasN-LL9LbCCVen9NKn2H&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Download full-size image. Fig. 6. Comparison between '
+                     'unidimensional model behaviour for\n'
+                     'gas-transparent electrodes placed TOP and bidimensional '
+                     'models for non gas-transparent\n'
+                     'electrodes when the electrode gap increases from 0.5 to '
+                     '50 μm. 4. Conclusions … \n',
+         'author': 'X Vilanova and E Llobet and J Brezmes and J Calderer…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S092540059800080X',
+         'title': 'Numerical simulation of the electrode geometry and position '
+                  'effects on semiconductor gas sensor response',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S092540059800080X'},
+ 'citedby': 46,
+ 'id_scholarcitedby': '16868593544280937159',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xxJQc3RIGeoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RHEE:AAGBfm0AAAAAXYLUBEEmWxqpjaYOJe6yDk8IXi7GFiSw&scisig=AAGBfm0AAAAAXYLUBPY7BbKYWSckoSscVe_OhpD4c3kO&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The multi-phase process fluid may include a first '
+                     'phase and a second phase, the first phase\n'
+                     'may include a non-gas fluid, and the second phase may '
+                     'include a gas … For example, a\n'
+                     'three-phase flow may be a fluid with a gas phase and two '
+                     'non-gas liquids … \n',
+         'author': 'MP Henry and MS Tombs',
+         'eprint': 'https://patentimages.storage.googleapis.com/pdfs/US7617055.pdf',
+         'title': 'Wet gas measurement',
+         'url': 'https://patents.google.com/patent/US7617055B2/en'},
+ 'citedby': 27,
+ 'id_scholarcitedby': '7982579169636493907',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:U6qdFXbRx24J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RHEE:AAGBfm0AAAAAXYLUBEEmWxqpjaYOJe6yDk8IXi7GFiSw&scisig=AAGBfm0AAAAAXYLUBBIYehuSVhDymVC9cOlAs1SvUCtx&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content … \n',
+         'author': 'I Pitault and P Fongarland and D Koepke and M Mitrovic…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0009250905003167',
+         'title': 'Gas–liquid and liquid–solid mass transfers in two types of '
+                  'stationary catalytic basket laboratory reactor',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0009250905003167'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '13853301130258067560',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:aLCM4_rPQMAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RHEE:AAGBfm0AAAAAXYLUBEEmWxqpjaYOJe6yDk8IXi7GFiSw&scisig=AAGBfm0AAAAAXYLUBAJPZn6zQWRATvAFRmbMZoj7MZcA&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Based on P- and S-wave velocities from vertical '
+                     'seismic profiles (VSP) and well logging, calculated\n'
+                     'results show that at the Mallik 2L-38 well the maximal '
+                     'gas hydrate concentration amounts to 75%\n'
+                     'within the interval of 897 to 1110 m (excluding non-gas '
+                     'hydrate intervals); their … \n',
+         'author': 'ZQ LU and N Sultan and CS JIN and Z RAO…',
+         'eprint': 'https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/cjg2.1341',
+         'title': 'Modeling on Gas Hydrate Formation Conditions in the '
+                  'Qinghai‐Tibet Plateau Permafrost',
+         'url': 'https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/cjg2.1341'},
+ 'citedby': 24,
+ 'id_scholarcitedby': '9040650067111038882',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:os_DLFbXdn0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RHEE:AAGBfm0AAAAAXYLUBEEmWxqpjaYOJe6yDk8IXi7GFiSw&scisig=AAGBfm0AAAAAXYLUBHJSjOsSEfwMrzsRfMAxFYAm52oS&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The augmentation of ultrasound‐induced clot disruption '
+                     'by echocardiographic contrast microbubbles may be a '
+                     'direct mechanical erosive effect of the clot by the '
+                     'microparticles. To further assess this hypothesis, we '
+                     'evaluated the rate and extent of clot disruption by '
+                     'using …',
+         'author': 'Y Birnbaum',
+         'eprint': 'https://onlinelibrary.wiley.com/doi/pdf/10.1046/j.1540-8175.2001.00265.x',
+         'title': 'Augmentation of Ultrasound‐Induced Clot Disruption by '
+                  'Nongas‐Filled Microparticles',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1540-8175.2001.00265.x'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14774184743228372006',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JnQfOr9yCM0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RFng:AAGBfm0AAAAAXYLUDnh5IeRQboveU0id7fY8O42aMt9R&scisig=AAGBfm0AAAAAXYLUDm2_EYHQ7zHxCNyWeNAyrpBGiHvQ&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… J Am Coll Surg 1994;179:727–732. 10. Chou FF, '
+                     'Sheen-Chen SM, Chen YS, Lee TY. The\n'
+                     'comparison of clinical course and results of treatment '
+                     'between gas-forming and\n'
+                     'non-gas-forming pyogenic liver abscess. Arch Surg '
+                     '1995;130:401–405 … \n',
+         'author': 'CB Thng and YP Tan and VG Shelat',
+         'eprint': 'https://synapse.koreamed.org/DOIx.php?id=10.14701/ahbps.2018.22.1.11',
+         'title': 'Gas-forming pyogenic liver abscess: A world review',
+         'url': 'https://synapse.koreamed.org/DOIx.php?id=10.14701/ahbps.2018.22.1.11'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '4210561067462664523',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:S6Eze_vqbjoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RFng:AAGBfm0AAAAAXYLUDnh5IeRQboveU0id7fY8O42aMt9R&scisig=AAGBfm0AAAAAXYLUDiT8vyG23ToF3qqFKe85gIa878-9&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'author': 'WE James',
+         'title': 'Indonesia: Non-Oil and Non-Gas Export Performance in 1995 '
+                  'and Prospects for 1996'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '7074135962739162148',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JDzify1hLGIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RFng:AAGBfm0AAAAAXYLUDnh5IeRQboveU0id7fY8O42aMt9R&scisig=AAGBfm0AAAAAXYLUDmLx9v7D8TkZpBtjh-sHGTuPv3ed&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… REFERENCES 1 Chou FF, Sheen-Chen SM, Chen YS, Lee TY. '
+                     'The comparison of clinical\n'
+                     'course and results of treatment between gas-forming and '
+                     'non-gas-forming pyogenic liver\n'
+                     'abscess. Arch Surg 1995; 130: 401–6. 2 Lee TY, Wan YL, '
+                     'Tsai CC … \n',
+         'author': 'PC Huang and YC Cheung and SC Chan…',
+         'eprint': 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1368-504X.2005.00335.x',
+         'title': 'The clinical significance of gas‐containing liver abscesses '
+                  'converting from total gas content to gas and fluid content: '
+                  'a case report',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1368-504X.2005.00335.x'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '6443590479805401316',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5Mjj2mY7bFkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RFng:AAGBfm0AAAAAXYLUDnh5IeRQboveU0id7fY8O42aMt9R&scisig=AAGBfm0AAAAAXYLUDrIy59KnT75cGyzbHJ2IBL-GmoJS&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… (Note: because of leaking, non-gas-tight syringes '
+                     'underdelivered by about 20-30 %). C was\n'
+                     'measured according to the method of Sears (I 2). Groups '
+                     'of eyes being so tested could then\n'
+                     'be compared with effects in eyes in which drug had been '
+                     'administered … \n',
+         'author': 'MB Waitzman and CD King',
+         'eprint': 'https://www.physiology.org/doi/pdf/10.1152/ajplegacy.1967.212.2.329',
+         'title': 'Prostaglandin influences on intraocular pressure and pupil '
+                  'size',
+         'url': 'https://www.physiology.org/doi/pdf/10.1152/ajplegacy.1967.212.2.329'},
+ 'citedby': 199,
+ 'id_scholarcitedby': '7570486027727587410',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:UsjCm-7ED2kJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RFng:AAGBfm0AAAAAXYLUDnh5IeRQboveU0id7fY8O42aMt9R&scisig=AAGBfm0AAAAAXYLUDtCM-7it6aGrAGaEGj4bSgi_UQkz&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Treated by 0.05% Zonyl8740 solution, the model '
+                     'appeared non gas- wetnesss (ζ=-0.44) … 4.2 Effect\n'
+                     'of Gas-wettability on Gas and Water Seepage Performance '
+                     '(a) Non gas-wet model: As soon\n'
+                     'as the water entered the guiding groove in the model, '
+                     'the water imbibition took place … \n',
+         'author': 'GC Jiang and M Zhang and XX Xing and SJ Luo…',
+         'eprint': 'http://www.techscience.com/doi/10.3970/sl.2013.010.019.pdf',
+         'title': 'Effect of gas-wetness on gas-water two-phase seepage in '
+                  'visual microscopic pore models',
+         'url': 'http://www.techscience.com/doi/10.3970/sl.2013.010.019.pdf'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '9671920591020970193',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0VCXk4iQOYYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RFng:AAGBfm0AAAAAXYLUDnh5IeRQboveU0id7fY8O42aMt9R&scisig=AAGBfm0AAAAAXYLUDuA-NPiSOStGKQaL_ldhLm49bFJA&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JS Capps and GH Hicks',
+         'title': 'Monitoring non-gas respiratory variables during mechanical '
+                  'ventilation'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '15247528159765141503',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_xeRkRMamtMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RFng:AAGBfm0AAAAAXYLUDnh5IeRQboveU0id7fY8O42aMt9R&scisig=AAGBfm0AAAAAXYLUDocxY6UcLaORQ28GkaV-wkgdRH62&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Research purposes: Gas overflow appeared in the Silurian '
+                     'schist stratum during construction of Caishenmiao '
+                     'Tunnel. The tunnel gas was monitored, tested and '
+                     'evaluated for predicting the volume of the gas overflow. '
+                     'This paper analyzes the sources of gas and …',
+         'author': 'Y CHEN and F LI',
+         'title': 'Thoughts on Gas Overflow from the Non-gas Stratum [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-TDGC201002015.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '15462400378216715159',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lxN5fjh7ldYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RFng:AAGBfm0AAAAAXYLUDnh5IeRQboveU0id7fY8O42aMt9R&scisig=AAGBfm0AAAAAXYLUDgXThUhFzF4iAmSY21N1hXsY7xZj&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… on system performance. The concept can be efficiently '
+                     'integrated into object oriented\n'
+                     'system modeling tools such as GSP in the following '
+                     'manner. Heat sinks are\n'
+                     'represented by non-gas path component models. They can '
+                     'be … \n',
+         'author': 'WPJ Visser and ID Dountchev',
+         'title': 'Modeling thermal effects on performance of small gas '
+                  'turbines',
+         'url': 'https://asmedigitalcollection.asme.org/GT/proceedings/GT2015/56628/V001T01A014/236408'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '14191487042618914361',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OfbbiUZK8sQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RFng:AAGBfm0AAAAAXYLUDnh5IeRQboveU0id7fY8O42aMt9R&scisig=AAGBfm0AAAAAXYLUDkIvGEXpORTyLsjf8Ul6xWehKLc0&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content. Advertisement. Main menu. Home; '
+                     'Content: Current Issue;\n'
+                     'Publication Preview--Ahead of Print; Past Issue Archive; '
+                     'Case of the Week Archive;\n'
+                     'Classic Case Archive; Case of the Month Archive. For '
+                     'Authors; About … \n',
+         'author': 'MMH Teng and CJ Wei and LC Wei and CB Luo…',
+         'eprint': 'http://www.ajnr.org/content/ajnr/24/9/1893.full.pdf',
+         'title': 'Kyphosis correction and height restoration effects of '
+                  'percutaneous vertebroplasty',
+         'url': 'http://www.ajnr.org/content/24/9/1893.short'},
+ 'citedby': 224,
+ 'id_scholarcitedby': '12721553148226200871',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:J2VGxy8JjLAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RFng:AAGBfm0AAAAAXYLUDnh5IeRQboveU0id7fY8O42aMt9R&scisig=AAGBfm0AAAAAXYLUDmdwfY1v4tmOt4d23FYfKTdEVZc0&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A strain of Bact. coli grown in increasing '
+                     'concentrations of the arnino acid became\n'
+                     'resistant to 6 per cent. glycine. " The resistant '
+                     'variant still produced acid in glucose,\n'
+                     'mannitol, lactose and dulcitol, but completely failed to '
+                     'form gas. Repeated subculture …',
+         'author': 'J Gordon',
+         'title': 'A Non-Gas-Produeîng Variant of Bacterium coli induced by '
+                  'Growth in Glyeine.',
+         'url': 'https://www.cabdirect.org/cabdirect/abstract/19492701356'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '3243729815940546352',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ML964hQLBC0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RD2w:AAGBfm0AAAAAXYLUF2xROxGsP3Z3-NRVDbpzYF9CKOCY&scisig=AAGBfm0AAAAAXYLUF1B2LuT8j0bOPKx3t3Z1zHAACvI9&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'It introduced the technology of the conventional '
+                     'gas-assist injection molding and its merits and demerits '
+                     'and some newly developed technologies of gas-assist '
+                     'injection molding, including external gas-assist '
+                     'injection molding, local gas-assist injection molding, '
+                     'oscillation …',
+         'author': 'LEI Jun and LIU Zheng',
+         'title': 'Latest Development of Gas-assist Injection Molding and '
+                  'Non-gas Medium-assist Injection Molding [J]',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-SLKJ200404012.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '16832758855745817249',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oUqK2v74mekJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RD2w:AAGBfm0AAAAAXYLUF2xROxGsP3Z3-NRVDbpzYF9CKOCY&scisig=AAGBfm0AAAAAXYLUF8r2szcYU17qorN5W3XaqZuLp3uM&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Volunteer; Warning signs. Search. Advanced Search. '
+                     'Donate. Circulation logo. Hello Guest!\n'
+                     'MY ALERTS. SIGN IN; JOIN. Login to your account. Email. '
+                     'Password. Forgot password?\n'
+                     'Keep me logged in. Submit your article; AHA Logo. Search '
+                     '… \n',
+         'author': 'G Karthikeyan and BM Mayosi',
+         'eprint': 'https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.108.836510',
+         'title': 'Is primary prevention of rheumatic fever the missing link '
+                  'in the control of rheumatic heart disease in Africa?',
+         'url': 'https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.108.836510'},
+ 'citedby': 84,
+ 'id_scholarcitedby': '4140186937576249804',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zNnxhRXmdDkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RD2w:AAGBfm0AAAAAXYLUF2xROxGsP3Z3-NRVDbpzYF9CKOCY&scisig=AAGBfm0AAAAAXYLUF1siqY4D1HPDlL807xMPOXgTu3Ii&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… Loss of right eye Gas 16 1.9 Non-gas' 307 87.8 Loss of "
+                     'left eye Gas 10 1.2 Non-gas 289 35.6 Loss\n'
+                     'of both eyes Gas 4 .5 Non-gas 44 5.3 Loss of one eye '
+                     '(unknown) Gas 3 .4 Non-gas 59 7.3\n'
+                     'Traumatism Gas 0 .0 Non-gas 80 10.0 Total Gas 33 4.0 '
+                     'Non-gas 779 96.0 … \n',
+         'author': 'C Berens and E Hartmann',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1933971/pdf/bullnyacadmed00542-0063.pdf',
+         'title': 'The effect of war gases and other chemicals on the eyes of '
+                  'the civilian population',
+         'url': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1933971/'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '15244977793174714655',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:H7nlEogKkdMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RD2w:AAGBfm0AAAAAXYLUF2xROxGsP3Z3-NRVDbpzYF9CKOCY&scisig=AAGBfm0AAAAAXYLUF44XMHXwrHVoyAbbIeM2cYzBW4aK&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… effects ❖ Increased oil production also yields '
+                     'additional associated gas ❖ Higher oil prices\n'
+                     'also raise the value of non-gas liquids often produced '
+                     'with gas ❖ However, gas can also\n'
+                     'be re-injected to enhance oil recovery ◆ Unconventional '
+                     '… \n',
+         'author': 'P Hartley',
+         'eprint': 'http://www.kremlgaz.narod.ru/380.PDF',
+         'title': 'International Natural Gas Market Developments to 2030',
+         'url': 'http://www.kremlgaz.narod.ru/380.PDF'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14573107491038617686',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VuDwLA0UPsoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RD2w:AAGBfm0AAAAAXYLUF2xROxGsP3Z3-NRVDbpzYF9CKOCY&scisig=AAGBfm0AAAAAXYLUF1yfAamjRotZ6w-9BXMsb4yu_egQ&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Tubular cored electrodes for gas-shielded and '
+                     'non-gas-shielded metal arc welding of non-alloy\n'
+                     'and fine grain steels. Classification … Tubular cored '
+                     'electrodes for gas-shielded and\n'
+                     'non-gas-shielded metal arc welding of high-strength '
+                     'steels. Classification … \n',
+         'author': 'VN Shlepakov',
+         'eprint': 'https://patonpublishinghouse.com/tpwj/pdf/2014/pdfarticles/06/11.pdf',
+         'title': 'PHYSICAL-METALLURGICAL AND WELDING-TECHNOLOGICAL PROPERTIES '
+                  'OF GAS-SHIELDED FLUX-CORED WIRES FOR WELDING OF …',
+         'url': 'https://patonpublishinghouse.com/tpwj/pdf/2014/pdfarticles/06/11.pdf'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '13111488230162045477',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JRqG4xNd9bUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RD2w:AAGBfm0AAAAAXYLUF2xROxGsP3Z3-NRVDbpzYF9CKOCY&scisig=AAGBfm0AAAAAXYLUFyhyMKSKrgvCii3W-mhYgsB0eo7_&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… individual animal effect. For the non-GAS schemes, '
+                     'BLUP-EBV were calculated\n'
+                     'ignoring the information of the QTL with the genetic '
+                     'variance including that due to\n'
+                     'the QTL (assuming the initial frequency of 0.15). These '
+                     'BLUP … \n',
+         'author': 'THE Meuwissen and AK Sonesson',
+         'eprint': 'http://search.proquest.com/openview/9a9c4b252e63a607fb65ceccb877fcbc/1.pdf?pq-origsite=gscholar&cbl=39447',
+         'title': 'Genotype-assisted optimum contribution selection to '
+                  'maximize selection response over a specified time period',
+         'url': 'https://www.cambridge.org/core/journals/genetics-research/article/genotypeassisted-optimum-contribution-selection-to-maximize-selection-response-over-a-specified-time-period/908D2DEAE5D84AF36623A310B09514FE'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '11496335098330855297',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gbfdmtwvi58J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RD2w:AAGBfm0AAAAAXYLUF2xROxGsP3Z3-NRVDbpzYF9CKOCY&scisig=AAGBfm0AAAAAXYLUF4ELN7Et6pKbqytzkMlByvgkCJ_R&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… No. 4,509,957. Also the term "means for removing non '
+                     'gas products, "3, is substituted herein\n'
+                     'for the term "coke removal mechanism" of US Pat. No … '
+                     'For this latter case each separate reaction\n'
+                     'chamber in each container is served by but one separate '
+                     'non-gas removal means … \n',
+         'author': 'JC Firey',
+         'eprint': 'https://patentimages.storage.googleapis.com/f2/7a/0d/e0d4c4ae8e4eee/US4692171.pdf',
+         'title': 'Solid with gas reactor plant',
+         'url': 'https://patents.google.com/patent/US4692171A/en'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '10542711442404175138',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Im3y_TI8T5IJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RD2w:AAGBfm0AAAAAXYLUF2xROxGsP3Z3-NRVDbpzYF9CKOCY&scisig=AAGBfm0AAAAAXYLUF5zXppP7XFhl1yCWYF9BDBtNw0Nr&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. THE CANADIAN CORPS TIM COOK AND GAS WARFARE IN '
+                     'THE FIRST\n'
+                     'WORLD WAR I Page 2. Page 3. No Place to Run Thi s O '
+                     'GN5Q-GSH-SETZ Page 4.\n'
+                     'Page 5. No Place to Run The Canadian Corps and Gas '
+                     'Warfare … \n',
+         'author': 'T Cook',
+         'title': 'No place to run: The Canadian corps and gas warfare in the '
+                  'First World War',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=RCMXjVpj9xYC&oi=fnd&pg=PR6&dq=nongas&ots=offueeTuD3&sig=iPKnB06ijWsYcGNCi09m9NM8rGw'},
+ 'citedby': 93,
+ 'id_scholarcitedby': '8771767377999931459',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Q6gLmvSTu3kJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RD2w:AAGBfm0AAAAAXYLUF2xROxGsP3Z3-NRVDbpzYF9CKOCY&scisig=AAGBfm0AAAAAXYLUF6q6PDr0p6OZDSot9hy3Dcg7vgHx&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Mixtures of bacteria, a lactose fer- menting but '
+                     'non-gas-producing or- ganism growing in the\n'
+                     'presence of non- lactose-fermenting bacterium but one '
+                     'which can produce acid andgas from\n'
+                     'glucose, may cause gasproduction in the absence of '
+                     'Escherichia-aerobacter organisms … \n',
+         'author': 'CN Stark and LR Curtis',
+         'eprint': 'https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.26.4.354',
+         'title': 'Evaluation of Certain Media for the Detection of Colon '
+                  'Organisms in Milk',
+         'url': 'https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.26.4.354'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '119444984907339823',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:L5iat5RaqAEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RD2w:AAGBfm0AAAAAXYLUF2xROxGsP3Z3-NRVDbpzYF9CKOCY&scisig=AAGBfm0AAAAAXYLUF83LRLYGCX3Pu-K1OEiTEkv_Csoo&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Urabe, 1984). Similarly, pericytes of the bovine gas '
+                     'exchange capillaries tend to\n'
+                     'be concentrated in the non-gas exchange re- gions (Sims '
+                     'and Westfall, unpublished\n'
+                     'observation). In each of these three tissues, Page 9. '
+                     'THE … \n',
+         'author': 'DE Sims',
+         'eprint': '/scholar?output=instlink&q=info:f02rTQy4b8AJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=394280460658026346&oi=lle',
+         'title': 'The pericyte—a review',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0040816686900261'},
+ 'citedby': 558,
+ 'id_scholarcitedby': '13866504140679236991',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:f02rTQy4b8AJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RBxU:AAGBfm0AAAAAXYLUHxVpX6rLfWQJweJvMxWB8_voXeeZ&scisig=AAGBfm0AAAAAXYLUHxbMVcLYX0KxomEPw7W6S648P9l7&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Furthermore, to evaluate the clinical impor- tance of '
+                     'gas-forming pyogenic liver infections, we\n'
+                     'sep- arated these 42 diabetic patients into gas-forming '
+                     'and non-gas-forming groups, after\n'
+                     'sonography and CT scan … Among the !9 patients in the '
+                     'non-gas-forming group … \n',
+         'author': 'CC Yang and CY Chen and XZ Lin and TT Chang…',
+         'eprint': 'http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00029270&AN=16006215&h=snDjrpUNJVvdEOF5E6ULxx5UIUHi7Wi5yXaiulsD%2B9dox8b2JGfp4l81WNp2GZI9NDuy2tFzZ3DEyccpNWZzng%3D%3D&crl=f',
+         'title': 'Pyogenic liver abscess in Taiwan: emphasis on gas-forming '
+                  'liver abscess in diabetics.',
+         'url': 'http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00029270&AN=16006215&h=snDjrpUNJVvdEOF5E6ULxx5UIUHi7Wi5yXaiulsD%2B9dox8b2JGfp4l81WNp2GZI9NDuy2tFzZ3DEyccpNWZzng%3D%3D&crl=c'},
+ 'citedby': 241,
+ 'id_scholarcitedby': '8560443151718803345',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kecf-rDNzHYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RBxU:AAGBfm0AAAAAXYLUHxVpX6rLfWQJweJvMxWB8_voXeeZ&scisig=AAGBfm0AAAAAXYLUH5qa7wR2Y_ZbVjjSeLXlxKqS-R3P&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Thus, producing a product fraction with a majority in '
+                     'the diesel fuel range with the balance of\n'
+                     'the non-gas phase products involving a light wax, '
+                     'without requiring major traditional\n'
+                     'hydroprocessing or other upgrading steps, requires a '
+                     'significantly different catalyst and process … \n',
+         'author': 'R Schuerzle and D Schuetzle',
+         'title': 'Catalyst and process for the production of diesel fuel from '
+                  'natural gas, natural gas liquids, or other gaseous '
+                  'feedstock',
+         'url': 'https://patents.google.com/patent/US20150291888A1/en'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '9329347404306007539',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:80XfAwmAeIEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RBxU:AAGBfm0AAAAAXYLUHxVpX6rLfWQJweJvMxWB8_voXeeZ&scisig=AAGBfm0AAAAAXYLUH1CofT8AXdVsMJjM55hJus4AVwjK&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content. Main menu. Home; Articles: Current '
+                     'Issue; Archives; NEW: Abstracts\n'
+                     'In Press; Email Alerts. Info For: Authors; Reviewers; '
+                     'Subscribers; Advertisers. SUBMIT:\n'
+                     'Manuscript; Peer Review. About: The JABFM; Editorial '
+                     'Board … \n',
+         'author': 'J Tiemstra and RLF Miranda',
+         'eprint': 'https://www.jabfm.org/content/jabfp/22/6/663.full.pdf',
+         'title': 'Role of non-group A streptococci in acute pharyngitis',
+         'url': 'https://www.jabfm.org/content/22/6/663.short'},
+ 'citedby': 45,
+ 'id_scholarcitedby': '558928293243354956',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TH-vRVK2wQcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RBxU:AAGBfm0AAAAAXYLUHxVpX6rLfWQJweJvMxWB8_voXeeZ&scisig=AAGBfm0AAAAAXYLUH0kJTgicTZ_BxQAcDVzT7_xdkrhD&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… It will be realized that it could be very expensive to '
+                     'shut down a production line, and it is highly\n'
+                     'undesirable to do so merely because of an incidental '
+                     'failure of equipment or a non-gas-related\n'
+                     'event or effect such as the presence of background '
+                     'signal related to the sensor cell … \n',
+         'author': 'JA Tiwet and CS Stone and RA Gorny and J Chapples…',
+         'eprint': 'https://patentimages.storage.googleapis.com/a7/b5/6e/efeb47221acd71/US7504959.pdf',
+         'title': 'Gas monitoring using electrochemical cell and method of '
+                  'operating',
+         'url': 'https://patents.google.com/patent/US7504959B2/en'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '12921361883392255506',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EibeMSzmUbMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RBxU:AAGBfm0AAAAAXYLUHxVpX6rLfWQJweJvMxWB8_voXeeZ&scisig=AAGBfm0AAAAAXYLUH-PBxkWUWHn0oilLZR6N-_A-UupU&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 980, Japan. from three hours before examination. '
+                     'Radioactive Xe non gas inhalation\n'
+                     'procedures according to Obrist et al.7 were followed, '
+                     'where 1 minute of inhalation\n'
+                     'was followed by 10 minutes of clearance. Cerebral '
+                     'activity … \n',
+         'author': 'K Kubota and T Yamaguchi and Y Abe and T Fujiwara and J '
+                   'Hatazawa…',
+         'eprint': 'https://www.ahajournals.org/doi/pdf/10.1161/01.STR.14.5.720',
+         'title': 'Effects of smoking on regional cerebral blood flow in '
+                  'neurologically normal subjects.',
+         'url': 'https://www.ahajournals.org/doi/abs/10.1161/01.STR.14.5.720'},
+ 'citedby': 90,
+ 'id_scholarcitedby': '11041328066993745908',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9G-2oWCtOpkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RBxU:AAGBfm0AAAAAXYLUHxVpX6rLfWQJweJvMxWB8_voXeeZ&scisig=AAGBfm0AAAAAXYLUH0hgtsuwbErsQ3J0adJTQVLPV-Am&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… moisture in samples than other gas sensors. The use of '
+                     'non gas sensor systems such\n'
+                     'as mass spectrometric (MS) coupled with chemometrics can '
+                     'replace those now widely\n'
+                     'used. With reviewing the works conducted on alcoholic '
+                     '… \n',
+         'author': 'M Ghasemi-Varnamkhasti and SS Mohtasebi…',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0924224410002918',
+         'title': 'Potential application of electronic nose technology in '
+                  'brewery',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0924224410002918'},
+ 'citedby': 78,
+ 'id_scholarcitedby': '10429899164333654332',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PEFArQdyvpAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RBxU:AAGBfm0AAAAAXYLUHxVpX6rLfWQJweJvMxWB8_voXeeZ&scisig=AAGBfm0AAAAAXYLUH6NtgATklrYJ8Uk4YAPACgCMLw0d&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A previously unrecognized organism, a small '
+                     'gram-negative, encapsulated, nongas-forming, aerobic '
+                     'bacillus was found in three patients, each of whom was '
+                     'suffering from some pathologic condition of the '
+                     'genito-urinary tract. It was not possible to determine '
+                     'whether the …',
+         'author': 'GR Lacy and AC Murdoch',
+         'title': 'Encapsulated nongas-forming bacilli',
+         'url': 'https://www.jstor.org/stable/30082227'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '9191861356252817331',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:s-cW9DMNkH8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RBxU:AAGBfm0AAAAAXYLUHxVpX6rLfWQJweJvMxWB8_voXeeZ&scisig=AAGBfm0AAAAAXYLUH4ykH9JdbCv4pL5MoRHvfPK9khEq&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The size of pores and throats is at the nanometer scale '
+                     'in tight oil and shale gas zones, and the resistivity of '
+                     'these reservoirs is very high, so the reservoirs show '
+                     'more dielectric properties than conductivity properties. '
+                     'The conductive and dielectric characteristics of a …',
+         'author': 'HQ Liu and Y Jun and YM Deng',
+         'eprint': 'https://link.springer.com/article/10.1007/s12182-015-0015-z',
+         'title': 'Study of the properties of non-gas dielectric capacitors in '
+                  'porous media',
+         'url': 'https://link.springer.com/article/10.1007/s12182-015-0015-z'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '2960106550291950709',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:dWx1YzlpFCkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RBxU:AAGBfm0AAAAAXYLUHxVpX6rLfWQJweJvMxWB8_voXeeZ&scisig=AAGBfm0AAAAAXYLUHwoKdsJfpVfMVasvAfELbQhBRK2Y&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… TPSA method: direct isolate testing. A sterile dry '
+                     'swab was touched lightly to three to four GAS\n'
+                     'or non-GAS colonies and processed by TPSA in the same '
+                     'manner as for the throat swab. The\n'
+                     'non-GAS included 9 group B, 10 group C, 9 group F, and '
+                     '12 group G streptococci … \n',
+         'author': 'LD Schwabe and MT Small and EL Randall',
+         'eprint': 'https://jcm.asm.org/content/jcm/25/2/309.full.pdf',
+         'title': 'Comparison of TestPack Strep A test kit with culture '
+                  'technique for detection of group A streptococci.',
+         'url': 'https://jcm.asm.org/content/25/2/309.short'},
+ 'citedby': 47,
+ 'id_scholarcitedby': '16626594408982517061',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RRXmA4aHveYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RBxU:AAGBfm0AAAAAXYLUHxVpX6rLfWQJweJvMxWB8_voXeeZ&scisig=AAGBfm0AAAAAXYLUH4psBJAa6XzbzwKO2WGQLit9Oy0F&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'author': 'E Zapomělová and J Mareš and A Lukešová and O Skácelová…',
+         'title': 'Extensive polyphyly of non-gas-vacuolate Anabaena species '
+                  '(Nostocales, Cyanobacteria)–a challenge for modern '
+                  'cyanobacterial taxonomy'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '12952712554204169391',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rwQVD3FHwbMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RMH4:AAGBfm0AAAAAXYLUKH4jqt05bdHQmUrZW1eSaYbrgsjN&scisig=AAGBfm0AAAAAXYLUKOZTTRRlg6ERW51tdKKuBUVnuJ5y&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Bacitracin sensitive streptococci in throat specimens '
+                     'are reported as presumptively\n'
+                     'GAS because 95% of GAS are sensitive and only 90/0 of '
+                     'non—GAS are sensitive … These\n'
+                     'non—GAS infections are not usually speciated or grouped '
+                     '… \n',
+         'author': 'GS Williams',
+         'eprint': 'http://search.proquest.com/openview/a8735d1c4b8a0a6c4fca5b4a7b021514/1?pq-origsite=gscholar&cbl=35972',
+         'title': 'Group C and G streptococci infections: emerging challenges',
+         'url': 'http://search.proquest.com/openview/a8735d1c4b8a0a6c4fca5b4a7b021514/1?pq-origsite=gscholar&cbl=35972'},
+ 'citedby': 30,
+ 'id_scholarcitedby': '135222425836469757',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_T2mcRRo4AEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RMH4:AAGBfm0AAAAAXYLUKH4jqt05bdHQmUrZW1eSaYbrgsjN&scisig=AAGBfm0AAAAAXYLUKNlZJO6u63iFAUTM9Wo0ldXPCytK&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 7, CHEN Yuan-yuan,LI Fa-chang (China Railway First '
+                     'Survey and Design Institute\n'
+                     'Group Ltd.,Xi′an,Shanxi 710043);Thoughts on Gas Overflow '
+                     'from the Non-gas\n'
+                     'Stratum[J];Journal of Railway Engineering '
+                     'Society;2010-02 … \n',
+         'author': 'CGQSG Song and W Mingwu',
+         'title': 'A novel coupling analysis model of SPA, TFN and SS for the '
+                  'gas burst in tunnel',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-TMGC2011S2057.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '6466418567824094172',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3DMlSG1VvVkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RMH4:AAGBfm0AAAAAXYLUKH4jqt05bdHQmUrZW1eSaYbrgsjN&scisig=AAGBfm0AAAAAXYLUKKuRI1pOee2ntXwY037c_Pfw4kTp&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content. Main menu. Home; Articles: '
+                     'Current; Archive; Supplemental Issues;\n'
+                     'Collections - French; Collections - English. Info for: '
+                     'Authors & Reviewers; Submit a\n'
+                     'Manuscript; Advertisers; Careers & Locums; Subscribers; '
+                     'Permissions … \n',
+         'author': 'S Madden and L Kelly',
+         'eprint': 'https://www.cfp.ca/content/cfp/55/5/475.full.pdf',
+         'title': 'Update on acute rheumatic fever: It still exists in remote '
+                  'communities',
+         'url': 'https://www.cfp.ca/content/55/5/475.short'},
+ 'citedby': 23,
+ 'id_scholarcitedby': '3411308663936184575',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:__Ag7SdnVy8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RMH4:AAGBfm0AAAAAXYLUKH4jqt05bdHQmUrZW1eSaYbrgsjN&scisig=AAGBfm0AAAAAXYLUKOHDorB70YGF7jKqnNHJ3SdWLYLW&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… polycarbonate, μM, IM, HE, eB, LL, non-gas-permeable '
+                     'structure, strong, transparent, hydrophobic,\n'
+                     'susceptible to organic acids/bases, inflexible … '
+                     'cycloolefin copolymer, μM, IM, HE, eB,\n'
+                     'non-gas-permeable, inexpensive, resists solvents and '
+                     'acids/bases, hydrophobic … \n',
+         'author': 'AC Siegel and SKY Tang and CA Nijhuis…',
+         'eprint': 'https://pubs.acs.org/doi/full/10.1021/ar900178k',
+         'title': 'Cofabrication: a strategy for building multicomponent '
+                  'microsystems',
+         'url': 'https://pubs.acs.org/doi/abs/10.1021/ar900178k'},
+ 'citedby': 54,
+ 'id_scholarcitedby': '15970553821211897588',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9K6XsxXOot0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RMH4:AAGBfm0AAAAAXYLUKH4jqt05bdHQmUrZW1eSaYbrgsjN&scisig=AAGBfm0AAAAAXYLUKGsuHN_-1TNOBAzMSUl198I9QiHS&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'US20170341316A1 - Composite articles comprising '
+                     'non-linear elongated nanostructures\n'
+                     'and associated methods - Google Patents. Composite '
+                     'articles comprising non-linear\n'
+                     'elongated nanostructures and associated methods. '
+                     'Download PDF Info … \n',
+         'author': 'BL Wardle and P Nordin',
+         'eprint': 'https://patentimages.storage.googleapis.com/4d/8e/29/85d94bb57957e5/US20170341316A1.pdf',
+         'title': 'Composite articles comprising non-linear elongated '
+                  'nanostructures and associated methods',
+         'url': 'https://patents.google.com/patent/US20170341316A1/en'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '15012506018233131006',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_h8zFa8iV9AJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RMH4:AAGBfm0AAAAAXYLUKH4jqt05bdHQmUrZW1eSaYbrgsjN&scisig=AAGBfm0AAAAAXYLUKOlRKLQmxITGSoxyEIwlR_PT0NJz&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Oil – non-gas petroleum, within or outside the source '
+                     'system, including hydrocarbons\n'
+                     '(paraffins, napthenes, and aromatics) and '
+                     'non-hydrocarbon nitrogen-sulphur-oxygen\n'
+                     '(NSO) heterocompounds of asphaltene and resin … \n',
+         'author': 'TL Gordon',
+         'title': 'Talang Akar coals–Ardjuna subbasin oil source',
+         'url': 'http://archives.datapages.com/data/ipa/data/014/014002/91_ipa014b0091.htm'},
+ 'citedby': 38,
+ 'id_scholarcitedby': '7920686268056535515',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2wHT-DHu620J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RMH4:AAGBfm0AAAAAXYLUKH4jqt05bdHQmUrZW1eSaYbrgsjN&scisig=AAGBfm0AAAAAXYLUKNOOXl7UEEr25G7hH2gGT8sCaIjU&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Labeled the “denomination effect,” study 1 shows in '
+                     'three field studies that the\n'
+                     'likelihood of spending is lower when an equivalent sum '
+                     'of money is r.',
+         'author': 'P Raghubir and J Srivastava',
+         'eprint': 'https://academic.oup.com/jcr/article-pdf/36/4/701/19296991/36-4-701.pdf',
+         'title': 'The denomination effect',
+         'url': 'https://academic.oup.com/jcr/article-abstract/36/4/701/1791668'},
+ 'citedby': 107,
+ 'id_scholarcitedby': '790973523383379014',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RmQBkDoa-goJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RMH4:AAGBfm0AAAAAXYLUKH4jqt05bdHQmUrZW1eSaYbrgsjN&scisig=AAGBfm0AAAAAXYLUKMPLMw21J0zysFXrlxGrCCNkIqTU&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'author': 'VV Osokin and AB Kudrin and MV Domin',
+         'title': 'On the thermodynamic and thermophysical base of '
+                  'non-gas-analyzing method for establishing refrigerant leaks '
+                  'from the compressor system of the …'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '5999247154223255209',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qQ5AW4CbQVMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RMH4:AAGBfm0AAAAAXYLUKH4jqt05bdHQmUrZW1eSaYbrgsjN&scisig=AAGBfm0AAAAAXYLUKMJwovpFayQ8iE7NBDveSZk_o8V8&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'author': 'WE James',
+         'title': 'Indonesia: Non-Oil and Non-Gas Export Performance in 1995, '
+                  'Agency for Research and Development, Ministry of Industry '
+                  'and Trade'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '14135262145520739970',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gibKjgeKKsQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RMH4:AAGBfm0AAAAAXYLUKH4jqt05bdHQmUrZW1eSaYbrgsjN&scisig=AAGBfm0AAAAAXYLUKL3-vSuKyFYsnPvbxLtTWzSmxhfl&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In practicing our invention, we prefer to employ '
+                     'non-gas forming Lactobacilli … By the use of\n'
+                     'non-gas forming Lactobacilli, the undesirable organisms '
+                     'are masked and no gas will be formed\n'
+                     'during the processing of the sausage to rupture the '
+                     'casing. We claim … \n',
+         'author': 'LB Jensen and LS Paddock',
+         'eprint': 'https://patentimages.storage.googleapis.com/6e/86/28/c02c04a283d9f3/US2225783.pdf',
+         'title': 'Sausage treatment',
+         'url': 'https://patents.google.com/patent/US2225783A/en'},
+ 'citedby': 61,
+ 'id_scholarcitedby': '15958867669247541496',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-ED3apdJed0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RKZ0:AAGBfm0AAAAAXYLUMZ3qVew9Z9tpR1Kyu4qnfkIH9CoQ&scisig=AAGBfm0AAAAAXYLUMRedbtmzMEiMzWFHZWCC7S9LHBjc&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'author': 'T BADA and Y ASAI and H WATANABE',
+         'title': 'Fuji nongas wire NA-50'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '2034930126473868459',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qzQ3IyuGPRwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RKZ0:AAGBfm0AAAAAXYLUMZ3qVew9Z9tpR1Kyu4qnfkIH9CoQ&scisig=AAGBfm0AAAAAXYLUMRLF-QWh3qh8Qy21BoCpnnRTjqyy&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'author': 'HC Douglas',
+         'title': 'l95l. Glycine fermentation by nongas forming anaerobic '
+                  'micrococci'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '273871898767022242',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:olj4dwr9zAMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RKZ0:AAGBfm0AAAAAXYLUMZ3qVew9Z9tpR1Kyu4qnfkIH9CoQ&scisig=AAGBfm0AAAAAXYLUMQefQbhA18iizFRGvg3x5pI33TRm&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Objectives The aim of the study was to analyse the '
+                     'clinical and laboratory findings of patients\n'
+                     'with GAS NF and with non‐GAS NF, and to identify which '
+                     'characteristics could help to diagnose\n'
+                     'NF in the early stages of infection … GAS (n = 24), '
+                     'Non‐GAS NF (n = 19), OR (95% CI) … \n',
+         'author': 'T Simonart and J Nakafusa…',
+         'eprint': 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-3083.2004.01108.x',
+         'title': 'The importance of serum creatine phosphokinase level in the '
+                  'early diagnosis and microbiological evaluation of '
+                  'necrotizing fasciitis',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-3083.2004.01108.x'},
+ 'citedby': 29,
+ 'id_scholarcitedby': '13422475276399298552',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-Ec-CCY2RroJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RKZ0:AAGBfm0AAAAAXYLUMZ3qVew9Z9tpR1Kyu4qnfkIH9CoQ&scisig=AAGBfm0AAAAAXYLUMYgK2P89WfAIlMlytv9qlwF_4Gyc&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Interestingly, the only pesti- cides detected in the '
+                     'sampling were discovered at the more residential\n'
+                     'non-gas-station sites … Of even greater Table 3. '
+                     'Priority Pollutants Detected in Composite Scans\n'
+                     'of OGS Sediments Compound (µg/kg) Gas Nongas All Site '
+                     'Semivolatile Organics … \n',
+         'author': 'T Schueler and D Shepp',
+         'eprint': 'https://vip2.uvm.edu/~ran/pdfs/EPA625R-95.pdf#page=262',
+         'title': 'Hydrocarbon hotspots in the urban landscape',
+         'url': 'https://vip2.uvm.edu/~ran/pdfs/EPA625R-95.pdf#page=262'},
+ 'citedby': 22,
+ 'id_scholarcitedby': '2325745386346769829',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pe0zRxu1RiAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RKZ0:AAGBfm0AAAAAXYLUMZ3qVew9Z9tpR1Kyu4qnfkIH9CoQ&scisig=AAGBfm0AAAAAXYLUMdynIpbcRklC7KXwCsF3fujkvQmh&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… GAS exposure. 5. 11. Non-GAS infection. 10. 21. '
+                     'Socio-environmental event. 1 … Ten (21%)\n'
+                     'non-GAS infections were temporally associated with the '
+                     'onset of a flare, and one exacerbation\n'
+                     '(2%) was associated with a socio-environmental event '
+                     "(specifically, a trip to the doctor's office … \n",
+         'author': 'J Leon and R Hommer and P Grant and C Farmer…',
+         'eprint': 'https://link.springer.com/article/10.1007/s00787-017-1077-9',
+         'title': 'Longitudinal outcomes of children with pediatric autoimmune '
+                  'neuropsychiatric disorder associated with streptococcal '
+                  'infections (PANDAS)',
+         'url': 'https://link.springer.com/article/10.1007/s00787-017-1077-9'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '7198759231229594107',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-wkBUWEh52MJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RKZ0:AAGBfm0AAAAAXYLUMZ3qVew9Z9tpR1Kyu4qnfkIH9CoQ&scisig=AAGBfm0AAAAAXYLUMXK-vGZeO_ErF7_Flr8wBigBJgoM&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… No significant differences were found in age or gender '
+                     'between patients with GAS and\n'
+                     'non-GAS throat infection … The mean symptom dur- ation '
+                     'in patients with GAS infection was four\n'
+                     'days, while in patients with non-GAS infection it was '
+                     'seven days (p<.OI) … \n',
+         'author': 'P Hjortdahl and H Melbye',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.3109/02813439409003678',
+         'title': 'Does near-to-patient testing contribute to the diagnosis of '
+                  'streptococcal pharyngitis in adults?',
+         'url': 'https://www.tandfonline.com/doi/abs/10.3109/02813439409003678'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '10790605342862157605',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JSe7ZGPuv5UJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RKZ0:AAGBfm0AAAAAXYLUMZ3qVew9Z9tpR1Kyu4qnfkIH9CoQ&scisig=AAGBfm0AAAAAXYLUMXcxXR8_5lmn0lDOcRAvFSPo5JHr&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'An organism has been described with the morphological '
+                     'and biochemical features of B. proteus, except that it '
+                     'fails to produce gas from glucose, the only carbohydrate '
+                     'fermented. The lack of gas production is due to '
+                     'inability to split formates. Serial transfers in formate '
+                     '…',
+         'author': 'A Isaacs',
+         'title': 'A Non-Gas-Produeing Strain of B. proteus.',
+         'url': 'https://www.cabdirect.org/cabdirect/abstract/19482700209'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '18279728905743280507',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:e6lE8Zakrv0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RKZ0:AAGBfm0AAAAAXYLUMZ3qVew9Z9tpR1Kyu4qnfkIH9CoQ&scisig=AAGBfm0AAAAAXYLUMVmWyNRz5dbwGn_CC38lalNncPzq&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… DHS district heating system. Variables. θ i , V i '
+                     'voltage angle and magnitude at node i. P G,i ,\n'
+                     'Q G,i active and reactive power output of non-gas-fired '
+                     'generators at node i. P GAS,i , Q\n'
+                     'GAS,i active and reactive power output of gas- fired '
+                     'generators at node i. P STCHP,i , Q STCHP … \n',
+         'author': 'J Yu and L Guo and M Ma and S Kamel and W Li and X Song',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0142061518300978',
+         'title': 'Risk assessment of integrated electrical, natural gas and '
+                  'district heating systems considering solar thermal CHP '
+                  'plants and electric boilers',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0142061518300978'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '1458879191366614763',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:676dI-X6PhQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RKZ0:AAGBfm0AAAAAXYLUMZ3qVew9Z9tpR1Kyu4qnfkIH9CoQ&scisig=AAGBfm0AAAAAXYLUMVezmj18fNiAmB_44YQYc-oKaKQb&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content. Skip to main content … \n',
+         'author': 'PR Smeesters and D Campos and L Van Melderen…',
+         'title': 'Pharyngitis in low-resources settings: a pragmatic clinical '
+                  'approach to reduce unnecessary antibiotic use',
+         'url': 'https://pediatrics.aappublications.org/content/118/6/e1607.abstract'},
+ 'citedby': 53,
+ 'id_scholarcitedby': '3897379498364845027',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4zvtKgFGFjYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RKZ0:AAGBfm0AAAAAXYLUMZ3qVew9Z9tpR1Kyu4qnfkIH9CoQ&scisig=AAGBfm0AAAAAXYLUMbNrx1EEKZXG1Qffgs23uIwSXPh8&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'We present the case of a 55‐year‐old man who developed '
+                     'massive pericardial effusion with tamponade within a '
+                     '5‐day period. During transthoracic two‐dimensional '
+                     'echocardiographic examination, spontaneous echo contrast '
+                     'was visualized in pericardial effusion. A diagnosis …',
+         'author': 'MJUI HUNG and CH WANG and DAHWEL LIU…',
+         'eprint': 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-8175.1998.tb00636.x',
+         'title': 'Spontaneous Echo Contrast in Purulent Pericardial Effusion '
+                  'due to Non‐Gas‐Forming Organisms',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-8175.1998.tb00636.x'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '8560200465384661277',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HeFiKfjwy3YJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RITQ:AAGBfm0AAAAAXYLUOTSnmLJSkx4-WWdU1xPOpM26E4dZ&scisig=AAGBfm0AAAAAXYLUOU9Nwgx0xcHBEl6AKwxsX3Ip0dvp&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… conditions. One week was devoted to a study of flatus '
+                     'produc- tion while the subjects\n'
+                     'consumed a bland, basal, nongas-producing diet ; the '
+                     'remaining two or three weeks\n'
+                     'were used to record the effects of different bean diets '
+                     '… \n',
+         'author': 'FR Steggerda and JF Dimmick',
+         'title': 'Effects of bean diets on concentration of carbon dioxide in '
+                  'flatus',
+         'url': 'https://academic.oup.com/ajcn/article-abstract/19/2/120/4787518'},
+ 'citedby': 70,
+ 'id_scholarcitedby': '5305025540849810241',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QTu6Rp88n0kJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RITQ:AAGBfm0AAAAAXYLUOTSnmLJSkx4-WWdU1xPOpM26E4dZ&scisig=AAGBfm0AAAAAXYLUObCfHq7vHssNzUdx428dWie3m_pq&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Per cent emphysema (%E) was derived from these '
+                     "measurements by the formula 'foE= 100 X\n"
+                     'bj(a + b). The measurement of non-gas ex- changing '
+                     'tissue (c) was used as a point-counting\n'
+                     'consistency check and fell between 8 and 14 per cent of '
+                     'total points in all cases … \n',
+         'author': 'C Butler',
+         'title': 'Lung surface area in various morphologic forms of human '
+                  'emphysema',
+         'url': 'https://www.atsjournals.org/doi/abs/10.1164/arrd.1976.114.2.347'},
+ 'citedby': 28,
+ 'id_scholarcitedby': '11673946836007748931',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Q4UJz8swAqIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RITQ:AAGBfm0AAAAAXYLUOTSnmLJSkx4-WWdU1xPOpM26E4dZ&scisig=AAGBfm0AAAAAXYLUOf6alOgFw_w6IeKTFtWK7EKFty5J&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '45 Background: Cervical cancer is a leading cause of '
+                     'cancer-related mortality among women in low-and '
+                     'middle-income countries (LMICs). Two point-of-care '
+                     'technologies that address the treatment gap are the '
+                     'LMIC-adapted CryoPen, with a core temperature of …',
+         'author': 'M Cremer and M Maza and A Zevallos and M Alvarez and L '
+                   'Taxa…',
+         'eprint': 'https://ascopubs.org/doi/full/10.1200/JGO.2016.003947',
+         'title': 'Adapting CryoPen, a non-gas based cryotherapy system for '
+                  'use in low-and middle-income countries',
+         'url': 'https://ascopubs.org/doi/abs/10.1200/jgo.2016.003947'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '15661586576535086878',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HmdmQQMiWdkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RITQ:AAGBfm0AAAAAXYLUOTSnmLJSkx4-WWdU1xPOpM26E4dZ&scisig=AAGBfm0AAAAAXYLUORUrTiLr7v6PTRm_4Io6_TlyOh4y&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The capsule 115 is preferably rigid and may be '
+                     'constructed either from non-gas permeable,\n'
+                     'hydrophobic materials or gas-permeable materials. One '
+                     'example of a suitable non-gas\n'
+                     'permeable, hydrophobic material includes '
+                     'polymethylmethacrylate (PMMA) … \n',
+         'author': 'RD Blum and W Kokonaski',
+         'title': 'Stabilized electro-active contact lens',
+         'url': 'https://patents.google.com/patent/US7018040B2/en'},
+ 'citedby': 197,
+ 'id_scholarcitedby': '8997464037689323159',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:l-7SJd9p3XwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RITQ:AAGBfm0AAAAAXYLUOTSnmLJSkx4-WWdU1xPOpM26E4dZ&scisig=AAGBfm0AAAAAXYLUOYmQOHOUL5tIrQOBO7LymC1SYrKa&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In pure lithium melt, a compar- atively clean limiting '
+                     'current parallel to the current axis is observed.\n'
+                     'The variation of this limiting current under '
+                     'gas-bubbling and non-gas-bubbling conditions is shown\n'
+                     'in Fig … Fig. 2. As Fig. 1, Li2CO 3 melt '
+                     '(non-gas-bubbling conditions) … \n',
+         'author': 'AJ Appleby and S Nicholson',
+         'title': 'Oxygen reduction in carbonate melts: Significance of the '
+                  'peroxide and superoxide ions',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0022072872803693'},
+ 'citedby': 22,
+ 'id_scholarcitedby': '5416560315841686795',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:C604uuh8K0sJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RITQ:AAGBfm0AAAAAXYLUOTSnmLJSkx4-WWdU1xPOpM26E4dZ&scisig=AAGBfm0AAAAAXYLUOcnLZmMsJPMvxRn_XxY6yirmL75R&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skip to main content … \n',
+         'author': 'M Peris and L Escuder-Gilabert',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0003267009002268',
+         'title': 'A 21st century technique for food control: Electronic noses',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0003267009002268'},
+ 'citedby': 542,
+ 'id_scholarcitedby': '2316188568065876374',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:liFjIDvBJCAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RITQ:AAGBfm0AAAAAXYLUOTSnmLJSkx4-WWdU1xPOpM26E4dZ&scisig=AAGBfm0AAAAAXYLUOQ8su8fhqAkWt4ZeE_ynfXhuVgfo&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A low pressure liquid fuel gasification device and '
+                     'method is disclosed. The device includes a low frequency '
+                     'vibration device for generating low frequency vibration '
+                     'wave to supply vibration energy to compressed air. The '
+                     'contact between the compressed air and organic or …',
+         'author': 'CC Wen',
+         'eprint': 'https://patentimages.storage.googleapis.com/d5/a2/ff/96e5182c4c0f26/US20070214720A1.pdf',
+         'title': 'Low pressure liquid fuel gasification device and method',
+         'url': 'https://patents.google.com/patent/US20070214720A1/en'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '385265188313444806',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xjG_xaW8WAUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RITQ:AAGBfm0AAAAAXYLUOTSnmLJSkx4-WWdU1xPOpM26E4dZ&scisig=AAGBfm0AAAAAXYLUOcL4Yv9ObLmbhQD8K4__spL0y1m7&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Donate | Join | Shop | Create Account | Sign In. SEG '
+                     'DIGITAL LIBRARY FOUNDATION WIKI.\n'
+                     'Welcome! Search; Citation; DOI/ISSN/ISBN. All Content. '
+                     'Geophysics Geophysics. Close. Home … \n',
+         'author': 'H Li and W Zhao and H Cao and F Yao and L Shao',
+         'eprint': 'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.879.8294&rep=rep1&type=pdf',
+         'title': 'Measures of scale based on the wavelet scalogram with '
+                  'applications to seismic attenuation',
+         'url': 'https://library.seg.org/doi/abs/10.1190/1.2211529'},
+ 'citedby': 53,
+ 'id_scholarcitedby': '7863190406863515011',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:g-1bmgOqH20J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RITQ:AAGBfm0AAAAAXYLUOTSnmLJSkx4-WWdU1xPOpM26E4dZ&scisig=AAGBfm0AAAAAXYLUOa-bLlGYordojyyyc_hfIeWCQ1hC&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… This invention relates to both gas-assisted and '
+                     'non-gas assisted injection molding into multiple\n'
+                     'cavities … In the case of nongas-assisted injection '
+                     'molding, there is no gas injection step. Injection\n'
+                     'molding can employ multiple mold cavities, for example, '
+                     'four mold cavities … \n',
+         'author': 'GL Tatham',
+         'eprint': 'https://patentimages.storage.googleapis.com/28/38/cf/e0a1e0c8a54b47/US5849236.pdf',
+         'title': 'Method and apparatus for plastic injection molding flow '
+                  'control',
+         'url': 'https://patents.google.com/patent/US5849236A/en'},
+ 'citedby': 19,
+ 'id_scholarcitedby': '3993888980391451461',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RVuU_N0kbTcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RITQ:AAGBfm0AAAAAXYLUOTSnmLJSkx4-WWdU1xPOpM26E4dZ&scisig=AAGBfm0AAAAAXYLUOU5SWgxfen-KDcSFZcAjKqVd002I&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The average duration of their diabetes was also '
+                     'slightly less than the non-gas gangrene group\n'
+                     'at 9.7 years (range 2 months-3 years) … All needed more '
+                     'antihyperglycemic agents with their\n'
+                     'illness, substantially increased over the non-gas '
+                     'gangrene group … \n',
+         'author': 'O Kahn',
+         'eprint': 'https://journals.sagepub.com/doi/pdf/10.1177/000331977402500706',
+         'title': 'The incidence and significance of gas gangrene in a '
+                  'diabetic population',
+         'url': 'https://journals.sagepub.com/doi/abs/10.1177/000331977402500706'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '9777383743282295951',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jzQFM7Y-sIcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RJ1w:AAGBfm0AAAAAXYLUP1x3BBtXQv-BAWA7xI-_m-auBsGS&scisig=AAGBfm0AAAAAXYLUP23YU_611IODgnLzFBUrNKLWij72&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. Ann. Rev. Microbiol. 1977. 31:309-41 Copyright © '
+                     '1977 by Annual Reviews Inc. All rights\n'
+                     'reserved BIOGENESIS OF METHANE RA Mah Division of '
+                     'Environmental and Nutritional Sciences,\n'
+                     'School of Public Health, University of California, Los '
+                     'Angeles, California 90024 … \n',
+         'author': 'RA Mah and DM Ward and L Baresi…',
+         'eprint': 'https://www.annualreviews.org/doi/pdf/10.1146/annurev.mi.31.100177.001521',
+         'title': 'Biogenesis of methane',
+         'url': 'https://www.annualreviews.org/doi/pdf/10.1146/annurev.mi.31.100177.001521'},
+ 'citedby': 355,
+ 'id_scholarcitedby': '17719243453701132179',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:k4-FYgpm5_UJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RJ1w:AAGBfm0AAAAAXYLUP1x3BBtXQv-BAWA7xI-_m-auBsGS&scisig=AAGBfm0AAAAAXYLUP6B30aPSiVJuFOc5ZZ-LeLAruo91&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'US8126661B2 - Wet gas measurement - Google Patents. Wet '
+                     'gas measurement.\n'
+                     'Download PDF Info. Publication number US8126661B2. '
+                     'US8126661B2 US12/614,156\n'
+                     'US61415609A US8126661B2 US 8126661 B2 US8126661 … \n',
+         'author': 'MP Henry and MS Tombs',
+         'title': 'Wet gas measurement',
+         'url': 'https://patents.google.com/patent/US8126661B2/en'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '7801565360468676225',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gU66Yly6RGwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RJ1w:AAGBfm0AAAAAXYLUP1x3BBtXQv-BAWA7xI-_m-auBsGS&scisig=AAGBfm0AAAAAXYLUP_DyuxcPK-ouwdGo_2CatYVG2eSq&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… for the heterogeneity in our experiments. Seedling '
+                     'height heterogeneity is maximal\n'
+                     'with low LET radiation on stored, dry, non- gas treated '
+                     '(ie, air at normal pressure)\n'
+                     'seeds at room temperature. With the low LET radiation, '
+                     'the … \n',
+         'author': 'AD Conger and HQ Stevenson',
+         'title': 'A correlation of seedling height and chromosomal damage in '
+                  'irradiated barley seeds',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0033756069800153'},
+ 'citedby': 49,
+ 'id_scholarcitedby': '9761064339335765778',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:El_X30xEdocJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RJ1w:AAGBfm0AAAAAXYLUP1x3BBtXQv-BAWA7xI-_m-auBsGS&scisig=AAGBfm0AAAAAXYLUP-zu0e5LafOT-UhhtrbgkvdKoPN8&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'author': 'VA Burakov and VV Elizarov and VP Kozhukhov…',
+         'title': 'Thermal mathematical model of non-gas-tight equipment '
+                  'module of spacecraft'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '13988329564242561609',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ScrFFaCHIMIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RJ1w:AAGBfm0AAAAAXYLUP1x3BBtXQv-BAWA7xI-_m-auBsGS&scisig=AAGBfm0AAAAAXYLUP4scR_NN0WUSVbhhn8XldYrKTdFw&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'author': 'WE James',
+         'title': "Indonesia: Non-oil and Non-gas Export Performance in 1994', "
+                  'a report of the TIP Project'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '8364942236829833451',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:61jnIKU-FnQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RJ1w:AAGBfm0AAAAAXYLUP1x3BBtXQv-BAWA7xI-_m-auBsGS&scisig=AAGBfm0AAAAAXYLUP4ChdfJrmd5rDN3SzPwPKHsWn3Qh&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'author': 'T Miyagi',
+         'title': 'Does Non-Gas Container Cause a Boom?(Part 2)'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '16845798850307734234',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2rpGLs1MyOkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RJ1w:AAGBfm0AAAAAXYLUP1x3BBtXQv-BAWA7xI-_m-auBsGS&scisig=AAGBfm0AAAAAXYLUPygdW-z3s5ogeHd8yM3oY0hP82aM&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'author': 'F DUret',
+         'title': 'Rapid polymerizahon of dental Cornpositcs materials by '
+                  'COrnbining hvo synergistic technologies: Plasma Arc 1, ight '
+                  'and 又 non Gas'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '5597795723812353025',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ATQJa41dr00J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RJ1w:AAGBfm0AAAAAXYLUP1x3BBtXQv-BAWA7xI-_m-auBsGS&scisig=AAGBfm0AAAAAXYLUPx7NiSjR7vJuuuLdVgtbyXAdcMnU&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'author': 'T Bush and I Tsagatakis and K King and N Passant',
+         'title': 'UK Local and Regional estimates of non-gas, nonelectricity '
+                  'and non-road transport energy consumption for 2005. AEA '
+                  'Group'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '968660163898468068',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5GY9cUlfcQ0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RJ1w:AAGBfm0AAAAAXYLUP1x3BBtXQv-BAWA7xI-_m-auBsGS&scisig=AAGBfm0AAAAAXYLUP1KGLKd7iYGZuiFFM6zjkAjU6lkV&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'author': "ISY WHAT'S MINE",
+         'title': '… Several Suggestions for Further Encouraging Foreign '
+                  'Investment in the Exploration and Development of Non-Oil or '
+                  'Non-Gas Mineral Resources, drafted …'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '944850622577667015',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:x2uMnKLIHA0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RJ1w:AAGBfm0AAAAAXYLUP1x3BBtXQv-BAWA7xI-_m-auBsGS&scisig=AAGBfm0AAAAAXYLUP1rpNH07tcoWEn6npm5ywL9CAtf3&scisf=4&ct=citation&cd=99&hl=en'}

@@ -1,0 +1,1101 @@
+{'_filled': False,
+ 'bib': {'abstract': 'IN the year 1850, my attention was first attracted to '
+                     'these ancient remains, by observing the large group of '
+                     'cromlechs near the village of Rajunkolloor, in the '
+                     'principality of Shorapoor (an independent native state, '
+                     'situated between the Bheema and Krishna Rivers …',
+         'author': 'M Taylor',
+         'eprint': 'https://www.jstor.org/stable/pdf/30079262.pdf',
+         'title': 'Descriptions of cairns, cromlechs, kistvaens, and other '
+                  'Celtic, Druidical, or Scythian monuments in the Dekhan',
+         'url': 'https://www.jstor.org/stable/30079262'},
+ 'citedby': 23,
+ 'id_scholarcitedby': '9208088434439915649',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gYgsA6WzyX8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A3hc:AAGBfm0AAAAAXYJFxhdR15BISDtGrz02kDViHMUgyM11&scisig=AAGBfm0AAAAAXYJFxukYMf2lGO4_Hyq2AcuD8imx-e7e&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '1. Its situation, boundaries, extent, and general '
+                     'character. A description of the northern, central, and '
+                     'western portion. The Mendip, Quantock, and Brendon '
+                     'Hills; Dunkry Beacon, &c.—2. A detailed account of the '
+                     'Boundaries of the County.—3. The Rivers, their names, '
+                     'sources …',
+         'author': 'W Phelps',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=IAQVAAAAQAAJ&oi=fnd&pg=PR9&dq=druidical&ots=YX2jaFPLgd&sig=oAY_uxZxCWoP4QMfBp65tFHD_8o',
+         'title': '… County. To which is Prefixed an Historical Introduction, '
+                  'with a Brief View of Ecclesiastical History; and an Account '
+                  'of the Druidical, Belgic-British, Roman …',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=IAQVAAAAQAAJ&oi=fnd&pg=PR9&dq=druidical&ots=YX2jaFPLgd&sig=oAY_uxZxCWoP4QMfBp65tFHD_8o'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '6869608342088410475',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:a2U98GPAVV8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A3hc:AAGBfm0AAAAAXYJFxhdR15BISDtGrz02kDViHMUgyM11&scisig=AAGBfm0AAAAAXYJFxkWf09ty73_3rIqXD6E62zxQQLC3&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'It pleased the Almighty, in his infinite wisdom, to '
+                     'select from among the nations of the earth one chosen '
+                     'race to keep alive the spirit of true religion, to '
+                     'preserve the knowledge of Himself, the one true and only '
+                     'God, to be the depository of His laws, and the '
+                     'promulgators of …',
+         'author': 'E Duke',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=jsA9AAAAcAAJ&oi=fnd&pg=PA1&dq=druidical&ots=K0FEWUkwvz&sig=QATkj-FRGc20ugg_jnPDIuYPNi8',
+         'title': 'The Druidical Temples of the Country of Wilts',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=jsA9AAAAcAAJ&oi=fnd&pg=PA1&dq=druidical&ots=K0FEWUkwvz&sig=QATkj-FRGc20ugg_jnPDIuYPNi8'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '16262317314046333640',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yJJqiG9br-EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A3hc:AAGBfm0AAAAAXYJFxhdR15BISDtGrz02kDViHMUgyM11&scisig=AAGBfm0AAAAAXYJFxhDoyjLf5ahn0WVCpfJUqYRZFra8&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'When I had the pleasure of seeing you at Rose Castle, I '
+                     'mentioned my having discovered some singular sepulchres '
+                     'of the ancient Britons; and if you think the following '
+                     'account of them is worthy of being laid before the '
+                     'Society, I shall take the liberty of troubling you to …',
+         'author': 'H Rooke',
+         'title': 'IX. Druidical and other British remains in Cumberland, '
+                  'described by Hayman Rooke, Esq. FAS in a Letter to the Rev. '
+                  'Dr. Lort',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/ix-druidical-and-other-british-remains-in-cumberland-described-by-hayman-rooke-esq-fas-in-a-letter-to-the-rev-dr-lort/21EB447A3ECC39DD3C36B745C57DAAF4'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '386905340043721428',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1PoBW1uQXgUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A3hc:AAGBfm0AAAAAXYJFxhdR15BISDtGrz02kDViHMUgyM11&scisig=AAGBfm0AAAAAXYJFxgJGVjeUCuJlXjye_t7eyag19Lbu&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'On Hathersage Moor in the high Peak, not far from the '
+                     'road that goes from Sheffield to Manchester, is a '
+                     "British work, called Cair's work. See the plan Pl. XIII. "
+                     'fig. I. It is about two hundred yards in length, and '
+                     'sixty-one in width. It takes in an hill precipitous all '
+                     'round …',
+         'author': 'H Rooke',
+         'title': 'XIX. A further account of some Druidical Remains in '
+                  'Derbyshire. By Hayman Rooke, Esq.',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/xix-a-further-account-of-some-druidical-remains-in-derbyshire-by-hayman-rooke-esq/6C54A01E11385D3170596C06C8098131'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '15102666116179055547',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:u1MuuNByl9EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A3hc:AAGBfm0AAAAAXYJFxhdR15BISDtGrz02kDViHMUgyM11&scisig=AAGBfm0AAAAAXYJFxsnEu_hfFoGY8z0UiW7IPmiFYdlG&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A Cromlech in the parish of Auneville was explored by '
+                     'the owner of the property where it stands, in the summer '
+                     'of 1839. A representation of it is given in viii '
+                     'INTRODUCTION. the Archaeologia, Vol. xxviii., from which '
+                     'it appears to consist of a single Cap-stone, measuring …',
+         'author': 'CH Hartshorne',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=mt49AAAAcAAJ&oi=fnd&pg=PP14&dq=druidical&ots=NR4CqWViTC&sig=bV9nBps7DE0ZoD2vxqHTJENaX-I',
+         'title': 'Salopia Antiqua: Or, An Enquiry from Personal Survey Into '
+                  "the'druidical,'Military, and Other Early Remains in "
+                  'Shropshire and the North Welsh Borders; with …',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=mt49AAAAcAAJ&oi=fnd&pg=PP14&dq=druidical&ots=NR4CqWViTC&sig=bV9nBps7DE0ZoD2vxqHTJENaX-I'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '6431046831493675218',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0vgUJQWrP1kJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A3hc:AAGBfm0AAAAAXYJFxhdR15BISDtGrz02kDViHMUgyM11&scisig=AAGBfm0AAAAAXYJFxvivdLWKon_CQPBwoSsP_fZoZR2c&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Taylor',
+         'title': 'Notices of Cromlechs, Cairns and other Ancient '
+                  'Scytho-Druidical Remains in the Principality of Sorapur'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '9862489771157130674',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:so2-cjGa3ogJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A3hc:AAGBfm0AAAAAXYJFxhdR15BISDtGrz02kDViHMUgyM11&scisig=AAGBfm0AAAAAXYJFxq-Wz7JH63NnId5IDM1qSQ4-UwNv&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'AS a Vindication of the Hteroglyphical Figures contained '
+                     'in this Treatise may not be thought unnecessary, and yet '
+                     'would) break in too much upon the main Design, if '
+                     'inserted in the Body of the Work; the Author chuses to '
+                     'gratify the Reader in that Article by Way of …',
+         'author': 'W Cooke',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=ecAsAAAAMAAJ&oi=fnd&pg=PA11&dq=druidical&ots=3fNr060KCY&sig=FD1Gc_xgd9x7UqzrfzVjZOTRAPk',
+         'title': 'An Enquiry Into the Patriarchal and Druidical Religion, '
+                  'Temples, &c: Being the Substance of Some Letters to Sir '
+                  'Hildebrand Jacob, Bart. Where-in, the …',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=ecAsAAAAMAAJ&oi=fnd&pg=PA11&dq=druidical&ots=3fNr060KCY&sig=FD1Gc_xgd9x7UqzrfzVjZOTRAPk'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '1630020066913263486',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fp8fWZ3-nhYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A3hc:AAGBfm0AAAAAXYJFxhdR15BISDtGrz02kDViHMUgyM11&scisig=AAGBfm0AAAAAXYJFxukzoIG7HWy9Op-A72cEUnQ5-VV8&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Stanton Moor is twenty-four miles from Derby, twelve '
+                     'from Chesterfield, and four from Bakewell, a wild '
+                     'uncultivated waste, very high land, rocky, and produces '
+                     'a coarse kind of sedgey grass; it is about two miles in '
+                     'length from north to south, and near one and a half in …',
+         'author': 'H Rooke',
+         'title': 'XIII. An account of some Druidical Remains on Stanton and '
+                  'Hartle Moor in the Peak, Derbyshire. By Hayman Rooke, Esq.',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/xiii-an-account-of-some-druidical-remains-on-stanton-and-hartle-moor-in-the-peak-derbyshire-by-hayman-rooke-esq/C9839C740AE174401F66C0D3CE37CD04'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '16538323553302405533',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:neEQ36Xtg-UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A3hc:AAGBfm0AAAAAXYJFxhdR15BISDtGrz02kDViHMUgyM11&scisig=AAGBfm0AAAAAXYJFxl9EIRa-9OoNQ_KpYLvpku4qp41U&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Being last summer on a visit to my worthy friend Mr. '
+                     'Gell of Hopton, in Derbyshire, whose seat is in the '
+                     'parish of Worksworth, he was so obliging as to shew me '
+                     'some curious remains of British antiquities. I shall beg '
+                     'leave to trouble you with the description of these and '
+                     'some …',
+         'author': 'H Rooke',
+         'title': 'XIX. Description of some Druidical Remains on Harborough '
+                  'Rocks, &c. in Derbyshire. In a Letter from Major Rooke to '
+                  'the Rev. Mr. Norris, Secretary',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/xix-description-of-some-druidical-remains-on-harborough-rocks-c-in-derbyshire-in-a-letter-from-major-rooke-to-the-rev-mr-norris-secretary/50B68E91378E08C8E85DBB4174A1293F'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '2028097946061244366',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zgeuLFZAJRwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A3hc:AAGBfm0AAAAAXYJFxhdR15BISDtGrz02kDViHMUgyM11&scisig=AAGBfm0AAAAAXYJFxjPucbJmfLzJRMz00jURU1GDhqLL&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'To send this article to your Kindle, first ensure '
+                     'no-reply@cambridge.org is added to your Approved \n'
+                     'Personal Document E-mail List under your Personal '
+                     'Document Settings on the Manage Your \n'
+                     'Content and Devices page of your Amazon account. Then '
+                     "enter the 'name' part of your Kindle …",
+         'author': 'H Rooke',
+         'title': 'V. An Account of some Druidical Remains in Derbyshire. In a '
+                  'Letter to the Right Honourable Frederick Montagu, FAS By '
+                  'Hayman Rooke, Esq. FAS',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/v-an-account-of-some-druidical-remains-in-derbyshire-in-a-letter-to-the-right-honourable-frederick-montagu-fas-by-hayman-rooke-esq-fas/6B11C8B1EDBFDF129681A3AC3C61BE4C'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '4194637472612816561',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:sRahpI5YNjoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A1dc:AAGBfm0AAAAAXYJFzdc4Bqcm6YJCqZ96n_FFSh7f905-&scisig=AAGBfm0AAAAAXYJFze1H3SOFJQCj2Oss6J6I1W4t-O0a&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Gillings and J Pollard',
+         'eprint': 'https://lra.le.ac.uk/bitstream/2381/32288/5/569807.pdf',
+         'title': 'Authenticity, Artifice and the Druidical Temple of Avebury'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '16201796004981093930',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KrY9MKBX2OAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A1dc:AAGBfm0AAAAAXYJFzdc4Bqcm6YJCqZ96n_FFSh7f905-&scisig=AAGBfm0AAAAAXYJFzcT5pkMKJiSjgSfWGx-OY62uergx&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A small temporary redoubt was constructed some few years '
+                     'back, on a height near the shore, on the left of '
+                     'Lancresse Bay, three miles from the town in this island. '
+                     'The ground on which this redoubt stood, being composed '
+                     'of a sandy turf, was by degrees levelled by the …',
+         'author': 'J Gosselin',
+         'title': 'XXIX. An Account of some Druidical Remains in the Island of '
+                  'Guernsey. By Joshua Gosselin, Esq. in a Letter addressed to '
+                  'the Right Hon. Sir Joseph Banks, Bart …',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/xxix-an-account-of-some-druidical-remains-in-the-island-of-guernsey-by-joshua-gosselin-esq-in-a-letter-addressed-to-the-right-hon-sir-joseph-banks-bart-kb-prs-fsa/37EF31C3E1100DCE3E1BE9F07CE48825'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '1932112618627389088',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oNZVmzA-0BoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A1dc:AAGBfm0AAAAAXYJFzdc4Bqcm6YJCqZ96n_FFSh7f905-&scisig=AAGBfm0AAAAAXYJFzTVUf3XIyRj8oXYadQZn8c4wqCbK&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 117246, г. Москва, Научный проезд, д. 14А, стр. 3, '
+                     'таунхаус 1. Адреса серверов:\n'
+                     'http://elibrary.ru. http://e-library.ru. Размещение '
+                     'рекламы: reklama@elibrary.ru. Схема проезда.\n'
+                     'По всем вопросам, связанным с работой в системе Science '
+                     'Index, обращайтесь, пожалуйста …',
+         'author': 'MS Cross',
+         'title': 'THE DARK DRUIDICAL GROVES: THE LUMBER COMMUNITY AND THE '
+                  'COMMERCIAL FRONTIER IN BRITISH NORTH AMERICA, TO 1854.',
+         'url': 'https://elibrary.ru/item.asp?id=7040162'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '15241415261773130147',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:o2k0mG1ihNMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A1dc:AAGBfm0AAAAAXYJFzdc4Bqcm6YJCqZ96n_FFSh7f905-&scisig=AAGBfm0AAAAAXYJFzQ44mIrKu40VWocsXizXPrsAS9Ag&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The first druidical remain which I shall mention, is '
+                     'called the Rocking-Stone, and two different views '
+                     'thereof are exhibited at No 1 and 2 of the etched plate '
+                     'attending these remarks. It is situated so as to be a '
+                     'boundary mark between the two townships, Golcar and …',
+         'author': 'J Watson',
+         'title': 'XLI. Druidical Remains in or near the Parish of Halifax in '
+                  'Yorkshire, discovered and explained by the Rev. John '
+                  'Watson, MAFSA and Rector of Stockport in …',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/xli-druidical-remains-in-or-near-the-parish-of-halifax-in-yorkshire-discovered-and-explained-by-the-rev-john-watson-m-a-f-s-a-and-rector-of-stockport-in-cheshire/0089D4C8953F8F8555DB5AB8B87D64E0'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '9454583472278067181',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7ddpVJNtNYMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A1dc:AAGBfm0AAAAAXYJFzdc4Bqcm6YJCqZ96n_FFSh7f905-&scisig=AAGBfm0AAAAAXYJFzct_pSqWEeFq9NiwGhNyfmdvHULd&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'author': 'C HENRY',
+         'title': 'Salopia Antiqua, Or an Enquiry from Personal Survey Into '
+                  "the'druidical', Military, and... Other Early Remains in "
+                  'Shropshire and the North We'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '14151030649368738144',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YPlJdWaPYsQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A1dc:AAGBfm0AAAAAXYJFzdc4Bqcm6YJCqZ96n_FFSh7f905-&scisig=AAGBfm0AAAAAXYJFzRQw3ivI7J0Jg4jJinB71u8Qfo44&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'To the antiquary who has lingered in astonishment '
+                     'beneath the gigantic trilithons of Stonehenge, or who '
+                     'has made the circuit of the huge vallum of Abury, '
+                     'wondering as he walked at the magnitude and grandeur of '
+                     'the few remaining portions of the circles which it …',
+         'author': 'W Long',
+         'title': 'The Druidical Temple at Stanton Drew, commonly called The '
+                  'Weddings',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/00665983.1858.10851076'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '13899156112978801576',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qPPMB9i448AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A1dc:AAGBfm0AAAAAXYJFzdc4Bqcm6YJCqZ96n_FFSh7f905-&scisig=AAGBfm0AAAAAXYJFzbs2NwDuYVw9cxYfgvCaY2Edqjup&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A century ago, Celtic groups descending from the famed '
+                     'Hermetic Order of the Golden Dawn pioneered a '
+                     'fascinating form of ceremonial magic invoking Pagan '
+                     'Celtic powers instead of relying on the more commonly '
+                     'used Judeo-Christian names and symbols. Those …',
+         'author': 'JM Greer',
+         'title': 'The Celtic golden dawn: An original & complete curriculum '
+                  'of Druidical study',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=T7pHLvaYGfAC&oi=fnd&pg=PP1&dq=druidical&ots=tUBdNW4AEh&sig=mjZP_HfTlIKds_GBMxYfjloZBCU'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '13110719287288625365',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1XizbLqh8rUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A1dc:AAGBfm0AAAAAXYJFzdc4Bqcm6YJCqZ96n_FFSh7f905-&scisig=AAGBfm0AAAAAXYJFzYr7XeamjZug9il0Ej_0T-Ehm0KE&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'author': 'HS Conway',
+         'title': 'Description of a Druidical monument in the island of '
+                  'Jersey; in a letter from the Right Honourable Henry Seymour '
+                  'Conway'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '11681728664065409941',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lQMe2FPWHaIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A1dc:AAGBfm0AAAAAXYJFzdc4Bqcm6YJCqZ96n_FFSh7f905-&scisig=AAGBfm0AAAAAXYJFzZVRocl_QMaXS6oeDRUMjxdbBzfF&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'author': 'TC Croker', 'title': 'Druidical remains near Lough Gur'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '4470507863395561298',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Um9ISzdvCj4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A1dc:AAGBfm0AAAAAXYJFzdc4Bqcm6YJCqZ96n_FFSh7f905-&scisig=AAGBfm0AAAAAXYJFzUt-41nWdjrzS089mvyvpqbXCQip&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'I have taken the liberty of transmitting to your '
+                     'Lordship the accompanying Communication. It is an '
+                     'Extract from a Letter sent to me by my brother, who has '
+                     'been on a tour in France, and the account he gives of '
+                     'the astonishing monument at Carnac I have presumed may '
+                     'be …',
+         'author': 'A Logan',
+         'title': 'XIV. Account of a Visit to the Monument usually considered '
+                  'as Druidical, at Carnac in Brittany, made in the month of '
+                  'September 1825, by Alexander Logan, Esq …',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/xiv-account-of-a-visit-to-the-monument-usually-considered-as-druidical-at-carnac-in-brittany-made-in-the-month-of-september-1825-by-alexander-logan-esq-communicated-by-james-logan-esq-fsa-edinb-in-a-letter-to-the-right-honourable-the-earl-of-aberdeen-kt-president/C7559B8042289ECB356A3D5CE18172D2'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '5133873007909092569',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2Txj3kwuP0cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ay94:AAGBfm0AAAAAXYJF0951n0QyZBhRM6F2aeQNbKTdRSKm&scisig=AAGBfm0AAAAAXYJF0zI5HiesdhT-1CKtcy1f7UHYis6V&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'author': 'D Wright',
+         'title': 'Druidism: the ancient faith of Britain'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '8172934206255116339',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:M7B5yFsYbHEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ay94:AAGBfm0AAAAAXYJF0951n0QyZBhRM6F2aeQNbKTdRSKm&scisig=AAGBfm0AAAAAXYJF085vCdMSSkLPEtIf3-qi2zA_lvgs&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'author': 'MB Cotsworth',
+         'title': '… to Gain Much More Public Convenience; 180 Illustrations '
+                  'Explaining the Mystery of the Pyramids, Sphinx, Obelisks, '
+                  'Druidical Circles, Mounds, Vertical …'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '17185914384864140766',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3l0aAhSigO4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ay94:AAGBfm0AAAAAXYJF0951n0QyZBhRM6F2aeQNbKTdRSKm&scisig=AAGBfm0AAAAAXYJF01IMY3waUGdvrvRhpC_Vz3Lj2kYf&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JP Heathcote',
+         'title': 'Birchover: Its Prehistoric and Druidical Remains'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '13507354679956535867',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:O_oEMoTDc7sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ay94:AAGBfm0AAAAAXYJF0951n0QyZBhRM6F2aeQNbKTdRSKm&scisig=AAGBfm0AAAAAXYJF01IuJ-mLLEjyvDmrrtfueYTzfRn0&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'author': 'I When',
+         'title': "first came to Michel, I clung to the beautiful'Raphael, and "
+                  'feared his Druidical axe'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '17366557359802909480',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KIN_IuhnAvEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ay94:AAGBfm0AAAAAXYJF0951n0QyZBhRM6F2aeQNbKTdRSKm&scisig=AAGBfm0AAAAAXYJF07FKFFF2v0XP2YK-zXOQ8r-zHGWl&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'author': 'C Heath and HN Nelson',
+         'title': '… Pavilion and Beaulieu Grove, with Their Various Views: '
+                  'Also, the Naval Temple with New Notices of Buckstone, a '
+                  'Supposed Druidical Relique, Near it: to …'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '17183817034138999273',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6VkpfYwuee4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ay94:AAGBfm0AAAAAXYJF0951n0QyZBhRM6F2aeQNbKTdRSKm&scisig=AAGBfm0AAAAAXYJF0zv_9RWrXTcCnr49J-9ErOKvgQdL&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'author': 'MJ Cross',
+         'title': 'The Dark Druidical Groves: The Lumber Community and the '
+                  'Commercial Frontier to 1854'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '8092896773833300804',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RBs94Ly-T3AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ay94:AAGBfm0AAAAAXYJF0951n0QyZBhRM6F2aeQNbKTdRSKm&scisig=AAGBfm0AAAAAXYJF0-3EI52OjcEIjySpkyjiVde_CbZ_&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '~Ihi~ frununxiral ~3t~iji~ttr, No. 8~. JANUARY. 1870. '
+                     'OO~TE~TTS. PAGE PAGB Meeting of the \n'
+                     'Royal Astronomical Stereoscopy-Brilliant '
+                     'Meteor-ProSociety i gress of Astronomy '
+                     "inltaly-Lilian's \n"
+                     'Correspondence :- Bappy Hours-Catalogue of Stars . zo '
+                     'The November Meteors-A Stone Astronomical …',
+         'author': 'JH Broome',
+         'eprint': 'http://adsabs.harvard.edu/full/1870AReg....8A...1B',
+         'title': 'Appendix to No. 85: The Astronomy of, and Druidical Worship '
+                  'at Stonehenge.',
+         'url': 'http://adsabs.harvard.edu/full/1870AReg....8A...1B'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '2321187075023549111',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:t7IBuFiDNiAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ay94:AAGBfm0AAAAAXYJF0951n0QyZBhRM6F2aeQNbKTdRSKm&scisig=AAGBfm0AAAAAXYJF06Zl7m8aeouYyaftA5aVqDF5iPk5&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'We use cookies to improve your website experience. To '
+                     'learn about our use of cookies and how you can manage '
+                     'your cookie settings, please see our Cookie Policy. By '
+                     'closing this message, you are consenting to our use of '
+                     'cookies.',
+         'author': 'WL Lindsay',
+         'title': 'II. On the Lichen-Flora of Druidical Stones in Scotland',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/03746606809469008'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '5174314263933091801',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2f_3iWjbzkcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ay94:AAGBfm0AAAAAXYJF0951n0QyZBhRM6F2aeQNbKTdRSKm&scisig=AAGBfm0AAAAAXYJF09pkGYI4WYoAX8HO6cBX1hl3F7Cf&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'IN the month of January, 1849, I went to Trecastle '
+                     'Mountain, accompanied by Mr. Francis Green of Court '
+                     'Henry, in order to take the dimensions of a Druidical '
+                     'circle which had been recently discovered by Mr. John '
+                     'Rhys Jones, then a pupil, and subsequently Welsh teacher '
+                     '…',
+         'author': 'W Rees',
+         'title': 'AN ACCOUNT OF TWO DRUIDICAL CIRCLES AND A ROMAN CAMP ON A '
+                  'MOUNTAIN NEAR TRECASTLE, BRECKNOCKSHIRE.',
+         'url': 'http://search.proquest.com/openview/39936a2bf118a126/1?pq-origsite=gscholar&cbl=2924'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '3502881557869103733',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:dQoOwze8nDAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ay94:AAGBfm0AAAAAXYJF0951n0QyZBhRM6F2aeQNbKTdRSKm&scisig=AAGBfm0AAAAAXYJF06st77YculUdXi-fHYC_XqoDZ9WJ&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The prehistoric monuments of southern Anglesey have been '
+                     'interpreted in various ways over the past three '
+                     'centuries, as an examination of the work of '
+                     'antiquarians, artists, landscape designers and other '
+                     'contemporary commentators reveals. During the post …',
+         'author': 'K Mees',
+         'eprint': 'http://dro.dur.ac.uk/23447/1/23447.pdf',
+         'title': 'From the sublime to the Druidical: changing perceptions of '
+                  'prehistoric monuments in southern Anglesey in the '
+                  'post-medieval period',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1179/0079423613Z.00000000032'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '17892864600103014270',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fk9Np405UPgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AxH8:AAGBfm0AAAAAXYJF3H8AXGj7RvN45ReaFnCP73tnG2Rp&scisig=AAGBfm0AAAAAXYJF3IAwPkq3hNbvdR5SZbqlzXgC--Fc&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'INTRODUCTION. “While Cambria shrinks, with boding fear, '
+                     "“And dreads the tale she's \n"
+                     "doom'd to hear; “Affliction wild with piercing cry, “And "
+                     'dark despair, with downcast eye; “Misfortune \n'
+                     "throngs on every side, “Fallen is Mona's strength and "
+                     "pride, “And Britain's sons in vain are …",
+         'author': 'A Llwyd',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=DMY_AAAAcAAJ&oi=fnd&pg=PA1&dq=druidical&ots=BEsqD27xMz&sig=NCTnA_fEMAa_aklKUZsnYb_0by4',
+         'title': 'A History of the Island of Mona, Or Anglesey;: Including an '
+                  'Account of Its Natural Productions, Druidical Antiquities, '
+                  'Lives of Eminent Men, the Customs of the …',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=DMY_AAAAcAAJ&oi=fnd&pg=PA1&dq=druidical&ots=BEsqD27xMz&sig=NCTnA_fEMAa_aklKUZsnYb_0by4'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '1860722269983574031',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:D4gHyAud0hkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AxH8:AAGBfm0AAAAAXYJF3H8AXGj7RvN45ReaFnCP73tnG2Rp&scisig=AAGBfm0AAAAAXYJF3FymAY4IgoIQ7NaRMOHzCmUu1m4i&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'author': 'AD Robertson',
+         'title': 'Druidical altar, Craigmaddie, Parish of Baldernock, '
+                  'Stirlingshire'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '14219046616975681522',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8ieO-Y8zVMUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AxH8:AAGBfm0AAAAAXYJF3H8AXGj7RvN45ReaFnCP73tnG2Rp&scisig=AAGBfm0AAAAAXYJF3Eo9RiG4T6t8H28RQjUuExCOyMJg&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'author': 'MS Cross',
+         'title': 'The Dark Druidical Groves: The Lumber Community Frontier in '
+                  'British North America, to 1854'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '17666480903021925875',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8xXYv8fyK_UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AxH8:AAGBfm0AAAAAXYJF3H8AXGj7RvN45ReaFnCP73tnG2Rp&scisig=AAGBfm0AAAAAXYJF3K1hjYy5urzOrG3jqPwgeG0riWVk&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… At the time of the invasion of the Romans, the south '
+                     'of Britain could boast of the Druids,\n'
+                     'a religious class of men, comparatively enlightened.-f- '
+                     'That the Druidical system had\n'
+                     'ever extended to Scotland, it would be difficult to show '
+                     '… \n',
+         'author': 'T Murray',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=_wM7zzIY5vEC&oi=fnd&pg=PA1&dq=druidical&ots=FxqVL02Y8V&sig=3otDGmvbiuhAzctmE3wWEGv_8xU',
+         'title': 'The literary history of Galloway',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=_wM7zzIY5vEC&oi=fnd&pg=PA1&dq=druidical&ots=FxqVL02Y8V&sig=3otDGmvbiuhAzctmE3wWEGv_8xU'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '465456894296651884',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bPjOSpSidQYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AxH8:AAGBfm0AAAAAXYJF3H8AXGj7RvN45ReaFnCP73tnG2Rp&scisig=AAGBfm0AAAAAXYJF3BcScF3A6Iph-aFkyaJycEuMOoog&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… It is possible, howvever, that Coleridge was thiinking '
+                     'of Druidical rites … 1780) anid had\n'
+                     "inspired poets as early as the 1760's, when William "
+                     'Mlickle composed "iMay Day; or,\n'
+                     'The Druidical Festival." Since interest in the Druids '
+                     'was a part of … \n',
+         'author': 'WG French',
+         'title': 'COLERIDGE, Christabel.',
+         'url': 'http://search.proquest.com/openview/3e60ea2b0971018aaf4a758c3b08e979/1?pq-origsite=gscholar&cbl=1821239'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '10173620836038009864',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:COSOiz_2L40J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AxH8:AAGBfm0AAAAAXYJF3H8AXGj7RvN45ReaFnCP73tnG2Rp&scisig=AAGBfm0AAAAAXYJF3N5eNlqfreOGur6ip3VyOzLgUR8R&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… [3] J. Watson, 'Druidical Remains in and … in "
+                     "Derbyshire', Archaeologia, 9, 1789, 206-10; H. Rooke,\n"
+                     "'An Account of some Druidical Remains in Derbyshire', "
+                     'Archaeologia, 12, 1796, 41-9. [4] J.\n'
+                     "MacCulloch, 'On the Granite Tors of Cornwall', Trans. "
+                     'Geological Society, 2, 1814, 6678 … \n',
+         'author': 'J Palmer',
+         'title': 'Rock Temples of the British Druids',
+         'url': 'https://www.cambridge.org/core/journals/antiquity/article/rock-temples-of-the-british-druids/A40F55007D2B08ACA8ABF09AD33AF6B0'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '14507720570249840466',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:UodeUv7GVckJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AxH8:AAGBfm0AAAAAXYJF3H8AXGj7RvN45ReaFnCP73tnG2Rp&scisig=AAGBfm0AAAAAXYJF3Hym24rBLVjltAmR-fmvN6nUK2Mo&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Inventory of writs taken from the charter-chest of '
+                     'Dumfries, to be sent to Edinburgh,, 1729; Notes\n'
+                     'on the bridge of Dumfries ; On a Druidical temple a mile '
+                     'west from Holywood church, consisting\n'
+                     'of a circle of twelve stones; Inscriptions on the seal '
+                     'and on the bells of Holywood … \n',
+         'author': 'A Reid',
+         'eprint': 'http://journals.socantscot.org/index.php/psas/article/download/6622/6591',
+         'title': 'Note as to the Recovery of three Volumes of the MS. '
+                  'Collections of Scottish Antiquities of the late Robert '
+                  'Riddell, Esq., of Friars Carse and Glenriddell',
+         'url': 'http://journals.socantscot.org/index.php/psas/article/download/6622/6591'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14035378931202559588',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZI5Uesaux8IJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AxH8:AAGBfm0AAAAAXYJF3H8AXGj7RvN45ReaFnCP73tnG2Rp&scisig=AAGBfm0AAAAAXYJF3IJUMCRGhynxRyXYiwpmGUF89uCU&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… tian inhabitants ; and, when we consider the manner in '
+                     'which the Druidical and Christian forms\n'
+                     'of burying the dead seem … f- Vice versa, druidical '
+                     'altars or circles, with mounds, have been found,\n'
+                     'with stone graves in their vicinity, as at Ballewn, near '
+                     'Castletown. Page 4 … \n',
+         'author': 'M Oswald',
+         'eprint': 'http://journals.socantscot.org/index.php/arch-scot/article/download/189/187',
+         'title': 'Notes of Reference to the Series of Delineations of the '
+                  'Runic and other Ancient Crosses found in the Isle of Man, '
+                  'communicated by Mr Oswald',
+         'url': 'http://journals.socantscot.org/index.php/arch-scot/article/download/189/187'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '5413661138620474788',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pGXPbR8wIUsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AxH8:AAGBfm0AAAAAXYJF3H8AXGj7RvN45ReaFnCP73tnG2Rp&scisig=AAGBfm0AAAAAXYJF3K3xDxT1zq3q6ZCv5RHGwm0NX7SP&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… been in that country. SOME-would maintain that the '
+                     'Dune of Dornadilla was a Druidical temple;\n'
+                     "but that cannot be the'cafe, for the Druids made no ufe "
+                     "of roof'd or covered buildings, and it\n"
+                     'appears that … temple. We have Druidical temples in the '
+                     'North; but they … \n',
+         'author': 'A Pope',
+         'title': 'XX. Description of the Dune of Dornadilla. By the Reverend '
+                  'Mr. Alexander Pope, Minister of Reay. In a Letter, to Mr. '
+                  'George Paton, of Edinburgh. Communicated by Mr …',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/xx-description-of-the-dune-of-dornadilla-by-the-reverend-mr-alexander-pope-minister-of-reay-in-a-letter-to-mr-george-paton-of-edinburgh-communicated-by-mr-gough/44CDEB00084E5154398F066D3D5D0F7F'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '2830485243585134003',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:s33gHVXnRycJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AxH8:AAGBfm0AAAAAXYJF3H8AXGj7RvN45ReaFnCP73tnG2Rp&scisig=AAGBfm0AAAAAXYJF3LR1hvnbYUs5PcTa6wJtwq5o2KNJ&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… R. COLES, COK. MEM. Soc. ANTIQ. SCOT. This large and '
+                     'rudely circular group of stones, which,\n'
+                     'under the two designations of " Druidical Circle " and " '
+                     'The Twelve Apostles," is a well-known\n'
+                     'object to local antiquaries, has never been fully '
+                     'described in our Proceedings … \n',
+         'author': 'F Coles',
+         'eprint': 'http://journals.socantscot.org/index.php/psas/article/download/6544/6513',
+         'title': 'The Stone Circle at Holywood, Dumfriesshire',
+         'url': 'http://journals.socantscot.org/index.php/psas/article/download/6544/6513'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '13155941760676926403',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wxPgAlRLk7YJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A_XI:AAGBfm0AAAAAXYJF5XLKNmymNrGBPfnLFL8xCMolBcFy&scisig=AAGBfm0AAAAAXYJF5aSn01Swhff063EvVEQ-DH5VACbZ&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'author': 'CH Seaholm', 'title': 'The Kelts and the Vikings'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '4918260459670325068',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TMd_e9QrQUQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A_XI:AAGBfm0AAAAAXYJF5XLKNmymNrGBPfnLFL8xCMolBcFy&scisig=AAGBfm0AAAAAXYJF5eVGR1fLQM8TeJLl8HmIi8BnxiyG&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'author': 'MR Cox', 'title': "St. John's Eve Custom"},
+ 'citedby': 1,
+ 'id_scholarcitedby': '9152262275449887377',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kRpmewxeA38J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A_XI:AAGBfm0AAAAAXYJF5XLKNmymNrGBPfnLFL8xCMolBcFy&scisig=AAGBfm0AAAAAXYJF5VBNU-gvPYYFfflu46o0nU4Y4xij&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… He was much venerated in Gairloch, having his '
+                     'residence on Tuchmaree in Loch\n'
+                     "Maree. He is said to have introduced ''the sacred "
+                     'smooth-leaf holly to outrival the\n'
+                     'Druidical oaks," and dedicated it to the Blessed Virgin. '
+                     'In the … \n',
+         'author': 'GH Kinahan',
+         'title': 'Irish Plant-Lore Notes',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/17442524.1888.10602901'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '10483663059366513180',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HApt9gF0fZEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A_XI:AAGBfm0AAAAAXYJF5XLKNmymNrGBPfnLFL8xCMolBcFy&scisig=AAGBfm0AAAAAXYJF5fTyFKjIoixhXGq_Nl4s_NXIthz3&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… This is really most singular, for one of the earliest '
+                     'associations with which it is connected in our\n'
+                     'minds is with Druidical rites, and the Druids took their '
+                     'name from the oak … which is the equivalent\n'
+                     'of the Druidical name for the mistletoe given by '
+                     'Pliny?omnia sanans … \n',
+         'author': 'J Hudson',
+         'title': 'THE MISTLETOE',
+         'url': 'http://search.proquest.com/openview/beb2a5ccc48edca0/1?pq-origsite=gscholar&cbl=2287'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '13141563606891475354',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mrH3NXk2YLYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A_XI:AAGBfm0AAAAAXYJF5XLKNmymNrGBPfnLFL8xCMolBcFy&scisig=AAGBfm0AAAAAXYJF5bk7FVRVm2EPa_Db0S1IptZzATeV&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… No place could ever be more suited to retirement, '
+                     "contemplation or Druidical mysteries'\n"
+                     "(Thompson 1983, 48). Published in 1801, George Manby's "
+                     'History and Antiquities of the\n'
+                     "Parish of Saint David expands on Colt Hoare's druidical "
+                     'themes … \n',
+         'author': 'K Murphy',
+         'title': 'A Prehistoric Field System and Related Monuments on St '
+                  "David's Head and Cam Llidi, Pembrokeshire",
+         'url': 'https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/prehistoric-field-system-and-related-monuments-on-st-davids-head-and-cam-llidi-pembrokeshire/1B5FF2CEBAF92A24C3F1D2D096B5FF86'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '1178739175646069527',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:F4M49wi5WxAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A_XI:AAGBfm0AAAAAXYJF5XLKNmymNrGBPfnLFL8xCMolBcFy&scisig=AAGBfm0AAAAAXYJF5VhWdrljXoZdkrLy7I_7D6CHxjEd&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… and a time of games and pranks. Many of its customs '
+                     'descend from a Druidical holiday that\n'
+                     'involved burning men in cages IN THE U. S. Halloween has '
+                     'become what the sociologists term\n'
+                     'a "de generate" holiday … Halloween seems to come fairly '
+                     'directly from the Druidical cult … \n',
+         'author': 'R Linton',
+         'title': 'Halloween',
+         'url': 'https://www.jstor.org/stable/24945292'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '15915432913692091911',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:B2YtU-n53twJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A_XI:AAGBfm0AAAAAXYJF5XLKNmymNrGBPfnLFL8xCMolBcFy&scisig=AAGBfm0AAAAAXYJF5TUdRj_X7i6dOx3rhs9h82ks3vtU&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'OBSERVING in your number, 462, under the head of" '
+                     'English Superstitions," that you have alluded to the '
+                     'circle of stones at Rollrich, or Rollwright, on the '
+                     'borders of Oxfordshire and Warwickshire, and quoted a '
+                     'proverbial distich used by the peasantry in that '
+                     'neighbourhood; …',
+         'author': 'E IPSE',
+         'title': 'DRUIDICAL SUPERSTITION.',
+         'url': 'http://search.proquest.com/openview/b71af2d0332e170c/1?pq-origsite=gscholar&cbl=3047'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ubsHyzmcqkYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A_XI:AAGBfm0AAAAAXYJF5XLKNmymNrGBPfnLFL8xCMolBcFy&scisig=AAGBfm0AAAAAXYJF5eVz7_DHKeZW1NVk284afx_BneIP&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'THE rough and unhewn stone monuments found in many '
+                     'localities in England are generally attributed to the '
+                     'Druids, and with justice, for, as regards antiquity, all '
+                     'remains of a time prior to the nativity of our Saviour, '
+                     'are entitled to be so distinguished. It is almost '
+                     'impossible to …',
+         'author': 'CB Woodham',
+         'title': 'DRUIDICAL REMAINS IN ENGLAND.',
+         'url': 'http://search.proquest.com/openview/31979de51c24b687/1?pq-origsite=gscholar&cbl=1465'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:cBs4P5bIb_cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A_XI:AAGBfm0AAAAAXYJF5XLKNmymNrGBPfnLFL8xCMolBcFy&scisig=AAGBfm0AAAAAXYJF5dk7wZTLQa-LkLPmFaDFnwJQtPyO&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'THEREare on the plain, south of Jerusalem, near the '
+                     'village Beit SUfafaon the large map, some points with '
+                     'the name" Es Seba Rujum," and in the" Memoirs," Vol. '
+                     'III, page 157, it is said:" Large stone heaps, '
+                     'apparently formed by clearing the surrounding land of '
+                     'stones for …',
+         'author': 'C Schick',
+         'title': 'A Supposed Druidical Stone',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1179/peq.1890.22.1.22'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BJ7y8nNX-nkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A_XI:AAGBfm0AAAAAXYJF5XLKNmymNrGBPfnLFL8xCMolBcFy&scisig=AAGBfm0AAAAAXYJF5XDf7UH3nfAj-cwN20pnYaY5TWw5&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Contrary to popular belief, the early Aryans had '
+                     'developed a priestly caste that was no longer \n'
+                     'at the pre-Indo-European level of shamanism and '
+                     'witchcraft. In fact, these priests were neither \n'
+                     'magicians nor shamans, but chaplains to a warlord and '
+                     'his tribe. Therefore, it is an error to speak …',
+         'author': 'MG Boutet',
+         'eprint': 'http://cura.free.fr/xv/14boutet.html',
+         'title': 'DRUUIDICA PRINNION (Druidical Astrology)',
+         'url': 'http://cura.free.fr/xv/14boutet.html'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ME29-5W4iaAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A9Pc:AAGBfm0AAAAAXYJF7PfBwXbzUclsrGkT0XQNYUzpQB82&scisig=AAGBfm0AAAAAXYJF7DJyNk3iCoHaACfgHXWIOcHOyhhC&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Help. Search. XML. Title : Medals of the Anglesey '
+                     'Druidical Society and their place in Romantic\n'
+                     'druidical iconography. Author : BOON, GC ; Publication '
+                     'year : 1983 Language : English ; Abstract :\n'
+                     'Histoire de cette société de bienfaisance, 1772-1844, et '
+                     'étude iconographique des différentes …',
+         'author': 'GC BOON',
+         'title': 'Medals of the Anglesey Druidical Society and their place in '
+                  'Romantic druidical iconography',
+         'url': 'http://www.openbibart.fr/item/display/10068/1236264'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ue_4CAwZmQgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A9Pc:AAGBfm0AAAAAXYJF7PfBwXbzUclsrGkT0XQNYUzpQB82&scisig=AAGBfm0AAAAAXYJF7Dkcb8LVmwRkmXXSDzQ8Zwk0hcu0&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "'HUSH!'said my fellow-traveller, holding up his hand "
+                     'with a warning gesture, and glancing at his wife, who '
+                     'was snugly ensconced amongst her rugs in the '
+                     "corner.'Hush!''My dear sir,'I remonstrated,'my reference "
+                     "to Doctor Price-''Hush!'interrupted my companion, in a "
+                     'more …',
+         'author': 'AC Doyle and B Roden and C Roden and OD Edwards',
+         'eprint': 'http://www.dfw-sherlock.org/uploads/3/7/3/8/37380505/1884_february_the_blood-stone_tragedy_a_druidical_story.pdf',
+         'title': 'The Blood-Stone Tragedy: A Druidical Story',
+         'url': 'http://www.dfw-sherlock.org/uploads/3/7/3/8/37380505/1884_february_the_blood-stone_tragedy_a_druidical_story.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8g8HHir8Y2UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A9Pc:AAGBfm0AAAAAXYJF7PfBwXbzUclsrGkT0XQNYUzpQB82&scisig=AAGBfm0AAAAAXYJF7PareeWov10w6K9lBfLMYY8auMLY&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '(Continued from page 226.)^ rygssKaBwfflW^^ gl NOW '
+                     'proceed to an analysis of such passages from our^?^?^ '
+                     'g^^^ gi ancient writings as have been thought to show '
+                     "that human B^ SS/vElS^ H sacrmce was one?^ our P'Agan "
+                     'rites. Admittedly, they are Hs&gSjSj IE? 2| B …',
+         'author': 'J Salmon',
+         'title': 'Druidical Sacrifices in Ireland: Were There Human '
+                  'Victims?(continued)',
+         'url': 'https://www.jstor.org/stable/20563604'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Gu1yh_1a7-4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A9Pc:AAGBfm0AAAAAXYJF7PfBwXbzUclsrGkT0XQNYUzpQB82&scisig=AAGBfm0AAAAAXYJF7Fxhl20OefFu49mVswgO3xViYq7f&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '116 PROCEEDINGS OF THE SOCIETY OP north of Europe, and '
+                     'those pertaining to aboriginal modern races still in a '
+                     'state of barbarism, and totally ignorant of all '
+                     'metallurgic arts, furnish an interesting element of '
+                     'comparison and elucidation in reference to that early …',
+         'author': 'D Wilson',
+         'eprint': 'http://journals.socantscot.org/index.php/psas/article/download/3931/3909',
+         'title': 'On the class of stone vessels known in Scotland as '
+                  'Druidical Paterae',
+         'url': 'http://journals.socantscot.org/index.php/psas/article/download/3931/3909'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HaVXCxNUcRkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A9Pc:AAGBfm0AAAAAXYJF7PfBwXbzUclsrGkT0XQNYUzpQB82&scisig=AAGBfm0AAAAAXYJF7PThUs89pW1BUuTBVLpmWDzmn57c&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'DRUIDICAL REMAINS AT TREGUNC, NEAR CON. CARNEAU, '
+                     'DEPARTMENT OF FINISTERE, LOWER BRITANY. As the '
+                     'antiquities of Armorica are anything but foreign to the '
+                     'Archeologia Cambrensis, notices relating to their trans. '
+                     'marine brethren must possess a …',
+         'author': 'WB Jones',
+         'title': 'DRUIDICAL REMAINS AT TREGUNC, NEAR CONCARNEAU, DEPARTMENT '
+                  'OF FINISTERE, LOWER BRITANY.',
+         'url': 'http://search.proquest.com/openview/b2efb957d2d6eb5e/1?pq-origsite=gscholar&cbl=2924'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0qTAIfyTVDcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A9Pc:AAGBfm0AAAAAXYJF7PfBwXbzUclsrGkT0XQNYUzpQB82&scisig=AAGBfm0AAAAAXYJF7Oiq5uxi6H_XdF2UIaeJJeAzlklU&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'THE learned Godfrey Higgins informs us in his '
+                     'Anacalypsis that" every word in every language has '
+                     'originally had a meaning, whether a nation has it by '
+                     'inheritance, by iniporiation, or by composition." He '
+                     'adds that it is evident if we can find out the original '
+                     '…',
+         'author': 'C MacKay',
+         'title': 'ON THE DRUIDICAL CHANTS PRESERVED IN THE CHORUSES OF '
+                  'POPULAR SONGS IN ENGLAND, SCOTLAND, IRELAND, AND FRANCE.',
+         'url': 'http://search.proquest.com/openview/9f432e9258d97e01/1?pq-origsite=gscholar&cbl=3127'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vo8s9dJ1_kkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A9Pc:AAGBfm0AAAAAXYJF7PfBwXbzUclsrGkT0XQNYUzpQB82&scisig=AAGBfm0AAAAAXYJF7MP6mrjx8UtjqtarZ1yJr2v_A2E8&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Divine Providence, and the immutable laws of nature, in '
+                     'the absence of revealed truths, would supply the '
+                     'ground-work for a state of society most favourable to '
+                     'the growth and cultivation of industrious habits, and '
+                     'peaceful pursuits; and we accordingly find that those …',
+         'author': 'JII Jones',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=j4ppAAAAcAAJ&oi=fnd&pg=PA1&dq=druidical&ots=zAgZ1DL-Uq&sig=Ihm1H7283jyHdxuNsoi5E6ddx6I',
+         'title': 'On the State of Agriculture and the Progress of Arts and '
+                  'Manufactures in Britain During the Period and Under the '
+                  'Influence of the Druidical System',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=j4ppAAAAcAAJ&oi=fnd&pg=PA1&dq=druidical&ots=zAgZ1DL-Uq&sig=Ihm1H7283jyHdxuNsoi5E6ddx6I'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Rce_5zOvfDEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A9Pc:AAGBfm0AAAAAXYJF7PfBwXbzUclsrGkT0XQNYUzpQB82&scisig=AAGBfm0AAAAAXYJF7H56ElbAotcHB-3LGLgu5Ovi5Yxv&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'I Have the honour to transmit herewith the model of a '
+                     'Druid Temple, discovered some time ago on the top of a '
+                     'pretty high rocky hill, near the town of St. Helier, in '
+                     'the Island of Jersey. I am sorry to have so long delayed '
+                     'executing the promise I made to send it your lordship; '
+                     'but …',
+         'author': 'HS Conway',
+         'title': 'XXXV. Description of a Druidical Monument in the Island of '
+                  'Jersey; in a Letter from the Right Honourable Henry Seymour '
+                  'Conway, Governor of Jersey, to the Earl of Leicester …',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/div-classtitlexxxv-span-classitalicdescription-of-aspan-druidical-span-classitalicmonument-in-the-island-ofspan-jersey-span-classitalicin-a-letter-from-the-right-honourablespan-henry-seymour-conway-span-classitalicgovernor-ofspan-jersey-span-classitalicto-the-earl-ofspan-leicester-span-classitalicp-s-aspandiv/EFDBC5CC82942F0ED651335D8FFC1CA4'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:do7rhHsDcq4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A9Pc:AAGBfm0AAAAAXYJF7PfBwXbzUclsrGkT0XQNYUzpQB82&scisig=AAGBfm0AAAAAXYJF7Pm_mKNzxNGoRF_ukTOqJZMdk9nF&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '54 An Account of certain Bronze Instruments ever name '
+                     'might be designated the Universal Father analogically '
+                     'venerated as the god of the Sun; and accordingly, under '
+                     'this identical name of Baris, the lunar ship-goddess, as '
+                     'we learn from Strabo, had atemple in Armenia, at …',
+         'author': 'GS Faber',
+         'eprint': 'http://journals.socantscot.org/index.php/arch-scot/article/download/271/269',
+         'title': 'An Account of certain Bronze Instruments, supposed to be '
+                  'Druidical Remains, found beneath a large Rock on the South '
+                  'Side of the Top of Roseberry, in …',
+         'url': 'http://journals.socantscot.org/index.php/arch-scot/article/download/271/269'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3PXDlLIqYZgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A9Pc:AAGBfm0AAAAAXYJF7PfBwXbzUclsrGkT0XQNYUzpQB82&scisig=AAGBfm0AAAAAXYJF7HnurQhEaz1knsoAswEPORtqPHnB&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Your Lordship having sometime since done me the honour '
+                     'to lay before the Society of Antiquaries, some Drawings '
+                     'and Observations on certain Druidical Circles, I am '
+                     'induced to trouble your Lordship with a similar '
+                     'Communication, in the hope that it also may be received '
+                     '…',
+         'author': 'J Logan',
+         'title': 'XV. Observations on several Circles of Stones in Scotland, '
+                  'presumed to be Druidical: by James Logan, Esq. FSA Edinb. '
+                  'in a Letter addressed to the Right Honourable …',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/xv-observations-on-several-circles-of-stones-in-scotland-presumed-to-be-druidical-by-james-logan-esq-fsa-edinb-in-a-letter-addressed-to-the-right-honourable-the-earl-of-aberdeen-kt-president/AD51F3134F09B824787CA8A589FAFF89'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Wt-tN_hqxGoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A7X0:AAGBfm0AAAAAXYJF9X2joA2jMN4ryYac-925CZPN-JEJ&scisig=AAGBfm0AAAAAXYJF9QF5Z5cBSOw5CKLWLr31XcEEhA2n&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'To send this article to your Kindle, first ensure '
+                     'no-reply@cambridge.org is added to your Approved \n'
+                     'Personal Document E-mail List under your Personal '
+                     'Document Settings on the Manage Your \n'
+                     'Content and Devices page of your Amazon account. Then '
+                     "enter the 'name' part of your Kindle …",
+         'author': 'VIID figures from Montmorillon',
+         'title': 'xxvi.',
+         'url': 'https://www.cambridge.org/core/journals/archaeologia/article/directions-to-the-bookbinder/72BDC8B611317B3B5E64F2F25457A409'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Hyv8JTqCJDgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A7X0:AAGBfm0AAAAAXYJF9X2joA2jMN4ryYac-925CZPN-JEJ&scisig=AAGBfm0AAAAAXYJF9UT2hYQLq-xGZdcpDSivHkI5P8Ms&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'author': 'BDD Altar and NY Fewston',
+         'title': 'The Northern Antiquarian'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Voc0iTK4UNQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A7X0:AAGBfm0AAAAAXYJF9X2joA2jMN4ryYac-925CZPN-JEJ&scisig=AAGBfm0AAAAAXYJF9ZkHjrNNbMyH1tZrpt72pp5zWH1y&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Salmon',
+         'title': 'Druidical Sacrifices in Ireland: Were There Human '
+                  'Victims?(Concluded)'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9jUaTkJP1bYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A7X0:AAGBfm0AAAAAXYJF9X2joA2jMN4ryYac-925CZPN-JEJ&scisig=AAGBfm0AAAAAXYJF9Sg1CMTs83db2r4StydG8r8fGpoy&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'author': 'G Béranger',
+         'title': 'View of the Remains of Druidical monument at Dowth, Co. '
+                  'Meath'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DNn55T4ObSMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A7X0:AAGBfm0AAAAAXYJF9X2joA2jMN4ryYac-925CZPN-JEJ&scisig=AAGBfm0AAAAAXYJF9UrnvaBbUmOjqbr3x89m4EPms01c&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Salmon',
+         'title': 'Druidical Sacrifices in Ireland: Were There Human Victims?'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PsAP6JPYwgcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A7X0:AAGBfm0AAAAAXYJF9X2joA2jMN4ryYac-925CZPN-JEJ&scisig=AAGBfm0AAAAAXYJF9fHIxzj3xNXcj3i073jzspdyOvDg&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'author': 'MS Cross',
+         'title': 'The Dark Druidical Groves-the Lumber Community and the '
+                  'Commercial Frontier in British North America, to '
+                  '1854:(microfilm).'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:L9TuTB7tsQsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A7X0:AAGBfm0AAAAAXYJF9X2joA2jMN4ryYac-925CZPN-JEJ&scisig=AAGBfm0AAAAAXYJF9cYiJ66hppH6Cj0igY7vq1ewKzUM&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'author': 'B BESONG', 'title': "'DRUIDICAL RITES'"},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AIXWxFljqZgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A7X0:AAGBfm0AAAAAXYJF9X2joA2jMN4ryYac-925CZPN-JEJ&scisig=AAGBfm0AAAAAXYJF9U2CtxXmhL1pnaxHD_v3RFKye7MA&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'author': 'A Kerrigan', 'title': 'Druidical'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:InwMylCILoYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A7X0:AAGBfm0AAAAAXYJF9X2joA2jMN4ryYac-925CZPN-JEJ&scisig=AAGBfm0AAAAAXYJF9bvOLvGKlkSm9bLzw165iLook9q4&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… What evidence can there be for the druidical origin of '
+                     'every so-called druidical structure …\n'
+                     'Whenever it has been proved to my satisfaction that any '
+                     'single cromlech was erected for the\n'
+                     'purposes of the druidical worship, I shall feel bound to '
+                     'believe it ot the whole class … \n',
+         'author': 'WB Jones',
+         'title': 'MONMOUTH MEETING REPORT.',
+         'url': 'http://search.proquest.com/openview/569ecfc8fbe257c2/1?pq-origsite=gscholar&cbl=2924'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DUZOX3_v4cYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A7X0:AAGBfm0AAAAAXYJF9X2joA2jMN4ryYac-925CZPN-JEJ&scisig=AAGBfm0AAAAAXYJF9X1WdMwzzKVfUmwVBHYuCoSVVr8-&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'author': 'G Tantaquidgeon',
+         'title': 'How the Summer Season Was Brought North'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:XVkBVRuJ_WQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A5Dk:AAGBfm0AAAAAXYJF_Dm4H60ktrV5gEopzEU_6uysSOeB&scisig=AAGBfm0AAAAAXYJF_DkltAH5n8UkO4rMu1zh89CLzlwi&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. INDE X. A. Aberdeenshire, Druidical Circles in, '
+                     '409. Adomar, St. Pilgrimage to, in the\n'
+                     'Isle of Man, 7. Agatha, St … Aston, Sir Robert, speaks '
+                     'to King Edw. III. in favour of the Duke of\n'
+                     'Lancaster, 270. Auchorthie, Druidical remains at, 203. '
+                     'Avener, Mr. 189 … \n',
+         'author': 'SR Anglisisin and M Antony',
+         'title': 'INDE X.',
+         'url': 'http://search.proquest.com/openview/b55b3bd0dad59ed4/1.pdf?pq-origsite=gscholar&cbl=2473'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qJFFFPvf0U4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A5Dk:AAGBfm0AAAAAXYJF_Dm4H60ktrV5gEopzEU_6uysSOeB&scisig=AAGBfm0AAAAAXYJF_BuRN5HsEGGLTmbBC8TTB4pO0keW&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… It is possible, however, that Coleridge was thinking '
+                     'of Druidical rites, Arthur H. Nethercot, analyzing\n'
+                     'in The Road to Tryermaine (Chicago, 1939) the complex of '
+                     'ideas which influenced the composition\n'
+                     'of "Christabel," mentions Druids only twice, both times '
+                     'with reference to their … \n',
+         'author': 'WG French',
+         'title': "48. Coleridge's Christabel",
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/00144940.1955.11481813'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bmpZHFx1VqkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A5Dk:AAGBfm0AAAAAXYJF_Dm4H60ktrV5gEopzEU_6uysSOeB&scisig=AAGBfm0AAAAAXYJF_P7IYY01mjDcMFHOsrm-MljhorAX&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… [3] J. Watson, 'Druidical Remains in and … in "
+                     "Derbyshire', Archaeologia, 9, 1789, 206-10; H. Rooke,\n"
+                     "'An Account of some Druidical Remains in Derbyshire', "
+                     'Archaeologia, 12, 1796, 41-9. [4] J.\n'
+                     "MacCulloch, 'On the Granite Tors of Cornwall', Trans. "
+                     'Geological Society, 2, 1814, 6678 … \n',
+         'author': 'J PALMER',
+         'title': 'The Antiquity of Hemp',
+         'url': 'https://www.cambridge.org/core/journals/antiquity/article/antiquity-of-hemp/5A9F1BFC131DDE64C5E949AB87F05123'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oUooxpyaFCEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A5Dk:AAGBfm0AAAAAXYJF_Dm4H60ktrV5gEopzEU_6uysSOeB&scisig=AAGBfm0AAAAAXYJF_KZn1qxv3GAObrR6IwlPZ2I2_d05&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… It is a curious coincidence that at Stanton Drew, in '
+                     'the hundred of Keynsham, in\n'
+                     'Somersetshire, where there are extensive Druidical '
+                     'remains, ARCHEOL. CAMI, VOL.,\n'
+                     'II. O Copyright G 2008 ProGuest llC. All rights '
+                     'reserved. Page 2 … \n',
+         'author': 'CONMC AMMWLCH',
+         'title': 'Archaeología Cambrensis',
+         'url': 'http://search.proquest.com/openview/14d8a98b196feca9/1.pdf?pq-origsite=gscholar&cbl=2924'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:arzlRBbvU0wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A5Dk:AAGBfm0AAAAAXYJF_Dm4H60ktrV5gEopzEU_6uysSOeB&scisig=AAGBfm0AAAAAXYJF_A2Vzt0AgnXbBTLeMMB3YJCyO-k_&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… and ingenous. The writeriondeavours to -controvert the '
+                     'Ionh established o-pinion,\n'
+                     'thatthe erection of themassive miss)IapU stonesi called '
+                     'croinleaghs, arb Druidical\n'
+                     'altars: - easserts on the coutrary,. that- tibey are '
+                     'places. of … \n',
+         'author': 'A Student',
+         'title': 'To the Editor of the Monthly Museum.',
+         'url': 'http://search.proquest.com/openview/54d600fb3b29f849/1?pq-origsite=gscholar&cbl=1652'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4jN9fRQ1enQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A5Dk:AAGBfm0AAAAAXYJF_Dm4H60ktrV5gEopzEU_6uysSOeB&scisig=AAGBfm0AAAAAXYJF_JIKZ6MyM01cA6WumkaCE2V2A9KI&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Scrutiny of this shows that his antiquarian notions, '
+                     "particularly those pertaining to 'Cromlechs\n"
+                     "and Tumuli', are those of the eighteenth century, and "
+                     "his visions of 'Druidical Temples, and a\n"
+                     "'Dracontium', at Birling, could be thought of as "
+                     'emulation of William Stukeley (Piggott 1985 … \n',
+         'author': 'P ASHBEE',
+         'eprint': 'https://www.kentarchaeology.org.uk/Research/Pub/ArchCant/124-2004/124-10.pdf',
+         'title': "GREAT TOTTINGTON'S SARSEN STONES",
+         'url': 'https://www.kentarchaeology.org.uk/Research/Pub/ArchCant/124-2004/124-10.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:k63e9CEq6UUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A5Dk:AAGBfm0AAAAAXYJF_Dm4H60ktrV5gEopzEU_6uysSOeB&scisig=AAGBfm0AAAAAXYJF_GzsviC4-3FKg-apEgdON8QFTo_0&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… “In this country we still habitually call the '
+                     "megalithic monuments 'Druidical,' but it is\n"
+                     'hardly necessary to mention that there;s really no '
+                     'sufficient reason for connecting\n'
+                     'them with Druidical worship” (p. 126). Rights and '
+                     'permissions … \n',
+         'author': 'J Griffith',
+         'title': 'Prehistoric Times: as Illustrated by Ancient Remains and '
+                  'the Manners and Customs of Modern Savages',
+         'url': 'https://www.nature.com/articles/093057b0'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:W6eEux3tHRQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A5Dk:AAGBfm0AAAAAXYJF_Dm4H60ktrV5gEopzEU_6uysSOeB&scisig=AAGBfm0AAAAAXYJF_OtfkOblmU2hJ6K16U25zbrm3KOa&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… It is luxury to sit on the remains of the Druidical '
+                     'temple there, and think of nothing less\n'
+                     'animating than the congregation of objects near; the bay '
+                     'of St … A stranger is pretty secure,\n'
+                     'however, of having this Druidical seat to himself on a '
+                     'May evening … \n',
+         'author': 'H Martineau',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=180jAAAAMAAJ&oi=fnd&pg=PA1&dq=druidical&ots=3dL3PXWcCW&sig=XMo1NaEXUHO5O0LDrhOszRTh5Lk',
+         'title': 'The park and the paddock',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=180jAAAAMAAJ&oi=fnd&pg=PA1&dq=druidical&ots=3dL3PXWcCW&sig=XMo1NaEXUHO5O0LDrhOszRTh5Lk'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:uvv2BiaQKjQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A5Dk:AAGBfm0AAAAAXYJF_Dm4H60ktrV5gEopzEU_6uysSOeB&scisig=AAGBfm0AAAAAXYJF_DGo9JuuraIjNXVsJHeMSJnxVnry&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… No druidical or stone circle, that I am aware of, is '
+                     'to be found in this county; there is, however,\n'
+                     'close bordering upon it, on the confines of Oxfordshire, '
+                     'a celebrated druidical temple, the Rollright\n'
+                     'Stones, near Barton-on-the-Heath, in which parish, a few '
+                     'years ago, a polished … \n',
+         'author': 'MH Bloxam',
+         'title': 'ON THE BRITISH ANTIQUITIES OF WARWICKSHIRE',
+         'url': 'http://search.proquest.com/openview/eb83b93fe213e3a3/1?pq-origsite=gscholar&cbl=3026'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1tpOfj8jfcQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5A5Dk:AAGBfm0AAAAAXYJF_Dm4H60ktrV5gEopzEU_6uysSOeB&scisig=AAGBfm0AAAAAXYJF_Kds2DyuXqOwphiVV2pIWcXNOglQ&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… It is true that the surrounding country contains some '
+                     'Druidical remains, that the adjoining\n'
+                     'township of Longwood was once a Roman station known as '
+                     'Cambodunum, and that the\n'
+                     'Castle Hill, Almondbury, is the site of a Saxon '
+                     'fortress. Full Text … \n',
+         'author': 'D Crotchet',
+         'title': 'A HUDDERSFIELD MUSIC-MAKING.',
+         'url': 'http://search.proquest.com/openview/6829c08561ae4ff5/1?pq-origsite=gscholar&cbl=2567'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VaGPDz1mGHQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DGv4:AAGBfm0AAAAAXYJGAv4qRH1bql5Iueii20ua1eI94z0v&scisig=AAGBfm0AAAAAXYJGAoOEIl5j5dCeKxeJPVMY6Co-TfKB&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… the field of sweet milk." There are, eastward from '
+                     'this hill, two points where standing stories are\n'
+                     'found,—one due north from the other, one and a-half '
+                     'mile,, near the summit of the highest part\n'
+                     'or northern pinnacle of Brinie Hill; and the other, a '
+                     'set of Druidical circles half down the … \n',
+         'author': 'A Low',
+         'eprint': 'http://journals.socantscot.org/index.php/psas/article/download/5183/5161',
+         'title': 'Notices of the Localities in a Grant of the Lands of Keig '
+                  'and Monymusk, by Malcolm, King of Scots, to the Church of '
+                  'St Andrews; and a Sketch or History of the …',
+         'url': 'http://journals.socantscot.org/index.php/psas/article/download/5183/5161'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hDs0sdE-a5gJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DGv4:AAGBfm0AAAAAXYJGAv4qRH1bql5Iueii20ua1eI94z0v&scisig=AAGBfm0AAAAAXYJGAoNU-CUYl_1wlNEUf7bTK7Lcm74g&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… kist-vaens and upright stones disposed alternately. A '
+                     'remarkable example of this\n'
+                     'last arrangement is found in the Druidical circle of '
+                     'Jersey, of which an engraving\n'
+                     'was given at page 308. Like the cromlech, the kist-vaen '
+                     'has … \n',
+         'author': 'TO PEKIN',
+         'title': 'project itself beyond Acheen, and their regular esº',
+         'url': 'http://search.proquest.com/openview/d2a2a1a807041219/1.pdf?pq-origsite=gscholar&cbl=1461'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9xJbaNdRvQwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DGv4:AAGBfm0AAAAAXYJGAv4qRH1bql5Iueii20ua1eI94z0v&scisig=AAGBfm0AAAAAXYJGAs5wwYJoT8OqdGhRkfWFHFSIRTAv&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Immediately opposite the quay is a little island with '
+                     'a dwelling-house upon it. A few years\n'
+                     'ago it was hideously disfigured with forts and '
+                     'batteries, a sham church, and a new\n'
+                     'druidical temple, and, except a few fir trees, the whole '
+                     'was bare … \n',
+         'author': 'C IET',
+         'title': 'formation, written in a very easy and lively manier, and '
+                  'abounding with interest and amusement. Our readers will not '
+                  "be displeased with the Anglo-Spaniard's descrip",
+         'url': 'http://search.proquest.com/openview/c96832a321bae20f/1.pdf?pq-origsite=gscholar&cbl=1596'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fId_CkxG9LIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DGv4:AAGBfm0AAAAAXYJGAv4qRH1bql5Iueii20ua1eI94z0v&scisig=AAGBfm0AAAAAXYJGAjfeFKNcxpqAolMS9ZVzfMSspboW&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The Eisteddfod held at Portmadoc, on Wednesday, '
+                     'Thursday, and Friday last week,\n'
+                     'had been duly proclaimed a year and a day previously, '
+                     'according to ancient usage, the place\n'
+                     'of proclamation being the spot chosen for the Gorsedd '
+                     'and Druidical court …',
+         'author': 'E Thaddeus',
+         'title': 'Thaddeus Egg on the Eisteddfod.',
+         'url': 'http://search.proquest.com/openview/6627dbb56c7ca43b/1?pq-origsite=gscholar&cbl=13693'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wfwIC3IL2oIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DGv4:AAGBfm0AAAAAXYJGAv4qRH1bql5Iueii20ua1eI94z0v&scisig=AAGBfm0AAAAAXYJGAi0A9DPBX1W3sn36rA65ReYcyweG&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… WE insert, with pleasure, the following communication '
+                     're- specting a supposed Druidical relic in\n'
+                     'the Island of Guernsey, though it does not appear, that '
+                     'the Druidical character of the monument\n'
+                     'in question has been ascertained with a precision '
+                     'sufficiently satisfactory … \n',
+         'author': 'Hanesai',
+         'title': 'The Privileges of the Men of Arvon',
+         'url': 'https://www.jstor.org/stable/30069155'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:FFtTTjTZQh0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DGv4:AAGBfm0AAAAAXYJGAv4qRH1bql5Iueii20ua1eI94z0v&scisig=AAGBfm0AAAAAXYJGAsqao98NkDtgqnzupIdqfLPNUj0m&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The precise character of this after-life has been the '
+                     'occasion of debate with authorities. Some\n'
+                     'hold that the Druidical belief in hfe after death '
+                     'included thetenet of transmigration, similar to the\n'
+                     "Buddhistic but diff'ering from the Theosophical "
+                     'reincarnation ; that is to say … \n',
+         'author': 'D Wright',
+         'eprint': 'https://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=3312&context=ocj',
+         'title': 'Druidism.',
+         'url': 'https://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=3312&context=ocj'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '15946480821739898531',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:o8ZivdFHTd0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DGv4:AAGBfm0AAAAAXYJGAv4qRH1bql5Iueii20ua1eI94z0v&scisig=AAGBfm0AAAAAXYJGAqo1rA3fTsRxjFAT6dhsKjwYlZ1Y&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… A remarkable circumstance connected with this '
+                     'fictitious cromlech is the fact that there was a\n'
+                     'real one formerly not far from the same place; it is '
+                     'thus mentioned by Lewis, Topographical\n'
+                     'Dictionary, sv Llandderfel: " In the grounds of Pale are '
+                     'the remains of a Druidical altar and a … \n',
+         'author': 'WW Williams',
+         'title': 'NATURAL ANTIQUITIES.',
+         'url': 'http://search.proquest.com/openview/1ca93b6f1082f8ed/1?pq-origsite=gscholar&cbl=2924'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3R9h6l01cNYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DGv4:AAGBfm0AAAAAXYJGAv4qRH1bql5Iueii20ua1eI94z0v&scisig=AAGBfm0AAAAAXYJGAvFBCTbKTCiKTqMUYQVOVVzCjHU4&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'author': 'AD Robertson',
+         'title': 'Ancient Cromlech at Ardenadam, Near Dunoon'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OD_p8Vgsy50J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DGv4:AAGBfm0AAAAAXYJGAv4qRH1bql5Iueii20ua1eI94z0v&scisig=AAGBfm0AAAAAXYJGArH0GoSrQgCAH0QVWqCjsDD3oXaM&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Dr. Kendrick would even contend that there is no old '
+                     'folk-tradition regarding them, but here we\n'
+                     'must remember that he is principally concerned with the '
+                     'connection of Druidical worship with\n'
+                     'stone monuments, especially with Stonehenge, and not '
+                     'with folk-tradition in general … \n',
+         'author': 'E Hull',
+         'title': 'The Druids. A Study in Keltic Prehistory',
+         'url': 'https://www.jstor.org/stable/1255748'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:C_3C2X3OPu0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DGv4:AAGBfm0AAAAAXYJGAv4qRH1bql5Iueii20ua1eI94z0v&scisig=AAGBfm0AAAAAXYJGAl9yXR6iEVPScCkWmNwmZamAXY7X&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The indecencies alluded to were, I fear, not uncommon '
+                     'in the Druidical worship; but it must be\n'
+                     'recollected and never lost sight, of that what is '
+                     'religious is not viewed with the same eyes, as\n'
+                     'what is common, and, what is of greater import, in the '
+                     'civilized state of society in which we … \n',
+         'author': 'AN ANTIQUARY',
+         'title': 'TO THE EDITOR OF THE EXETER NEWS.',
+         'url': 'http://search.proquest.com/openview/31dbccfa693b4069/1?pq-origsite=gscholar&cbl=3051'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yA7e23P5ov8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DEUA:AAGBfm0AAAAAXYJGCUCvfbVntMT-s0RQ5lqpnMz6m_in&scisig=AAGBfm0AAAAAXYJGCb1I7O6jlic3Oejlnw3ayLVYT9sL&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… for communication to tbe Society by Alexander Thomson, '
+                     'of Banchory, Esq., occur in a letter from\n'
+                     'Captain Meadows Taylor, addressed to the Bombay '
+                     "Government:— '' The most curious remains\n"
+                     'I have found in this district are those which ap- pear '
+                     'to be Druidical, or Scythio … \n',
+         'author': 'H Yule',
+         'eprint': 'http://journals.socantscot.org/index.php/psas/article/download/3926/3904',
+         'title': 'On various monuments in India, corresponding to the '
+                  'cromlechs and standing stones of the north of Europe',
+         'url': 'http://journals.socantscot.org/index.php/psas/article/view/3926'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_hxDSFypByQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DEUA:AAGBfm0AAAAAXYJGCUCvfbVntMT-s0RQ5lqpnMz6m_in&scisig=AAGBfm0AAAAAXYJGCRLhRFRAK7gPCFp7rlDU03_sykCy&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… who adduces these passages from a curious and '
+                     'interesting, work, t observes : “ All these al-\n'
+                     'lusions strongly prove that the circle, the enclosure, '
+                     'and the mount, such as we still see at Abury,\n'
+                     'Marden, and Stonehenge, were connected first with the '
+                     'Druidical, and afterwards with … \n',
+         'author': '疹多',
+         'title': 'A bard of|',
+         'url': 'http://search.proquest.com/openview/40a1f272e23ab6a3/1.pdf?pq-origsite=gscholar&cbl=1461'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:cIqHqmMYZloJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DEUA:AAGBfm0AAAAAXYJGCUCvfbVntMT-s0RQ5lqpnMz6m_in&scisig=AAGBfm0AAAAAXYJGCSqSk53mzsP8sRw-PZukdoByluhS&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Next morning 1 The writer of the account of the parish '
+                     'in the The New Statistical Account\n'
+                     'of Scotland says, " Near the bottom of the Hill of Sidla '
+                     'stands a Druidical Altar in a very entire\n'
+                     'state." This is expressed in the usual vague style of '
+                     'the period … \n',
+         'author': 'A Hutcheson',
+         'eprint': 'http://journals.socantscot.org/index.php/psas/article/download/6951/6920',
+         'title': 'Notice of the Discovery of Stone Coffins at Auchterhouse',
+         'url': 'http://journals.socantscot.org/index.php/psas/article/download/6951/6920'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zpkOw4Fp5KgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DEUA:AAGBfm0AAAAAXYJGCUCvfbVntMT-s0RQ5lqpnMz6m_in&scisig=AAGBfm0AAAAAXYJGCV0xnUfFKcByabnaRU651XAvcDnw&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Near it, eastward, is the famous object called locally '
+                     '" The Auld Wives\' Lift," and in some\n'
+                     'of the maps "Druidical Cromlech." South and eastward a '
+                     'little farther are the lands and\n'
+                     'houses called Bar- dowie, Blochairn, Blairskaith, and '
+                     'Fluchter … \n',
+         'author': 'A GALLOWAY',
+         'title': 'MEMORANDUM AS TO OBJECTS FOUND IN A SMALL TUMULUS ON THE '
+                  'LANDS OF BLOCHAIRN, BALDERNOCK PARISH, OPENED AUGUST 4, '
+                  '1859',
+         'url': 'https://www.jstor.org/stable/43913800'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lC1XqOh5c3UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DEUA:AAGBfm0AAAAAXYJGCUCvfbVntMT-s0RQ5lqpnMz6m_in&scisig=AAGBfm0AAAAAXYJGCdrIUrk6I23Y96x0PEWwhn43Q2eO&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… From the summit, a magnificent panorama of the whole '
+                     'peninsula and its inclosing seas is\n'
+                     'presented to the spectator, who can command a distinct '
+                     'view of all the localities where the various\n'
+                     'megalithic structures, which I have no hesitation in '
+                     'calling druidical, still remain in their … \n',
+         'author': 'J William',
+         'title': 'ON CARN GOCH, IN CAERMARTHENSHIRE.',
+         'url': 'http://search.proquest.com/openview/f6db1dd2ac493876/1?pq-origsite=gscholar&cbl=2924'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:djFbtUnNMMAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DEUA:AAGBfm0AAAAAXYJGCUCvfbVntMT-s0RQ5lqpnMz6m_in&scisig=AAGBfm0AAAAAXYJGCUFMfyrB6BY4JOIq_7KHKRg3AiPC&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Grofe, in his very elegant work now carrying on, has '
+                     'given views of ma- ny of its monafic ruins,\n'
+                     'as well as fome of its baronial feats, and he has caufed '
+                     'to be engraved that very fin- gular curiofity\n'
+                     'in the Glen kenns, called the Laggan fone; which cer- '
+                     'tainly was a druidical rock idol … \n',
+         'author': 'R Riddell',
+         'title': 'OBSERVATIONS ON VITRIFIED FORTIFICATIONS IN GALLOWAY.',
+         'url': 'http://search.proquest.com/openview/f33039d202558d01/1?pq-origsite=gscholar&cbl=2587'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '9706693622229409085',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PZ2I0GsatYYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DEUA:AAGBfm0AAAAAXYJGCUCvfbVntMT-s0RQ5lqpnMz6m_in&scisig=AAGBfm0AAAAAXYJGCU91bxTB9yP27AwzCGbhVis-icU2&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'author': 'GH Reade', 'title': 'The Pillar-Stone of Kilnasaggart'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IW7nNINjiGQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DEUA:AAGBfm0AAAAAXYJGCUCvfbVntMT-s0RQ5lqpnMz6m_in&scisig=AAGBfm0AAAAAXYJGCcCHpnl2XvB2QDDHMnogcn4p64Od&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… house-which rose like a gera- nium bloom against the '
+                     'subdued colours around-stretched the\n'
+                     'soft azure landscape of The Chase-a truly venerable '
+                     'tract of forest land, one of the few remaining\n'
+                     'woodlands in England of undoubted pri- maval date, '
+                     'wherein Druidical mistletoe was … \n',
+         'author': 'EB Gose',
+         'title': 'Psychic Evolution: Darwinism and Initiation in Tess of the '
+                  "d'Urbervilles",
+         'url': 'https://www.jstor.org/stable/2932395'},
+ 'citedby': 29,
+ 'id_scholarcitedby': '12781043073523890873',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ubpbYPViX7EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DEUA:AAGBfm0AAAAAXYJGCUCvfbVntMT-s0RQ5lqpnMz6m_in&scisig=AAGBfm0AAAAAXYJGCb5nZ99YeLFaFFNCJV7W-RsqvaDS&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Matthews',
+         'title': 'The Druid Source Book: From Earliest Times to the Present '
+                  'Day'},
+ 'citedby': 26,
+ 'id_scholarcitedby': '912215585518388681',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yQVm7T3XqAwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5DEUA:AAGBfm0AAAAAXYJGCUCvfbVntMT-s0RQ5lqpnMz6m_in&scisig=AAGBfm0AAAAAXYJGCZ_7RY4wyEZlyec4Qg3Qpf7JpIeY&scisf=4&ct=citation&cd=99&hl=en'}

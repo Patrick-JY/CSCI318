@@ -1,0 +1,1272 @@
+{'_filled': False,
+ 'bib': {'abstract': 'The Czech Republic has been dealing for the last four '
+                     'years with a legal revolution in the field of private '
+                     'law. A new Civil Code was adopted in 2012 and many new '
+                     'and forgotten legal figures were restored in the text of '
+                     'the code. An interesting example of …',
+         'author': 'P Petr',
+         'eprint': 'https://www.degruyter.com/downloadpdf/j/danb.2016.7.issue-2/danb-2016-0008/danb-2016-0008.xml',
+         'title': 'Superficiary right of building: Origin and development in '
+                  'Central Europe',
+         'url': 'https://www.degruyter.com/downloadpdf/j/danb.2016.7.issue-2/danb-2016-0008/danb-2016-0008.xml'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '4862426483869411383',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:N-h89R_PekMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GoeY:AAGBfm0AAAAAXYJDuebzSOnDQKvzXIWNf5dH3ULvuZF8&scisig=AAGBfm0AAAAAXYJDuXkmHvZXE_YQkYsQdF89lEm5G3ED&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In a conveyer for bales of material of the character '
+                     'described; a table having a superficiary upon\n'
+                     'which the bales are to be conveyed; said superficiary '
+                     'being smooth, at least as wide as the bales,\n'
+                     'and formed with air ports therethrough that are spaced '
+                     'at such intervals that a … \n',
+         'author': 'GE Lamb',
+         'title': 'Conveyer',
+         'url': 'https://patents.google.com/patent/US2315627A/en'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '10227832731488640864',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YF9-Dq6P8I0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GoeY:AAGBfm0AAAAAXYJDuebzSOnDQKvzXIWNf5dH3ULvuZF8&scisig=AAGBfm0AAAAAXYJDuQfPXuUL_CaHaHYVfZ16L_9hX5JA&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'El objetivo de este escrito es el poner de presente los '
+                     'principales derechos superficiarios a que tienen acceso '
+                     'los inversionistas, tanto nacionales como extranjeros, '
+                     'en proyectos de infraestructura, y que son calificados '
+                     'como actividades de utilidad pública e interés por el …',
+         'author': 'DA Rojas',
+         'eprint': 'https://revistas.javeriana.edu.co/index.php/vnijuri/article/download/14591/11771',
+         'title': 'Superficiary rights in infrastructure projects',
+         'url': 'https://revistas.javeriana.edu.co/index.php/vnijuri/article/view/14591'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:y9Ma6TPLj1wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GoeY:AAGBfm0AAAAAXYJDuebzSOnDQKvzXIWNf5dH3ULvuZF8&scisig=AAGBfm0AAAAAXYJDuYlI4JcgdLrB0xLxvXcvTP1ywDAp&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The new approach to a thing enables the concept of '
+                     'residential co-ownership within the superficiary right '
+                     'of building. Residential co-ownership may be created '
+                     'where a building with at least two apartments forms the '
+                     'component part of the immovable thing. The …',
+         'author': 'P Petr',
+         'eprint': 'https://www.degruyter.com/downloadpdf/j/iclr.2016.16.issue-2/iclr-2016-0022/iclr-2016-0022.xml',
+         'title': 'Residential co-ownership within the superficiary right of '
+                  'building–theoretical hotch-potch or practical reality?',
+         'url': 'https://www.degruyter.com/downloadpdf/j/iclr.2016.16.issue-2/iclr-2016-0022/iclr-2016-0022.xml'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:c5q2zArwT-cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GoeY:AAGBfm0AAAAAXYJDuebzSOnDQKvzXIWNf5dH3ULvuZF8&scisig=AAGBfm0AAAAAXYJDuQVorhESgnbeduTM9k5Aw92TaeJ0&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Thus, superficies is a limited real right by which a '
+                     'plot of land is encumbered for\n'
+                     'a definite period of time in such a way that the '
+                     'entitled person – superficiary has\n'
+                     'a right to erect on or beneath this plot of land a '
+                     'construction. The … \n',
+         'author': 'Z CHECHELASHVILI',
+         'eprint': 'https://jss.ibsu.edu.ge/jms/index.php/jss/article/view/69/78',
+         'title': 'General Overview of the Real Rights of Use under the '
+                  'Georgian Property Law',
+         'url': 'https://jss.ibsu.edu.ge/jms/index.php/jss/article/view/69'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:y9TYMHZf4kcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GoeY:AAGBfm0AAAAAXYJDuebzSOnDQKvzXIWNf5dH3ULvuZF8&scisig=AAGBfm0AAAAAXYJDuR1sBxbbB9AxeVkV0ryvFVTtzG6t&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 308 superficiary acquires a right of use” and it '
+                     'consist of “the property right that a person holds\n'
+                     "over the construction built on another party's plot of "
+                     'land” (Chelaru 2013, 1, 49-59; Rădulescu\n'
+                     '2013, 1, 147-160) … In case the superficiary alters the '
+                     'structure of the construction, art … \n',
+         'author': 'CR Romițan',
+         'eprint': 'http://rais.education/wp-content/uploads/2019/04/44RP.pdf',
+         'title': 'Legal Regime of the Right of Superficies in Romania',
+         'url': 'https://www.ceeol.com/search/chapter-detail?id=773000'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9OmE86smxNYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GoeY:AAGBfm0AAAAAXYJDuebzSOnDQKvzXIWNf5dH3ULvuZF8&scisig=AAGBfm0AAAAAXYJDuWVQh3QbcX6vn-yAs1xqaI2CroLz&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Through these steps the desired Superficiary can be '
+                     'created. The next step in this\n'
+                     'transaction is to protect the Super- ficiary that has '
+                     'been created from attack by third\n'
+                     'parties. So that the terms of the Superficiary will be '
+                     'enforceable … \n',
+         'author': 'WJ McDermott',
+         'title': 'Superfices',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/loylwr2&section=22'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SC_JZiPX_L8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GoeY:AAGBfm0AAAAAXYJDuebzSOnDQKvzXIWNf5dH3ULvuZF8&scisig=AAGBfm0AAAAAXYJDuTqT5oWvyn3AujIasOKu6mpMLoQS&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In order to solve this problem, the state granted the '
+                     'superficiary the right to use the\n'
+                     'building on an unlimited period, with the condition of '
+                     'paying an annual amount, called\n'
+                     'solarium. The superficiary had the possibility to '
+                     'transfer … \n',
+         'author': 'S Chirica and C Mic-Soare',
+         'eprint': 'http://www.tribunajuridica.eu/arhiva/An5v1/4%20Chirica.pdf',
+         'title': 'Superficies in the form of the right to superpose',
+         'url': 'https://www.ceeol.com/search/article-detail?id=285745'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bVToLzv3O4UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GoeY:AAGBfm0AAAAAXYJDuebzSOnDQKvzXIWNf5dH3ULvuZF8&scisig=AAGBfm0AAAAAXYJDuW9ed9w-3o04tZ6G5KlmDWWPaXY3&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… ot tne greatest importance, however, Avliether the '
+                     "lupas infi1Ua ' ^vered with epidermis or not.\n"
+                     'If the nodules are superficiary placesd, d the epidermis '
+                     'thin and tense, it rapidly disappeared\n'
+                     'un el t ^ and then the exposed nodules quickly heal. The '
+                     'V???? tJ … \n',
+         'author': 'FJ CHARTERIS',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5275080/pdf/edinbmedj74561-0085.pdf',
+         'title': 'such as? patients',
+         'url': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5275080/'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SMetvNDc9y8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GoeY:AAGBfm0AAAAAXYJDuebzSOnDQKvzXIWNf5dH3ULvuZF8&scisig=AAGBfm0AAAAAXYJDuRyHhsK_o_54nvqCFexxrVTz2_E5&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1. The method of attaching backing fabric to crinkled '
+                     'lining materials, consisting of applying an\n'
+                     'adhesive to a superficiary, then spreading the backing '
+                     'fabric upon the superficiary while the\n'
+                     'adhesive is tacky, then removing the backing from the '
+                     'superficiary and While it is drawn … \n',
+         'author': 'AR Maulsby',
+         'eprint': 'https://patentimages.storage.googleapis.com/f6/fa/b2/dd8c6095ef10f2/US1875077.pdf',
+         'title': 'Method of applying backing fabrics to linings',
+         'url': 'https://patents.google.com/patent/US1875077A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LJ7DmhEz_csJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GoeY:AAGBfm0AAAAAXYJDuebzSOnDQKvzXIWNf5dH3ULvuZF8&scisig=AAGBfm0AAAAAXYJDuQVgqhebbLZegmA89th9YshIY4hO&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Definition of the superficies right In art. 693 of the '
+                     'Civil Code, called “Term”, the superficies right\n'
+                     'is defined as “the right to have or build a construction '
+                     "on somebody else's land, underneath or\n"
+                     'in the basement of that land, on which the superficiary '
+                     'acquires a right of use” … \n',
+         'author': 'MC Paul',
+         'eprint': 'http://analedrept.utm.ro/Numere/AnaleDrept2013.pdf#page=71',
+         'title': 'Regulations regarding the Superficies Right in the New '
+                  'Civil Code',
+         'url': 'https://www.ceeol.com/search/article-detail?id=608824'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:njj754tLcSkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G2FU:AAGBfm0AAAAAXYJDwFXEWtGpBkSsV5PEobvl3bfOTB8s&scisig=AAGBfm0AAAAAXYJDwAoKI_yFGCnJOLA0gxjbNcWW19CM&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… restlmEted. The people.. .ore frequently illiterate '
+                     'because opportuni- ties have been\n'
+                     'denied them. Fo far us industrial conditions ere '
+                     'concerned, I think the question has\n'
+                     'bien superficiary considered. ffe need labor.... '
+                     'Furthermore … \n',
+         'author': 'CL Morford',
+         'eprint': 'http://krex.k-state.edu/dspace/bitstream/handle/2097/24096/LD2668T41935M61.pdf?sequence=1',
+         'title': 'The growth of public sentiment toward the American '
+                  'immigration policies, 1921-1935',
+         'url': 'http://krex.k-state.edu/dspace/bitstream/handle/2097/24096/LD2668T41935M61.pdf?sequence=1'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-xJqKu8FHHYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G2FU:AAGBfm0AAAAAXYJDwFXEWtGpBkSsV5PEobvl3bfOTB8s&scisig=AAGBfm0AAAAAXYJDwDJSTqKRJzHiGUbjnCYgz7a63KTe&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Thus, ownership of the construction2 belongs to the '
+                     'superficiary, and of the land belongs to\n'
+                     'another person; the right of superficie can be set up by '
+                     'acquisitive prescription, by convention\n'
+                     'between the parties, inheritance or forced sale, for a '
+                     'period of not more than 99 years … \n',
+         'author': 'D Radulescu',
+         'title': 'Private Ownership Acquisitions Mode',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/juseciv2014&section=24'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fIh6qUqSGekJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G2FU:AAGBfm0AAAAAXYJDwFXEWtGpBkSsV5PEobvl3bfOTB8s&scisig=AAGBfm0AAAAAXYJDwBDAykWNYZ17Ctgn6IpcIhaxdprk&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… comprising a steam chest, means for supplying steam '
+                     'thereto, acentral superficiary providing\n'
+                     'f means, means for causing the central superflciary '
+                     'providing means to stand upright in the steam\n'
+                     'chest, side superficiary providing means adapted to be '
+                     'positioned in the steam chest … \n',
+         'author': 'CL Mitchel and S Paul',
+         'title': 'Method of preparing cheese loaves and apparatus',
+         'url': 'https://patents.google.com/patent/US2358526A/en'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '14502928965512066941',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ffcR6A3BRMkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G2FU:AAGBfm0AAAAAXYJDwFXEWtGpBkSsV5PEobvl3bfOTB8s&scisig=AAGBfm0AAAAAXYJDwKER6VNYE6iNvr905GWq3QG6R4dw&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Methodological approaches used for accounting for the '
+                     'originated use rights such as land\n'
+                     'servitude, perpetual lease and superficies are proposed '
+                     'both for land plot holders and users\n'
+                     '(servituary, superficiary and emphyteut). Suggested '
+                     'Citation. Tetyana Ostapchuk, 2017 … \n',
+         'author': 'T Ostapchuk',
+         'title': 'Approaches to Accounting of the Capitalization of Rights to '
+                  'Use Land Assets',
+         'url': 'https://ideas.repec.org/a/iaf/journl/y2017i4p58-65.html'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TIBSG94u8AsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G2FU:AAGBfm0AAAAAXYJDwFXEWtGpBkSsV5PEobvl3bfOTB8s&scisig=AAGBfm0AAAAAXYJDwDinEWmQrEzwJ34diFKXMdhq9OoR&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… alloy products comprising the steps of immersing the '
+                     'product in a phosphatizing bath containing\n'
+                     'zinc in solution; applying a sustained potential '
+                     'difference between the product as anode and\n'
+                     'a counter-electrode as cathode and thereby exerting a '
+                     'superficiary dissolving action on … \n',
+         'author': 'EL Ghali and J Voeltzel',
+         'eprint': 'https://patentimages.storage.googleapis.com/d4/16/c0/62c010a32bc4e8/US3544390.pdf',
+         'title': 'Phosphatizing process for iron products and products '
+                  'obtained thereby',
+         'url': 'https://patents.google.com/patent/US3544390A/en'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '5541233852447235250',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:spx8gNRq5kwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G2FU:AAGBfm0AAAAAXYJDwFXEWtGpBkSsV5PEobvl3bfOTB8s&scisig=AAGBfm0AAAAAXYJDwBFLUivXXxnxwAot8aLAqi_mukEr&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Page 2. 2 mediation"(reconciliation) by the court. '
+                     'This is in-court mediation which refers disputes\n'
+                     'between employer and employee, real estate and '
+                     'superficiary, partner and … and superficiary,\n'
+                     'partner and partner, partner and sleeping partner, real '
+                     'estate owners … \n',
+         'author': 'GCC Chen',
+         'eprint': 'http://www.softic.or.jp/symposium/open_materials/11th/en/Chen.pdf',
+         'title': 'ADR system in Taiwan',
+         'url': 'http://www.softic.or.jp/symposium/open_materials/11th/en/Chen.pdf'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '17086735799532388102',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Bv8TJq5HIO0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G2FU:AAGBfm0AAAAAXYJDwFXEWtGpBkSsV5PEobvl3bfOTB8s&scisig=AAGBfm0AAAAAXYJDwKZqQNpiJzMHwehyhsix4Zj8cXtQ&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… May be established by the agreement of the landowner '
+                     'and the person becoming the superficiary\n'
+                     'or by the will of the landowner. – Superficiary may be '
+                     'obliged to pay for this right by a lump sum\n'
+                     'or installments. – Period may be fixed or indefinite. '
+                     'Emphyteusis … \n',
+         'author': 'P Astromskis and J Grigienė and J Kiršienė…',
+         'eprint': 'https://www.researchgate.net/profile/Ramon_Loik/publication/315867496_Public_Law/links/59dbc771a6fdcc1ec89fa2e8/Public-Law.pdf#page=481',
+         'title': 'Lithuanian Private Law',
+         'url': 'https://link.springer.com/chapter/10.1007/978-3-319-54478-6_9'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Vo3PklBBb0oJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G2FU:AAGBfm0AAAAAXYJDwFXEWtGpBkSsV5PEobvl3bfOTB8s&scisig=AAGBfm0AAAAAXYJDwMlWtLkKevOBSgdzQds7YY-Y7B-W&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1 / 1 Seleccione referencia / Select reference Autor: '
+                     'Arce-Rojas, David. Título:\n'
+                     'Superficiary rights in infrastructure projects =. Los '
+                     'derechos superficiarios en los\n'
+                     'proyectos de infraestructura. Otros títulos: Los '
+                     'derechos superficiarios en los proyectos …',
+         'author': 'D Arce-Rojas',
+         'title': 'Superficiary rights in infrastructure projects= Los '
+                  'derechos superficiarios en los proyectos de '
+                  'infraestructuraLos derechos superficiarios en los proyectos '
+                  '…',
+         'url': 'http://www.sidalc.net/cgi-bin/wxis.exe/?IsisScript=UCC.xis&method=post&formato=2&cantidad=1&expresion=mfn=021709'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jzeOZQ5XScwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G2FU:AAGBfm0AAAAAXYJDwFXEWtGpBkSsV5PEobvl3bfOTB8s&scisig=AAGBfm0AAAAAXYJDwDyvXaQ7QmeYSNPXGIxMA6kkHB-A&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 以「建築物存在」作為基地地上權人、承租人先買權要件的探討. An Exploration of the '
+                     'Existing of\n'
+                     'Buildings as the Requisites of Rights of First Refusal '
+                     'of the Superficiary and the Tenant of the\n'
+                     'Building Site. 黃健彰(Chien-Chang Huang). 財產法暨經濟法； 41期(2015 '
+                     '/ 03 / 01) ， P1 - 27 … \n',
+         'author': '黃健彰',
+         'title': '以 [建築物存在] 作為基地地上權人, 承租人先買權要件的探討',
+         'url': 'http://www.airitilibrary.com/Publication/alDetailedMesh?docid=18164641-201503-201703170022-201703170022-1-27'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bFBaUSBuAwsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G2FU:AAGBfm0AAAAAXYJDwFXEWtGpBkSsV5PEobvl3bfOTB8s&scisig=AAGBfm0AAAAAXYJDwBgvOoiDSZGOxww9U-1pXOwCdfpx&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Glossators, followed by commentators and a part of the '
+                     'modern doctrine, differentiate the\n'
+                     "superficiary's power over the building and the ground "
+                     "owner's power over the entire land by\n"
+                     'describing the first one as a beneficial ownership and '
+                     'the second one as a direct ownership … \n',
+         'author': 'R Faivre-Faucompré',
+         'title': 'Le droit de superficie: des glossateurs aux premiers '
+                  'commentateurs du Code civil de 1804 (XIIe-XIXe siècle)',
+         'url': 'https://www.theses.fr/2018PA020043'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2AYHK0Qu_8UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G0Ns:AAGBfm0AAAAAXYJDyNvwWanzYFJFa4161bilbNLlwxf6&scisig=AAGBfm0AAAAAXYJDyEsA94EmC-iAXES7mKlKxRCY7pSv&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The Right of First Refusal of the Owner of the '
+                     'Building Site When the Superficiary or the\n'
+                     'Dian-Holder of the Site Sells His House and His Right '
+                     'Together: Focus on the Acknowledgement\n'
+                     'and the Object of the Right of First Refusal. '
+                     '黃健彰(Chien-Chang Huang) … \n',
+         'author': '黃健彰',
+         'title': '基地所有人於地上權人或典權人將房屋權源出賣時之先買權-以該先買權之有無及客體為中心',
+         'url': 'http://www.airitilibrary.com/Publication/alDetailedMesh?docid=16064682-201611-201612300030-201612300030-79-100'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:i8B2Qm2GM0gJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G0Ns:AAGBfm0AAAAAXYJDyNvwWanzYFJFa4161bilbNLlwxf6&scisig=AAGBfm0AAAAAXYJDyO5cWuOXI9Sxtv3_A86KuIf2L4sL&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… belonging to the usufructuary unless the contract or '
+                     'laws provide otherwise Superficies The right\n'
+                     'to use the land of another for constructing buildings '
+                     '(articles 4.160–4.164)–May be established\n'
+                     'by the agreement of the landowner and the person '
+                     'becoming the superficiary or by … \n',
+         'author': 'V Višinskis',
+         'title': 'Ščerbina-Dalibagiené, Jurgita Spaiciené',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=mtmfDgAAQBAJ&oi=fnd&pg=PA471&dq=superficiary&ots=itKKEcydoo&sig=OWDE1CY7BMJm-pewYcu9r1woNzk'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-yfMO14GDD0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G0Ns:AAGBfm0AAAAAXYJDyNvwWanzYFJFa4161bilbNLlwxf6&scisig=AAGBfm0AAAAAXYJDyEuRIeb2kmwRS_ZvTSqTZZCM7hZ1&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. 관습법상 법정지상권 양수인의 법적 지위 권 용 우 * ◀ 目 次 ▶ Ⅰ. 서론 Ⅱ. '
+                     '관습법상\n'
+                     '법정지상권의 이전 Ⅲ. 관습법상 법정지상권의 대항력 Ⅳ. 결론 (논문투고일 : 2008.11.30. '
+                     '/\n'
+                     '논문심사일 : 2008.12.11. / 게재확정일 2008.12.24.) Ⅰ. 서 론 … \n',
+         'author': '권용우',
+         'title': '관습법상 법정지상권 양수인의 법적 지위',
+         'url': 'http://www.papersearch.net/thesis/article.asp?key=2755995'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '4037629199366547105',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oeb8Ul2KCDgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G0Ns:AAGBfm0AAAAAXYJDyNvwWanzYFJFa4161bilbNLlwxf6&scisig=AAGBfm0AAAAAXYJDyLki0gOomcTfYPFS9uAN0VX6zDmv&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The reintroduction of the superfi- cies solo cedit '
+                     'principle and the superficiary right of building\n'
+                     'into the Czech law does not, of course, mean the return '
+                     'of feudal relationships … Keywords Divided\n'
+                     'Ownership, Superficiary Right to Build, Roman Law, '
+                     'Ownership I. Introduction … \n',
+         'author': 'P Petr and O Horák and P Dostalík',
+         'eprint': 'https://content.sciendo.com/downloadpdf/journals/danb/9/2/article-p81.pdf',
+         'title': 'Divided Ownership–Development and Perspectives',
+         'url': 'https://content.sciendo.com/view/journals/danb/9/2/article-p81.xml'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HqYpjQUfIh4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G0Ns:AAGBfm0AAAAAXYJDyNvwWanzYFJFa4161bilbNLlwxf6&scisig=AAGBfm0AAAAAXYJDyEzO_6DbwGq90tTOGm1o5vWpyt3_&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Título: Inventario de recursos naturales '
+                     'superficiarios renovables y catastro integral del '
+                     'complejo\n'
+                     'turístico del autódromo de Yahuarcocha.. [Inventory of '
+                     'renewable superficiary natural resources\n'
+                     'and integral cadastre of the tourist complex of the '
+                     'Yahuarcocha autodrome] … \n',
+         'author': 'R Espinoza',
+         'title': 'Proyecto: Yahuarcocha. Clasificación de suelos '
+                  '[Ecuador].;[Yahuarcocha project. Soil classification '
+                  '[Ecuador]].',
+         'url': 'http://www.sidalc.net/cgi-bin/wxis.exe/?IsisScript=AGRINTER.xis&method=post&formato=2&cantidad=1&expresion=mfn=004619'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YFfhE-xmO3wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G0Ns:AAGBfm0AAAAAXYJDyNvwWanzYFJFa4161bilbNLlwxf6&scisig=AAGBfm0AAAAAXYJDyLhPy_wajbWcSw20sUsoggidSzPw&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Título: Inventario de recursos naturales '
+                     'superficiarios renovables y catastro integral del '
+                     'complejo\n'
+                     'turístico del autódromo de Yahuarcocha.. [Inventory of '
+                     'renewable superficiary natural resources\n'
+                     'and integral cadastre of the tourist complex of the '
+                     'Yahuarcocha autodrome] … \n',
+         'author': 'H Barragán',
+         'title': 'Proyecto Yahuarcocha. Mapa ecológico [Ecuador].;[Ecological '
+                  'map [Ecuador]].',
+         'url': 'http://www.sidalc.net/cgi-bin/wxis.exe/?IsisScript=AGRINTER.xis&method=post&formato=2&cantidad=1&expresion=mfn=004920'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:72gESSIjBK8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G0Ns:AAGBfm0AAAAAXYJDyNvwWanzYFJFa4161bilbNLlwxf6&scisig=AAGBfm0AAAAAXYJDyDgSiNRx_K7FOouV6MvWYbkrmPUL&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In addition to this regulatory gap, the questions '
+                     'arise: What for? What role does the superficiary\n'
+                     'Right? Such questions are studied … of investment in our '
+                     'country Key words: Superficiary Right,\n'
+                     'investment, property Registration, property, Development '
+                     'Page 5. Tabla de contenido … \n',
+         'author': 'R Pastora and Y María',
+         'eprint': 'http://repositorio.uca.edu.ni/3320/1/UCANI4431.pdf',
+         'title': 'Análisis del derecho real de superficie desde la '
+                  'perspectiva inmobiliario registral y su utilidad práctica '
+                  'en el ámbito empresarial en Nicaragua',
+         'url': 'http://repositorio.uca.edu.ni/3320/'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qqj1W9ztA_0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G0Ns:AAGBfm0AAAAAXYJDyNvwWanzYFJFa4161bilbNLlwxf6&scisig=AAGBfm0AAAAAXYJDyLfqby0mr6Hff36K_5_Pl1i1iLEf&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Título: Inventario de recursos naturales '
+                     'superficiarios renovables y catastro integral del '
+                     'complejo\n'
+                     'turístico del autódromo de Yahuarcocha.. [Inventory of '
+                     'renewable superficiary natural resources\n'
+                     'and integral cadastre of the tourist complex of the '
+                     'Yahuarcocha autodrome] … \n',
+         'author': 'N Jurado',
+         'title': 'Proyecto Yahuarcocha. Curvas de isoprecio [precio de '
+                  'terreno, Ecuador].;[Yahuarcocha project. Isoprice curves '
+                  '[land prices, Ecuador]].',
+         'url': 'http://www.sidalc.net/cgi-bin/wxis.exe/?IsisScript=AGRINTER.xis&method=post&formato=2&cantidad=1&expresion=mfn=003767'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jQpSoUOK2AwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G0Ns:AAGBfm0AAAAAXYJDyNvwWanzYFJFa4161bilbNLlwxf6&scisig=AAGBfm0AAAAAXYJDyFUOrTAWuvPDxjmA5BRUdBPrQHHp&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Título: Inventario de recursos naturales '
+                     'superficiarios renovables y catastro integral del '
+                     'complejo\n'
+                     'turístico del autódromo de Yahuarcocha.. [Inventory of '
+                     'renewable superficiary natural resources\n'
+                     'and integral cadastre of the tourist complex of the '
+                     'Yahuarcocha autodrome] … \n',
+         'author': 'C Egas and R Espinosa',
+         'title': 'Proyecto Yahuarcocha. Individualización de la propiedad '
+                  '[Ecuador].;[Yahuarcocha project. Individual property '
+                  'distribution [Ecuador]].',
+         'url': 'http://www.sidalc.net/cgi-bin/wxis.exe/?IsisScript=AGRINTER.xis&method=post&formato=2&cantidad=1&expresion=mfn=003759'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oPCoo_WVcmMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G0Ns:AAGBfm0AAAAAXYJDyNvwWanzYFJFa4161bilbNLlwxf6&scisig=AAGBfm0AAAAAXYJDyPIUgJ67jlqvxkxFan6NdjJYcQ2y&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Título: Inventario de recursos naturales '
+                     'superficiarios renovables y catastro integral del '
+                     'complejo\n'
+                     'turístico del autódromo de Yahuarcocha.. [Inventory of '
+                     'renewable superficiary natural resources\n'
+                     'and integral cadastre of the tourist complex of the '
+                     'Yahuarcocha autodrome] … \n',
+         'author': 'N Jurado',
+         'title': 'Proyecto Yahuarcocha. Infraestructura '
+                  '[Ecuador].;[Yahuarcocha project. Infrastructure. '
+                  'Telecommunication, drinking water, electric power '
+                  '[Ecuador]].',
+         'url': 'http://www.sidalc.net/cgi-bin/wxis.exe/?IsisScript=AGRINTER.xis&method=post&formato=2&cantidad=1&expresion=mfn=003956'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xZoxt7vig74J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GyOg:AAGBfm0AAAAAXYJD0OjDuGsIXcaTZ_0mBI8D3ceieQ-9&scisig=AAGBfm0AAAAAXYJD0MKZUUneWpkpOxIPYIcVftzzk6lN&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 다고 보아야 할 것이다. There is an ongoing discussion on legal '
+                     'characteristics of\n'
+                     "'claim of cease' for superficiary and lessor (Article "
+                     "287, 311) and 'notice of cease'\n"
+                     'for lessor and lessee (Article 313, 314). There have '
+                     'been various … \n',
+         'author': '오시영',
+         'title': '전세권과 지상권의 소멸청구권 및 소멸통고권의 법적 성질에 대한 고찰',
+         'url': 'http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06671463'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fBaFuJs3DDIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GyOg:AAGBfm0AAAAAXYJD0OjDuGsIXcaTZ_0mBI8D3ceieQ-9&scisig=AAGBfm0AAAAAXYJD0Gyo_Zf4bE69_taRMGftRFSFKoPH&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Título: Inventario de recursos naturales '
+                     'superficiarios renovables y catastro integral del '
+                     'complejo\n'
+                     'turístico del autódromo de Yahuarcocha.. [Inventory of '
+                     'renewable superficiary natural resources\n'
+                     'and integral cadastre of the tourist complex of the '
+                     'Yahuarcocha autodrome] … \n',
+         'author': 'C Egas and R Espinoza',
+         'title': 'Proyecto Yahuarcocha. Uso del suelo [Ecuador].;[Yahuarcocha '
+                  'project. Soil utilization [Ecuador]].',
+         'url': 'http://www.sidalc.net/cgi-bin/wxis.exe/?IsisScript=AGRINTER.xis&method=post&formato=2&cantidad=1&expresion=mfn=004722'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MhMpwT5xGIMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GyOg:AAGBfm0AAAAAXYJD0OjDuGsIXcaTZ_0mBI8D3ceieQ-9&scisig=AAGBfm0AAAAAXYJD0EC-dfN18NpKRTs71uMZW7C3fQu3&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Título: Inventario de recursos naturales '
+                     'superficiarios renovables y catastro integral del '
+                     'complejo\n'
+                     'turístico del autódromo de Yahuarcocha.. [Inventory of '
+                     'renewable superficiary natural resources\n'
+                     'and integral cadastre of the tourist complex of the '
+                     'Yahuarcocha autodrome] … \n',
+         'author': 'N Jurado',
+         'title': 'Proyecto Yahuarcocha. Infraestructura, transporte y centros '
+                  'de educación [Ecuador].;[Yahuarcocha project. '
+                  'Infrastructure. Transportation and education …',
+         'url': 'http://www.sidalc.net/cgi-bin/wxis.exe/?IsisScript=AGRINTER.xis&method=post&formato=2&cantidad=1&expresion=mfn=003955'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Izv01hDYEMsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GyOg:AAGBfm0AAAAAXYJD0OjDuGsIXcaTZ_0mBI8D3ceieQ-9&scisig=AAGBfm0AAAAAXYJD0PYAD7kMUKl6ygwi46IDhht8xBBb&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… usufructuary position. The Supreme Court of Korea has '
+                     'negated the purchase claims\n'
+                     'of the material on the land of a lessee, superficiary '
+                     'and a rightful person of Jeonse\n'
+                     'right if their renewal claim cannot be accepted. So, the '
+                     '… \n',
+         'author': '박득배',
+         'title': '토지와 건물의 이원체계에서의 권리충돌',
+         'url': 'http://www.papersearch.net/thesis/article.asp?key=3290193'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '12192996371216803358',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HiYBLpk5NqkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GyOg:AAGBfm0AAAAAXYJD0OjDuGsIXcaTZ_0mBI8D3ceieQ-9&scisig=AAGBfm0AAAAAXYJD0KEIhauqO6CqGRYm2jY4WSzmvzOa&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… the lease of land where the object is to own a '
+                     'building or any other structure, or is for planting,\n'
+                     'collecting salt, and stock farming.” The provisions of '
+                     'Article 283 state that “If buildings, other\n'
+                     'structures, or trees remain, on termination of the '
+                     'superficies, the superficiary may demand … \n',
+         'author': '김서기',
+         'title': '토지임차인이 행사하는 지상물매수청구권에관한 일고',
+         'url': 'http://www.papersearch.net/thesis/article.asp?key=3652138'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:t2mFoJ_s1McJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GyOg:AAGBfm0AAAAAXYJD0OjDuGsIXcaTZ_0mBI8D3ceieQ-9&scisig=AAGBfm0AAAAAXYJD0JO46zYpP6FzyMSl8pIDG6EDwK-r&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1. In a razor of the character described in '
+                     'combination, an abrasive roller, :1 .lltlvilllly '
+                     'mounted\n'
+                     'blade and means operable by advancing the roller in '
+                     'opposite directions in rolling contact with\n'
+                     'a superficiary for actuating the blade to engage '
+                     'opposite sides of the cutting edge with … \n',
+         'author': 'US Patent 1 and 681 and 396 and 1928',
+         'eprint': 'https://patentimages.storage.googleapis.com/6d/a7/d4/f0c07ebaacd3ee/US1681396.pdf',
+         'title': 'Razor',
+         'url': 'https://patents.google.com/patent/US1681396A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CwqlTHYBgi0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GyOg:AAGBfm0AAAAAXYJD0OjDuGsIXcaTZ_0mBI8D3ceieQ-9&scisig=AAGBfm0AAAAAXYJD0KyDYpZiFKzeO4_yeEN7ZyfNli6w&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The major disadvantages or limitations are that it: '
+                     '(1) requires high-level expertise in both\n'
+                     'quantitative and qualitative methods to use it '
+                     'competently; (2) needs extensive data collection\n'
+                     'and resources; and (3) is prone to being used '
+                     'superficiary such as claiming to have used … \n',
+         'author': 'L Mundia',
+         'eprint': 'http://www.iejee.com/index.php/IEJEE/article/download/203/199',
+         'title': 'The assessment of math learning difficulties in a primary '
+                  'grade-4 child with high support needs: Mixed methods '
+                  'approach',
+         'url': 'http://www.iejee.com/index.php/IEJEE/article/download/203/199'},
+ 'citedby': 56,
+ 'id_scholarcitedby': '11931327852073907515',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:O_WWcXeXlKUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GyOg:AAGBfm0AAAAAXYJD0OjDuGsIXcaTZ_0mBI8D3ceieQ-9&scisig=AAGBfm0AAAAAXYJD0HzjdJLlzKPcjobAkuocrqdCqQ3a&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Housing (of any kind) continues to be in short supply, '
+                     'and the erecting of superficiary\n'
+                     'structures for rental purposes by long-term West '
+                     'Kingston residents with secure\n'
+                     'tenure to land has been declining … superficiary '
+                     'structures … \n',
+         'author': 'K De Albuquerque and W Van Riel and JM Taylor',
+         'title': 'Uncontrolled urbanization in the developing world: A '
+                  'Jamaican case study',
+         'url': 'https://www.jstor.org/stable/pdf/4190782.pdf'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '13234614306190942403',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:w2DQa5fLqrcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GyOg:AAGBfm0AAAAAXYJD0OjDuGsIXcaTZ_0mBI8D3ceieQ-9&scisig=AAGBfm0AAAAAXYJD0ONu9RzwrxOWRaEx6SDz9kAgrcT7&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… We encounter these prerogatives in the dismemberments '
+                     'rights, where they are being exercised\n'
+                     'more or less concurrently with the bare proprietor, but '
+                     'under no circumstance shall the usufructuary,\n'
+                     'the superficiary owner or the holder of an easement, '
+                     'have the right to exercise … \n',
+         'author': 'I Sferdian',
+         'eprint': 'http://www.prafak.ni.ac.rs/files/zbornik/sadrzaj/zbornici/z49/03z49.pdf',
+         'title': 'The absolutism of the property right',
+         'url': 'https://www.ceeol.com/search/article-detail?id=715512'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '2846957922043988888',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mIvqcSVtgicJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GyOg:AAGBfm0AAAAAXYJD0OjDuGsIXcaTZ_0mBI8D3ceieQ-9&scisig=AAGBfm0AAAAAXYJD0Pqw0_t6OgaTkod-1qoHQ5iFxcbR&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… If the buildings already exist on the Trust land, the '
+                     'Trustee can transfer superficiary ownership\n'
+                     'of the buildings as well 12. Art … 43 Another experiment '
+                     'involved the superficiary ownership granted\n'
+                     'to a cooperative, which paid 4 % of the municipal '
+                     'evaluation as a form of rent.44 … \n',
+         'author': 'E Vaudry and S Altschul',
+         'eprint': 'https://www.erudit.org/en/journals/notariat/2004-v106-n1-notariat03669/1045841ar.pdf',
+         'title': 'Using Civil Law Trusts for Affordable Housing: A Community '
+                  'Land Trust Model',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/revnt106&section=7'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:i-hmEX0VYDAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GwRM:AAGBfm0AAAAAXYJD2RM5Y7Qw6CG9SqiXMufWQ-CELtid&scisig=AAGBfm0AAAAAXYJD2dP257NRlLPZ0BaWCj3_jybEBzm6&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Problem: H25-11-O, label = Y t2: (If a superficiary '
+                     'fails to pay the rent for two or more consecutive\n'
+                     'years, the landowner may demand the extinction of the '
+                     'superficies.) … The pair of requirement parts: –\n'
+                     '(A superficiary fails to pay the rent for two or more '
+                     'consecutive years) 87 … \n',
+         'author': 'A Morimoto and D Kubo and M Sato and H Shindo…',
+         'eprint': 'https://wwww.easychair.org/publications/download/pqm',
+         'title': 'Legal Question Answering System using Neural Attention.',
+         'url': 'https://wwww.easychair.org/publications/download/pqm'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '3650119227056631404',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bK6IDBnUpzIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GwRM:AAGBfm0AAAAAXYJD2RM5Y7Qw6CG9SqiXMufWQ-CELtid&scisig=AAGBfm0AAAAAXYJD2WHA1gqFkb5_lKYFFSLUPtOLjpDN&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… alienation, mortgage, usufruct, servitude and seizure '
+                     'under the laws governing\n'
+                     'immovable property.66 Professor Yiannopoulos indicates '
+                     'that these "superficiary\n'
+                     'rights" are established in Louisiana by the Civil Code. '
+                     'Article 664 … \n',
+         'author': 'VE Ellefson',
+         'title': 'Air Space Usage and Louisiana Law',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/loyolr17&section=30'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '18180622651074310908',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_HK04PmLTvwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GwRM:AAGBfm0AAAAAXYJD2RM5Y7Qw6CG9SqiXMufWQ-CELtid&scisig=AAGBfm0AAAAAXYJD2TTr9cp1S02Dj3OQ0kx6dFQXsNhy&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Under the single name of this jus in re, two '
+                     'institutions must be distin- guished. One should more\n'
+                     'aptly be called "superficiary property" ; it bears on '
+                     'the upper portion of the land, excluding the\n'
+                     'soil but including a consecutive right of accession, '
+                     'within the meaning of art … \n',
+         'author': 'J Goulet',
+         'eprint': 'https://www.erudit.org/en/journals/cd1/1978-v19-n4-cd3740/042289ar.pdf',
+         'title': "Les droits de superficie et l'imprécision du langage "
+                  'juridique',
+         'url': 'https://www.erudit.org/en/journals/cd1/1978-v19-n4-cd3740/042289ar/abstract/'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '5830526277598755522',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wrraDcIw6lAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GwRM:AAGBfm0AAAAAXYJD2RM5Y7Qw6CG9SqiXMufWQ-CELtid&scisig=AAGBfm0AAAAAXYJD2RPhfFKwwXrUY46Di5e4SUl0FkHS&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1,681,466, issued on August 21, 1928, and which is '
+                     'characterized by the inclusion therein of\n'
+                     'an abrasive roller and a pivoted blade holder adapted to '
+                     'be released from shaving position so\n'
+                     'that incident to a back and forth rolling action of the '
+                     'roller over a superficiary, the opposite … \n',
+         'author': 'C Paul and PP Cook',
+         'eprint': 'https://patentimages.storage.googleapis.com/bc/e4/5c/d103caf7a7f77c/US1978988.pdf',
+         'title': 'Self sharpening safety razor',
+         'url': 'https://patents.google.com/patent/US1978988A/en'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '12856054650000814899',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:M7NOApfhabIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GwRM:AAGBfm0AAAAAXYJD2RM5Y7Qw6CG9SqiXMufWQ-CELtid&scisig=AAGBfm0AAAAAXYJD2bsDKAsYIEUbs5RqzQJv2p3kD6YX&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… in maximum extent. The epidermis was thick and '
+                     'corrugated and had an uneven dark\n'
+                     'surface with iR-deflned pale plaques at scattered '
+                     'intervals. Microscopic : The epidermis\n'
+                     'is unevenly thickened and in some places superficiaRy '
+                     'ulcerated … \n',
+         'author': 'LR Finlay‐Jones and WB Mtjston',
+         'title': "PAGET'S DISEASE OF THE SCBOTUM A CASE BEPOET",
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1440-0960.1966.tb01390.x'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '16054110799711124860',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fD2Lybaoy94J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GwRM:AAGBfm0AAAAAXYJD2RM5Y7Qw6CG9SqiXMufWQ-CELtid&scisig=AAGBfm0AAAAAXYJD2dSbsiZMG9ZqzmCcGFs2z2PFtW6S&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Maika N. Contract grounds for the right of superficies '
+                     'In article is considered the contractual\n'
+                     'grounds of the right superficies. The elements of '
+                     'contractual reasons are explored. The types\n'
+                     'of contractual obligations are classified into account '
+                     'the nature of superficiary law … \n',
+         'author': 'N Maika',
+         'eprint': 'http://appj.tneu.edu.ua/index.php/apl/article/download/592/582',
+         'title': 'Contract grounds for the right of superficies',
+         'url': 'http://appj.tneu.edu.ua/index.php/apl/article/view/592'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8PLW5dKndvUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GwRM:AAGBfm0AAAAAXYJD2RM5Y7Qw6CG9SqiXMufWQ-CELtid&scisig=AAGBfm0AAAAAXYJD2ZwFyI7I943H28-ZuRdSW1nWuix1&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… This con- tract gives a licensee authority to exploit '
+                     'a specific mineral at hisher cost and risk after\n'
+                     'completing a technical exploration of the field with a '
+                     'valid exploration li- cense. The contract has\n'
+                     'a duration of 30 years, with a superficiary extension '
+                     'greater than that of the permit … \n',
+         'author': 'VG Duran',
+         'title': 'Development policies in Colombia',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/14041048809409918'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hI-rFF-NBtYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GwRM:AAGBfm0AAAAAXYJD2RM5Y7Qw6CG9SqiXMufWQ-CELtid&scisig=AAGBfm0AAAAAXYJD2YJB4zUssZzxE858Z7tvZSd35AU-&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Examples are a uniform concept of ownership without '
+                     'distinguishing between an “owner” (vlastník)\n'
+                     'and “proprietor” (majitel) (p. 245); animus revertendi '
+                     '(p. 256); the superficiary right of building\n'
+                     'on the land of another (p. 308); laesio enormis (lesion '
+                     'beyond moiety, p. 421); offset … \n',
+         'author': 'M Skřejpek',
+         'eprint': 'http://czasopisma.uksw.edu.pl/index.php/zp/article/viewFile/758/782',
+         'title': "THE CONCEPT OF 'THINGS'AND THEIR DEFINITION IN THE NEW "
+                  'CZECH CIVIL CODE FROM THE PERSPECTIVE OF ROMAN LAW',
+         'url': 'http://czasopisma.uksw.edu.pl/index.php/zp/article/view/758'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NwU7MchqtVgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GwRM:AAGBfm0AAAAAXYJD2RM5Y7Qw6CG9SqiXMufWQ-CELtid&scisig=AAGBfm0AAAAAXYJD2cZxGoIc2IYpY39UqlKCweR8qD0-&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… For example, the usufructuary, to whom the law grants '
+                     'attributes of possession and use of\n'
+                     'the object of the usufruct, or the superficiary, who can '
+                     'also exercise the attributes of material\n'
+                     'and legal disposition beyond the attributes of '
+                     'possession and use … \n',
+         'author': 'S Sztranyiczki',
+         'eprint': 'https://www.degruyter.com/downloadpdf/j/auseur.2016.10.issue-1/auseur-2016-0023/auseur-2016-0023.xml',
+         'title': 'Property Law in the New Romanian Civil Code',
+         'url': 'https://www.degruyter.com/downloadpdf/j/auseur.2016.10.issue-1/auseur-2016-0023/auseur-2016-0023.xml'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MZdpScIVp1kJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5GwRM:AAGBfm0AAAAAXYJD2RM5Y7Qw6CG9SqiXMufWQ-CELtid&scisig=AAGBfm0AAAAAXYJD2VnCNyEcLzeXwgYi0moKSzm2JYOa&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Examples include the usufructuary, to whom the law '
+                     'grants attributes of possession and use\n'
+                     'of the object of the usufruct, or the superficiary, who '
+                     'can also exercise the attributes of material\n'
+                     'and legal disposition beyond the attributes of '
+                     'possession and use … \n',
+         'author': 'S Sztranyiczki',
+         'title': 'Property Law in the New Romanian Civil Code',
+         'url': 'https://link.springer.com/chapter/10.1007/978-3-319-63327-5_6'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kM4DSkgHqdwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gxxw:AAGBfm0AAAAAXYJD3xxayKDkgzXq1JTTvY2agJrRPAhe&scisig=AAGBfm0AAAAAXYJD39MNu18dvoymBME0myoH1kY9yirQ&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… Choosing his Tomb (L'élection de son sépulcre) You can "
+                     'put me down for six by three,\n'
+                     'Six feet under, wherever it may be, And with no claim to '
+                     'superficiary rights: Only let\n'
+                     'me sleep the days as well as the nights. Itsu no ma ni '
+                     'ka … \n',
+         'author': 'A Wylie',
+         'title': "Sisson's Troy",
+         'url': 'http://search.proquest.com/openview/867087050101192ea85bdc8ea9db6d48/1?pq-origsite=gscholar&cbl=42474'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:sg-wXSC_TokJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gxxw:AAGBfm0AAAAAXYJD3xxayKDkgzXq1JTTvY2agJrRPAhe&scisig=AAGBfm0AAAAAXYJD38c78BqowOtlMy5kcEp5oDijKMDJ&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… Choosing his Tomb (L'élection de son sépulcre). You "
+                     'can put me down for six by three,. Six feet\n'
+                     'under, wherever it may be,. And with no claim to '
+                     'superficiary rights: Only let me sleep the days\n'
+                     'as well as the nights. Itsu no ma ni ka. In the interval '
+                     'of when. A pony & a lamp … \n',
+         'author': 'CH Sisson',
+         'title': 'Two Unpublished Poems',
+         'url': 'http://search.proquest.com/openview/9e84a91fde57a95b8f0f16b0d3096a0d/1?pq-origsite=gscholar&cbl=42474'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EEI2bK9p-JwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gxxw:AAGBfm0AAAAAXYJD3xxayKDkgzXq1JTTvY2agJrRPAhe&scisig=AAGBfm0AAAAAXYJD34Asa-ZrXtmBwZ7M0slyacA_Pjuq&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… II. Compensation for Easements and Damages to '
+                     'superficiaries in the exploration,\n'
+                     'exploitation and Transport of Hydrocarbons Superficiary '
+                     'owners who granted easements\n'
+                     'and suffered dam- ages will be compensated by companies '
+                     '… \n',
+         'author': 'Dabinovic & Asociados and G Sánchez-Sorondo…',
+         'title': 'Legal Memoranda',
+         'url': 'https://www.jstor.org/stable/40176166'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Byluwb5e7VQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gxxw:AAGBfm0AAAAAXYJD3xxayKDkgzXq1JTTvY2agJrRPAhe&scisig=AAGBfm0AAAAAXYJD329aQhNhqkkLMIfj_z1uqIxIw-Qj&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The variation was correlated with relative humidities '
+                     'recorded during the tests. For corn samples\n'
+                     'of similar wetness, the measured values of moisture '
+                     'content, the "superficiary corn moisture\n'
+                     'values, were lower on days when the ambient air humidity '
+                     'was high … \n',
+         'author': 'CC Balascio and CJ Bern and CR Hurburgh',
+         'eprint': 'https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=1691&context=abe_eng_pubs',
+         'title': 'Effect of Humidity Ratio on Corn Moisture Content as '
+                  'Determined by the Air-Oven',
+         'url': 'https://elibrary.asabe.org/abstract.asp?aid=31212'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8wxy5COHmzwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gxxw:AAGBfm0AAAAAXYJD3xxayKDkgzXq1JTTvY2agJrRPAhe&scisig=AAGBfm0AAAAAXYJD35Fysm9attchIIeTas6vTxyJVaIE&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… superficies is jeopardized where the purchaser of the '
+                     "superfici- ary's rights does not have the\n"
+                     '"trifoncier\'s" permission … Without the accessory right '
+                     'to the land the new possessor ceases to be\n'
+                     'a superficiary in the full sense of the word since the '
+                     'owner of the land is not obliged to … \n',
+         'author': 'N Sporns',
+         'title': 'Alternatives to Emphyteusis',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/revnt83&section=12'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8cg1qiWYd04J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gxxw:AAGBfm0AAAAAXYJD3xxayKDkgzXq1JTTvY2agJrRPAhe&scisig=AAGBfm0AAAAAXYJD36jX9J-Q5WgsIfGJ2yLKFUyHyMBg&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. Florida International University College of Law '
+                     'eCollections @ FIU Law Library Civil\n'
+                     'Codes (1800-1923) Special Collections 1898 The Civil '
+                     'Code of Japan Ludwig Lönholm Follow\n'
+                     'this and additional works at: '
+                     'http://ecollections.law.fiu.edu/civil_codes … \n',
+         'author': 'L Lönholm',
+         'eprint': 'https://ecollections.law.fiu.edu/cgi/viewcontent.cgi?article=1008&context=civil_codes',
+         'title': 'The civil code of Japan',
+         'url': 'https://ecollections.law.fiu.edu/civil_codes/9/'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '2633499027015292344',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:uFWVhWkRjCQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gxxw:AAGBfm0AAAAAXYJD3xxayKDkgzXq1JTTvY2agJrRPAhe&scisig=AAGBfm0AAAAAXYJD30eEP9f09KtRhIeOjtF9uGdX0018&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In these circumstances, the powers of the superficiary '
+                     'who acquired the right to build on the land\n'
+                     'of another were indirectly inferred from the restrictive '
+                     'provisions contained in Article 695 (2) of\n'
+                     'the Civil Code, applicable to the superficies '
+                     'established on an existing building … \n',
+         'author': 'I Sferdian',
+         'title': 'Regimul juridic al superficiei sub forma dreptului de a '
+                  'construi pe terenul altuia în noul Cod civil',
+         'url': 'https://www.ceeol.com/search/article-detail?id=544227'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '10945741010387099085',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zV2Mt3QV55cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gxxw:AAGBfm0AAAAAXYJD3xxayKDkgzXq1JTTvY2agJrRPAhe&scisig=AAGBfm0AAAAAXYJD3_Dqr4WmkfoWS4d_L_aj73O8Sh07&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. Journal of Politics and Law; Vol. 9, No. 1; 2016 '
+                     'ISSN 1913-9047 E-ISSN\n'
+                     '1913-9055 Published by Canadian Center of Science and '
+                     'Education Governance\n'
+                     'and Constitutional Issues in the Nigerian Local '
+                     'Governments … \n',
+         'author': 'TA Olaiya',
+         'eprint': 'https://www.researchgate.net/profile/Taiwo_Olaiya/publication/315562395_Governance_and_Constitutional_Issues_in_the_Nigerian_Local_Governments/links/58d5186092851c44d4473b24/Governance-and-Constitutional-Issues-in-the-Nigerian-Local-Governments.pdf',
+         'title': 'Governance and Constitutional Issues in the Nigerian Local '
+                  'Governments',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/jpola9&section=7'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '14132012544969208765',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vfNA-Ij-HsQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gxxw:AAGBfm0AAAAAXYJD3xxayKDkgzXq1JTTvY2agJrRPAhe&scisig=AAGBfm0AAAAAXYJD35RQZt1qlI0eVtpavK898BFoJR4U&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. PROPERTY AND TRUST LAW IN TAIWAN YUN–CHIEN CHANG '
+                     'WEITSENG\n'
+                     'CHEN YING-CHIEH WU E. Wolters Kluwer Page 2. Property '
+                     'and Trust Law in Taiwan\n'
+                     'Yun-chien Chang Weitseng Chen Ying-Chieh Wu This … \n',
+         'author': 'Y Chang and W Chen and YC Wu',
+         'title': 'Property and trust law in Taiwan',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=zI2WDwAAQBAJ&oi=fnd&pg=PT20&dq=superficiary&ots=MTiHAKVw73&sig=Ag9SMvCIppDf33j6vzfkjmDOzAw'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '345960333601261181',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fcatJhcZzQQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5Gxxw:AAGBfm0AAAAAXYJD3xxayKDkgzXq1JTTvY2agJrRPAhe&scisig=AAGBfm0AAAAAXYJD3-xDXRCtDEcZgtO4hX4Jpjt8dERI&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… what he will. In the case of the right of superficies '
+                     'for building a parking area the\n'
+                     'engagement of the superficiary to provide services of '
+                     'public parking is not subject\n'
+                     'of the right of superficies but has to be agreed '
+                     'separately. On the … \n',
+         'author': 'I Pšunder and V Rijavec',
+         'title': 'The Value of the Right of Superficies.',
+         'url': 'http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15815374&asa=Y&AN=85226547&h=g5HIwqBKBQDhAVmwglMdT6rLsmQiuagJ9ODNzMlQ%2BxLt6TGWCwPl4LOL5MDXi99erBo70TjsjkZgI0PIMlJQwQ%3D%3D&crl=c'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '17990163710920051133',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vUmDQJTmqfkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G_o4:AAGBfm0AAAAAXYJD5o6nLmsqTAP5C1mQcXh2uD3qyBFK&scisig=AAGBfm0AAAAAXYJD5gFeVSItxQuArbJHrisa66QQ-r0q&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… There have been analyzed the concept of the rights for '
+                     'the superficiary property in\n'
+                     'modern Ukrainian civilism, the nature and development of '
+                     'the corresponding norms\n'
+                     'and regulations regarding the project of the Civil Code '
+                     'of Ukraine … \n',
+         'author': 'РФ Гонгало',
+         'eprint': 'http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&I21DBN=UJRN&P21DBN=UJRN&IMAGE_FILE_DOWNLOAD=1&Image_file_name=PDF/apdp_2010_56_39.pdf',
+         'title': 'Поняття та характерні риси суперфіцію за римським приватним '
+                  'правом',
+         'url': 'http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&I21DBN=UJRN&P21DBN=UJRN&IMAGE_FILE_DOWNLOAD=1&Image_file_name=PDF/apdp_2010_56_39.pdf'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '12916630802480025231',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:j86wlEcXQbMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G_o4:AAGBfm0AAAAAXYJD5o6nLmsqTAP5C1mQcXh2uD3qyBFK&scisig=AAGBfm0AAAAAXYJD5tC4kgVubGQkdGf1whi7ncGKDa7k&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 2.... 3. The deed of establishment may oblige the '
+                     'superficiary to pay a sum of money -\n'
+                     'the retribution - to the owner, payable at regular or '
+                     'irregular times.) 22 Take note of the\n'
+                     'fact that in Dutch law the superficiarius is owner of '
+                     'the building … \n',
+         'author': 'AJH Pleysier',
+         'title': 'Why Is Dutch Law Not Hampered by a Numerus Clausus '
+                  '(Gesloten Systeem, Geslote Kategorie) of Real Rights',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/fundmna2&section=27'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YnjET1hAzUEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G_o4:AAGBfm0AAAAAXYJD5o6nLmsqTAP5C1mQcXh2uD3qyBFK&scisig=AAGBfm0AAAAAXYJD5l1PJ565k2zyXijQ7UB6RGcbPH_2&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… or right in rem limited to someone else's estate that "
+                     'tempo rarily gives the ownership of the\n'
+                     'building(s) on the estate to someone else (the '
+                     'superficiary), while the initial owner keeps the\n'
+                     'ownership of the land beneath it.It resembles a land '
+                     'trust in that the land and the dwellings … \n',
+         'author': 'E Cabré and A Andrés',
+         'eprint': 'http://ladinamofundacio.org/wp-content/uploads/2018/02/CABRE_ANDRES_2017.pdf',
+         'title': 'La Borda: a case study on the implementation of cooperative '
+                  'housing in Catalonia',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/19491247.2017.1331591'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '4400915186391750244',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZJaAgwsxEz0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G_o4:AAGBfm0AAAAAXYJD5o6nLmsqTAP5C1mQcXh2uD3qyBFK&scisig=AAGBfm0AAAAAXYJD5tPNPt4JrdX0Rb4b7SubIyJr51f2&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. © koninklijke brill nv, leiden,    6 | doi  0.  '
+                     '63/97890043089 3_009\n'
+                     'chapter 8 The Regulation of Property Many of the needs '
+                     'which confront people in\n'
+                     'their everyday lives may be met in an appropriate manner '
+                     'by … \n',
+         'author': 'A Stasi',
+         'title': 'The Regulation of Property',
+         'url': 'https://brill.com/downloadpdf/book/9789004308923/B9789004308923-s009.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mGp6RLL-PYEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G_o4:AAGBfm0AAAAAXYJD5o6nLmsqTAP5C1mQcXh2uD3qyBFK&scisig=AAGBfm0AAAAAXYJD5nX9aDpyiIScKZk9wHf1sJXvfv6r&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. CUSTOM IN MODERN CIDNESE PRIVATE LAW MH VAN DER '
+                     'VALK The subject\n'
+                     'of this paper is the role of custom in modern Chinese '
+                     'private law. Obviously there are certain\n'
+                     'implied limita- tions as compared with the subject of '
+                     'custom in general … \n',
+         'author': 'MH Van der Valk',
+         'title': 'Custom in Modern Chinese Private Law',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/02549948.1972.11731082'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '15497013836045960711',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:B0bVKPpzENcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G_o4:AAGBfm0AAAAAXYJD5o6nLmsqTAP5C1mQcXh2uD3qyBFK&scisig=AAGBfm0AAAAAXYJD5osqqi51dZSWhTvp4FBFKu83vqim&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… part of the ius commune. According to the twelfth '
+                     'century glossator Pillius, the words\n'
+                     'quasi vindicare could only refer to the reivindicado '
+                     'utilis given in Roman law to\n'
+                     'the superficiary or the leasehold tenant. An actio '
+                     'utilis was … \n',
+         'author': 'J Lokin',
+         'title': 'Legal History and Comparative Law, a Pair Bifocals',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/ejlr8&section=9'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '4998862169194201827',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:44L1Y6iGX0UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G_o4:AAGBfm0AAAAAXYJD5o6nLmsqTAP5C1mQcXh2uD3qyBFK&scisig=AAGBfm0AAAAAXYJD5rba-Xd1O6N0R1ed4hqfc5lfvj-B&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In the case of the right of superficies, there are two '
+                     'rights that belong to different owners, on the\n'
+                     'one hand, the ownership of superficiary regarding the '
+                     'construction works, plantations and on\n'
+                     'the other hand about the ownership of land, which '
+                     'belongs to another person … \n',
+         'author': 'C Jora',
+         'title': 'Certain Considerations regarding the Regulations on the '
+                  'Right of Superficies according to the New Civil Code',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/pblwview12&section=69'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6PhIVbwBAL0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G_o4:AAGBfm0AAAAAXYJD5o6nLmsqTAP5C1mQcXh2uD3qyBFK&scisig=AAGBfm0AAAAAXYJD5uUerfeDm6v_TlhQPtJqPsMVE262&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… by altering the purpose for which it is to be used. '
+                     'Lastly, an emphytenta and also\n'
+                     'a superficiary may freely transfer his right or may just '
+                     'as freely create a contract of\n'
+                     'letting. I hope that I have shown that whilst the '
+                     'foreigner within … \n',
+         'author': 'J Gadsby',
+         'title': "Foreigners' Right of Ownership to Land in Japan",
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/sobenbr1&section=85'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WEwwviJoAEgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G_o4:AAGBfm0AAAAAXYJD5o6nLmsqTAP5C1mQcXh2uD3qyBFK&scisig=AAGBfm0AAAAAXYJD5i3kvn8-KQa9eDAPkuuuCg9Jd1TS&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… But the colony from the station of Xilitla was living '
+                     'in a dense cloud forest, as were those from\n'
+                     'Tama- znnehale and Chapnhualcan. The colony taken west '
+                     'of Jaeala was in open deciduous\n'
+                     'woods that superficiary resembled those of the south- '
+                     'Page 4. 302 PKOC. ENT. SOC … \n',
+         'author': 'ME Smith',
+         'eprint': 'http://antbase.org/ants/publications/10392/10392.pdf',
+         'title': 'L BrOWÎl Jr Purchased fey US Department of',
+         'url': 'http://antbase.org/ants/publications/10392/10392.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:srXouHrHL68J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G_o4:AAGBfm0AAAAAXYJD5o6nLmsqTAP5C1mQcXh2uD3qyBFK&scisig=AAGBfm0AAAAAXYJD5jHAbZ7_aXLvEfFXMVbhQ8CdhNkU&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The number and phrase in bold are the label and the '
+                     'title respectively, followed by the\n'
+                     'main text: 265 Content of Superficies A superficiary '
+                     'shall have the right to use the land\n'
+                     'of others in order to own structures, or trees or '
+                     'bamboo, on that land … \n',
+         'author': 'KJ Adebayo and L Di Caro and G Boella and C Bartolini',
+         'eprint': 'http://orbilu.uni.lu/bitstream/10993/29385/1/paper%2018.pdf',
+         'title': 'An approach to information retrieval and question answering '
+                  'in the legal domain',
+         'url': 'http://orbilu.uni.lu/handle/10993/29385'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '1750387770578393090',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AliDRGegShgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G9os:AAGBfm0AAAAAXYJD7ot0XFqGrUQapCdI_kyblVtNJLJW&scisig=AAGBfm0AAAAAXYJD7h-U-lwZU9zuZwzB2rtCT9ZtAV-f&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. DIVISION INTO HORIZONTAL STRATA OF THE LANDSPACE '
+                     'ABOVE THE\n'
+                     'SURFACEE STUART S. BALL The following propositions have '
+                     'been elsewhere\n'
+                     'advanced: (1) The real "land" in law is '
+                     'three-dimensional space … \n',
+         'author': 'SS Ball',
+         'eprint': 'https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=3406&context=ylj',
+         'title': 'Division into Horizontal Strata of the Landspace above the '
+                  'Surface',
+         'url': 'https://www.jstor.org/stable/789808'},
+ 'citedby': 57,
+ 'id_scholarcitedby': '6129462169311478278',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BoIBIl45EFUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G9os:AAGBfm0AAAAAXYJD7ot0XFqGrUQapCdI_kyblVtNJLJW&scisig=AAGBfm0AAAAAXYJD7sC1OtOyBNYimwtrXGjJAU1-10Ay&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… securities, etc.), which are considered movable '
+                     'things. Immov- able things are\n'
+                     'considered to include not only plots of land and '
+                     'buildings, but also superficiary right\n'
+                     'of building (Baurecht)29. Immovable things also include '
+                     'rights that … \n',
+         'author': 'P Petr',
+         'eprint': 'https://content.sciendo.com/downloadpdf/journals/iclr/18/2/article-p197.pdf',
+         'title': 'Of Mice and Men, and of Things in the Legal Sense',
+         'url': 'https://content.sciendo.com/view/journals/iclr/18/2/article-p197.xml'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zGMrwCbDo8EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G9os:AAGBfm0AAAAAXYJD7ot0XFqGrUQapCdI_kyblVtNJLJW&scisig=AAGBfm0AAAAAXYJD7tVyBc4bQib2RM_kVzCcuis4eTLp&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… PROVIDING EFFECTIVE SOLUTIONS OUR SERVICES: - Legal '
+                     'Advise A - Superﬁciary Rights\n'
+                     'leasements and other Property Rights). - Environmental '
+                     "Management ' Entrepreneurial Social\n"
+                     'Responsibility and Community Relamns Calla IIZNo. HI: . '
+                     'I1 Bogota DC … \n',
+         'author': 'A Pascoletti and K Bromley…',
+         'title': 'Revving Up or Out of Steam?',
+         'url': 'http://search.proquest.com/openview/3d60106a1c7f79eb19f19f43f4745bde/1?pq-origsite=gscholar&cbl=39'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vioMqxOW0N0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G9os:AAGBfm0AAAAAXYJD7ot0XFqGrUQapCdI_kyblVtNJLJW&scisig=AAGBfm0AAAAAXYJD7tvDqedrrxNDfBRX9DtTQOdthnAM&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… any cost whatever and by means of concessions granted '
+                     'in conformity with this Law: "1. Those\n'
+                     'arising from lands in which works of petroleum exploi- '
+                     'tation were begun prior to Ivtay 1, 1917;\n'
+                     '"2. Those arising from contracts made before May 1, '
+                     '1917, by the superficiary or his … \n',
+         'author': 'WD Hawk',
+         'title': 'Legal Features of the Oil Question Involved in '
+                  'Mexican-American Diplomacy',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/illlr22&section=19'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '17578725757786778913',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Ie3jzPAt9PMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G9os:AAGBfm0AAAAAXYJD7ot0XFqGrUQapCdI_kyblVtNJLJW&scisig=AAGBfm0AAAAAXYJD7t4Z-sk4dWr1L9l08oeYTXJ_IY9a&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Each control feature space can be viewed as a set of '
+                     'at least one observable and\n'
+                     'quantifiable "control feature value." For our '
+                     'superficiary control feature space, two\n'
+                     'possible control feature values are "deep* and "not '
+                     'deep" … \n',
+         'author': 'LP Wesley and JD Lowrance and TD Garvey',
+         'eprint': 'https://apps.dtic.mil/dtic/tr/fulltext/u2/a461039.pdf',
+         'title': 'Reasoning about control: an evidential approach',
+         'url': 'https://apps.dtic.mil/docs/citations/ADA461039'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '10616446412676711744',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QMWQlMMxVZMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G9os:AAGBfm0AAAAAXYJD7ot0XFqGrUQapCdI_kyblVtNJLJW&scisig=AAGBfm0AAAAAXYJD7vfVhbIQqGwl2DWDYi6f65EqlRg_&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. LOUISIANA Volume XXIII LOUSINAFebruary, 1963 LAW '
+                     'REVIEW Number\n'
+                     '2 REAL RIGHTS IN LOUISIANA AND COMPARATIVE LAW: PART I '
+                     'A. N. Yiannopoulos*\n'
+                     'R ights, whatever this word may mean in the framework of '
+                     'a … \n',
+         'author': 'AN Yiannopoulos',
+         'eprint': 'http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=3128&context=lalrev',
+         'title': 'Real Rights in Louisiana and Comparative Law: Part I',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/louilr23&section=21'},
+ 'citedby': 24,
+ 'id_scholarcitedby': '9426712722822797772',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zBmCy0Zp0oIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G9os:AAGBfm0AAAAAXYJD7ot0XFqGrUQapCdI_kyblVtNJLJW&scisig=AAGBfm0AAAAAXYJD7n-bAiNBW2AbSWBzqlBcy05W7p7a&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The number and phrase in bold are the label and the '
+                     'title respectively, followed by the\n'
+                     'main text: 265 Content of Superficies A superficiary '
+                     'shall have the right to use the land\n'
+                     'of others in order to own structures, or trees or '
+                     'bamboo, on that land … \n',
+         'author': 'AK John and L Di Caro and G Boella…',
+         'eprint': 'https://pdfs.semanticscholar.org/af4b/34470a223efd7a2b05462f04b9c006eb598a.pdf',
+         'title': 'An approach to information retrieval and question answering '
+                  'in the legal domain',
+         'url': 'https://pdfs.semanticscholar.org/af4b/34470a223efd7a2b05462f04b9c006eb598a.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fzqBCbNB13EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G9os:AAGBfm0AAAAAXYJD7ot0XFqGrUQapCdI_kyblVtNJLJW&scisig=AAGBfm0AAAAAXYJD7hV_IrC57eBukvbC87futvIHV6lM&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 20, n.º 1: 7-41 (2011) • ISSN 1132-9947 Recibido: '
+                     '22/10/2011. Aceptado: 02/06/2011 NEGOCIO\n'
+                     'URBANÍSTICO SUPERFICIARIO EN EL DERECHO ROMANO CLÁSICO '
+                     'Urban superficiary\n'
+                     'business in Classical Roman Law Guillermo Suárez '
+                     'Blázquez Universidade de Vigo … \n',
+         'author': 'G Suárez Blázquez',
+         'eprint': 'https://minerva.usc.es/xmlui/bitstream/handle/10347/7971/01-Suarez.pdf?sequence=1',
+         'title': 'Negocio urbanístico superficiario en el Derecho Romano '
+                  'clásico',
+         'url': 'https://minerva.usc.es/xmlui/handle/10347/7971'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '15655650734833111290',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-pBPaWULRNkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G9os:AAGBfm0AAAAAXYJD7ot0XFqGrUQapCdI_kyblVtNJLJW&scisig=AAGBfm0AAAAAXYJD7pCBkk7XiSYAB3odxa7A0j6pVYFf&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. The South African Sectional Titles Act in '
+                     'historical perspective: an analysis and evaluation\n'
+                     'DV Cowen* The Law Adviser to the Johannesburg City '
+                     'Council Outline of article 1 THE SOCIAL\n'
+                     'AND ECONOMIC BACKGROUND 2 THREE RADICAL INNOVATIONS … \n',
+         'author': 'DV Cowen',
+         'eprint': 'https://journals.co.za/content/cilsa/6/1/AJA00104051_1194?crawler=true&mimeType=application%2Fpdf',
+         'title': 'The South African Sectional Titles Act in historical '
+                  'perspective: an analysis and evaluation',
+         'url': 'https://journals.co.za/content/cilsa/6/1/AJA00104051_1194'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '3761082530306313469',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_czVXaIMMjQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G9os:AAGBfm0AAAAAXYJD7ot0XFqGrUQapCdI_kyblVtNJLJW&scisig=AAGBfm0AAAAAXYJD7jSfZOHN8jNR18yr7MMmHUZA-tMa&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Methodological approaches used for accounting for the '
+                     'originated use rights such\n'
+                     'as land servitude, perpetual lease and superficies are '
+                     'proposed both for land plot\n'
+                     'holders and users (servituary, superficiary and '
+                     'emphyteut) … \n',
+         'author': 'ТП ОСТАПЧУК',
+         'eprint': 'http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&I21DBN=UJRN&P21DBN=UJRN&IMAGE_FILE_DOWNLOAD=1&Image_file_name=PDF/Oif_apk_2017_4_11.pdf',
+         'title': 'Підходи до відображення капіталізації прав користування '
+                  'земельними активами в бухгалтерському обліку',
+         'url': 'http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&I21DBN=UJRN&P21DBN=UJRN&IMAGE_FILE_DOWNLOAD=1&Image_file_name=PDF/Oif_apk_2017_4_11.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7tWfB_94X_wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G7DA:AAGBfm0AAAAAXYJD9DABqBSRW93GftOt5vvjeDvn1yrR&scisig=AAGBfm0AAAAAXYJD9HFvPFmf__GvORQIwZ6GCuP_we7J&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Moldova. The second concept consists in the '
+                     'recognition of the ownership of the\n'
+                     'superficiary over the construction, installation or '
+                     'planta- tion and the ownership of\n'
+                     'another person over the land on or under which these are '
+                     'located … \n',
+         'author': 'V Volcinschi',
+         'eprint': 'http://dspace.usm.md:8080/xmlui/bitstream/handle/123456789/505/30.-p.231-238.pdf?sequence=1&isAllowed=y',
+         'title': 'DREPTUL DE SUPERFICIE ÎN LUMINA ANALIZELOR DE DREPT '
+                  'COMPARAT',
+         'url': 'http://dspace.usm.md:8080/xmlui/handle/123456789/505'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LTjtTt4pX_oJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G7DA:AAGBfm0AAAAAXYJD9DABqBSRW93GftOt5vvjeDvn1yrR&scisig=AAGBfm0AAAAAXYJD9M4mArcInlTZvjoTVV3_PVRCnvJy&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Page 6. Page 7. PETRI POIRET ER ÜDI TIONE SOLIDA, '
+                     'superficiary; ET FALSA, LI В RI TRES.\n'
+                     'In quibus Oßeitfa Ver it at нт fol i dar um via ö '
+                     'origine, Cognitionum Scientiarumque Humanarum,\n'
+                     '& in ipecie CARTESIANISMI, Fundamenta , valor , defeâus '
+                     '& errores deteguntur … \n',
+         'author': 'P Poiret',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=uR5CAAAAcAAJ&oi=fnd&pg=PA1&dq=superficiary&ots=alk13i-3Ra&sig=-lXH03iPZ80WgrVJiojIqQlF-ZU',
+         'title': 'De eruditione libri tres',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=uR5CAAAAcAAJ&oi=fnd&pg=PA1&dq=superficiary&ots=alk13i-3Ra&sig=-lXH03iPZ80WgrVJiojIqQlF-ZU'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8VI4c0JTw20J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G7DA:AAGBfm0AAAAAXYJD9DABqBSRW93GftOt5vvjeDvn1yrR&scisig=AAGBfm0AAAAAXYJD9PeHbGNBsE9pnCbwmFwT9vDs1v57&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Maika N. Contract grounds for the right of superficies '
+                     'In article is considered the contractual\n'
+                     'grounds of the right superficies. The elements of '
+                     'contractual reasons are explored. The types\n'
+                     'of contractual obligations are classified into account '
+                     'the nature of superficiary law … \n',
+         'author': 'Н Майка',
+         'eprint': 'http://appj.tneu.edu.ua/index.php/appj/article/viewFile/558/549',
+         'title': 'Договірні підстави виникнення права суперфіцію',
+         'url': 'http://appj.tneu.edu.ua/index.php/appj/article/viewFile/558/549'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jyIFfZ35qRQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G7DA:AAGBfm0AAAAAXYJD9DABqBSRW93GftOt5vvjeDvn1yrR&scisig=AAGBfm0AAAAAXYJD9Eu_x0R7XE_Q_hnllrtWHds7tNzo&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… So that a mortgagor uses mortgaged land because '
+                     'mortgage is the right of change value.\n'
+                     'According to Korean Civil Law § 279, a superficiary is '
+                     'entitled to use the land of another person\n'
+                     'for the purpose of owning buildings, other structures or '
+                     'trees thereon … \n',
+         'author': '배병일',
+         'title': '담보지상권',
+         'url': 'http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02235006'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ouH3lOQkakQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G7DA:AAGBfm0AAAAAXYJD9DABqBSRW93GftOt5vvjeDvn1yrR&scisig=AAGBfm0AAAAAXYJD9MUujhlZ18Fm1Fw5JDEimpus2vXi&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… H. E - .:: ' CLARI ALIQVOT CYGNEI, OVORUM "
+                     'INCHRONICOCYGNEOAUT NULLA AUT\n'
+                     'SUPERFICIARY FACTA EST MENTIO, AB 0BLW1ÖNE VmDICATI, "-" '
+                     '* ET "DULCISSIMM\n'
+                     'РА7Я1Ж- a; L Jo achimoFellero5Cygneo, POES.PPIN '
+                     'ACADEM.LIPSIENSI, EJUSDEMQYE … \n',
+         'author': 'J Feller',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=tXVGAAAAcAAJ&oi=fnd&pg=PP5&dq=superficiary&ots=5Cgt8x8Uhg&sig=wR6FLeMxKtJDaHf-O9uD2lpFW8w',
+         'title': 'Cygni quasi modogeniti: he, clari aliquot Cygnaei, quorum '
+                  'in Chronico Cygnaeo aut nulla, aut superficiaria facta est '
+                  'mentio, ab oblivione vindicati',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=tXVGAAAAcAAJ&oi=fnd&pg=PP5&dq=superficiary&ots=5Cgt8x8Uhg&sig=wR6FLeMxKtJDaHf-O9uD2lpFW8w'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:i6olovdOPfsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G7DA:AAGBfm0AAAAAXYJD9DABqBSRW93GftOt5vvjeDvn1yrR&scisig=AAGBfm0AAAAAXYJD9Ctxz3l8vAu--LdIYLt3P1-e55cG&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. Univerzita Karlova v Praze Právnická fakulta '
+                     'Mgr. Alena Schattke Právo stavby\n'
+                     'Superficiary right of building Rigorózní práce Vedoucí '
+                     'rigorózní práce: JUDr. Ondřej Frinta, Ph.\n'
+                     'D. Katedra občanského práva Datum vypracování práce: 7. '
+                     '3. 2017 Page 2. 2 … \n',
+         'author': 'A Schattke',
+         'eprint': 'https://dspace.cuni.cz/bitstream/handle/20.500.11956/86740/RPTX_2014_2_11220_0_462995_0_163661.pdf?sequence=1',
+         'title': 'Právo stavby',
+         'url': 'https://dspace.cuni.cz/handle/20.500.11956/86740'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kSw-58jOOKYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G7DA:AAGBfm0AAAAAXYJD9DABqBSRW93GftOt5vvjeDvn1yrR&scisig=AAGBfm0AAAAAXYJD9L1lygRD7ORVWZrsFy0kredq6znp&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Jump to Content Jump to Main Navigation … \n',
+         'author': 'M Raff and A Taitslin',
+         'title': 'A Comparative Perspective on the Concept of Ownership in '
+                  'Russian Law: From the Svod Zakonov to the 1994 Civil Code',
+         'url': 'https://brill.com/view/journals/rela/41/3-4/article-p263_3.xml'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '1383919048906162581',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lcHy6wqrNBMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G7DA:AAGBfm0AAAAAXYJD9DABqBSRW93GftOt5vvjeDvn1yrR&scisig=AAGBfm0AAAAAXYJD9D9g3Wbe2WPmtm4UsD8nikFYmD61&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… This replaces the sliding scaie based on the ¡engih of '
+                     '\\case and average annual rental.\n'
+                     'Aitho.igh the I % rale is superficiary attractive, it '
+                     'represents an increase of over four t¡mes\n'
+                     'trie curent rate of lease duty on a tyoical commercial '
+                     'lease. I here sa hin … \n',
+         'author': 'D Jenkins and J Whiting',
+         'title': 'What the UK Budget Offers',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/intaxr14&section=81'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:dJQngMXOAjkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G7DA:AAGBfm0AAAAAXYJD9DABqBSRW93GftOt5vvjeDvn1yrR&scisig=AAGBfm0AAAAAXYJD9OBhffxNcsFAfW11iwaXyTPa5AI-&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. Page 2. Page 3. Page 4. Page 5. Page 6. Page 7. '
+                     '– – – – –\n'
+                     "Page 8. → · |-- ſaº } -*…* r|- }| ， e -|- -- º |-' ' ） "
+                     '… \n',
+         'author': 'J Riolan and N Culpeper',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=VpBmAAAAcAAJ&oi=fnd&pg=PA9&dq=superficiary&ots=tregk3cQXo&sig=ws0iFJd4oVuGtwwYXzXmEiipMeU',
+         'title': 'A Sure Guide; or, the best and nearest way to Physick and '
+                  'Chyrurgery... Being an anatomical description of the whol '
+                  'body of man, and its parts, with their …',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=VpBmAAAAcAAJ&oi=fnd&pg=PA9&dq=superficiary&ots=tregk3cQXo&sig=ws0iFJd4oVuGtwwYXzXmEiipMeU'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '16532088870587239328',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oIuKrjzHbeUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G7DA:AAGBfm0AAAAAXYJD9DABqBSRW93GftOt5vvjeDvn1yrR&scisig=AAGBfm0AAAAAXYJD9OOzmDJTVKNKzTgN58qqEreGAC3b&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'author': 'P Leonard and JD Lowrance and TD Garvey',
+         'title': 'REASONING ABOUT CONTROL: AN EVIDENTIAL APPROACH'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yiYRQ6ROAp8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G5hQ:AAGBfm0AAAAAXYJD_hRctstwPq8VGwwgyLJml7TMYiih&scisig=AAGBfm0AAAAAXYJD_v2GOSFX5FD-Do9isRyqGRE9DkWZ&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… To compare the superficiary characters, S. gregaria is '
+                     'a less robust plant, more widely branched\n'
+                     'and more leafy above, but with less This content '
+                     'downloaded from 66.249.79.218 on Tue, 21\n'
+                     'May 2019 08:02:02 UTC All use subject to '
+                     'https://about.jstor.org/terms Page 11. 356 … \n',
+         'author': 'EP Bicknell',
+         'title': 'The genus Sanicula in the eastern United States, with '
+                  'descriptions of two new species',
+         'url': 'https://www.jstor.org/stable/2478267'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '8222676238161196057',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GbSkFnnQHHIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G5hQ:AAGBfm0AAAAAXYJD_hRctstwPq8VGwwgyLJml7TMYiih&scisig=AAGBfm0AAAAAXYJD_sJJH2i0ozvTrTI8UsqJnzA3DN8F&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The return loss being the superficiary factor in '
+                     'deciding the performance of a RF/microwave\n'
+                     'component, the return loss is found to be of higher '
+                     'value, ie., the designed filter achieved an\n'
+                     'acceptable return loss of -43dB, with the consideration '
+                     'of compact size … \n',
+         'author': 'U Surendar and G Revathi and J William',
+         'eprint': 'http://www.academia.edu/download/34550918/ijma02332014.pdf',
+         'title': 'A New Metamaterial Bandpass Filter for Wireless '
+                  'Applications',
+         'url': 'http://www.academia.edu/download/34550918/ijma02332014.pdf'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '18187576249640992172',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rL0utTxAZ_wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G5hQ:AAGBfm0AAAAAXYJD_hRctstwPq8VGwwgyLJml7TMYiih&scisig=AAGBfm0AAAAAXYJD_lF2mcVjq60zKgDWvjgl4W08jInC&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… that the particular agreements entered into under the '
+                     'Mining Code may rule out the mining taxation\n'
+                     'provisions laid down by that Act.19 For the purpose of '
+                     'this Act, mining taxation (Mining Taxation)\n'
+                     'covers mainly the proportional mining royalty and the '
+                     'superficiary royalty … \n',
+         'author': 'SA Brabant and B Montembault-Heveline',
+         'title': 'Gabonese Mining Investment Law',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/jenrl13&section=31'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0nG-8UZh8WwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G5hQ:AAGBfm0AAAAAXYJD_hRctstwPq8VGwwgyLJml7TMYiih&scisig=AAGBfm0AAAAAXYJD_pzNcnrxEdMQXPm1vqisbx38V_3W&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… an abrasive roller mounted in the said frame, a blade '
+                     'pivotally supported in the frame, releasable\n'
+                     'means for normall retaining the blade in position for '
+                     'shaving, and means operable by moving\n'
+                     'the roller in "opposite directions in rolling contact '
+                     'with a superficiary for actuating the … \n',
+         'author': 'C Paul',
+         'eprint': 'https://patentimages.storage.googleapis.com/8c/19/f2/b3b90ec7026aba/US1681466.pdf',
+         'title': 'Razor',
+         'url': 'https://patents.google.com/patent/US1681466A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:J-VR_04XOngJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G5hQ:AAGBfm0AAAAAXYJD_hRctstwPq8VGwwgyLJml7TMYiih&scisig=AAGBfm0AAAAAXYJD_p4Pnh59t5ER0D52IA9s-Kb6r5T4&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… of Taiwan Supreme Court. This study reveals that the '
+                     'real rights law entitles in\n'
+                     'principle a dian-holder, a superficiary, or an '
+                     'agricultural right holder to transfer legally\n'
+                     'his direct possession to another person. On the '
+                     'contrary, we … \n',
+         'author': '曾品傑',
+         'title': '論占有連鎖-建議民法債編增訂有償利用基地建屋之規定',
+         'url': 'http://www.airitilibrary.com/Publication/alDetailedMesh?docid=10267247-201801-201805030013-201805030013-91-120'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IYiqngGoYN0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G5hQ:AAGBfm0AAAAAXYJD_hRctstwPq8VGwwgyLJml7TMYiih&scisig=AAGBfm0AAAAAXYJD_qhvlkK_0dXJUpJCTo-m04czcu4B&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… presumed to be constituted & lease which continues to '
+                     'exist& statutory superficies and the right\n'
+                     "of first refusal＂, ＂the sale of the lessee's house to be "
+                     'constructed and the right of first refusal\n'
+                     'of the owner of the building site＂, ＂lease of the '
+                     'building site by superficiary and the … \n',
+         'author': '黃健彰',
+         'title': '土地法第一○ 四條與民法第四二六條之二先買權要件之爭議問題研究',
+         'url': 'http://www.airitilibrary.com/Publication/alDetailedMesh?docid=17287618-201607-201610200008-201610200008-221-258'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '2431980650529333201',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0Z9sN4QhwCEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G5hQ:AAGBfm0AAAAAXYJD_hRctstwPq8VGwwgyLJml7TMYiih&scisig=AAGBfm0AAAAAXYJD_pGSQ5K-JSFiZhGKTRjXQG52FIKT&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… instructors. The injuries involved were superficiary '
+                     'injuries of the skin due to prolonged\n'
+                     'exposure to ultraviolet rays which of course abound in '
+                     'this high altitude … etc. of the\n'
+                     'invention do not pass beyond the superficiary layers of '
+                     'the dermis … \n',
+         'author': 'J Choay',
+         'title': 'Pharmaceutical composition containing vitamin B12, process '
+                  'of making the same and method of treatment',
+         'url': 'https://patents.google.com/patent/US4007266A/en'},
+ 'citedby': 28,
+ 'id_scholarcitedby': '12152081317640886627',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Y1ml65LdpKgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G5hQ:AAGBfm0AAAAAXYJD_hRctstwPq8VGwwgyLJml7TMYiih&scisig=AAGBfm0AAAAAXYJD_mvvzzZESs4wHspMRHuuRaKgt1Kc&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… This is the case whether they are domini, or whether '
+                     'they have a ius in the matter - such as a\n'
+                     'creditor, a usufructuary or a superficiary.u Ulpian, of '
+                     'the generation after Gaius, made the point\n'
+                     "explicitly in the case of usufruct: 'the ius of using "
+                     'and taking the crop can only be … \n',
+         'author': 'R Tuck',
+         'title': 'Natural rights theories: their origin and development',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=VXbb98uYMLYC&oi=fnd&pg=PR7&dq=superficiary&ots=9ZJbVlCsOh&sig=I2tYu1sUVSz9HDeLlerdAdnP6IE'},
+ 'citedby': 1871,
+ 'id_scholarcitedby': '3657697766779501525',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1buhVL3AwjIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G5hQ:AAGBfm0AAAAAXYJD_hRctstwPq8VGwwgyLJml7TMYiih&scisig=AAGBfm0AAAAAXYJD_m2qHa1POqbLs8DH_bXHCzOo4QlZ&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… instructors. The injuries involved were superficiary '
+                     'injuries of the skin due to prolonged\n'
+                     'exposure to ultraviolet rays which of course abound in '
+                     'this high altitude … etc. of the\n'
+                     'invention do not pass beyond the superficiary layers of '
+                     'the dermis … \n',
+         'author': 'J Choay',
+         'title': "Pharmaceutical composition containing vitamin b'12', "
+                  'process of making the same and method of treatment '
+                  'therewith',
+         'url': 'https://patents.google.com/patent/US3876765A/en'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '9783821774066082951',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:h-TwDBEex4cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJGC1G5G5hQ:AAGBfm0AAAAAXYJD_hRctstwPq8VGwwgyLJml7TMYiih&scisig=AAGBfm0AAAAAXYJD_q4p2loT_cK4iO4Rfu5l9zoAyiyO&scisf=4&ct=citation&cd=99&hl=en'}

@@ -1,0 +1,1220 @@
+{'_filled': False,
+ 'bib': {'abstract': 'The present invention provides a water slider used with '
+                     'a round or substantially round tobogganing boat designed '
+                     'to be displaced into contact with one side of a slide '
+                     'lane in the course of toboganning. A side wall of the '
+                     'slide lane comes into contact with the boat and has …',
+         'author': 'Y Fujimaki',
+         'eprint': 'https://patentimages.storage.googleapis.com/dc/86/1d/445d453f565f7b/US4984783.pdf',
+         'title': 'Water sliders with turning toboggans',
+         'url': 'https://patents.google.com/patent/US4984783A/en'},
+ 'citedby': 46,
+ 'id_scholarcitedby': '1774183183135816731',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GzxIfTQqnxgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeGAA:AAGBfm0AAAAAXYLTR2vj9cBGHZ744CV83ZcxWMmsjlWf&scisig=AAGBfm0AAAAAXYLTRxeL4IyfwuLfvqqM_zUkRSghBLhk&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'We note that within PT-symmetric quantum mechanics which '
+                     'admits complex coordinates, the classical toboggans with '
+                     'descending spiral trajectories C (s) possess quantum '
+                     'analogues whose spirals C (s) are wound round the '
+                     'branch-points. We show that and how …',
+         'author': 'M Znojil',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0375960105007279',
+         'title': 'PT-symmetric quantum toboggans',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0375960105007279'},
+ 'citedby': 26,
+ 'id_scholarcitedby': '15547677823897578643',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kyyiD5tyxNcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeGAA:AAGBfm0AAAAAXYLTR2vj9cBGHZ744CV83ZcxWMmsjlWf&scisig=AAGBfm0AAAAAXYLTR84lc2JMit7P_DA5jmXk1TjYBQiy&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Even if the motion of a quantum (quasi-) particle '
+                     'proceeds along a left–right-symmetric ({\\cal '
+                     'PT}-symmetric) curved path {\\cal C}\\ne {\\bb R} in '
+                     'complex plane {\\bb C}, the spectrum of bound states may '
+                     'remain physical (ie, real and bounded below). A '
+                     'generalization is …',
+         'author': 'M Znojil',
+         'eprint': 'https://arxiv.org/pdf/quant-ph/0606166',
+         'title': 'Spiked potentials and quantum toboggans',
+         'url': 'https://iopscience.iop.org/article/10.1088/0305-4470/39/42/008/meta'},
+ 'citedby': 27,
+ 'id_scholarcitedby': '12669947646127708175',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Dxg9gkGy1K8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeGAA:AAGBfm0AAAAAXYLTR2vj9cBGHZ744CV83ZcxWMmsjlWf&scisig=AAGBfm0AAAAAXYLTRzAf67E7EjlYwR0ZzQpY3kYpcTxD&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This invention relates to improvements in pro pulsion '
+                     'mechanism for motor toboggans of the type disclosed in '
+                     'my former Patent No. 1,650,334. The present application '
+                     'is a companion to ar. application of Jean R. Shannon for '
+                     'United States Letters Patent on a motor toboggar …',
+         'author': 'CJE Eliason',
+         'eprint': 'https://patentimages.storage.googleapis.com/7d/5d/75/bffa4364c40f99/US2323526.pdf',
+         'title': 'Propulsion mechanism for motor toboggans',
+         'url': 'https://patents.google.com/patent/US2323526A/en'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '3051297851359012170',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SqUqtjpjWCoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeGAA:AAGBfm0AAAAAXYLTR2vj9cBGHZ744CV83ZcxWMmsjlWf&scisig=AAGBfm0AAAAAXYLTR3T30l56H1G2zhY7JvgoSGwSe8zI&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In an innovated version of PT-symmetric quantum '
+                     'mechanics, wave functions ψ (QT)(x) describing quantum '
+                     'toboggans (QT) are defined along complex contours of '
+                     'coordinates x (s) which spiral around the branch points '
+                     'x (BP). In the first nontrivial case with x (BP)=±1, a …',
+         'author': 'M Znojil',
+         'eprint': 'https://www.sciencedirect.com/science/article/pii/S0375960107011127',
+         'title': 'Quantum toboggans with two branch points',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0375960107011127'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '17761963436349265514',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ahYTcaMrf_YJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeGAA:AAGBfm0AAAAAXYLTR2vj9cBGHZ744CV83ZcxWMmsjlWf&scisig=AAGBfm0AAAAAXYLTRwUWZXvC92Su3dqy-Uqlr756AbTG&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A further object is, in such a device, to pro wide a '
+                     'resilience associated with the means of Securing the '
+                     'device to an automobile Whereby the danger of accidental '
+                     'disengagement is prac tically eliminated, while '
+                     'providing for ease of manual engagement and '
+                     'disengagement …',
+         'author': 'MS Merrill',
+         'eprint': 'https://patentimages.storage.googleapis.com/f3/c5/af/d098867d84a13d/US2575458.pdf',
+         'title': 'Auto-top carrier for skis, toboggans, and like articles',
+         'url': 'https://patents.google.com/patent/US2575458A/en'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '9528201057900598071',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:N5OqLGH4OoQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeGAA:AAGBfm0AAAAAXYLTR2vj9cBGHZ744CV83ZcxWMmsjlWf&scisig=AAGBfm0AAAAAXYLTR_GIrKWu0cjL5YMmP9ALLIeSp9fr&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "Schrödinger equations for'quantum toboggans' with real "
+                     'energies are given the generalized eigenvalue-problem '
+                     'form Hψ= EWψ, where H≠ H† and W≠ W†≠ I. The consistent '
+                     'probabilistic interpretation of these models is '
+                     'provided. The new double-series formula for …',
+         'author': 'M Znojil',
+         'eprint': 'https://arxiv.org/pdf/0803.0403',
+         'title': 'Identification of observables in quantum toboggans',
+         'url': 'https://iopscience.iop.org/article/10.1088/1751-8113/41/21/215304'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '8694894297837339542',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lgMq3kt4qngJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeGAA:AAGBfm0AAAAAXYLTR2vj9cBGHZ744CV83ZcxWMmsjlWf&scisig=AAGBfm0AAAAAXYLTR5VnT_twYZ1IrbYuq2ImhLAurkM-&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A generalization of the concept of PT—symmetric '
+                     'Hamiltonians H= p 2+ V (x) is presented. For the usual '
+                     'analytic potentials V (x)(with singularities) and for '
+                     "the recently widely accepted'PT—symmetric'asymptotic "
+                     'boundary conditions for wave functions ψ (x)(selected …',
+         'author': 'M Znojil',
+         'eprint': 'https://iopscience.iop.org/article/10.1088/1742-6596/128/1/012046/pdf',
+         'title': 'Quantum toboggans: models exhibiting a multisheeted '
+                  'PT—symmetry',
+         'url': 'https://iopscience.iop.org/article/10.1088/1742-6596/128/1/012046/meta'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '9132908362116641667',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gzMoYsSbvn4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeGAA:AAGBfm0AAAAAXYLTR2vj9cBGHZ744CV83ZcxWMmsjlWf&scisig=AAGBfm0AAAAAXYLTR6aiIPZ5uHegFwk_zOOhojUlnPWo&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In supersymmetric quantum mechanics the emergence of a '
+                     'singularity may lead to the breakdown of isospectrality '
+                     'between partner potentials. One of the regularization '
+                     'recipes is based on a topologically nontrivial, '
+                     'multisheeted complex deformations of the line of …',
+         'author': 'M Znojil',
+         'eprint': 'http://emis.ams.org/journals/SIGMA/2011/018/sigma11-018.pdf',
+         'title': 'Planarizable supersymmetric quantum toboggans',
+         'url': 'http://emis.ams.org/journals/SIGMA/2011/018/sigma11-018.pdf'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '16779500433709718193',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:sdrHK77C3OgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeGAA:AAGBfm0AAAAAXYLTR2vj9cBGHZ744CV83ZcxWMmsjlWf&scisig=AAGBfm0AAAAAXYLTR27RMmZ2P_Ap7JRLwnhrDSuh25Mg&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'My invention relates to an improvement in pads or '
+                     'Cushions for toboggans and the like wherein it is '
+                     'desired to provide a pad which may be firmly secured to '
+                     'the toboggan and Which Will not readily be accidentally '
+                     'separated therefron. it has been common practice to …',
+         'author': 'L Frank',
+         'eprint': 'https://patentimages.storage.googleapis.com/7b/f7/b3/6fe02e3ebdc57e/US2241466.pdf',
+         'title': 'Pad or cushion for toboggans and the like',
+         'url': 'https://patents.google.com/patent/US2241466A/en'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '16057561847058247762',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:UrDFXGzr194J:scholar.google.com/&output=citation&scisdr=CgVKdDZeGAA:AAGBfm0AAAAAXYLTR2vj9cBGHZ744CV83ZcxWMmsjlWf&scisig=AAGBfm0AAAAAXYLTRxfj8a6Cvd8GunYw-tvEK9W0E9gI&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This invention relates to a novel toboggan attachment of '
+                     'simple construction forming a complete unit capable of '
+                     'being readily attached to conventional toboggans to '
+                     'afford means whereby the toboggans may be readily '
+                     'controlled. More particularly, it is an aim of the inven '
+                     '…',
+         'author': 'MJE La',
+         'eprint': 'https://patentimages.storage.googleapis.com/42/d5/bf/667f2b15437581/US2664174.pdf',
+         'title': 'Combination brake and steering attachment for toboggans',
+         'url': 'https://patents.google.com/patent/US2664174A/en'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '14390892480313608009',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Scfu8Xa4tscJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WVWw:AAGBfm0AAAAAXYLTTWxKKb0HCVgEju599Yh0ZlebfvZg&scisig=AAGBfm0AAAAAXYLTTUFvYOZTJ2ZDmXBqtlDDIdHclXYt&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… for use in slidingr down snow covered slopes. '
+                     'Toboggans and sleds have been utilized\n'
+                     'for years by children and adults alike and much '
+                     'enjoyment is gained from the use\n'
+                     'thereof. Vehicles of this type are especially useful '
+                     'during … \n',
+         'author': 'LC Mckee',
+         'title': 'Toboggan construction',
+         'url': 'https://patents.google.com/patent/US3432181A/en'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '3744901717178932176',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0FszO0WQ-DMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WVWw:AAGBfm0AAAAAXYLTTWxKKb0HCVgEju599Yh0ZlebfvZg&scisig=AAGBfm0AAAAAXYLTTeiGq2SWdTlYUvI_4uLHMuDg-4d9&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Description. BACKGROUND OF THE INVENTION 1. Field of '
+                     'the Invention. This invention\n'
+                     'pertains to toboggans and more particularly, to '
+                     'lightweight toboggans partially made of foam\n'
+                     'that enables the occupant to easily flex and distort the '
+                     'toboggan to turn … \n',
+         'author': 'C Mehrmann',
+         'eprint': 'https://patentimages.storage.googleapis.com/f4/af/3f/e55088ee9bb2ad/US20050218611A1.pdf',
+         'title': 'Carving soft toboggan',
+         'url': 'https://patents.google.com/patent/US20050218611A1/en'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '2284188918836650567',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:R2IkM7gRsx8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WVWw:AAGBfm0AAAAAXYLTTWxKKb0HCVgEju599Yh0ZlebfvZg&scisig=AAGBfm0AAAAAXYLTTefKpmNkDEpATB0Rke1nYs0W6scx&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The objectives of this study were (1) to obtain '
+                     'information on age-specific exposure of\n'
+                     'Chicago-area children to amusement park rides, sleds, '
+                     'snow discs, bunkbeds, skateboards,\n'
+                     'fireworks, toboggans, and air guns and (2) to assess '
+                     'methodological issues in gathering exposure … \n',
+         'author': 'YD Senturia and HJ Binns and KK Christoffel…',
+         'eprint': 'https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=4803417',
+         'title': "In-office survey of children's hazard exposure in the "
+                  'Chicago area: age-specific exposure information and '
+                  'methodological lessons. Pediatric Practice Research Group.',
+         'url': 'https://europepmc.org/abstract/med/8340471'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '8198884005111681920',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gFNQJ5BJyHEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WVWw:AAGBfm0AAAAAXYLTTWxKKb0HCVgEju599Yh0ZlebfvZg&scisig=AAGBfm0AAAAAXYLTTSsiSbnPj-RabHsEL3rSWWKFWGHy&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Author: Björnstig U, Journal: Lakartidningen[1982/03].\n',
+         'author': 'U Björnstig and K Näslund',
+         'title': 'Child casualties in connection with sleds, toboggans and '
+                  'kick sleds: mechanisms and consequences',
+         'url': 'https://europepmc.org/abstract/med/7098640'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '17302611952270647746',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wiGFveU5H_AJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WVWw:AAGBfm0AAAAAXYLTTWxKKb0HCVgEju599Yh0ZlebfvZg&scisig=AAGBfm0AAAAAXYLTTSNs-dIvEVrlByTJVyA5nS9vLHqr&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… No. 3,140,878. Both prior art patents describe roll-up '
+                     'flexible toboggans on which the rider sits\n'
+                     'or lays. The rider holds onto these sleds or toboggans '
+                     'by means of a rope or handholds. The sleds\n'
+                     'or toboggans provide no means for controlling direction '
+                     'or stopping … \n',
+         'author': 'JE Pendleton',
+         'eprint': 'https://patentimages.storage.googleapis.com/5d/4a/07/a4d85cc1b9f038/US4413832.pdf',
+         'title': 'Body sled',
+         'url': 'https://patents.google.com/patent/US4413832A/en'},
+ 'citedby': 35,
+ 'id_scholarcitedby': '7530039882961935408',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MFx4sGATgGgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WVWw:AAGBfm0AAAAAXYLTTWxKKb0HCVgEju599Yh0ZlebfvZg&scisig=AAGBfm0AAAAAXYLTTbPT74Y-_sE6BYiAIHIQvSHZoRmB&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… US536441A US536441DA US536441A US 536441 A US536441 A '
+                     'US 536441A US 536441D\n'
+                     'A US536441D A US 536441DA US 536441 A US536441 A US '
+                     '536441A Authority US United\n'
+                     'States Prior art keywords water apparatus toboggan '
+                     'inclined toboggans Prior art date … \n',
+         'author': 'US Patent 536 and 441 and 1895',
+         'title': 'Inclined railway and water-tobogganing apparatus',
+         'url': 'https://patents.google.com/patent/US536441A/en'},
+ 'citedby': 49,
+ 'id_scholarcitedby': '17510196980427898433',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Qb6FdWG3APMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WVWw:AAGBfm0AAAAAXYLTTWxKKb0HCVgEju599Yh0ZlebfvZg&scisig=AAGBfm0AAAAAXYLTTVue1UY0b1rhuqg3ysWwog0oqohG&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… It is difficult to determine exactly how many '
+                     'toboggans and sledges are sold but\n'
+                     'estimations made by the re- creation industry interest '
+                     'group (SPOFA) indicate that\n'
+                     '40000-50000 plastic sledges are sold every year in '
+                     'Sweden … \n',
+         'author': 'U Björnstig and P Tordai',
+         'eprint': 'https://journals.sagepub.com/doi/pdf/10.1177/140349488601400207',
+         'title': 'Tobogganing and sledging accidents: mechanisms and injuries',
+         'url': 'https://journals.sagepub.com/doi/abs/10.1177/140349488601400207'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '4411121108433605671',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:J5Rp6UZzNz0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WVWw:AAGBfm0AAAAAXYLTTWxKKb0HCVgEju599Yh0ZlebfvZg&scisig=AAGBfm0AAAAAXYLTTeyZlXup3VbnwhCNEafr-WDVipLN&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'author': 'G Idt',
+         'title': 'Les Chemins de la liberté: les toboggans du romanesque'},
+ 'citedby': 13,
+ 'id_scholarcitedby': '17965415497420375743',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vwYKxjX6UfkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WVWw:AAGBfm0AAAAAXYLTTWxKKb0HCVgEju599Yh0ZlebfvZg&scisig=AAGBfm0AAAAAXYLTTX3a7GEgHeG0b2Ucm5Ww3SfQ3CLN&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Certain complex-contour (aka quantum-toboggan) '
+                     "generalizations of Schroedinger's bound-state problem "
+                     'are reviewed and studied in detail. Our key message is '
+                     'that the practical numerical solution of these atypical '
+                     'eigenvalue problems may perceivably be facilitated via …',
+         'author': 'M Znojil',
+         'eprint': 'https://arxiv.org/pdf/1004.0453',
+         'title': 'Rectifiable PT-symmetric Quantum Toboggans with Two Branch '
+                  'Points',
+         'url': 'https://arxiv.org/abs/1004.0453'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '3307099988797894370',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4i7_BOst5S0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WVWw:AAGBfm0AAAAAXYLTTWxKKb0HCVgEju599Yh0ZlebfvZg&scisig=AAGBfm0AAAAAXYLTTb3UTyxJ54FidIWsaLCCH-AW7cj0&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 4 Claims, 6 Drawing Figures SECTIONAL TOBOGGAN '
+                     'BACKGROUND OF THE INVENTION\n'
+                     'This invention relates to sectional toboggans in '
+                     'general, and more particularly to an improved\n'
+                     'coupling member for securing adjacent sections together '
+                     'to permit folding for storage and … \n',
+         'author': 'US Patent 3 and 799 and 566 and 1974',
+         'title': 'Sectional toboggan',
+         'url': 'https://patents.google.com/patent/US3799566A/en'},
+ 'citedby': 25,
+ 'id_scholarcitedby': '6182059301328120607',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:H-sPPC4Wy1UJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WTlk:AAGBfm0AAAAAXYLTVllGDUZE8VAnTHpurcnfkiizMC_w&scisig=AAGBfm0AAAAAXYLTVm1qlEbPAF8YETQ-l5tq95wcI_ja&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… BACKGROUND OF THE INVENTION Various devices have been '
+                     'produced for use in sliding\n'
+                     'down snow covered hills and the like, these devices '
+                     'varying from toboggans and sleds to merely\n'
+                     'concave disks on which a child may sit while sliding '
+                     'over the snow … \n',
+         'author': 'CC Sovia and KW Krengel',
+         'eprint': 'https://patentimages.storage.googleapis.com/b7/42/17/56964aa17917ea/US3921239.pdf',
+         'title': 'Multi-purpose vehicle',
+         'url': 'https://patents.google.com/patent/US3921239A/en'},
+ 'citedby': 21,
+ 'id_scholarcitedby': '9143623997783066002',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ksWYu5St5H4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WTlk:AAGBfm0AAAAAXYLTVllGDUZE8VAnTHpurcnfkiizMC_w&scisig=AAGBfm0AAAAAXYLTVo4ALxaRuY16br-muvYeo2qYhgAW&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… 1, 1961,. ' 13,9s1/61 Claims. (Cl. 280-18) The present "
+                     'invention relates to toboggans and has\n'
+                     'the primary object of providing a toboggan which can be '
+                     'steered by Varying the distribution\n'
+                     'of weight on it … Such dish-shaped toboggans cannot be '
+                     'controlled at all … \n',
+         'author': 'H Otto',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US3169779A/en'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '17362456568595263336',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:aK9ER0LW8_AJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WTlk:AAGBfm0AAAAAXYLTVllGDUZE8VAnTHpurcnfkiizMC_w&scisig=AAGBfm0AAAAAXYLTVprs-6Rj3UufbEq4TePpKn5FifBU&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… When a family goes out for an afternoon of sport, the '
+                     'major portion of the family must sit in a car\n'
+                     'or other shelter while one or two members of the family '
+                     'are using the snowmobiles. It has been\n'
+                     'found that many of the families who purchase snowmobiles '
+                     'also own toboggans … \n',
+         'author': 'LJ Lee',
+         'eprint': 'https://patentimages.storage.googleapis.com/fb/c6/2c/4bb1575ef0d115/US3560013.pdf',
+         'title': 'Snowmobile-toboggan hitch kit',
+         'url': 'https://patents.google.com/patent/US3560013A/en'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '12524440854921874393',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2QsCqJnAz60J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WTlk:AAGBfm0AAAAAXYLTVllGDUZE8VAnTHpurcnfkiizMC_w&scisig=AAGBfm0AAAAAXYLTViou7JidqTgp0rvufRzxIWEQRHGq&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… My inventionrelates to the class of coasters wherein '
+                     'an inclined plane provided with tracks is\n'
+                     'erected adjacentto a body of water and terminates at its '
+                     'lower end at or just below the surface\n'
+                     'thereof, and in which boatshaped toboggans are caused to '
+                     'descend the inclined plane … \n',
+         'author': 'US Patent 535 and 938 and 1895',
+         'eprint': 'https://patentimages.storage.googleapis.com/c0/b6/26/4fedbe2c6e7243/US535938.pdf',
+         'title': 'Coaster',
+         'url': 'https://patents.google.com/patent/US535938A/en'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '16017312584117669715',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:U0-6kO7sSN4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WTlk:AAGBfm0AAAAAXYLTVllGDUZE8VAnTHpurcnfkiizMC_w&scisig=AAGBfm0AAAAAXYLTVrhzuTHIzyeXZ2Ri-1rEae82V9v0&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Heretofore, sleds or toboggans have not provided a '
+                     'seat for passengers … Additionally, the\n'
+                     'materials used in previous sleds or toboggans have been '
+                     'expensive and prevented\n'
+                     'purchase by a majority of those who could benefit from '
+                     'such a device … \n',
+         'author': 'BH Seekins and TW Seekins',
+         'title': 'Cross-country sled kit and assembly',
+         'url': 'https://patents.google.com/patent/US5090714A/en'},
+ 'citedby': 13,
+ 'id_scholarcitedby': '1650736791005040167',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Jw6GjV2Y6BYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WTlk:AAGBfm0AAAAAXYLTVllGDUZE8VAnTHpurcnfkiizMC_w&scisig=AAGBfm0AAAAAXYLTVsYOEjkprJgRuPsBYvL3HTwHVm_R&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… in your muscles comes) from your vital force really, '
+                     'from the food you eat and the, the living force,\n'
+                     '(interview 19, bug) Several teachers did not consider '
+                     'that energy was a term applicable to objects\n'
+                     'if they were inanimate, whether they were moving, such '
+                     'as the toboggans (3), or … \n',
+         'author': 'M Summers and C Kruger',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.1080/09500799209533321',
+         'title': "Research into English primary school teachers' "
+                  'understanding of the concept energy',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/09500799209533321'},
+ 'citedby': 46,
+ 'id_scholarcitedby': '17533455299907342862',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DtIq9LJYU_MJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WTlk:AAGBfm0AAAAAXYLTVllGDUZE8VAnTHpurcnfkiizMC_w&scisig=AAGBfm0AAAAAXYLTVt2Llcgl65LQHuavfSzp74w4hc2H&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 11 Claims, 8 Drawing Figures 1 STEERABLE TOBOGGAN '
+                     'BACKGROUND OF THE INVENTION\n'
+                     'The present invention relates to toboggans, and '
+                     'particularly to steerable toboggans having a\n'
+                     'generally dishshaped shell. Two distinct types of '
+                     'toboggans are currently available … \n',
+         'author': 'HC Pfeifer',
+         'eprint': 'https://patentimages.storage.googleapis.com/17/34/44/3393350132129b/US3858898.pdf',
+         'title': 'Steerable toboggan',
+         'url': 'https://patents.google.com/patent/US3858898A/en'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '16168283860415289581',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7Ri8_4FIYeAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WTlk:AAGBfm0AAAAAXYLTVllGDUZE8VAnTHpurcnfkiizMC_w&scisig=AAGBfm0AAAAAXYLTVqYurw_r4fz5FAMdvvuxOjEoHF5M&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… United States Patent TOBOGGAN George D. Dees, Milford, '
+                     'Mich. Application January 30, 1953,\n'
+                     'Serial No. 334,267 1 Claim. (Cl. 9-21) This invention '
+                     'relates in general to toboggans, and more\n'
+                     'particularly to an improved toboggan intended for use in '
+                     'water … \n',
+         'author': 'US Patent 2 and 735 and 115 and 1956',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US2735115A/en'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '5620235188424127434',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yrMraCAW_00J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WTlk:AAGBfm0AAAAAXYLTVllGDUZE8VAnTHpurcnfkiizMC_w&scisig=AAGBfm0AAAAAXYLTVoOIW5mMtU7NFFB-0bRc9DNHPxzE&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Lighter weight, runnerless sleds, such as toboggans, '
+                     'are also commonly used.\n'
+                     'Toboggans are long, flat-bottomed sleds made of thin '
+                     'boards curled at the front end.\n'
+                     'Toboggans overcome some of the problems of runnered '
+                     'sleds … \n',
+         'author': 'MF Kehrmann',
+         'title': 'Fabric coated sled of composite construction',
+         'url': 'https://patents.google.com/patent/US5893570A/en'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '3441931375235354830',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ztAsglkyxC8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WTlk:AAGBfm0AAAAAXYLTVllGDUZE8VAnTHpurcnfkiizMC_w&scisig=AAGBfm0AAAAAXYLTVuyUvTIeHJ0R2UNeYtpRXs54zGTT&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… BACKGROUND OF THE INVENTION Conventional toboggans are '
+                     'usually constructed\n'
+                     'of wood or other substantially rigid material and '
+                     'provide an elongated substantially flat\n'
+                     'load supporting portion and an arcuately upwardly '
+                     'return-bent end … \n',
+         'author': 'VM Solipasso',
+         'eprint': 'https://patentimages.storage.googleapis.com/a8/a9/b2/18a88770e07c95/US3432182.pdf',
+         'title': 'Coasting vehicle',
+         'url': 'https://patents.google.com/patent/US3432182A/en'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '14117585679900061994',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KrGVsGC968MJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WRlk:AAGBfm0AAAAAXYLTXll-x6n1oDqlObsTKKWsb_E1HRuP&scisig=AAGBfm0AAAAAXYLTXhfcqXH4Oi0WAim7Vy2JAV0UFyOM&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'author': 'A Ritchie',
+         'eprint': '/scholar?output=instlink&q=info:s0sw4EDybRwJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=3093325604327986915&oi=lle',
+         'title': 'Fossil fish discoveries in Antarctica'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '2048559765976533939',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:s0sw4EDybRwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WRlk:AAGBfm0AAAAAXYLTXll-x6n1oDqlObsTKKWsb_E1HRuP&scisig=AAGBfm0AAAAAXYLTXuaWx2_XM_2tdO7VWLEtDGSjSzEN&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… There is a variety of models of the mechanized tobog- '
+                     'gan, but most are quite similar to the ones\n'
+                     'in Figures 1 and 2. These machines were quickly '
+                     'recognized to be competitive with the dog-\n'
+                     "sled ( Figures 3 and 4 ) . By the mid-1960's mechanized "
+                     'toboggans had made … \n',
+         'author': 'KE Francis',
+         'title': 'Decline of the dogsled in villages of arctic Alaska: a '
+                  'preliminary discussion',
+         'url': 'https://muse.jhu.edu/article/431143/summary'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '12592494298643537890',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4p_HwtiGwa4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WRlk:AAGBfm0AAAAAXYLTXll-x6n1oDqlObsTKKWsb_E1HRuP&scisig=AAGBfm0AAAAAXYLTXlqgk4EldcPro2k4kv8i2TED8zVF&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… TUBOGGAN SLDEKAND TGBOGrG-Altl. .Application led '
+                     'November This invention relates to\n'
+                     'toboggan slides and toboggans where the toboggan is '
+                     'adapted to coast for some distance after\n'
+                     'leaving the end of the slide … Fig. il is a plan view of '
+                     'one of the toboggans detached; Fig … \n',
+         'author': 'HW Sellner',
+         'eprint': 'https://patentimages.storage.googleapis.com/46/84/97/e03c1c5a8347cd/US1702091.pdf',
+         'title': 'Toboggan slide and toboggan',
+         'url': 'https://patents.google.com/patent/US1702091A/en'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '15484581751608500225',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AeAe8A9J5NYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WRlk:AAGBfm0AAAAAXYLTXll-x6n1oDqlObsTKKWsb_E1HRuP&scisig=AAGBfm0AAAAAXYLTXnLca9YSVf_Qi7vAhvHv5XfTt1ZJ&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Be it known that l, Janus 1 Fnnonsox, a citizen of the '
+                     'United States, residing at Burlington, in the\n'
+                     'county of Ohittenden and State of Vermont, have invented '
+                     'certain new and useful improvements\n'
+                     'in Toboggans or Coasters, of which the following is a '
+                     'specification, reference … \n',
+         'author': 'US Patent 350 and 123 and 1886',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US350123A/en'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '3015016343438163781',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Rf-g3mN91ykJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WRlk:AAGBfm0AAAAAXYLTXll-x6n1oDqlObsTKKWsb_E1HRuP&scisig=AAGBfm0AAAAAXYLTXgzbgBp--PGG2gfibNa1kw5DCvQ_&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… 'Heretofore these devices' have been provided "
+                     "with-'liet bottoms and are known as\n"
+                     'toboggans. These toboggans, while serving the purpose to '
+                     'a certain degree, have\n'
+                     'more or less obgectlonable features, which others have '
+                     'tried … \n',
+         'author': 'US Patent 424 and 164 and 1890',
+         'eprint': 'https://patentimages.storage.googleapis.com/69/05/97/5629c553963466/US424164.pdf',
+         'title': 'bankson',
+         'url': 'https://patents.google.com/patent/US424164A/en'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '5710884385649055720',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6NfvVxcjQU8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WRlk:AAGBfm0AAAAAXYLTXll-x6n1oDqlObsTKKWsb_E1HRuP&scisig=AAGBfm0AAAAAXYLTXjQbUtVYXR_Dq38yKlPaQIhWN0-s&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… BACKGROUND OF THE INVENTION; Sliding devices such as '
+                     'sleds and toboggans\n'
+                     'that carry people across low friction surfaces are well '
+                     'known, and are considered\n'
+                     'to be sometimes practical and often enjoyable to use. In '
+                     'the … \n',
+         'author': 'J Watson',
+         'eprint': 'https://patentimages.storage.googleapis.com/4b/ea/30/2b9e8810548fea/US20080224429A1.pdf',
+         'title': 'Toboggan for use on wet sand',
+         'url': 'https://patents.google.com/patent/US20080224429A1/en'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '1873080285281234434',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Aq75b5iE_hkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WRlk:AAGBfm0AAAAAXYLTXll-x6n1oDqlObsTKKWsb_E1HRuP&scisig=AAGBfm0AAAAAXYLTXpahx4SVh_AKNFWaSlD06YxNw20u&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… heater '\\9 E8 Two toboggans rnovlng down a hili "
+                     'Identlcai twins rldlng ldentltai toboggans … Several\n'
+                     'teachers did not consider that energy was a term '
+                     'applicable to objects if they were inanimate,\n'
+                     'whether moving (eg toboggans) or stationary (eg rock). '
+                     'Energy confused with force … \n',
+         'author': 'C Kruger',
+         'eprint': '/scholar?output=instlink&q=info:qvDLJ3QGQyEJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=11274078392794268888&oi=lle',
+         'title': "Some primary teachers' ideas about energy",
+         'url': 'https://iopscience.iop.org/article/10.1088/0031-9120/25/2/002'},
+ 'citedby': 116,
+ 'id_scholarcitedby': '2396766522644885674',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qvDLJ3QGQyEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WRlk:AAGBfm0AAAAAXYLTXll-x6n1oDqlObsTKKWsb_E1HRuP&scisig=AAGBfm0AAAAAXYLTXoA4ZyjSEDsl5JVqOLZGDrzPiKgN&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Be it known that I, JOSHUA PUsEY, a citizen of the '
+                     'United States, residing in the city and\n'
+                     'count-y of Philadelphia, and State of Pennsylvania, have '
+                     'invented certain new and useful\n'
+                     'Improvements in Toboggans, of which the following is '
+                     'afull, clear, and exact description, reference … \n',
+         'author': 'US Patent 359 and 741 and 1887',
+         'eprint': 'https://patentimages.storage.googleapis.com/3a/ee/cb/d18da15f192dc9/US359741.pdf',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US359741A/en'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '11562516844810223286',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:tj5iPM9PdqAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WRlk:AAGBfm0AAAAAXYLTXll-x6n1oDqlObsTKKWsb_E1HRuP&scisig=AAGBfm0AAAAAXYLTXoflHyhcAyxAH4_AjpOTotOqyJ-l&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Be it known that I, JAMES PATON, of the city of '
+                     'Montreal, in the District of Montreal and Province\n'
+                     'of Quebec, Canada, have invented certain new and useful '
+                     'Improvements in Toboggans; and\n'
+                     'I do hereby declare that the following is a full, clear, '
+                     'and exact description of the same … \n',
+         'author': 'US Patent 351 and 790 and 1886',
+         'title': 'James paton',
+         'url': 'https://patents.google.com/patent/US351790A/en'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '4440858127011291320',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:uCBqFvAYoT0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WRlk:AAGBfm0AAAAAXYLTXll-x6n1oDqlObsTKKWsb_E1HRuP&scisig=AAGBfm0AAAAAXYLTXh0P6vwLKA8J5tltCyHdH5BquKsH&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… You are here: Rechercher. Notice "La culture '
+                     'matérielle des indiens du Québec : une étude de\n'
+                     'raquettes, mocassins et toboggans". Auteurs: Lévesque, '
+                     'Carole. Organisme auteur: Musée\n'
+                     "national de l'Homme (Canada); Musées nationaux du "
+                     "Canada; Service canadien d'ethnologie …",
+         'author': 'C Lévesque',
+         'title': 'La culture matérielle des Indiens du Québec: une étude de '
+                  'raquettes, mocassins et toboggans',
+         'url': 'https://www.bcin.ca/bcin/detail.app?id=134601'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '18400442556528494571',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:64fc8wOBW_8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WcSI:AAGBfm0AAAAAXYLTaSK8jmiOncpYEviy9vth8gBPm9k0&scisig=AAGBfm0AAAAAXYLTaSH8LhNOAZqWS39RNelg4Wmm7n1K&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… the fluid or semi-fluid surface. An important '
+                     'application of the steering device of the\n'
+                     'present invention is in the field of vehicles which '
+                     'travel over snow such as sleds,\n'
+                     'toboggans and snowmobiles. It is to be understood '
+                     'however … \n',
+         'author': 'E Orozco and B Asimor and E Sylvester',
+         'title': 'Device for steering a vehicle over a fluid or semi-fluid '
+                  'surface',
+         'url': 'https://patents.google.com/patent/US3711108A/en'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '11480510877721632046',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Lh2bItH3Up8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WcSI:AAGBfm0AAAAAXYLTaSK8jmiOncpYEviy9vth8gBPm9k0&scisig=AAGBfm0AAAAAXYLTac2_xYY7uiMRAO3RyDnykxNHa6KX&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… A f. This invention relates to attachments for '
+                     "toboggans'and the primary object-,ofthe\n"
+                     '1nventon is to provide a. novel steering attachment '
+                     'which can be readily connected to\n'
+                     'the ordinary toboggan, without change 1n the '
+                     'construction thereof … \n',
+         'author': 'AW Tatro',
+         'eprint': 'https://patentimages.storage.googleapis.com/b2/d1/22/0e32aac3883683/US1580224.pdf',
+         'title': 'Toboggan-steering device',
+         'url': 'https://patents.google.com/patent/US1580224A/en'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '15350320933525543573',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lVoIP49LB9UJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WcSI:AAGBfm0AAAAAXYLTaSK8jmiOncpYEviy9vth8gBPm9k0&scisig=AAGBfm0AAAAAXYLTadCVIHyEQjAxtMegJF4tTIZMimI-&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Nine were injured by striking a tree (Table 1), five '
+                     'fell from the toboggan (Table 2), and the others\n'
+                     'struck other toboggans (5), motor vehicles (2), or other '
+                     'stationary objects (1) (Table 3). The initial\n'
+                     'site of inpact was the head in 13 (59%), the trunk in '
+                     'five, and the extremities in the … \n',
+         'author': 'PCW Kim and G Haddock and D Bohn and D Wesson',
+         'eprint': '/scholar?output=instlink&q=info:lBjBl_oXwJwJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=9721483648370652973&oi=lle',
+         'title': 'Tobogganing injuries in children',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0022346895900055'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '11295054230500481172',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lBjBl_oXwJwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WcSI:AAGBfm0AAAAAXYLTaSK8jmiOncpYEviy9vth8gBPm9k0&scisig=AAGBfm0AAAAAXYLTaauIY5yixmocrvEOcCobYoaZ7sMP&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… surfaces. More particularly, the invention relates to '
+                     'devices on which a user reclines\n'
+                     'while riding downhill, such as sleds, luges and '
+                     'toboggans … The most popular of these\n'
+                     'include skis, snowboards, sleds, toboggans and luges. '
+                     'With … \n',
+         'author': 'D Arney',
+         'eprint': 'https://patentimages.storage.googleapis.com/03/b6/96/9a43495dad0482/US20100133767A1.pdf',
+         'title': 'Winter recreation device',
+         'url': 'https://patents.google.com/patent/US20100133767A1/en'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '3918077041640128923',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:m8GSfU_OXzYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WcSI:AAGBfm0AAAAAXYLTaSK8jmiOncpYEviy9vth8gBPm9k0&scisig=AAGBfm0AAAAAXYLTaRpR3bxkiSvW-59hrhB3i7cq227y&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Over five days of snowy weather in London (8-12 '
+                     'February) 18 children under 16 years of age\n'
+                     'presented to our accident and emergency department, '
+                     'having been riding on or hit by toboggans …\n'
+                     'Four were wooden sledges, four plastic toboggans, and '
+                     'one a plastic tray … \n',
+         'author': 'JA Main and PGN Main',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1669186/pdf/bmj00120-0058c.pdf',
+         'title': 'Jarman index',
+         'url': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1669186/'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '17686458211149773833',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CXxfQgnscvUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WcSI:AAGBfm0AAAAAXYLTaSK8jmiOncpYEviy9vth8gBPm9k0&scisig=AAGBfm0AAAAAXYLTaUs7_xTCh2j1jKPQv7gG41BlGRdY&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… My invention has for its object to provide for a '
+                     'coasting-incline a means for the elevation of\n'
+                     'toboggans or sledsfrom the foot of the incline to the '
+                     'top, and enable the said incline to be\n'
+                     'converted from winter to summer coastas well as to adapt '
+                     'sleds and toboggans to the alternate … \n',
+         'author': 'US Patent 372 and 306 and 1887',
+         'eprint': 'https://patentimages.storage.googleapis.com/4f/5c/da/c110acad9ec78d/US372306.pdf',
+         'title': 'And eollee goastee',
+         'url': 'https://patents.google.com/patent/US372306A/en'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '7891940774585521340',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vFSXOVLOhW0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WcSI:AAGBfm0AAAAAXYLTaSK8jmiOncpYEviy9vth8gBPm9k0&scisig=AAGBfm0AAAAAXYLTaS5oVpXZNbqXP6un90K1VH8AdlOL&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Be `it known that l, HENRY CUGULLU, a citizen of the '
+                     'United States of America, residing at New\n'
+                     'Orleans, in the parish of `Orleans and State of '
+                     'Louisianav have inobject to provide awater\n'
+                     'toboggan for useV `by bathers whereby the toboggans or '
+                     'sleds employed in connection … \n',
+         'author': 'C Henry',
+         'title': 'Water-toboggan',
+         'url': 'https://patents.google.com/patent/US1399469A/en'},
+ 'citedby': 35,
+ 'id_scholarcitedby': '11033073378850293793',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IcgwR8hZHZkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WcSI:AAGBfm0AAAAAXYLTaSK8jmiOncpYEviy9vth8gBPm9k0&scisig=AAGBfm0AAAAAXYLTaRTXVEAYAI1gW7uTvPgAgeLjdwlu&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… We intend to show how, on an overall background of '
+                     'quantum mechanics, one could interconnect\n'
+                     'the purely algebraic concept of supersymmetry (SUSY, eg, '
+                     'review [1]) with the more or less purely\n'
+                     'analytic concept of quantum toboggans (see refs [2–6] or '
+                     'a compact review … \n',
+         'author': 'M Znojil and V Jakubský',
+         'eprint': 'https://link.springer.com/content/pdf/10.1007/s12043-009-0131-7.pdf',
+         'title': 'Supersymmetric quantum mechanics living on topologically '
+                  'non-trivial Riemann surfaces',
+         'url': 'https://link.springer.com/article/10.1007/s12043-009-0131-7'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '17950942566957397243',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-zTvDiiPHvkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WcSI:AAGBfm0AAAAAXYLTaSK8jmiOncpYEviy9vth8gBPm9k0&scisig=AAGBfm0AAAAAXYLTaWBY2ey355vA2tzDh-2Kgd0Nqk5e&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'author': 'R Carr-Hill and T Sheldon and JA Main and PGN Main',
+         'title': 'Jarman index'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '7913589937188698478',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bvk8sB640m0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WcSI:AAGBfm0AAAAAXYLTaSK8jmiOncpYEviy9vth8gBPm9k0&scisig=AAGBfm0AAAAAXYLTaQE-rG3MLv71S0pw95DXZzjIIpmv&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Dog teams pulled the toboggans that allowed the '
+                     'Chipewyan to exploit the forty thousand square\n'
+                     'mile block of forest, lake, and tundra that is their '
+                     'home and kept them in contact with neighbouring\n'
+                     'bands. The dog team is one of the most effective devices '
+                     'ever invented by man … \n',
+         'author': 'HS Sharp',
+         'eprint': 'https://www.jstor.org/stable/pdf/40315886.pdf',
+         'title': 'Man: wolf: woman: dog',
+         'url': 'https://www.jstor.org/stable/40315886'},
+ 'citedby': 30,
+ 'id_scholarcitedby': '10099796337359132714',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KhgVAEKvKYwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wazg:AAGBfm0AAAAAXYLTcziRGWZbPjWLZL1UF0tSHl5GCthY&scisig=AAGBfm0AAAAAXYLTc9yNRZJmpabsxgl1qr3rqCg0qppQ&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The present invention appertains to sleds or toboggans, '
+                     'such as may be\n'
+                     'used for coasting on hills covered by snow or ice and '
+                     'which may also be\n'
+                     'used for hauling materials or toting persons, especially '
+                     '… \n',
+         'author': 'OJ Lidberg',
+         'eprint': 'https://patentimages.storage.googleapis.com/16/ad/99/26eb147282a9fb/US2450285.pdf',
+         'title': 'Glider sled',
+         'url': 'http://www.freepatentsonline.com/2450285.html'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '17441334148539681145',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:eQmZ_P8QDPIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wazg:AAGBfm0AAAAAXYLTcziRGWZbPjWLZL1UF0tSHl5GCthY&scisig=AAGBfm0AAAAAXYLTcwLTxtY0B3eQjn4gU1GkCghWCTZT&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… that I,BYRON B. FLOYD, a citizen of the United States, '
+                     'residing at Haverhill, in the county of Essex\n'
+                     'and State of Mas sachusetts, have invented certain new '
+                     'and useful Improvements in Sliding-Hills\n'
+                     'and in Toboggans to be used therewith, of which the '
+                     'following is a specification … \n',
+         'author': 'US Patent 367 and 286 and 1887',
+         'eprint': 'https://patentimages.storage.googleapis.com/96/40/9b/9aa347ad5e704a/US367286.pdf',
+         'title': 'Half to stephen e',
+         'url': 'https://patents.google.com/patent/US367286A/en'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14050982024359958089',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SdZfs7Qd_8IJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wazg:AAGBfm0AAAAAXYLTcziRGWZbPjWLZL1UF0tSHl5GCthY&scisig=AAGBfm0AAAAAXYLTczYTejz3jHEuJlH0SVIgKu6B2b_C&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Experimenters categorized equipment into seven '
+                     'categories: Sleds, Toboggans, Saucers,\n'
+                     'Foam Boards, Snow Tubes, Other Inflatables, Snowboards, '
+                     'and Other … Toboggans were\n'
+                     'flat or nearly flat, with a bent forward panel (Figure '
+                     '1B) … \n',
+         'author': 'GM Heckman and EM Harley and I Scher…',
+         'eprint': 'https://journals.sagepub.com/doi/pdf/10.1177/154193121005401002',
+         'title': 'Helmet use in sledding: Do users comply with manufacturer '
+                  'warnings?',
+         'url': 'https://journals.sagepub.com/doi/abs/10.1177/154193121005401002'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '5549285868040699439',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Lz6peRgGA00J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wazg:AAGBfm0AAAAAXYLTcziRGWZbPjWLZL1UF0tSHl5GCthY&scisig=AAGBfm0AAAAAXYLTcyt7v__pSURnuHLNwnknvmsqcldF&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The invention described herein, if patented, may be '
+                     'manufactured and used by or for the\n'
+                     'Government for governmental purposes without the payment '
+                     "of any royalty thereon. 'I'his\n"
+                     'invention relates to toboggans and more particularly to '
+                     'laminated toboggans … \n',
+         'author': 'HN Smith',
+         'title': 'Laminated toboggan',
+         'url': 'https://patents.google.com/patent/US2317414A/en'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '16526642002920766114',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:onok-lZtWuUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wazg:AAGBfm0AAAAAXYLTcziRGWZbPjWLZL1UF0tSHl5GCthY&scisig=AAGBfm0AAAAAXYLTc3Z4vBAYnFFb94tlrVIKFMeQcAfB&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JD Forbes',
+         'title': 'Intellectual property rights of Indigenous peoples'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '4758333743193200687',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LxjJJVT_CEIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wazg:AAGBfm0AAAAAXYLTcziRGWZbPjWLZL1UF0tSHl5GCthY&scisig=AAGBfm0AAAAAXYLTc_GyJr98ydDBXVSEQctkboFy36MT&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 7 is a like view of the uptrack of the outgoing course '
+                     'with a toboggan "in position thereon;\n'
+                     'and Fig. 8 is an enlarged sectional side elevation ot '
+                     'the starting device for a plurality\n'
+                     'of toboggans, the section being on the line 8 8 of Fig. '
+                     '2 … \n',
+         'author': 'WF Mangels',
+         'title': 'Mechanical toboggan-slide.',
+         'url': 'https://patents.google.com/patent/US997071A/en'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '5644319201181774184',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:aDFbmWimVE4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wazg:AAGBfm0AAAAAXYLTcziRGWZbPjWLZL1UF0tSHl5GCthY&scisig=AAGBfm0AAAAAXYLTc34HRZhLeKFWEE9Is4OzEyO76x2Y&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… to provide a longer course with reference to the '
+                     'superficial area occupied by the superstructure\n'
+                     'than has heretofore been obtained, and, third, to so '
+                     'arrange the railway course or courses with\n'
+                     'relation to the superstructure, that the cars, coaches, '
+                     'and toboggans will descend at … \n',
+         'author': 'US Patent 450 and 609 and 1891',
+         'eprint': 'https://patentimages.storage.googleapis.com/39/14/d2/13ef9e76101b97/US450609.pdf',
+         'title': 'Sinuous pleasure-railway and toboggan-slide',
+         'url': 'https://patents.google.com/patent/US450609A/en'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '8652301883166336352',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YKWSi7gmE3gJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wazg:AAGBfm0AAAAAXYLTcziRGWZbPjWLZL1UF0tSHl5GCthY&scisig=AAGBfm0AAAAAXYLTc_Ztk4tinupBX2e_6UGfo2-HbGnQ&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… citizen of theUnited States, residing at Saratoga '
+                     'Springs, in the county of Saratoga and State\n'
+                     'of New York, have invented certain new and useful '
+                     'Improvements in Toboggans, Sleds, 810.,\n'
+                     'of which the following is a specification, reference '
+                     'being had therein to the accompanying … \n',
+         'author': 'US Patent 357 and 132 and 1887',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US357132A/en'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '5137540712281051733',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VZKe1g42TEcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wazg:AAGBfm0AAAAAXYLTcziRGWZbPjWLZL1UF0tSHl5GCthY&scisig=AAGBfm0AAAAAXYLTcyxlwkjBg5Mh151VYw2PUAaWLDit&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… USD519413S US D519413 S1 USD519413 S1 US D519413S1 US '
+                     '22736505 F US22736505\n'
+                     'F US 22736505F US D519413 S USD519413 S US D519413S '
+                     'Authority US United States Prior\n'
+                     'art keywords toboggan view elevational view toboggans '
+                     'showing Prior art date 2005 … \n',
+         'author': 'GB Wilcox',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/USD519413S1/en'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '13835992361243968293',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JQP3Dr9RA8AJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wazg:AAGBfm0AAAAAXYLTcziRGWZbPjWLZL1UF0tSHl5GCthY&scisig=AAGBfm0AAAAAXYLTc8DNF1m-itrDE1rdidGWhPgRkeNT&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… BACKGROUND OF THE INVENTION Conventionally, toboggans '
+                     'or sledges comprise two\n'
+                     'runners connected to a rigid body upon which a person '
+                     'may sit or lie … Numerous attempts\n'
+                     'have been made to devise manoeuvrable sledges or '
+                     'toboggans … \n',
+         'author': 'AC White',
+         'eprint': 'https://patentimages.storage.googleapis.com/38/bd/8f/ff327a87b424e8/US5823546.pdf',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US5823546A/en'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14285947312004998080',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wCMB3GPhQcYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WYk8:AAGBfm0AAAAAXYLTek8G6q5qFzQgMN30uNNmc0qIJfpK&scisig=AAGBfm0AAAAAXYLTesw1et6US4DRw-GbyXaSzM_IGLIE&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… force will be resolved out ofthe sliding movement of '
+                     'the toboggans 1 on the tracks 7, which will\n'
+                     'tend to hold the toboggans on the slides 7 apart and '
+                     'avoid any possibility of the toboggans\n'
+                     'jumping inwardly, into contact with the toboggan on the '
+                     "track, if the track 6 is'used. i … \n",
+         'author': 'C Edward',
+         'title': 'Toboggan and slide',
+         'url': 'https://patents.google.com/patent/US1417594A/en'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '18273142759715484086',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:trHXUoY-l_0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WYk8:AAGBfm0AAAAAXYLTek8G6q5qFzQgMN30uNNmc0qIJfpK&scisig=AAGBfm0AAAAAXYLTeq9g7eViWOiAboLK-g_0wPA1BE5p&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 16, 1994 (now abandoned). BACKGROUND OF THE INVENTION '
+                     'This invention relates to\n'
+                     'application of a wax to a surface and more particularly '
+                     'to an improved means and method of\n'
+                     'applying wax to snowboards, snow skis, toboggans or '
+                     'other articles of manufacture … \n',
+         'author': 'B Fitzburgh',
+         'eprint': 'https://patentimages.storage.googleapis.com/25/40/1a/9911573348c7d8/US6126747.pdf',
+         'title': 'Apparatus for wax-impregnation of snowboards, skis or the '
+                  'like',
+         'url': 'https://patents.google.com/patent/US6126747A/en'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '15331968226117762450',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kj1Tkd4XxtQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WYk8:AAGBfm0AAAAAXYLTek8G6q5qFzQgMN30uNNmc0qIJfpK&scisig=AAGBfm0AAAAAXYLTevPGUxyvd_LQMzMMhVfjYyjd_Cpy&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The nature of this invention is a coasting or toboggan '
+                     'hill wherein, instead of the usual smooth\n'
+                     'track way up on which sleds with wheels are designed to '
+                     'run, or in winter ordinary sleds or\n'
+                     'toboggans upon ice or snow, the trackway consists of a '
+                     'series of rollers journaled … \n',
+         'author': 'US Patent 387 and 733 and 1888',
+         'eprint': 'https://patentimages.storage.googleapis.com/5b/36/df/9f34538e85b063/US387733.pdf',
+         'title': 'Artificial toboggan or coasting h',
+         'url': 'https://patents.google.com/patent/US387733A/en'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '14165799902697535610',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:eriMN_UHl8QJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WYk8:AAGBfm0AAAAAXYLTek8G6q5qFzQgMN30uNNmc0qIJfpK&scisig=AAGBfm0AAAAAXYLTelJDCcvIb0ENlpnuazRzg_5VkvRL&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A rudder-like device to add manuverability to toboggans '
+                     'and toboggan-like vehicles. The device\n'
+                     'incorporates a housing into which the rudder can be '
+                     'withdrawn for safety purposes … Abstract.\n'
+                     'A rudder-like device to add manuverability to toboggans '
+                     'and toboggan-like vehicles … \n',
+         'author': 'CJ Simmons',
+         'title': 'Toboggan rudder',
+         'url': 'https://patents.google.com/patent/US3937483A/en'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '6886650647902799963',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:W8h1-EZMkl8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WYk8:AAGBfm0AAAAAXYLTek8G6q5qFzQgMN30uNNmc0qIJfpK&scisig=AAGBfm0AAAAAXYLTeiV55JKt21GvWaFWaXAOkNmqXoLz&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Be it known that I, HENRY F. STEARNS, of Saratoga, in '
+                     'the county of Saratoga and State of New\n'
+                     'York, have invented certain new and useful Improvements '
+                     'in Toboggans, of which the following\n'
+                     'is a specification … I am aware that toboggans have been '
+                     'constructed of, a series … \n',
+         'author': 'US Patent 354 and 947 and 1886',
+         'eprint': 'https://patentimages.storage.googleapis.com/33/41/cc/942a963585e0b9/US354947.pdf',
+         'title': 'stearns',
+         'url': 'https://patents.google.com/patent/US354947A/en'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '4144176865133429074',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:UoGr7OYSgzkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WYk8:AAGBfm0AAAAAXYLTek8G6q5qFzQgMN30uNNmc0qIJfpK&scisig=AAGBfm0AAAAAXYLTenbBz9Q_9QEn_QFeloeGd7Ym3PlP&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'US8096563B2 - Recreation device for sliding downhill on '
+                     'a surface - Google Patents.\n'
+                     'Recreation device for sliding downhill on a surface. '
+                     'Download PDF Info. Publication\n'
+                     'number US8096563B2. US8096563B2 US11/815,388 … \n',
+         'author': 'C Buchwald and D Arney and P Brooke',
+         'eprint': 'https://patentimages.storage.googleapis.com/84/09/05/360478a60934b7/US8096563.pdf',
+         'title': 'Recreation device for sliding downhill on a surface',
+         'url': 'https://patents.google.com/patent/US8096563B2/en'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '1554284226223154328',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mCQG0ETtkRUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WYk8:AAGBfm0AAAAAXYLTek8G6q5qFzQgMN30uNNmc0qIJfpK&scisig=AAGBfm0AAAAAXYLTenynagYWmWFpKa9yTPbbK8oe6THu&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In order to alleviate this problem, a variety of '
+                     'rescue toboggans have been employed\n'
+                     'at ski resorts. Rescue toboggans are relatively '
+                     'inexpensive, are easily transported\n'
+                     'on a regular ski lift, and are highly mobile as they can '
+                     'be … \n',
+         'author': 'TA Jesse',
+         'eprint': 'https://patentimages.storage.googleapis.com/41/05/77/9a033e0ec50d14/US5306026.pdf',
+         'title': 'Rescue toboggan',
+         'url': 'https://patents.google.com/patent/US5306026A/en'},
+ 'citedby': 26,
+ 'id_scholarcitedby': '8512630273446085083',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:24H9wCHwInYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WYk8:AAGBfm0AAAAAXYLTek8G6q5qFzQgMN30uNNmc0qIJfpK&scisig=AAGBfm0AAAAAXYLTeqraiWtajVaICkmMcCUfO3MiaHN0&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Be it known that I, ORRIN A. WHEELER, a citizen of the '
+                     'United States, residing at Springfield,\n'
+                     'in the county of Greene and State of Missouri, have '
+                     'invented certain new and useful Improvements\n'
+                     'in Wheeled Toboggans; and I do declare the following to '
+                     'be afull, clear, and exact … \n',
+         'author': 'US Patent 430 and 098 and 1890',
+         'eprint': 'https://patentimages.storage.googleapis.com/2c/ae/23/0355502347850a/US430098.pdf',
+         'title': 'Wheeled toboggan',
+         'url': 'https://patents.google.com/patent/US430098A/en'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '5106422342258991915',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KyN3txCo3UYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WYk8:AAGBfm0AAAAAXYLTek8G6q5qFzQgMN30uNNmc0qIJfpK&scisig=AAGBfm0AAAAAXYLTeiJvPTYD381dsSRpkm5FsoSYKgRB&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Beitknown that 1, JOHN ROBERT McLAnEN, J r., of the '
+                     'city of Montreal, in the district of Montreal\n'
+                     'and Province of Quebec, Canada, have invented certain '
+                     'new and useful Iniprovements in\n'
+                     'Toboggans; and I do hereby declare that the following is '
+                     'a full, clear, and exact … \n',
+         'author': 'US Patent 363 and 157 and 1887',
+         'eprint': 'https://patentimages.storage.googleapis.com/1c/c1/87/e598382de1d3cf/US363157.pdf',
+         'title': 'John egbert mclaren',
+         'url': 'https://patents.google.com/patent/US363157A/en'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '17700303371271541752',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-BNKzSIcpPUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WYk8:AAGBfm0AAAAAXYLTek8G6q5qFzQgMN30uNNmc0qIJfpK&scisig=AAGBfm0AAAAAXYLTehGAM5TiaTHPdCCJuTbZPDz3s95u&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Be it known that 1, CHARLES E. BABGOOK, a resident of '
+                     'the city of Troy, in the county of\n'
+                     'Rensselaer and State of New York, have invented certain '
+                     'new and useful Improvements in\n'
+                     'Toboggans; and I do hereby declare that the following is '
+                     'a full, clear, and exact description of … \n',
+         'author': 'US Patent 334 and 925 and 1886',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US334925A/en'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '10268344103244649292',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TNNf0Y58gI4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wmp4:AAGBfm0AAAAAXYLTgp4KTrn7qUqqaSH2pA39XmsBykEP&scisig=AAGBfm0AAAAAXYLTglF_R4nwJdugkslFvFxrvGGWitRY&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Description. This invention relates to hand-toboggans, '
+                     'and more particularly to those\n'
+                     'of the kind constructed in the form of a skid, or slide, '
+                     'to serve as an amusement\n'
+                     'vehicle on snow slopes. Snow hand-toboggans of this kind '
+                     '… \n',
+         'author': 'RA Cashmere',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US4561664A/en'},
+ 'citedby': 58,
+ 'id_scholarcitedby': '5334370090315259430',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Jp61nVV9B0oJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wmp4:AAGBfm0AAAAAXYLTgp4KTrn7qUqqaSH2pA39XmsBykEP&scisig=AAGBfm0AAAAAXYLTgtDp5eAfgVnb2yJ4CqZHQAhN6Wx-&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Great Britain, and resident of the town of Radville, '
+                     'in the Province of Saskatchewan\n'
+                     'and Dominion of Canada, have invented certain new and '
+                     'useful Improvements\n'
+                     'in Toboggans, of which the following is a specification. '
+                     'This … \n',
+         'author': 'MI Euichin',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US1478345A/en'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '13729445468856158117',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pYdEhunJiL4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wmp4:AAGBfm0AAAAAXYLTgp4KTrn7qUqqaSH2pA39XmsBykEP&scisig=AAGBfm0AAAAAXYLTgoTh-Ft9OrvwBqLcpPfNoAFiNa0b&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Page 2. 724 ENVIRONMENT AND BEHAVIOR / November 1991 '
+                     'motorized toboggans. This\n'
+                     'research has examined individual differences as well as '
+                     'commonalities in personality characteris-\n'
+                     'tics, and the coping methods used to deal with '
+                     'expedition stres- ses … \n',
+         'author': 'GR Leon',
+         'eprint': 'https://journals.sagepub.com/doi/pdf/10.1177/0013916591236005',
+         'title': 'Individual and group process characteristics of polar '
+                  'expedition teams',
+         'url': 'https://journals.sagepub.com/doi/abs/10.1177/0013916591236005'},
+ 'citedby': 53,
+ 'id_scholarcitedby': '12693616649505635673',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WX3EzBbJKLAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wmp4:AAGBfm0AAAAAXYLTgp4KTrn7qUqqaSH2pA39XmsBykEP&scisig=AAGBfm0AAAAAXYLTgsrbjobGROrA_Y05-si7oQ2vo77N&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The K95 toboggan gives the impression of being a '
+                     'prototype rather than a well-planned \n'
+                     'machine. The idea of having the main weight supported on '
+                     'runners or skis which are unsprung \n'
+                     'with the track solely for driving, appears to be '
+                     'outmoded. The vehicle at SANAE proved to be …',
+         'author': 'W Hodson',
+         'eprint': 'http://alp.lib.sun.ac.za/bitstream/handle/123456789/9059/toboggans_in_antarctica.PDF?sequence=1',
+         'title': 'Toboggans in Antarctica',
+         'url': 'http://alp.lib.sun.ac.za/bitstream/handle/123456789/9059/toboggans_in_antarctica.PDF?sequence=1'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GJinPqgQUbkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wmp4:AAGBfm0AAAAAXYLTgp4KTrn7qUqqaSH2pA39XmsBykEP&scisig=AAGBfm0AAAAAXYLTgp0w6CgpHqkxPxKLdgDSYsJSqYnD&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'To all tufton, it may concern: Be it known that I, '
+                     'CHARLES H. EMERSON, a citizen of the United States, '
+                     'residing at Yon kers, in the county of Westchester and '
+                     'State of New York, have invented certain new and use ful '
+                     'Improvements in Metal Shoes or Runners for …',
+         'author': 'US Patent 353 and 547 and 1886',
+         'eprint': 'https://patentimages.storage.googleapis.com/31/b7/27/81946489f928b5/US353547.pdf',
+         'title': 'Metallic shoe for toboggans',
+         'url': 'https://patents.google.com/patent/US353547A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VxcaJBbeoW8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wmp4:AAGBfm0AAAAAXYLTgp4KTrn7qUqqaSH2pA39XmsBykEP&scisig=AAGBfm0AAAAAXYLTgv0fyOALFq5zhQnaXO8QmiiGalmq&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Quantum particle is assumed located in an analytically '
+                     'perturbed harmonic-oscillator potential. Its motion '
+                     'along certain complex, PT-symmetric" toboggan" paths '
+                     'which N-times encircle the branch point in the origin is '
+                     'studied in both the bound-state and scattering …',
+         'author': 'M Znojil',
+         'eprint': 'http://cds.cern.ch/record/965517/files/0606166.pdf',
+         'title': 'Spiked harmonic quantum toboggans',
+         'url': 'http://cds.cern.ch/record/965517'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_ztcsUPUZ8sJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wmp4:AAGBfm0AAAAAXYLTgp4KTrn7qUqqaSH2pA39XmsBykEP&scisig=AAGBfm0AAAAAXYLTgkH90pfqZgqqmGsHkLMC15R6Ia94&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A ski mounting for power toboggans which includes a '
+                     'transverse pivot attached and check or \n'
+                     'shock absorber springs fore and aft of the pivot between '
+                     'the ski of the body frame … Mar. \n'
+                     '17, 1969 Mar. 30, 1971 lnventor Appl. No. Filed Patented '
+                     'SKI MOUNTINGS FOR POWER TOBOGGANS …',
+         'author': 'NE Shorrick',
+         'eprint': 'https://patentimages.storage.googleapis.com/ab/ee/ed/638285a04567a7/US3572741.pdf',
+         'title': 'Ski mountings for power toboggans and the like',
+         'url': 'https://patents.google.com/patent/US3572741A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KPeL6iZNnZgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wmp4:AAGBfm0AAAAAXYLTgp4KTrn7qUqqaSH2pA39XmsBykEP&scisig=AAGBfm0AAAAAXYLTggdbFZnyafIzrV9rS0gQYSswVJGs&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… A University of Minnesota expedition spent 88 days '
+                     'doing geological field work in the Ellsworth\n'
+                     'Mountains in the interior of western Antarctica during '
+                     'the summer of 1962-3. Sled trains pulled\n'
+                     'by a fleet of five new Polaris motor toboggans were used '
+                     'for trans- portation … \n',
+         'author': 'DE Soholt and C Craddock',
+         'eprint': 'https://cjc-rcc.ucalgary.ca/index.php/arctic/article/download/66540/50453',
+         'title': 'Motor toboggan sled trains in Antarctica',
+         'url': 'https://cjc-rcc.ucalgary.ca/index.php/arctic/article/view/66540'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '7598970561888271197',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:XTsACHf3dGkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wmp4:AAGBfm0AAAAAXYLTgp4KTrn7qUqqaSH2pA39XmsBykEP&scisig=AAGBfm0AAAAAXYLTgvEk4-BPwB9p7yOBlUlfBqSwxCkq&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'author': 'D Schweitzer', 'title': 'Transportation-Power Toboggans'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YfrXavldnpIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Wmp4:AAGBfm0AAAAAXYLTgp4KTrn7qUqqaSH2pA39XmsBykEP&scisig=AAGBfm0AAAAAXYLTgjjBmDMNqvZviaKi8Z-R2uLSaAfX&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'author': 'AS Garcia',
+         'title': 'Development of Simulation Model and Experimental Testing of '
+                  'Pneumatic Isolation System for Ski-patrol Rescue Toboggans'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ey2NxS1zgxMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WkV8:AAGBfm0AAAAAXYLTiV_ptqGIzzCMhb7wzrt5Lb_aF8UR&scisig=AAGBfm0AAAAAXYLTiZTvPJItk0MANG5BV59fwx3dikqe&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'author': 'D Vink',
+         'title': 'Sliding to success. A renaissance in the popularity of '
+                  'sledges and toboggans opens up opportunities for innovative '
+                  'plastics design'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0PP1GTfqXWYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WkV8:AAGBfm0AAAAAXYLTiV_ptqGIzzCMhb7wzrt5Lb_aF8UR&scisig=AAGBfm0AAAAAXYLTiahDNHGROBPRD6Q7FiDrJJF0djAk&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'author': 'IM Samoil', 'title': 'Power Toboggans: Locations of Use'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2hbOwO-4OYIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WkV8:AAGBfm0AAAAAXYLTiV_ptqGIzzCMhb7wzrt5Lb_aF8UR&scisig=AAGBfm0AAAAAXYLTifP-GpHGzdSEjb0M-VzSsfynM-_I&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Since the RISS party had only low motor toboggans, '
+                     'this problem had to be solved by\n'
+                     'separating the antenna system from the body of the '
+                     'instrument and mount- 3O 6O 9O WEST-\n'
+                     'ST ANTARCTI i" 9O ROSS SHELF 120 MERI MURDO r20 i80 Fig '
+                     '… \n',
+         'author': 'W Hofmann and E Dorrer and K Nottarp…',
+         'eprint': 'https://www.unibw.de/visual-computing/publikationen-vortraege/publikationen-1/pdf-dateien-publikationen/dorrer_ross-shelf-ice.pdf',
+         'title': 'The Ross Ice Shelf survey (RISS) 1962–1963',
+         'url': 'https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/AR002#page=92'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '5967976131883410016',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YKLrGKyC0lIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WkV8:AAGBfm0AAAAAXYLTiV_ptqGIzzCMhb7wzrt5Lb_aF8UR&scisig=AAGBfm0AAAAAXYLTiYdsS-Gka-AXmnCAU731g2bwGLTp&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Usually, the dogs are also hunting dogs. Toboggans '
+                     'have front runners turned upward to\n'
+                     'glide more eas- ily in the snow. Traditional toboggans '
+                     'were more likely found in the eastern\n'
+                     'sub-Arctic but also overlapped the distribution of board '
+                     'snowshoes … \n',
+         'author': 'FA Salamone',
+         'title': 'TOM LONGBOAT AWARDS',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=4v4TBwAAQBAJ&oi=fnd&pg=PA306&dq=toboggans&ots=DPq-s2XMfP&sig=wr5BvjPVt7Z8DlwpG8NQEBD0t_A'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:X6q4Pj3YsyoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WkV8:AAGBfm0AAAAAXYLTiV_ptqGIzzCMhb7wzrt5Lb_aF8UR&scisig=AAGBfm0AAAAAXYLTiZi0VSD8S5_LdJ3cqBZ5yd9O4sG_&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'author': 'TOML AWARDS',
+         'title': 'Frank A. Salamone See also: Dogsled Racing. FURTHER '
+                  'READING'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BWmZfOSEXBAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WkV8:AAGBfm0AAAAAXYLTiV_ptqGIzzCMhb7wzrt5Lb_aF8UR&scisig=AAGBfm0AAAAAXYLTie0lCaYa5F3jnmZCiFQiWYZ3sBbb&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'author': 'SP SNOW',
+         'title': 'THE DESIGN AND CONSTRUCTION OF TOBOGGAN CHUTES'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:da18bnJ-ZzMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WkV8:AAGBfm0AAAAAXYLTiV_ptqGIzzCMhb7wzrt5Lb_aF8UR&scisig=AAGBfm0AAAAAXYLTicEALiwyLVV0T5ZZ4YoFFRR_XHXd&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Fig. 2 is a bottom plan view showing the arrangement '
+                     'of the runners and the toboggans\n'
+                     'or snow-slides, as well as the steering mechanism. Fig. '
+                     '3 is a cross-sectional elevation\n'
+                     'taken through a part of the frame, showing the manner '
+                     '… \n',
+         'author': 'US Patent 611 and 518 and 1898',
+         'eprint': 'https://patentimages.storage.googleapis.com/9f/c0/6f/76e2e6fd374962/US611518.pdf',
+         'title': 'Half to albion k',
+         'url': 'https://patents.google.com/patent/US611518A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_kbDVu1MqdkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WkV8:AAGBfm0AAAAAXYLTiV_ptqGIzzCMhb7wzrt5Lb_aF8UR&scisig=AAGBfm0AAAAAXYLTiVEDpTTQm2KwwxzVNYnCViatJo-m&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 16, 1994, now abandoned. BACKGROUND OF THE INVENTION '
+                     'The invention relates to\n'
+                     'application of a wax to a surface and more particularly '
+                     'to an improved means and method of\n'
+                     'applying wax to snowboards, snow skis, toboggans or '
+                     'other articles of manufacture … \n',
+         'author': 'B Fitzburgh',
+         'title': 'Apparatus for waxing snowboards, skis and the like',
+         'url': 'https://patents.google.com/patent/US5534061A/en'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '17586106240444878263',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:t03_U3NmDvQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WkV8:AAGBfm0AAAAAXYLTiV_ptqGIzzCMhb7wzrt5Lb_aF8UR&scisig=AAGBfm0AAAAAXYLTiRbidBlXpoYKHXDPi8DfTvP8dhYA&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'author': 'L Dalby', 'title': 'Sucker River Old Things Project'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jvacopQqw8QJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WkV8:AAGBfm0AAAAAXYLTiV_ptqGIzzCMhb7wzrt5Lb_aF8UR&scisig=AAGBfm0AAAAAXYLTiV8kU5jSotxN7CGWJWntxc-Zr0GC&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 401,734, dated .April 23, 1889. Application filed '
+                     'October 5, 1888. To all whom it may concern.-. ,\n'
+                     'Be it known that I, GEORGE H. CHADEAYNE, of Buffalo, in '
+                     'the county of Erie and State of New\n'
+                     'York, have invented cert-ain new and useful Improvements '
+                     'in Toboggans; and I do … \n',
+         'author': 'US Patent 401 and 734 and 1889',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US401734A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7zrNLy_it6YJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WiBE:AAGBfm0AAAAAXYLTkBEbZKLpzuY3ckbckMgjfxGHK2Sh&scisig=AAGBfm0AAAAAXYLTkL4FJHkWccRvyj9bzs-2u6a9NdVC&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… inclined circuitous or spiral arrangement So as to '
+                     'secure the maximum length of trackin the space\n'
+                     'available-of to boggans or trolleys adapted for travel '
+                     'along said ways, -and of motive devices,\n'
+                     'such as Suitably actuated cables, for the elevation of '
+                     'the toboggans to upper levels of … \n',
+         'author': 'US Patent 522 and 025 and 1894',
+         'eprint': 'https://patentimages.storage.googleapis.com/86/08/df/ae4f957f8baba7/US522025.pdf',
+         'title': 'Toboggan-slide',
+         'url': 'https://patents.google.com/patent/US522025A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nC-YBhe9LD0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WiBE:AAGBfm0AAAAAXYLTkBEbZKLpzuY3ckbckMgjfxGHK2Sh&scisig=AAGBfm0AAAAAXYLTkDOimGWOWXwuy83F6eUhCSVWsbAt&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Rushton', 'title': 'TOBOGGAN MARKET'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zYPXfDkAvjUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WiBE:AAGBfm0AAAAAXYLTkBEbZKLpzuY3ckbckMgjfxGHK2Sh&scisig=AAGBfm0AAAAAXYLTkF0MFLC91PHniz4MVaU92yikVrKa&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Paul, in the county of Ramsey and State of Minnesota, '
+                     'have invented certain new and useful\n'
+                     'Improvements in Toboggans; and I do hereby declare the '
+                     'following to be a full, clear, and exact\n'
+                     'description of the invention, such as will enable others '
+                     'skilled in the art to which it … \n',
+         'author': 'US Patent 349 and 269 and 1886',
+         'eprint': 'https://patentimages.storage.googleapis.com/04/67/7f/4f904f8e6865f2/US349269.pdf',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US349269A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HZV9f56oNwIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WiBE:AAGBfm0AAAAAXYLTkBEbZKLpzuY3ckbckMgjfxGHK2Sh&scisig=AAGBfm0AAAAAXYLTkJoOdlE1W_SunA3Lo4p0d0EUDoFY&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Be it known that we, BENJAMIN W. CLAPP and SEYMOUR '
+                     'AINSWORTH, both of Saratoga\n'
+                     'Springs, in the county of Saratoga andState of New York, '
+                     'have invented a new and useful\n'
+                     'Improvement in Toboggans, of which the following is a '
+                     'full, clear, and exact description … \n',
+         'author': 'US Patent 349 and 481 and 1886',
+         'title': 'Benjamin w',
+         'url': 'https://patents.google.com/patent/US349481A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zeN1uHO5e1UJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WiBE:AAGBfm0AAAAAXYLTkBEbZKLpzuY3ckbckMgjfxGHK2Sh&scisig=AAGBfm0AAAAAXYLTkBtzQB1EVQJak0cEJ4HS8wtZeMz3&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Modern playgrounds contain equipment such as seesaws, '
+                     'toboggans, swings, climbing frames,\n'
+                     'sandstone, carousels, hanging bars and the like … Best '
+                     'characteristics were obtained by analyzing\n'
+                     'the quality of the combined apparatus (Mean=4,06) and '
+                     'toboggans (Mean=4,06) … \n',
+         'author': 'KŽ Marković and L Milčić and D Lanc',
+         'eprint': 'https://bib.irb.hr/datoteka/746380.322-326-Zivcic.pdf',
+         'title': "Analysis of the quality children's playgrounds to be used "
+                  'for learning basic gymnastic content',
+         'url': 'https://bib.irb.hr/prikazi-rad?rad=746380'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HALHazz-bVYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WiBE:AAGBfm0AAAAAXYLTkBEbZKLpzuY3ckbckMgjfxGHK2Sh&scisig=AAGBfm0AAAAAXYLTkBc-jhtqBS5IMRI2X6U1IEp4-xDu&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Be it known that I, JosHUA PUsEY, a citizen of the '
+                     'United States, residing at the city and county\n'
+                     'of Philadelphia and State of Pennsylvania, have invented '
+                     'certain new and useful Improvements\n'
+                     'in Toboggans, of which the following is a full, clear, '
+                     'and exact description, reference … \n',
+         'author': 'US Patent 386 and 413 and 1888',
+         'eprint': 'https://patentimages.storage.googleapis.com/af/63/5b/ac7bea0cba0281/US386413.pdf',
+         'title': 'Toboggan',
+         'url': 'https://patents.google.com/patent/US386413A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ku3cyN4vqeUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WiBE:AAGBfm0AAAAAXYLTkBEbZKLpzuY3ckbckMgjfxGHK2Sh&scisig=AAGBfm0AAAAAXYLTkGQhleFvFDk8gEOkgd5zzOLiqKIi&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Lawrence and State of New York, have invented certain '
+                     'new and useful\n'
+                     'Improvements in Toboggans, of which the fol lowing is a '
+                     'specification, reference\n'
+                     'being had to the accompanying drawings. The object of '
+                     'our invention … \n',
+         'author': 'US Patent 340 and 731 and 1886',
+         'eprint': 'https://patentimages.storage.googleapis.com/da/75/ca/3ea0def70805fc/US340731.pdf',
+         'title': 'Lawrence m',
+         'url': 'https://patents.google.com/patent/US340731A/en'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9h0WRzosvWgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WiBE:AAGBfm0AAAAAXYLTkBEbZKLpzuY3ckbckMgjfxGHK2Sh&scisig=AAGBfm0AAAAAXYLTkGotuGoWeQFzHNKFG7cZRLvMLLJP&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'author': 'L Dalby', 'title': 'Life On The Trapline'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MexBQku9FY4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WiBE:AAGBfm0AAAAAXYLTkBEbZKLpzuY3ckbckMgjfxGHK2Sh&scisig=AAGBfm0AAAAAXYLTkONgkyhhPhT8CKe8N7E1XrSraO8D&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Mechanical transport at the station included a Nodwell '
+                     'personnel carrier, one Sno-\n'
+                     'cat, three Weasels, four farm-tractors, one D-4 tractor, '
+                     'one Land Rover and two\n'
+                     'Polaris snow-toboggans. With the exception of a '
+                     'field-trial of … \n',
+         'author': 'GD Valley',
+         'title': 'NEW ZEALAND GEOLOGICAL AND SURVEY EXPEDITION, 1062-63',
+         'url': 'https://www.cambridge.org/core/journals/polar-record/article/new-zealand-activities-in-the-antarctic-196263/89A7357461248007E1EB1B8E2D05FF64'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:47ugcQm4AIkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7WiBE:AAGBfm0AAAAAXYLTkBEbZKLpzuY3ckbckMgjfxGHK2Sh&scisig=AAGBfm0AAAAAXYLTkP97DUMWFbcYrWR__79LHJL0E1S9&scisf=4&ct=citation&cd=99&hl=en'}

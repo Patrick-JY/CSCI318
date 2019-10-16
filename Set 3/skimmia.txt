@@ -1,0 +1,1210 @@
+{'_filled': False,
+ 'bib': {'abstract': 'In the present study, silver nanoparticles (AgNPs) were '
+                     'synthesized by using aqueous leaves extract of Skimmia '
+                     'laureola at room temperature. The color change in '
+                     'reaction mixture (pale yellow to dark brown) was '
+                     'observed during synthesis process. Biosynthesized …',
+         'author': 'MJ Ahmed and G Murtaza and A Mehmood and TM Bhatti',
+         'title': 'Green synthesis of silver nanoparticles using leaves '
+                  'extract of Skimmia laureola: characterization and '
+                  'antibacterial activity',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0167577X15005376'},
+ 'citedby': 107,
+ 'id_scholarcitedby': '9127222896683673685',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VWikzt1oqn4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5APQA:AAGBfm0AAAAAXYJFJQA52CB5058qEy5lH3jDVPz6QOqo&scisig=AAGBfm0AAAAAXYJFJQdHtPpeXb5MgC11fsmxQaHv6OEt&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Isolated protoplasts obtained from leaves and from stem '
+                     'callus cultures of Skimmia japonica were cultivated for '
+                     '72 h to regenerate a new cell wall. During this process '
+                     'the structural changes in the protoplasts and at the '
+                     'surface of the plasmalemma were studied in ultrathin …',
+         'author': 'H Robenek and E Peveling',
+         'title': 'Ultrastructure of the cell wall regeneration of isolated '
+                  'protoplasts of Skimmia japonica thunb',
+         'url': 'https://link.springer.com/article/10.1007/BF00396189'},
+ 'citedby': 63,
+ 'id_scholarcitedby': '16178593904513256778',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Sg3QM3DpheAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5APQA:AAGBfm0AAAAAXYJFJQA52CB5058qEy5lH3jDVPz6QOqo&scisig=AAGBfm0AAAAAXYJFJVreoiwAtCMafh4lTZ5UZKqkY-Hp&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The ovule primordia of Ruta, Zanthoxylum, and Skimmia '
+                     'are trizonate. The initiation and further development of '
+                     'the ovule in the three genera is rather similar, but in '
+                     'Ruta and Zanthoxylum the outer integument is of dermal '
+                     'origin whereas in Skimmia it is partly also of …',
+         'author': 'FD Boesewinkel',
+         'eprint': 'http://natuurtijdschriften.nl/download?type=document;docid=540173',
+         'title': 'Development of ovule and testa in Rutaceae. I: Ruta, '
+                  'Zanthoxylum, and Skimmia',
+         'url': 'http://natuurtijdschriften.nl/record/540173'},
+ 'citedby': 38,
+ 'id_scholarcitedby': '8917001474634574979',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:g2w6zZiNv3sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5APQA:AAGBfm0AAAAAXYJFJQA52CB5058qEy5lH3jDVPz6QOqo&scisig=AAGBfm0AAAAAXYJFJaks3wFk4SitdeGU86P2TIYQ_ybO&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'From the stembark of Skimmia japonica the new '
+                     'furanocoumarin glucoside, 2, '
+                     '3,-dihydro-9-hydroxy-2-[1-(6-feruloyl)-β-d-glucosyloxy-1-methylethyl]-7H-furo '
+                     '[3, 2g][1]-benzopyran-7-one has been isolated along with '
+                     'three known coumarin glucosides. They have been found in '
+                     '…',
+         'author': 'J Reisch and SH Achenbach',
+         'title': 'A furanocoumarin glucoside from stembark of Skimmia '
+                  'japonica',
+         'url': 'https://www.sciencedirect.com/science/article/pii/003194229280484V'},
+ 'citedby': 23,
+ 'id_scholarcitedby': '14583953023513849511',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:p-6GewGcZMoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5APQA:AAGBfm0AAAAAXYJFJQA52CB5058qEy5lH3jDVPz6QOqo&scisig=AAGBfm0AAAAAXYJFJfCll-JXAzrOs6YFTIAI3sg0Tzi6&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In the course of our studies on the chemical '
+                     'constituents of the leaves of Skimmia laureola [26], a '
+                     'new triterpene O-methyl cyclolaudenol (1) and a new '
+                     "coumarin,(+)-7-methoxy-6-(2'R-methoxy-3'-hydroxy-3'-methyl "
+                     'butyl) coumarin (2) were isolated. In addition five '
+                     'known …',
+         'author': 'Atta-ur-Rahman and N Sultana and MR Khan…',
+         'title': 'Triterpene and coumarins from Skimmia laureola',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/10575630290020613'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '3630968598844895048',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SG-_9LPKYzIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5APQA:AAGBfm0AAAAAXYJFJQA52CB5058qEy5lH3jDVPz6QOqo&scisig=AAGBfm0AAAAAXYJFJb-ujtjp4XPBPYm5FSfCwF6fN3XS&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Two new quinolone alkaloids, reevesianine-A and-B, along '
+                     'with five known furoquinoline alkaloids, '
+                     '7-isopentenyloxy-γ-fagarine, skimmianine, haplopine, '
+                     'evodine, evoxine, and nine known coumarins, '
+                     '7-isopentenyloxy-8-isopentenylcoumarin, auraptene, '
+                     'osthol …',
+         'author': 'TS Wu',
+         'title': 'Alkaloids and coumarins of Skimmia reevesiana',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0031942200848141'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '8121110103981221421',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LeaisZz6s3AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5APQA:AAGBfm0AAAAAXYJFJQA52CB5058qEy5lH3jDVPz6QOqo&scisig=AAGBfm0AAAAAXYJFJf5_eYio-MvU9DL9e6gVnehYEQYg&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Objective To evaluate anti-inflammatory potential of '
+                     'leaf extract of Skimmia anquetilia by in-vitro and '
+                     'in-vivo anti-inflammatory models. Methods Acute toxicity '
+                     'study was carried out to determine the toxicity level of '
+                     'different extract using acute toxic class method as '
+                     'described in …',
+         'author': 'V Kumar and ZA Bhat and D Kumar and NA Khan…',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3609364/',
+         'title': 'Evaluation of anti-inflammatory potential of leaf extracts '
+                  'of Skimmia anquetilia',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S2221169112601099'},
+ 'citedby': 23,
+ 'id_scholarcitedby': '7121838288908362516',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:FKMozjDa1WIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5APQA:AAGBfm0AAAAAXYJFJQA52CB5058qEy5lH3jDVPz6QOqo&scisig=AAGBfm0AAAAAXYJFJXNPWiEhDBP-q5dmBncdUu_0GJgt&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The Altmetric Attention Score is a quantitative measure '
+                     'of the attention that a research article \n'
+                     'has received online. Clicking on the donut icon will '
+                     'load a page at altmetric.com with additional \n'
+                     'details about the score and the social media presence '
+                     'for the given article. Find more information …',
+         'author': 'Atta-ur-Rahman and * and N Sultana…',
+         'title': 'Isolation and Structural Studies on the Chemical '
+                  'Constituents of Skimmia laureola',
+         'url': 'https://pubs.acs.org/doi/abs/10.1021/np970409a'},
+ 'citedby': 25,
+ 'id_scholarcitedby': '1835314930259253033',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KdcShTRZeBkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5APQA:AAGBfm0AAAAAXYJFJQA52CB5058qEy5lH3jDVPz6QOqo&scisig=AAGBfm0AAAAAXYJFJUNAoX8Ca5VbBB0jn1nOk-jMCn7G&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Natural Product Lerters Volume 12(3), pp. 223-229 '
+                     'Reprints available directly from the Publisher \n'
+                     'Photocopying permitted by license only … 0 1998 OPA '
+                     '(Overseas Publishers Association) NV \n'
+                     'Published by license under the Harwood Academic '
+                     'Publishers imprint, part of The Gordon and …',
+         'author': 'AU Rahman and N Sultana and S Jahan…',
+         'title': 'Phytochemical Studies On Skimmia Laureola',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/10575639808048294'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '12112112420245922995',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:s-Ra0BLeFqgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5APQA:AAGBfm0AAAAAXYJFJQA52CB5058qEy5lH3jDVPz6QOqo&scisig=AAGBfm0AAAAAXYJFJfn6KPpc_R6TFJ-umlconDJa2qm3&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Phytochemical studies on Skimmia wallichii resulted in '
+                     'the isolation of skimmiwallichin, skimmiwallin and a new '
+                     'cycloartanol type compound skimmiwallinin. The structure '
+                     'of skimmiwallinin is elucidated as '
+                     '3β-methoxy-24-methyl-24-ethyl-9, 19-cyclolanost-25 (26) '
+                     '…',
+         'author': 'I Kostova and M Simeonov and T Iossifova and R Tappe…',
+         'title': 'Three 9, 19-cyclotetracyclic triterpenes from Skimmia '
+                  'wallichii',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0031942296003202'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '1663029464304335571',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0zrelnxEFBcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5APQA:AAGBfm0AAAAAXYJFJQA52CB5058qEy5lH3jDVPz6QOqo&scisig=AAGBfm0AAAAAXYJFJaiMYOpg0mIwAuXJTcsRpFSSlLMG&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Two new triterpenoids, skimmiarepin A and B, which both '
+                     'exhibit an insect growth inhibitory activity against the '
+                     'silkworm, Bombyx mori L., have been isolated from the '
+                     'leaves and the fruit of Skimmia japonica Thunb. var. '
+                     'intermedia Komatsu f. repens (Nakai) Hara. Their …',
+         'author': 'M Ochi and A Tatsukawa and N Seki and H Kotsuki…',
+         'eprint': 'https://www.journal.csj.jp/doi/pdf/10.1246/bcsj.61.3225',
+         'title': 'Skimmiarepin A and B, Two New Insect Growth Inhibitory '
+                  'Triterpenoids from Skimmia japonica Thunb. var. intermedia '
+                  'Komatsu f. repens (Nakai) Hara',
+         'url': 'https://www.journal.csj.jp/doi/abs/10.1246/bcsj.61.3225'},
+ 'citedby': 27,
+ 'id_scholarcitedby': '2769742745446247486',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PuyJLVoacCYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ANRY:AAGBfm0AAAAAXYJFLRbCGYUtjbuyJ10ddksNjFrNYGdl&scisig=AAGBfm0AAAAAXYJFLXeQOL1HAvD4caHUoBeKdEr5xJ41&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '2190 H. TANAKA et al. dependent as shown in Table I. The '
+                     'LCso of dictamine was 300 ppm and that of seselin was '
+                     '1000 ppm. Their activities were not as high as that of '
+                     'the commercially used miticide, Kelthane (LCso 40ppm), '
+                     'but they are the first natural mite …',
+         'author': 'H Tanaka and J Woong Ahn and M Katayama…',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.1080/00021369.1985.10867046',
+         'title': 'Isolation of Two Ovicidal Substances against Two-spotted '
+                  'Spider Mite, Tetranychus urticae Koch, from Skimmia repens '
+                  'Nakai',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/00021369.1985.10867046'},
+ 'citedby': 22,
+ 'id_scholarcitedby': '14038374474096638996',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:FPxwqDRT0sIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ANRY:AAGBfm0AAAAAXYJFLRbCGYUtjbuyJ10ddksNjFrNYGdl&scisig=AAGBfm0AAAAAXYJFLcsqr-ouwnkYge1n3XedA3gwJHsP&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Severe shrinking of the potting compost and poor plant '
+                     'growth are problems that may arise in nursery crops that '
+                     'have a relatively long culture period or are irrigated '
+                     'with ebb/flow systems. Research conducted on the factors '
+                     'expected to be responsible for the physical …',
+         'author': 'TGL Aendekerk',
+         'title': 'Decomposition of peat substrates in relation to physical '
+                  'properties and growth of Skimmia',
+         'url': 'https://www.actahort.org/books/548/548_29.htm'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '9640883054434322659',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4wik9A5My4UJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ANRY:AAGBfm0AAAAAXYJFLRbCGYUtjbuyJ10ddksNjFrNYGdl&scisig=AAGBfm0AAAAAXYJFLdTyVkZMo_muOhDTPmRpPIkFO1y3&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Objective To study the screening of essential oils of '
+                     'Skimmia laureola leaves (SLO) for acute toxicity, '
+                     'antinociceptive, antipyretic and anticonvulsant '
+                     'activities in various animal models. Methods SLO were '
+                     'extracted using modified Clevenger type apparatus. Acute '
+                     'toxicity test …',
+         'author': 'N Muhammad and M Ibrar and H Khan and M Saeed…',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3631750/',
+         'title': 'In vivo screening of essential oils of Skimmia laureola '
+                  'leaves for antinociceptive and antipyretic activity',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S2221169113600507'},
+ 'citedby': 19,
+ 'id_scholarcitedby': '6273198451876770037',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9TClUcHgDlcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ANRY:AAGBfm0AAAAAXYJFLRbCGYUtjbuyJ10ddksNjFrNYGdl&scisig=AAGBfm0AAAAAXYJFLbBWXEhzZxZP-GKQrO47-3VdAZpd&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In the US, Panonychus citri (McGregor)(citrus red mite) '
+                     'typically occurs on citrus in semi-tropical regions of '
+                     'California, Texas, and Florida. Its occurrence in the '
+                     'Willamette Valley, Oregon and its association with an '
+                     'ornamental host plant Skimmia japonica Thunberg are …',
+         'author': 'PD Pratt and BA Croft',
+         'eprint': 'https://www.ars.usda.gov/ARSUserFiles/11988/prattdocs/1.pdf',
+         'title': 'Panonychus citri (Acari: Tetranychidae) on ornamental '
+                  'Skimmia in Oregon, with assessment of predation by native '
+                  'phytoseiid mites',
+         'url': 'https://www.ars.usda.gov/ARSUserFiles/11988/prattdocs/1.pdf'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '1252445951247849709',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7RiB-PSUYREJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ANRY:AAGBfm0AAAAAXYJFLRbCGYUtjbuyJ10ddksNjFrNYGdl&scisig=AAGBfm0AAAAAXYJFLXXPbJrGqh5qoMlY8wj-KjiLP5bY&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Investigation of the leaves of Skimmia anquetelia '
+                     '(Rutaceae) led to the isolation of a new coumarin '
+                     'glucoside 7, '
+                     "8-dihdroxy-6-[3′-β-D-glucopyranosyloxy-2′(ξ)-hydroxy-3'-methylbutyl]-coumarin "
+                     '(1) together with five known coumarins: 6-(2, '
+                     '3-dihydroxy-3 …',
+         'author': 'RK Sharma and DS Negi and S Gibbons and H Otsuka',
+         'title': 'Chemical and antibacterial constituents of Skimmia '
+                  'anquetelia',
+         'url': 'https://www.thieme-connect.com/products/ejournals/html/10.1055/s-2008-1034281'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '14691974587219171722',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:itlDsAth5MsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ANRY:AAGBfm0AAAAAXYJFLRbCGYUtjbuyJ10ddksNjFrNYGdl&scisig=AAGBfm0AAAAAXYJFLZ4WU3NGZ5ZM1L5CJjUgifX2Kxcp&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skimmia is arguably the most important genus of hardy, '
+                     'woody Rutaceae cultivated for ornament in Europe. The '
+                     'ubiquitous S. japónica Thunb. is to be found in many '
+                     'town gardens and parks, where it is highly valued as a '
+                     'flowering or fruiting evergreen, tolerant of partial …',
+         'author': 'NP Taylor',
+         'title': 'A revision of the genus Skimmia (Rutaceae)',
+         'url': 'https://www.jstor.org/stable/45066619'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '7648502740961000304',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:cPuUKrjwJGoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ANRY:AAGBfm0AAAAAXYJFLRbCGYUtjbuyJ10ddksNjFrNYGdl&scisig=AAGBfm0AAAAAXYJFLTPxNzPRbFKxVfOGvLBt1OAMSMzV&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The analysis of Skimmia laureola hydrodistillate by gas '
+                     'chromatography coupled with mass spectrometry revealed '
+                     'the presence of 20 constituents, representing 94.6% of '
+                     'the total oil. The major constituents of oil were '
+                     'linalyl acetate (33.0%), linalool (25.0%), limonene '
+                     '(8.1%) …',
+         'author': 'WA Shah and MY Dar and MI Zagar and VK Agnihotri…',
+         'title': 'Chemical composition and antimicrobial activity of the leaf '
+                  'essential oil of Skimmia laureola growing wild in Jammu and '
+                  'Kashmir, India',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/14786419.2012.696252'},
+ 'citedby': 19,
+ 'id_scholarcitedby': '12814463751107310426',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WvPeP-Me1rEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ANRY:AAGBfm0AAAAAXYJFLRbCGYUtjbuyJ10ddksNjFrNYGdl&scisig=AAGBfm0AAAAAXYJFLWpYm3ygihKpIzohn5leJZ-QZTsS&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Aerial parts of Skimmia laureola yielded a new fatty '
+                     'ester,(+)-skimmilaureol (1), and a new triterpene '
+                     '16-29-dihydroxy, 20-ene cyclolaudenol (2). Five known '
+                     'compounds, namely, O-methyl-cyclolaudenol '
+                     '(3),(R)-7-methoxy-6-(3′-hydroxy-2′ R-methoxy-3′-methyl '
+                     'butyl) …',
+         'author': 'N Sultana and Atta-ur-Rahman and A Khalid',
+         'title': 'A new fatty ester and a new triterpene from  Skimmia '
+                  'laureola',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/14786410601130356'},
+ 'citedby': 13,
+ 'id_scholarcitedby': '5541624482242115134',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PjamFhvO50wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ANRY:AAGBfm0AAAAAXYJFLRbCGYUtjbuyJ10ddksNjFrNYGdl&scisig=AAGBfm0AAAAAXYJFLcDj2TLdlSsBs4yYQbqIq34Kuphh&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Chromosome counts were made in seven taxa of Skimmia '
+                     '(Rutaceae) comprising four species, two heterotypic '
+                     'subspecies and an interspecific hybrid. The basic '
+                     'chromosome number is x= 15 and both diploid and '
+                     'tetraploid forms were found. A single large metacentric '
+                     '…',
+         'author': 'MAT Johnson and NP Taylor',
+         'title': 'Chromosome counts in the genus Skimmia (Rutaceae)',
+         'url': 'https://www.jstor.org/stable/4110373'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '5622365948047385729',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:geSdigqoBk4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5ANRY:AAGBfm0AAAAAXYJFLRbCGYUtjbuyJ10ddksNjFrNYGdl&scisig=AAGBfm0AAAAAXYJFLTV1W3lbMeNO5xjaycPtQ_ZI2ZxH&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "In this study 'anthelmintic activity of essential oils "
+                     '(EOs), of leaf, stem and root of Skimmia laureola (DC.) '
+                     "Zucc. Ex Walp., ver. Nair was evaluated.'Adult motility "
+                     "assay'was employed using Haemoncus contortus adult "
+                     'worms. EO was applied at three levels viz. 10, 35 and …',
+         'author': 'F Mehmood and M Qasim and Z Khan and N Iqbal and S '
+                   'Mehmood…',
+         'eprint': 'https://www.researchgate.net/profile/Ferhat_Mehmood/publication/232361177_In_vitro_evaluation_of_anthelmintic_activity_of_essential_oils_from_different_parts_of_Skimmia_laureola_DC_Zucc_Ex_Walp_ver_Nair/links/00b7d52695855b1442000000/In-vitro-evaluation-of-anthelmintic-activity-of-essential-oils-from-different-parts-of-Skimmia-laureola-DC-Zucc-Ex-Walp-ver-Nair.pdf',
+         'title': 'In vitro evaluation of anthelmintic activity of essential '
+                  'oils from different parts of Skimmia laureola (DC.) Zucc. '
+                  'ex Walp., ver. Nair',
+         'url': 'https://www.researchgate.net/profile/Ferhat_Mehmood/publication/232361177_In_vitro_evaluation_of_anthelmintic_activity_of_essential_oils_from_different_parts_of_Skimmia_laureola_DC_Zucc_Ex_Walp_ver_Nair/links/00b7d52695855b1442000000/In-vitro-evaluation-of-anthelmintic-activity-of-essential-oils-from-different-parts-of-Skimmia-laureola-DC-Zucc-Ex-Walp-ver-Nair.pdf'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '17106719544739989791',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:H4l1aMpGZ-0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AK34:AAGBfm0AAAAAXYJFM37aiHtDRaUqDvJARH8qaqG209iE&scisig=AAGBfm0AAAAAXYJFM4aK8gN77HgVr01uU8HqK0iANWFI&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The principal tertiary base in Skimmia japonica Thunb. '
+                     'is the furanoquinoline alkaloid, dictamnine, but '
+                     'skimmianine and eduline are also present. A new '
+                     'quaternary alkaloid,(+)-platydesminium salt, has been '
+                     'identified. The structure of edulinine has been '
+                     'confirmed by …',
+         'author': 'DR Boyd and MF Grundon',
+         'title': 'Quinoline alkaloids. Part X.(+)-Platydesminium salt and '
+                  'other alkaloids from Skimmia japonica Thunb. The synthesis '
+                  'of edulinine',
+         'url': 'https://pubs.rsc.org/en/content/articlehtml/1970/j3/j39700000556'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '15395884859460127452',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3IrvcrUrqdUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AK34:AAGBfm0AAAAAXYJFM37aiHtDRaUqDvJARH8qaqG209iE&scisig=AAGBfm0AAAAAXYJFM-nlHIMUknDANGeFPtt2CHE-dZzO&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'INTRODUCTION Skimmia laureola Seib et Zucc ex Walp. is '
+                     'the only temperate sub-alpine species \n'
+                     'of the genus endemic to forest shades of Kashmir [ 1 J. '
+                     'Following our studies [24] on the chemistry \n'
+                     'of its essential oil, a detailed investigation on its '
+                     'crystalline constituents was undertaken to …',
+         'author': 'ES Waight and TK Razdan and B Qadri and S Harkar',
+         'title': 'Chromones and coumarins from Skimmia laureola',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0031942200817598'},
+ 'citedby': 140,
+ 'id_scholarcitedby': '18358189763020523870',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:XgkN2FJkxf4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AK34:AAGBfm0AAAAAXYJFM37aiHtDRaUqDvJARH8qaqG209iE&scisig=AAGBfm0AAAAAXYJFM7bVHvklje3iBhMHYsqoDgAgOtxI&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Aerial parts of Skimmia laureola yielded a new '
+                     'tyrosinase inhibitor fatty ester,(+)-skimmidiol (1), and '
+                     'a new alkaloid ribaliprenylene (2). The configuration at '
+                     "C-3'in 1 was established by Horeau's procedure. Compound "
+                     '1 was screened for its enzyme inhibitory activity '
+                     'against …',
+         'author': 'N Sultana and TH Khan',
+         'eprint': 'https://www.degruyter.com/view/j/znb.2005.60.issue-11/znb-2005-1111/znb-2005-1111.xml',
+         'title': 'Tyrosinase inhibitor fatty ester and a quinoline alkaloid '
+                  'from Skimmia laureola',
+         'url': 'https://www.degruyter.com/view/j/znb.2005.60.issue-11/znb-2005-1111/znb-2005-1111.xml'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '2447302289374118881',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4QMlQHeQ9iEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AK34:AAGBfm0AAAAAXYJFM37aiHtDRaUqDvJARH8qaqG209iE&scisig=AAGBfm0AAAAAXYJFM74eQRJ8WyE8wJq1WMeCwhWS9ONI&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The main objective of the current finding was to '
+                     'evaluate the possible antipyretic and analgesic '
+                     'potential of crude ethanolic extract of the leaves of '
+                     'Skimmia laureola (SLE). The antipyretic potential was '
+                     "investigated using brewer's yeast hyperthermia paradigm. "
+                     'The …',
+         'author': 'IM Barkatullah and N Muhammad and A Rauf',
+         'eprint': 'https://www.researchgate.net/profile/Abdur_Rauf5/publication/237099587_Antipyretic_and_Antinociceptive_Profile_of_Leaves_of_Skimmia_laureola/links/0deec51bc6a6356f51000000/Antipyretic-and-Antinociceptive-Profile-of-Leaves-of-Skimmia-laureola.pdf',
+         'title': 'Antipyretic and antinociceptive profile of leaves of '
+                  'Skimmia laureola',
+         'url': 'https://www.researchgate.net/profile/Abdur_Rauf5/publication/237099587_Antipyretic_and_Antinociceptive_Profile_of_Leaves_of_Skimmia_laureola/links/0deec51bc6a6356f51000000/Antipyretic-and-Antinociceptive-Profile-of-Leaves-of-Skimmia-laureola.pdf'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '2232854324841312441',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:uXBcoy2x_B4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AK34:AAGBfm0AAAAAXYJFM37aiHtDRaUqDvJARH8qaqG209iE&scisig=AAGBfm0AAAAAXYJFMytVMcwddn_SP39dwVq7H6kwxUdw&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The genus Skimmia is a rich source of interesting '
+                     'secondary metabolites, including 20 alkaloids derived '
+                     'from anthranilic acid, 45 coumarins, 21 limonoids, four '
+                     'cholestane derivatives, six pentacyclic triterpenes, six '
+                     'flavonoids, and two unusual fatty acid derivatives …',
+         'author': 'F Epifano and S Fiorito and S Genovese and S Granica and S '
+                   'Vitalini…',
+         'title': 'Phytochemistry of the genus Skimmia (Rutaceae)',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0031942215000801'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '16256988571613476672',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QDebAPlsnOEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AK34:AAGBfm0AAAAAXYJFM37aiHtDRaUqDvJARH8qaqG209iE&scisig=AAGBfm0AAAAAXYJFM7ngmXmgHRZvjYVNdv0cRA0XAzqQ&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In the course of our researches [1-4] on sources of '
+                     'xanthotoxin, a commercially important dermal '
+                     'photosensitizing agent, we investigated Skimmia laureola '
+                     '(Rutaceae), a plant common in the temperate Himalayas '
+                     '(6,000-1 0,000 ft.) and Khasia Hills (5,000-6,000 ft.) …',
+         'author': 'S Sood and BD Gupta and SK Banerjee',
+         'title': 'Constituents of Skimmia laureola',
+         'url': 'https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0028-1097464.pdf'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '12686653260629529158',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RtJffOwLELAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AK34:AAGBfm0AAAAAXYJFM37aiHtDRaUqDvJARH8qaqG209iE&scisig=AAGBfm0AAAAAXYJFM0P0AYzNyf0ERgKJCA37v5hbtUtd&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The essential oil analysis of seeds and fruit pulp of '
+                     'Skimmia anquetilia NP Taylor & Airy Shaw (Family ¾ '
+                     'Rutaceae) by the combination of GC and GC-MS revealed '
+                     'the presence of fatty acids and esters of fatty acids, '
+                     'viz. methyl linolenate, n-hexadecanoic acid and …',
+         'author': 'O Prakash and M Gondwal and AK Pant',
+         'eprint': 'http://nopr.niscair.res.in/bitstream/123456789/13337/1/IJNPR%202(4)%20435-441.pdf',
+         'title': 'Essential oils composition and antioxidant activity of '
+                  'water extract from seeds and fruit pulp of Skimmia '
+                  'anquetilia NP Taylor & Airy Shaw',
+         'url': 'http://nopr.niscair.res.in/handle/123456789/13337'},
+ 'citedby': 13,
+ 'id_scholarcitedby': '6921774870274896901',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BfT1RZIVD2AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AK34:AAGBfm0AAAAAXYJFM37aiHtDRaUqDvJARH8qaqG209iE&scisig=AAGBfm0AAAAAXYJFM7xtjB9LkUg9ZsECrAZpZ7xAMG28&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'author': 'DR Boyd and MF Grundon',
+         'title': 'Quinoline alkaloids of skimmia japonica thunb.'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '346577997967653783',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:l_vTV9pKzwQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AK34:AAGBfm0AAAAAXYJFM37aiHtDRaUqDvJARH8qaqG209iE&scisig=AAGBfm0AAAAAXYJFM1g5q9Bcf9q3_PFWl0P4b6cK4ELF&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The composition of the essential oil from leaves of '
+                     'Skimmia laureola was determined by GC and GC-MS. '
+                     'Twenty-eight components were identified, accounting for '
+                     '93.9% of the total oil. The oil is mainly composed of '
+                     'monoterpenes (93.5%), of which monoterpene hydrocarbons '
+                     '…',
+         'author': 'M Ibrar and N Muhammad and V De Feo',
+         'eprint': 'https://www.mdpi.com/1420-3049/20/3/4735/pdf',
+         'title': 'Chemical composition and biological activities of the '
+                  'essential oil of Skimmia laureola leaves',
+         'url': 'https://www.mdpi.com/1420-3049/20/3/4735'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '17778964252158901732',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5L1MVMqRu_YJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AK34:AAGBfm0AAAAAXYJFM37aiHtDRaUqDvJARH8qaqG209iE&scisig=AAGBfm0AAAAAXYJFM-7eW5X6OWEADQQc9YBKYLICiANH&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Our investigations on the antifungal activity of the '
+                     'crude ethanolic extracts of different plants including '
+                     'Calotropis procera, Skimmia laureola and Peltophorum '
+                     'pterocarpum, have led to the determination of good '
+                     'results of these activities. We report the evaluation of '
+                     'antifungal …',
+         'author': 'KF Ahmad and N Sultana',
+         'eprint': 'https://www.jcsp.org.pk/ArticleUpload/2575-11598-1-RV.pdf',
+         'title': 'Studies on bioassay directed antifungal activity of '
+                  'medicinal plants Calotropis procera, Skimmia laureola, '
+                  'Peltophorum pterocarpum and two pure natural …',
+         'url': 'https://www.jcsp.org.pk/ArticleUpload/2575-11598-1-RV.pdf'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '10740344341132898130',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Um-aAkZeDZUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AIqs:AAGBfm0AAAAAXYJFOquRJ5-BnC9jBshlqcMW_pjLddVO&scisig=AAGBfm0AAAAAXYJFOpOPwTDngQDx9JTDmkILv4Xm5uWt&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'see more details, S. laureola, S. multinervia, S. '
+                     'reevesiana and S. japonica is presented and the spp. are '
+                     'described, together with the various groups of hybrids '
+                     'and cvs found in cultivation. The hardiness, propagation '
+                     'and horticultural value of some spp. and hybrids are …',
+         'author': 'PD Brown',
+         'title': 'The genus Skimmia: as found in cultivation.',
+         'url': 'https://www.cabdirect.org/cabdirect/abstract/19800386949'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '17474674128969869020',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3Cb1FomDgvIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AIqs:AAGBfm0AAAAAXYJFOquRJ5-BnC9jBshlqcMW_pjLddVO&scisig=AAGBfm0AAAAAXYJFOldo2R0ruQLFjfZqyNSrPdFOOtvt&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'To investigate chemical constituents contained in '
+                     'Skimmia arborescens. The chemical constituents were '
+                     'separated by silica gel column chromatography, pharmadex '
+                     'LH-20, RP-C18, and 1H, 13C-NMR spectroscopic analysis '
+                     'were employed for the structural elucidation …',
+         'author': 'L He and S Yang and D Wu and T Cui and D Wei…',
+         'title': 'Coumarins from Skimmia arborescens and its '
+                  'anti-inflammatory effect',
+         'url': 'https://europepmc.org/abstract/med/22715728'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '15510657470751368586',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:iuXkaMrsQNcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AIqs:AAGBfm0AAAAAXYJFOquRJ5-BnC9jBshlqcMW_pjLddVO&scisig=AAGBfm0AAAAAXYJFOtpRvvjY3MZ3SYRce8wDlFdoRP7l&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The Himalayan region is very rich in a great variety of '
+                     'medicinal plants. In this investigation the essential '
+                     'oils of two selected species are described for their '
+                     'antimicrobial and larvicidal as well as biting deterrent '
+                     'activities. Additionally, the odors are characterized. '
+                     'Analyzed by …',
+         'author': 'I Stappen and N Tabanca and A Ali…',
+         'eprint': 'https://journals.sagepub.com/doi/pdf/10.1177/1934578X1501000669',
+         'title': 'Chemical Composition and Biological Activity of Essential '
+                  'Oils from Wild Growing Aromatic Plant Species of Skimmia '
+                  'laureola and Juniperus macropoda from …',
+         'url': 'https://journals.sagepub.com/doi/abs/10.1177/1934578X1501000669'},
+ 'citedby': 12,
+ 'id_scholarcitedby': '13785336772305966670',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TlZtrsFaT78J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AIqs:AAGBfm0AAAAAXYJFOquRJ5-BnC9jBshlqcMW_pjLddVO&scisig=AAGBfm0AAAAAXYJFOodEO0QXjXin_WTKHfH75H2iXwJM&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A karyotypic analysis of three species of Skimmia '
+                     '(Rutaceae) in East Asia was performed that examined 88 '
+                     'individuals from 53 localities. Chromosome numbers of S. '
+                     'japonica, S. reevesiana and S. arisanensis were 2 n= 30, '
+                     '31, 32 (= 30+ 0− 2B), 2 n= 60 and 2 n= 60 …',
+         'author': 'T Fukuda and A Naiki and H Nagamasu',
+         'eprint': 'http://www.academia.edu/download/44556132/Karyotypic_analysis_of_Skimmia_japonica_20160408-24803-43ayin.pdf',
+         'title': 'Karyotypic analysis of Skimmia japonica (Rutaceae) and '
+                  'related species',
+         'url': 'https://link.springer.com/article/10.1007/s10265-006-0033-4'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '14179266763616558482',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kh3eHP_fxsQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AIqs:AAGBfm0AAAAAXYJFOquRJ5-BnC9jBshlqcMW_pjLddVO&scisig=AAGBfm0AAAAAXYJFOolJ1WYEPyaMU09vmhDnGZv5Y5Ie&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'As an approach to the synthesis of dictamnine(I), some '
+                     'experiments were reported in our previous paper1). '
+                     'Recently the synthesis of dictamnine was reported by '
+                     'Tuppy et al. 2), but its details have not yet been '
+                     'known. In this communication we describe the synthesis '
+                     'of …',
+         'author': 'T Sato and M Ohta',
+         'eprint': 'https://www.journal.csj.jp/doi/pdf/10.1246/bcsj.30.708',
+         'title': 'Synthetic Studies of Dictamnine, an Alkaloid of Skimmia '
+                  'repens, Nakai. II. The Synthesis of Dictamnine',
+         'url': 'https://www.journal.csj.jp/doi/abs/10.1246/bcsj.30.708'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '17755783612532076812',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DDGtFR83afYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AIqs:AAGBfm0AAAAAXYJFOquRJ5-BnC9jBshlqcMW_pjLddVO&scisig=AAGBfm0AAAAAXYJFOvDp7VWwT7OKhWy-A0s-lYSaSMzj&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Pollen morphology of the genus Skimmia was studied. Of '
+                     'six species of the genus, five species were investigated '
+                     'by light microscopy and scanning electron microscopy. '
+                     'Pollen grains of Skimmia had striate to '
+                     'striate-reticulate sculpture and variable aperture '
+                     'number (3 …',
+         'author': 'T Fukuda and A Naiki and H Nagamasu',
+         'eprint': 'https://www.researchgate.net/profile/Tomoko_Fukuda/publication/5235931_Pollen_morphology_of_the_genus_Skimmia_Rutaceae_and_its_taxonomic_implications/links/541acb320cf203f155ae5485.pdf',
+         'title': 'Pollen morphology of the genus Skimmia (Rutaceae) and its '
+                  'taxonomic implications',
+         'url': 'https://link.springer.com/article/10.1007/s10265-008-0174-8'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '6324794734412861513',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SZDw_UwvxlcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AIqs:AAGBfm0AAAAAXYJFOquRJ5-BnC9jBshlqcMW_pjLddVO&scisig=AAGBfm0AAAAAXYJFOg1ujmtVN4kEwiu2yN9cWh_dIt3p&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… were isolated from leaves of Skimmia japonica. IN '
+                     'PREPARATION for a study of the biosynthesis\n'
+                     "of furoquinolines,' furocoumarins and related prenyl "
+                     'derivatives, we investigated systematically\n'
+                     'the leaf constituents of the garden shrub Skimmia '
+                     'japonica, growing locally. Tertiary and …',
+         'author': 'E Atkinson and DR Boyd and MF Grundon',
+         'title': 'Coumarins of Skimmia japonica',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0031942200911506'},
+ 'citedby': 42,
+ 'id_scholarcitedby': '10241876659030196227',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AwDcvo50Io4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AIqs:AAGBfm0AAAAAXYJFOquRJ5-BnC9jBshlqcMW_pjLddVO&scisig=AAGBfm0AAAAAXYJFOuy6AkOP2WEepWyy94OdliV4FY-O&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skimmia laureola Hook (Rutaceae) is found in Kashmir and '
+                     'in the mountains of Northern Pakistan and is used in '
+                     'folklore medicine for the treatment of various ailments '
+                     '[1–3]. The quinoline alkaloids of this plant have '
+                     'demonstrated antifungal and immunomodulating …',
+         'author': 'N Sultana and R Sultana',
+         'eprint': 'https://www.degruyter.com/view/j/znb.2009.64.issue-4/znb-2009-0418/znb-2009-0418.xml',
+         'title': 'A new lanostane triterpene from Skimmia laureola',
+         'url': 'https://www.degruyter.com/view/j/znb.2009.64.issue-4/znb-2009-0418/znb-2009-0418.xml'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '10563443611829241235',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:k4XzV__jmJIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AIqs:AAGBfm0AAAAAXYJFOquRJ5-BnC9jBshlqcMW_pjLddVO&scisig=AAGBfm0AAAAAXYJFOt2MBX4kRoquzxSbZqB6TyzGrkqR&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Phytochemistry. Vol. 27, No. 6, pp. 1890 1892, 1988. '
+                     'Printed in Great Eritam … TK \n'
+                     'RAZDAN, S. HARKAR,* B. QADRI, MA QURISHI and MA KHUROO '
+                     'Centre of Research for \n'
+                     'Development, University of Kashmir, Naseem-Bagh, '
+                     'Srinagar 190006, India; * Department of …',
+         'author': 'TK Razdan and S Harkar and B Qadri and MA Qurishi and MA '
+                   'Khuroo',
+         'title': 'Lupene derivatives from Skimmia laureola',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0031942288804734'},
+ 'citedby': 39,
+ 'id_scholarcitedby': '3798197703242269145',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2cF1-K_otTQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AIqs:AAGBfm0AAAAAXYJFOquRJ5-BnC9jBshlqcMW_pjLddVO&scisig=AAGBfm0AAAAAXYJFOlmXo6Njdqp9brx5nReAkSg9rWHf&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The essential oils of the leaves and flowers of Skimmia '
+                     'anquetilia NP Taylor & Airy Shaw (family: Rutaceae) were '
+                     'examined by the combination of gas chromatography (GC) '
+                     'and gas chromatography/mass spectrometry (GC/MS). The '
+                     'analysis of the oils from leaves and …',
+         'author': 'M Gondwal and O Prakash and Vivekanand…',
+         'eprint': 'https://www.tandfonline.com/doi/full/10.1080/10412905.2012.646034',
+         'title': 'Essential oil composition and antioxidant activity of '
+                  'leaves and flowers of Skimmia anquetilia NP Taylor & Airy '
+                  'Shaw',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/10412905.2012.646034'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '18279165712955835353',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2YM7Z16krP0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AWio:AAGBfm0AAAAAXYJFQirKF4CncD7Rq9vj0-yznuLlB1wN&scisig=AAGBfm0AAAAAXYJFQpmFXthfNIMCoPtrMvVlccK63p65&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The chemical composition of the essential oils of '
+                     'Skimmia lauriola growing in Northern Garhwal, Himalaya '
+                     'has been studied. The wildly growing plants were '
+                     'collected from Dhanolti region of Tehri Garhwal. '
+                     'Essential oil was extracted by hydrodistillation methods '
+                     '…',
+         'author': 'JS Jangwan and N Kumar and R Singh',
+         'eprint': 'https://www.researchgate.net/profile/Raghubir_Singh2/publication/265282760_Analysis_of_composition_and_antibacterial_activity_of_essential_oil_of_Skimmia_laureola_from_Garhwal_Himalaya/links/555ae77b08ae6fd2d8283a06.pdf',
+         'title': 'Analysis of composition and antibacterial activity of '
+                  'essential oil of Skimmia lauriola from Garhwal, Himalaya',
+         'url': 'https://www.researchgate.net/profile/Raghubir_Singh2/publication/265282760_Analysis_of_composition_and_antibacterial_activity_of_essential_oil_of_Skimmia_laureola_from_Garhwal_Himalaya/links/555ae77b08ae6fd2d8283a06.pdf'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '15024021724686795340',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:TEK1bSgMgNAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AWio:AAGBfm0AAAAAXYJFQirKF4CncD7Rq9vj0-yznuLlB1wN&scisig=AAGBfm0AAAAAXYJFQhRizNl8sUa0EQQwyeWT7zu-YNfP&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'author': 'N Sultana',
+         'title': 'Phytochemical and Structural Studies on the Chemical '
+                  'Constituents of Adhatoda vasica, Sarcococca saligna and '
+                  'Skimmia laureola'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '14113457392184142631',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Jyu_zbgS3cMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AWio:AAGBfm0AAAAAXYJFQirKF4CncD7Rq9vj0-yznuLlB1wN&scisig=AAGBfm0AAAAAXYJFQqdvwa31TjBTyMFY4lFL6zg8QtlM&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '抄録 ミヤマシキミ (Skimmia japonica Thunb.) '
+                     'の種子中にはカンキツ類の種子に広く分布するリモノイド (deacetylnomilin, nomilin, '
+                     'limonin, obacunone, deacetylnomilinic acid, nomilinic '
+                     'acid, isoobacunoic acid) が存在した. また, Citrus ichangensis '
+                     'および Fortunella …',
+         'author': 'S Hasegawa and M Miyake and GH Robertson…',
+         'eprint': 'https://www.jstage.jst.go.jp/article/jjshs1925/67/6/67_6_835/_pdf',
+         'title': 'Limonoids in Miyamashikimi (Skimmia japonica Thunb.)',
+         'url': 'https://www.jstage.jst.go.jp/article/jjshs1925/67/6/67_6_835/_article/-char/ja/'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '15066701545191956289',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Qd_-gTqtF9EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AWio:AAGBfm0AAAAAXYJFQirKF4CncD7Rq9vj0-yznuLlB1wN&scisig=AAGBfm0AAAAAXYJFQv5VR1zzWVadVTci4EGJuxPe5qgA&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'author': 'WA Shah and MA QURISHI…',
+         'title': 'Seasonal variation in the essential oil composition of '
+                  'Skimmia laureola'},
+ 'citedby': 11,
+ 'id_scholarcitedby': '4424984893080514874',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OrGI0FC0aD0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AWio:AAGBfm0AAAAAXYJFQirKF4CncD7Rq9vj0-yznuLlB1wN&scisig=AAGBfm0AAAAAXYJFQjDMJwJcS-rVrhPGEZCwBJjfO3D0&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'By Tadashi SATO and Masaki OHTA (Received April 15, '
+                     '1956) The structure of dictamnine, an alkaloid of '
+                     'Skimmia repens, Nakai, was determined by Asahina to be '
+                     '4-methoxy-[2, 3-b]-furoquinoline (I) 1). Since then some '
+                     'other alkaloids (kokusagine, etc.) have been isolated …',
+         'author': 'T Sato and M Ohta',
+         'eprint': 'https://www.journal.csj.jp/doi/pdf/10.1246/bcsj.29.817',
+         'title': 'Synthetic Studies of Dictamnine, an Alkaloid of Skimmia '
+                  'Repens, Nakai I. The Synthesis of Dictamnal',
+         'url': 'https://www.journal.csj.jp/doi/abs/10.1246/bcsj.29.817'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '12145502211266991639',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:F1ZKWel9jagJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AWio:AAGBfm0AAAAAXYJFQirKF4CncD7Rq9vj0-yznuLlB1wN&scisig=AAGBfm0AAAAAXYJFQn3xvzBmaJtx7Dwk73FkllyE-BO-&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The mechanisms of the mass spectrometric fragmentation '
+                     'of two compounds, I (evoxine) and a new compound II '
+                     '(O‐methylcaureolol), were analyzed using mass‐analyzed '
+                     'ion kinetic energy spectrometry, and by verifying the '
+                     'elemental composition and structure of …',
+         'author': 'M He and H Zhang and XH And…',
+         'title': 'Mass spectrometric study on two compounds from Skimmia '
+                  'caureola ssp. multinervia',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rcm.1290091209'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '8584031333773137917',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_ddelgSbIHcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AWio:AAGBfm0AAAAAXYJFQirKF4CncD7Rq9vj0-yznuLlB1wN&scisig=AAGBfm0AAAAAXYJFQn9l2GO-S22DUjDynS124TmBZ0J-&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Applications of GA 3 in May/June, when the first flush '
+                     'of growth was maturing, induced an extra flush of '
+                     'vegetative growth and initiated lateral bud break. '
+                     'Flower initiation was delayed and flower size reduced by '
+                     'the GA 3. These responses were only slightly modified by '
+                     '…',
+         'author': 'DN Whalley and K Loach',
+         'title': 'Modification of episodic growth in Skimmia japonica '
+                  "'Rubella'by gibberellic acid treatment",
+         'url': 'https://www.sciencedirect.com/science/article/pii/0304423878901127'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '10329583785920190316',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bFdojbkNWo8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AWio:AAGBfm0AAAAAXYJFQirKF4CncD7Rq9vj0-yznuLlB1wN&scisig=AAGBfm0AAAAAXYJFQi0E3St0xGyTM96GgQLIoTmoSbr8&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Head space-Solid phase micro extraction (HS-SPME) '
+                     'technique has been used to examine terpene composition '
+                     'of Skimmia laureola. The chemical composition of SPME '
+                     'extract obtained from leaves of S. laureola was compared '
+                     'with composition of essential oil obtained …',
+         'author': 'WA Shah and MY Dar and Kuratull-Ai and MA Rather…',
+         'title': 'Comparison of Terpene Composition of Skimmia laureola Using '
+                  'Hydrodistillation and HS-SPME Techniques',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/0972060X.2012.10644027'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '5496441069030717202',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Erdx6AdIR0wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AWio:AAGBfm0AAAAAXYJFQirKF4CncD7Rq9vj0-yznuLlB1wN&scisig=AAGBfm0AAAAAXYJFQs4pNsXKlJ9iZMgUCdfhdH6vp0Ri&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'author': 'IM Barkatullah and A Rauf and K Inyat-Ur-Rahman',
+         'title': 'Physicochemical characterization of essential and fixed '
+                  'oils of Skimmia laureola and Zanthoxylum armatum'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '1085798592171288931',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Yyn9FxGIEQ8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AWio:AAGBfm0AAAAAXYJFQirKF4CncD7Rq9vj0-yznuLlB1wN&scisig=AAGBfm0AAAAAXYJFQmXwfKnQZkknra-U-NdUNO4_mtjR&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Essential oils obtained from flowers and leaves of '
+                     'Skimmia anquetilia were tested under laboratory '
+                     'conditions (35±2 0 C, 70% rh) for their ability to '
+                     'protect groundnuts from damage by groundnut seed beetle '
+                     '(Bruchid), Caryedon serratus. The essential oil of S. '
+                     'anquetilia …',
+         'author': 'M Gondwal and O Prakash and H Punetha…',
+         'eprint': 'http://www.academia.edu/download/30554203/ms_ijbpas_2012_1026.pdf',
+         'title': 'Effect of essential oils of Skimmia anquetilia NP Taylor & '
+                  'Airy Shaw on fecundity, growth and development of Caryedon '
+                  'serratus',
+         'url': 'http://www.academia.edu/download/30554203/ms_ijbpas_2012_1026.pdf'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '13387526312142008818',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8nFrMEAMyrkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AUgk:AAGBfm0AAAAAXYJFSgkN2pNcV7F0-9z7prqMmygpwdFS&scisig=AAGBfm0AAAAAXYJFSsQ18DwJaDhK-96jOn8z68cl-myD&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skimmia japonica Thunb., japaniseh Miyamashikimi, gehSrt '
+                     'zu den Rutaeeae, kommt tiberall in Japan in sehattigen '
+                     'Wiildern auf Bergen vor und erreicht die HShe yon 3--4 '
+                     'Full. Sie bltiht im Frtihling und tr~ tgt im Herbst rote '
+                     'Beeren. Wegen ihres Aroms und der …',
+         'author': 'J Honda',
+         'title': 'Über das Skimmianin, ein Alkaloid der Skimmia japonica '
+                  'Thunb',
+         'url': 'http://www.springerlink.com/index/T47N17141J218161.pdf'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '4137788928707727923',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MxIrkxthbDkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AUgk:AAGBfm0AAAAAXYJFSgkN2pNcV7F0-9z7prqMmygpwdFS&scisig=AAGBfm0AAAAAXYJFSnCKlfan8JmqhAzqpwC-XlH_Ol-H&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'author': 'CS Mathela and AB Melkani…',
+         'title': 'Reinvestigation of Skimmia laureola essential oil'},
+ 'citedby': 14,
+ 'id_scholarcitedby': '13036865841814666905',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mX7JLWlA7LQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AUgk:AAGBfm0AAAAAXYJFSgkN2pNcV7F0-9z7prqMmygpwdFS&scisig=AAGBfm0AAAAAXYJFSheZzVLcvhcL0X6DG6C2KOy_UQwS&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Sauf mention contraire ci-dessus, le contenu de cette '
+                     'notice bibliographique peut être utilisé dans le cadre '
+                     "d'une licence CC BY 4.0 Inist-CNRS/Unless otherwise "
+                     'stated above, the content of this bibliographic record '
+                     'may be used under a CC BY 4.0 licence by Inist-CNRS/A …',
+         'author': 'TK Razdan and R TK and K GL',
+         'eprint': 'https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL7960093124',
+         'title': 'STUDIES ON THE INDIAN ESSENTIAL OIL OF SKIMMIA LAUREOLA '
+                  'SIEBOLD AND ZUCCHARINI. II',
+         'url': 'https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL7960093124'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '13121642351872412312',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mIoTlTJwGbYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AUgk:AAGBfm0AAAAAXYJFSgkN2pNcV7F0-9z7prqMmygpwdFS&scisig=AAGBfm0AAAAAXYJFSu5ux5pj3lcuNu-Zs25TnZEqfJLH&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Lookup the document at: google-logo. Alkaloids and '
+                     'coumarins in the leaves of Skimmia\n'
+                     'foremanii. Translate with. translator. This translation '
+                     'tool is powered by Google. FAO is not\n'
+                     'responsible for the accuracy of translations. Alkaloids '
+                     'and coumarins in the leaves of Skimmia …',
+         'author': 'B Weinstein and AR Craig',
+         'title': 'Alkaloids and coumarins in the leaves of Skimmia foremanii',
+         'url': 'http://agris.fao.org/agris-search/search.do?recordID=US201301136818'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '8342681503779550612',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lHUAU6Aox3MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AUgk:AAGBfm0AAAAAXYJFSgkN2pNcV7F0-9z7prqMmygpwdFS&scisig=AAGBfm0AAAAAXYJFSvNRxbEAOKKpxzUIEhB-KvYSKj-r&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Lookup the document at: google-logo. Chemical '
+                     'examination of the leaf residues of Skimmia\n'
+                     'laureola Hook. Translate with. translator. This '
+                     'translation tool is powered by Google. FAO is not\n'
+                     'responsible for the accuracy of translations. Chemical '
+                     'examination of the leaf residues of Skimmia …',
+         'author': 'KK Bhargava and TR Seshadri',
+         'title': 'Chemical examination of the leaf residues of Skimmia '
+                  'laureola Hook',
+         'url': 'http://agris.fao.org/agris-search/search.do?recordID=US201303216740'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '3757910598913905937',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EVXwicfHJjQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AUgk:AAGBfm0AAAAAXYJFSgkN2pNcV7F0-9z7prqMmygpwdFS&scisig=AAGBfm0AAAAAXYJFSofgkZY1oocZP0kZAeErfQobp7dc&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'author': 'I KOSTOVA and N Pardeshi…',
+         'title': 'STRUCTURE OF SKIMMIWALLICHIN, A NEW C34‐TRITERPENE METHYL '
+                  'ETHER FROM SKIMMIA WALLICHII'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '8641529151970164541',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PT9dm_rg7HcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AUgk:AAGBfm0AAAAAXYJFSgkN2pNcV7F0-9z7prqMmygpwdFS&scisig=AAGBfm0AAAAAXYJFSmhPF4u4UsawjykJypy0hiCETOTL&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '2046 Asahina, Ohta, Inubuee:[J* g. 63 noch mit '
+                     'Carbonyl-Reagenzien in normaler Weise reagiert, so ist '
+                     'das Vorhandensein eines AtherSauerstoff s sehr '
+                     'wahrscheinlich. Aus diesen Erwagungen wollen wir fur D '
+                     'ic t amnin die Konstitution I vorschlagen. Erhitzt man '
+                     'Dictamnin …',
+         'author': 'Y Asahina and T Ohta and M Inubuse',
+         'title': 'Über das Alkaloid von Skimmia repens, Nakai',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/cber.19300630829'},
+ 'citedby': 30,
+ 'id_scholarcitedby': '2373848413379686233',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:We8eBo6a8SAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AUgk:AAGBfm0AAAAAXYJFSgkN2pNcV7F0-9z7prqMmygpwdFS&scisig=AAGBfm0AAAAAXYJFStWQLlMGqgPEU87Bprl6LzVlpdBB&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The structure of the plasmalemma of isolated protoplasts '
+                     'from stem callus cultures of Skimmia japonica was '
+                     'investigated during cell wall regeneration by means of '
+                     'freeze-etching and deep-etching. Three of the four '
+                     'theoretically possible views of the membrane—the two …',
+         'author': 'H Robenek and E Peveling',
+         'title': 'Veränderungen des Plasmalemmas während der '
+                  'Zellwandregeneration an isolierten Protoplasten aus dem '
+                  'Sproßkallus von Skimmia japonica Thunb',
+         'url': 'https://link.springer.com/article/10.1007/BF00380725'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '13877836830274964523',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:K0xftxH7l8AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AUgk:AAGBfm0AAAAAXYJFSgkN2pNcV7F0-9z7prqMmygpwdFS&scisig=AAGBfm0AAAAAXYJFSng8JuLzbnWpv6SyNpTcigwkFYHC&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'For some years I have been under the impression that the '
+                     'plant described in the Flora of British India I. p. 499 '
+                     '(1875) as Skimmia Laureola contained more than one '
+                     'species, because, in addition to the well-known '
+                     'undershrub of the Western Himalaya, barely 2-3 ft …',
+         'author': 'JS Gamble',
+         'title': 'The Himalayan Species of Skimmia',
+         'url': 'https://www.jstor.org/stable/4113574'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '17810905031949680431',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:L_-TpcILLfcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AUgk:AAGBfm0AAAAAXYJFSgkN2pNcV7F0-9z7prqMmygpwdFS&scisig=AAGBfm0AAAAAXYJFSqvcw1KJd6bUnZk06uPoe8mERO_g&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'author': 'K Fatima and N Sultana',
+         'title': 'Studies on bioassay directed antifungal activity of '
+                  'medicinal plants of Skimmia laureola, Calotropis procera '
+                  'and P. pterocarpum'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '17738181913757565920',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4EPHOniuKvYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AS1Y:AAGBfm0AAAAAXYJFU1ZK52BrAjya9P5gz77lVxZoicoO&scisig=AAGBfm0AAAAAXYJFU8B4TyGGsLr6p_6cRrQWNltvDkWL&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'author': 'A Chatterjee and A Bhattacharya',
+         'title': 'STUDIES ON THE ACTIVE PRINCIPLES OF SKIMMIA-LAUREOLA, HOOK'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '7586064033137425604',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xPyFogsdR2kJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AS1Y:AAGBfm0AAAAAXYJFU1ZK52BrAjya9P5gz77lVxZoicoO&scisig=AAGBfm0AAAAAXYJFU0V1mnw4Q8Lt5Z7SJqml08zk9ujN&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Five compounds were separated from the herb plant '
+                     'Skimmia laureola ssp. multinervia collected from Yunnan '
+                     'Province of China. They were identified as '
+                     'O-methyllaureolol (I), taraxerone (II),(-)-evoxine '
+                     '(III), kokusaginine (IV) and haplopine (V) by UV, '
+                     'IR,~(1) H-NMR …',
+         'author': 'H Zhang and M Zhang',
+         'title': 'Study on the Effective Composition of Skimmia laureola',
+         'url': 'https://europepmc.org/abstract/cba/306503'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '8395441804425635793',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0SdBFdeZgnQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AS1Y:AAGBfm0AAAAAXYJFU1ZK52BrAjya9P5gz77lVxZoicoO&scisig=AAGBfm0AAAAAXYJFU7Oqp8D1h-MLDB_d18kvzyLBSo7I&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'S. laureola (syn. Limonia laureola) is a shrub of the '
+                     'temperate Himalayas found at 1800-3000 m altitude, and '
+                     'is a good source of essential oil. Seed availability is '
+                     'uncertain, so this paper reports studies on propagation '
+                     'by cuttings carried out at Chakrata Minor Forest …',
+         'author': 'KC Badola and CL Goel',
+         'title': 'Effect of auxin on rooting cuttings of Skimmia laureola '
+                  'Hook.',
+         'url': 'https://www.cabdirect.org/cabdirect/abstract/19930665287'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '17489267092442971136',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:APz9KsJbtvIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AS1Y:AAGBfm0AAAAAXYJFU1ZK52BrAjya9P5gz77lVxZoicoO&scisig=AAGBfm0AAAAAXYJFU9woq4y0P7VlQIt93tb7k4L3AcbQ&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'author': 'SR Bhattacharjee and DK Mullick',
+         'title': 'Isolation of scopoletin, skimmin and umbelliferone from the '
+                  'trunk-bark of Skimmia laureola Hook'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '3178751779233061486',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:btpTxuYxHSwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AS1Y:AAGBfm0AAAAAXYJFU1ZK52BrAjya9P5gz77lVxZoicoO&scisig=AAGBfm0AAAAAXYJFU81MSufbd6WRP2L8PLln3i2YvAjf&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Volatile constituents of components A and B aquired from '
+                     'Skimmia laureola ssp. multinervia by extraction with '
+                     'petroleum ether was investigated by GC/MS method. GC/IR '
+                     'technique was applied for A as a complementary means. '
+                     'Eighteen compounds were identified such as …',
+         'author': 'H Zhang and N Guan and M Zhang',
+         'title': 'Studies on volatile constituents from Skimmia laureola ssp. '
+                  'multinervia',
+         'url': 'https://europepmc.org/abstract/cba/289690'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14601816202726736887',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9wMS_3gSpMoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AS1Y:AAGBfm0AAAAAXYJFU1ZK52BrAjya9P5gz77lVxZoicoO&scisig=AAGBfm0AAAAAXYJFU3BVUj2mQpZMlTRVpCR9Hleuh90I&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Lookup the document at: google-logo. Relationship '
+                     'between the endoplasmic reticulum and\n'
+                     'the plasma membrane of protoplasts of Skimmia japonica '
+                     'Thunb. during cell wall regeneration.\n'
+                     'Translate with. translator. This translation tool is '
+                     'powered by Google. FAO is not responsible for …',
+         'author': 'H Robenek',
+         'title': 'Relationship between the endoplasmic reticulum and the '
+                  'plasma membrane of protoplasts of Skimmia japonica Thunb. '
+                  'during cell wall regeneration',
+         'url': 'http://agris.fao.org/agris-search/search.do?recordID=US201302809878'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '13886608810700863496',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CHiikCMlt8AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AS1Y:AAGBfm0AAAAAXYJFU1ZK52BrAjya9P5gz77lVxZoicoO&scisig=AAGBfm0AAAAAXYJFUwQ1LlX7fhc8twme3TVWsXbbuCph&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Application of gibberellins A4+ 7 (GA4+ 7) or '
+                     '6-benzylamino purine (BA) stimulated a second growth '
+                     'flush on plants of Skimmia reevesiana Fort. that had '
+                     'completed normal spring growth. Plants treated with GA4+ '
+                     '7 were up to 130% taller than untreated plants at the …',
+         'author': 'GF Ryan',
+         'eprint': 'https://www.hrijournal.org/doi/pdf/10.24266/0738-2898-3.2.71',
+         'title': 'Effect of growth regulator and nitrogen on height and '
+                  'branching of Skimmia reevesiana',
+         'url': 'http://www.hrijournal.org/doi/abs/10.24266/0738-2898-3.2.71'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '975248995466883386',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OjFcVsvHiA0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AS1Y:AAGBfm0AAAAAXYJFU1ZK52BrAjya9P5gz77lVxZoicoO&scisig=AAGBfm0AAAAAXYJFU0TOFc5fGkvhsPUnUkEbTSW27wU2&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'To study the chemical constituents of Skimmia '
+                     'arborescens. The chemical constituents were isolated by '
+                     'silica gel column chromatography, Pharmadex LH-20, '
+                     'RP-C18, and the 1H NMR, 13C NMR spectroscopic analysis '
+                     'were employed for the structural elucidation. Six …',
+         'author': 'L HE and S YANG and S WU DE and G ZI and T CUI…',
+         'title': 'Studies on flavonoid and alkaloid from Skimmia arborescens '
+                  'Anders. ex Gamble and its pain releasing effect',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-YNDZ201106017.htm'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '9690885293422778215',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Z5eFcdTwfIYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AS1Y:AAGBfm0AAAAAXYJFU1ZK52BrAjya9P5gz77lVxZoicoO&scisig=AAGBfm0AAAAAXYJFUyEKbgd6JdLIjvCkUiycONeSWkBi&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… web service; Annotations API; OAI service; Bulk '
+                     'downloads. Help: Help using Europe PMC;\n'
+                     'Contact us. Contact us: Helpdesk; Feedback; Twitter; '
+                     'Blog; Tech blog. Europe PMC plus. Search\n'
+                     'worldwide, life-sciences literature. Search. Advanced '
+                     'Search Eg "breast cancer" HER2 Smith …',
+         'author': 'A Chatterjee and A Bhattacharyya',
+         'title': 'On the active principles isolated from the leaves and the '
+                  'bark of Skimmia laureola Hook.',
+         'url': 'https://europepmc.org/abstract/med/20261754'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '14240473098398936163',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YyyTb9VSoMUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AS1Y:AAGBfm0AAAAAXYJFU1ZK52BrAjya9P5gz77lVxZoicoO&scisig=AAGBfm0AAAAAXYJFU-MAS8pexQ-pGKUdPWZu2E_JRlKH&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'author': 'N Sultana and N Afaza',
+         'title': 'Atta-ut-Rahman. Coumarin and quinoline alkaloids from '
+                  'Skimmia laureola'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '11764180189364121180',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:XG68jI3DQqMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AQ_4:AAGBfm0AAAAAXYJFW_777K1h3GJ2IQezdTuMBU2ejgUZ&scisig=AAGBfm0AAAAAXYJFWzlNIo1KMIVb3nopqStpd5xZAOD4&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The 1H and 13C NMR spectra of O‐methyllaureolol were '
+                     'assigned utilizing the 2D HMQC and HMBC correlation '
+                     'techniques. The hydrogens and carbons of the steroid '
+                     'nucleus and its side‐chain were completely assigned '
+                     'using the HMQC and HMBC in …',
+         'author': 'HJ Zhang and MZ Zhang and XF Gao',
+         'title': 'Structure Determination of O‐Methyllaureolol From Skimmia '
+                  'Laureolas sp. Multinervia by 2D HMQC and HMBC Techniques',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-458X(199706)35:6%3C410::AID-OMR87%3E3.0.CO;2-A'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '426464553217466520',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mKDSa0Ab6wUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AQ_4:AAGBfm0AAAAAXYJFW_777K1h3GJ2IQezdTuMBU2ejgUZ&scisig=AAGBfm0AAAAAXYJFW5abq7O3xIWXJG-4HMbzo_A-10H7&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skimmia anquetilia is an important medicinal plant of '
+                     'west Himalaya. The present study was devised to '
+                     'determine the impact of the habitat variability and '
+                     'altitude on the morphological and resource allocation '
+                     'pattern of the species under study. The present '
+                     'investigation …',
+         'author': 'S Nissar and IA Nawchoo…',
+         'eprint': 'https://pdfs.semanticscholar.org/5c94/c9192d0e8a61f861f00a2c8ab2008a0a1b50.pdf',
+         'title': 'Impact of altitude and habitat variability on morphological '
+                  'attributes and resource allocation patterns in Skimmia '
+                  'anquetilia in Kashmir Himalaya',
+         'url': 'https://pdfs.semanticscholar.org/5c94/c9192d0e8a61f861f00a2c8ab2008a0a1b50.pdf'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '1575267477300381013',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VQW3qmx53BUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AQ_4:AAGBfm0AAAAAXYJFW_777K1h3GJ2IQezdTuMBU2ejgUZ&scisig=AAGBfm0AAAAAXYJFW1e-yg-RNvz6PYCrtbJ0dc83q9Jg&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'author': 'N Sultana',
+         'title': 'Medicinal properties and biosynthetic studies on indigenous '
+                  'medicinal plant Skimmia laureola'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '9669124045805817864',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CJBxJxehL4YJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AQ_4:AAGBfm0AAAAAXYJFW_777K1h3GJ2IQezdTuMBU2ejgUZ&scisig=AAGBfm0AAAAAXYJFW4i3SjV8yJ1iq7CVECy4g4ZRXD_A&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Gondwal and O Prakash',
+         'title': 'Vivekanand; Pant, AK; Padalia, RC; Mathela, CS Essential '
+                  'oil composition and antioxidant of leaves and flowers of '
+                  'Skimmia anquetilia NP Taylor & Airy …'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '10276857106003944266',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SmPQuha7no4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AQ_4:AAGBfm0AAAAAXYJFW_777K1h3GJ2IQezdTuMBU2ejgUZ&scisig=AAGBfm0AAAAAXYJFWyjMKWqPJfT_xmbp2gOCw6EPtInb&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Reisch and SH Achenbach',
+         'title': 'COMPARATIVE-STUDY OF THE CONTENT OF MALE AND FEMALE '
+                  'SKIMMIA-JAPONICA SUBSP JAPONICA. 144.'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '6286452310469901513',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yfz9vhH3PVcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AQ_4:AAGBfm0AAAAAXYJFW_777K1h3GJ2IQezdTuMBU2ejgUZ&scisig=AAGBfm0AAAAAXYJFW38bxJoay7mVAZTw3NBdPzBYRknK&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'author': 'B Talapatra and A Basak…',
+         'title': 'COUMARINS AND OTHER CONSTITUENTS OF '
+                  'SKIMMIA-MALANOCARPA-CONVERSION OF (+)-ULOPTEROL TO A '
+                  "NATURAL COUMARIN, 6-(2'-OXO …"},
+ 'citedby': 4,
+ 'id_scholarcitedby': '6035340232156803059',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:829U7PbVwVMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AQ_4:AAGBfm0AAAAAXYJFW_777K1h3GJ2IQezdTuMBU2ejgUZ&scisig=AAGBfm0AAAAAXYJFWziNoxcz7VxuQL0O5bjg3H8qE1cQ&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Reisch and SH Achenbach',
+         'title': 'CHEMICAL-CONSTITUENTS OF THE DIOECIOUS SKIMMIA-JAPONICA '
+                  'SUBSP JAPONICA'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '8279808648507920298',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qo-F9hjK53IJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AQ_4:AAGBfm0AAAAAXYJFW_777K1h3GJ2IQezdTuMBU2ejgUZ&scisig=AAGBfm0AAAAAXYJFW8jJW4R3MyxiJL9zPhXh8BFUuRDx&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 55. Fr: Aralia cordata (Udo) 112. Fr: Citrus unshiu '
+                     '(Unsyumikan) 56. L: Dendropanax trifidus\n'
+                     '(Kakuremino) 113. L: Skimmia japonica (Miyamasikimi) 57. '
+                     'Fr: Fatsia japonica (Y atude) 114.\n'
+                     'F1: Skimmia japonica (Miyamasikimi) 58. Fr: Fatsia '
+                     'japonica (Wakayama) (Yatude) 115 … \n',
+         'author': 'R Ishii and K Yoshikawa and H Minakata…',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.1080/00021369.1984.10866552',
+         'title': 'Specificities of bio-antimutagens in plant kingdom',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/00021369.1984.10866552'},
+ 'citedby': 72,
+ 'id_scholarcitedby': '1707991157364789847',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:V5I8hugAtBcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AQ_4:AAGBfm0AAAAAXYJFW_777K1h3GJ2IQezdTuMBU2ejgUZ&scisig=AAGBfm0AAAAAXYJFW9N01Y-aXI4MJzwkeZNPDMzdhstl&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'author': 'K Takeda',
+         'title': 'Triterpenoid in Skimmia species. V. Relation between '
+                  'skimmiol and β-amarin'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '10142022051948264621',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rfyNTlKzv4wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AQ_4:AAGBfm0AAAAAXYJFW_777K1h3GJ2IQezdTuMBU2ejgUZ&scisig=AAGBfm0AAAAAXYJFW2b2y_o8z3RVpxUrrpdoS45ptC7X&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'author': 'E Spath and O Neufeld',
+         'title': 'Natural coumarins. XXXVI. Occurrence of seselin in Japanese '
+                  'Skimmia species'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '9575603350013603507',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:s-6ZW4Ng44QJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ae8A:AAGBfm0AAAAAXYJFY8CutJPyScc1MbVV0Mzf-69m8DUC&scisig=AAGBfm0AAAAAXYJFY1BATYgVBFBjBrY1k5kq6cJYHp3U&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'author': 'A Fock and KH Kubeczka and W Schultze',
+         'title': 'Comparative Studies on the Composition of the Essential '
+                  'Oils of Two Subspecies of Skimmia japonica Thumb'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '413457377759838104',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mL8jY0vlvAUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ae8A:AAGBfm0AAAAAXYJFY8CutJPyScc1MbVV0Mzf-69m8DUC&scisig=AAGBfm0AAAAAXYJFY1J7ZLYaU8Z3rBBpeS5Jl-GzBRaw&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'author': 'Y Asahina and T Ohta and M Inubuse',
+         'title': 'On alkaloids in Skimmia repens'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '17502154551201635632',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MB1cfNUk5PIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ae8A:AAGBfm0AAAAAXYJFY8CutJPyScc1MbVV0Mzf-69m8DUC&scisig=AAGBfm0AAAAAXYJFY1Rf_4MluvPEBSILTY6DdGIqSuF8&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'author': 'S Desai', 'title': 'Studies on apospory in Skimmia'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '16614958799764152085',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:FV-xof8wlOYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ae8A:AAGBfm0AAAAAXYJFY8CutJPyScc1MbVV0Mzf-69m8DUC&scisig=AAGBfm0AAAAAXYJFY670BWdNexq3QakKYzJLbOXGCQDo&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'author': 'RK Sharma and P Negi and N Negi and DS Negi and H Otsuka',
+         'title': 'New Coumarin from Skimmia anquetelia.'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '17270479997348742427',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GwV2_g0Sre8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ae8A:AAGBfm0AAAAAXYJFY8CutJPyScc1MbVV0Mzf-69m8DUC&scisig=AAGBfm0AAAAAXYJFY5bW4yQkERUjz2mj-pQrYxfIIZ_S&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'see more details were established in vitro in Murashige '
+                     'and Skoog (MS) medium. High proliferation of shoots of '
+                     'the male clone was achieved in MS medium supplemented '
+                     'with BA [benzyladenine benzyladenine Subject Category: '
+                     'Chemicals and Chemical Groupssee …',
+         'author': 'G Ponchia and G Zanin',
+         'title': 'In vitro propagation of Skimmia (Skimmia japonica Thunb.).',
+         'url': 'https://www.cabdirect.org/cabdirect/abstract/20000313062'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '5709790226480571609',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2SRfj_U_PU8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ae8A:AAGBfm0AAAAAXYJFY8CutJPyScc1MbVV0Mzf-69m8DUC&scisig=AAGBfm0AAAAAXYJFY4KK15qq-ziAQbIAAezYw_lnxmAL&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Dictamnine (5) is shown to be an efficient '
+                     'biosynthetic precursor of skimmianine (6) by feeding\n'
+                     '[3-14C]- and [2,3-3H2;3-f4C] -dictamnine to Cboisya '
+                     'rernata and to a Skimmia species ; dictamnine\n'
+                     'is also incorporated specifically into evoxine (7a) and '
+                     'into choisyine (8) in C … \n',
+         'author': 'MF Grundson and DM Harrison…',
+         'title': 'Biosynthesis of aromatic isoprenoids. Part II. Aromatic '
+                  'hydroxylation in the biosynthesis of the furoquinoline '
+                  'alkaloids, skimmianine, evoxine, and choisyine',
+         'url': 'https://pubs.rsc.org/en/content/articlehtml/1974/p1/p19740002181'},
+ 'citedby': 19,
+ 'id_scholarcitedby': '16198132205409614246',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pjlBYGtTy-AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ae8A:AAGBfm0AAAAAXYJFY8CutJPyScc1MbVV0Mzf-69m8DUC&scisig=AAGBfm0AAAAAXYJFY22g39iA9W59bPVfxYTmKksw7X9k&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The hybrid figured here was first named just two years '
+                     'ago, in a revision of the genus Skimmia published in '
+                     'this Magazine; however, its origin probably dates from '
+                     'at least thirty years earlier (Taylor, 1987). Skimmia x '
+                     'confusa NP Taylor {S. japónica Thunb. subsp …',
+         'author': 'NP Taylor',
+         'title': "136. SKIMMIA× CONFUSA'Chelsea Physic': Rutaceae",
+         'url': 'https://www.jstor.org/stable/45066765'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '9509266175218590332',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fKKKQDSz94MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ae8A:AAGBfm0AAAAAXYJFY8CutJPyScc1MbVV0Mzf-69m8DUC&scisig=AAGBfm0AAAAAXYJFYxhFE__ZAdrobvH8ntyBbLWox4y3&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… latifolia R. graveolens R. montana Toddalieae Ptelea '
+                     'baldwinii Skimmia japonica *\n'
+                     'Aurantieae Citrus sinensis Murraya paniculata … Ptelea '
+                     'baldwinii 10.87 1.16 62.10\n'
+                     '1.14c 4.15 4.94 Skimmia iaponica 17.00 1.89 31.36 3.30b '
+                     '12.86 21.43 … \n',
+         'author': 'MS Guerra',
+         'eprint': 'https://www.tandfonline.com/doi/pdf/10.1080/00087114.1984.10797700',
+         'title': 'Cytogenetics of rutaceae. II. Nuclear DNA content',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/00087114.1984.10797700'},
+ 'citedby': 58,
+ 'id_scholarcitedby': '5773802231212070591',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:v9bA0omqIFAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ae8A:AAGBfm0AAAAAXYJFY8CutJPyScc1MbVV0Mzf-69m8DUC&scisig=AAGBfm0AAAAAXYJFYwZX0YNlLnTU6D_b5eA91P96Q0Lb&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Freeze-fracture technique has been employed to '
+                     'investigate the supramolecular structure of the plasma '
+                     'membrane of isolated stem callus protoplasts of Skimmia '
+                     'japonica after IEA treatment. Freeze-fracturing splits '
+                     'the plasmalemma along a central hydrophobic plane …',
+         'author': 'H Robenek',
+         'title': '… (3) essigsäure (IES) auf die Verteilung der '
+                  'intramembranösen Partikel des Plasmalemmas isolierter '
+                  'Sproßkallusprotoplasten von Skimmia japonica THUNB.: The …',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0044328X79802652'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '15227071686459614383',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:r2TVuAVtUdMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Ae8A:AAGBfm0AAAAAXYJFY8CutJPyScc1MbVV0Mzf-69m8DUC&scisig=AAGBfm0AAAAAXYJFYw3b__kx7GuZd3hYYoobbY3OL9au&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Cultivars of the putative hybrid Skimmia japonica Thunb. '
+                     'subsp. japonica x subsp. reevesiana (Fortune) NP Taylor '
+                     '& Airy Shaw have 2n= 30, regular meiosis (15 bivalents) '
+                     'and are highly fertile; they are best assigned to S. '
+                     'japonica subsp. japonica. It is doubtful …',
+         'author': 'RJ Gornall and SA Harris',
+         'title': 'A cytological study of two putative Skimmia hybrids '
+                  '(Rutaceae)',
+         'url': 'https://www.jstor.org/stable/4110372'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '16046177850263885618',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Mle4D715r94J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AcD0:AAGBfm0AAAAAXYJFaD3IdoNSQbcFTdBNyb4QIQjb3QyK&scisig=AAGBfm0AAAAAXYJFaAD6g3rj7VpcbdBhxpDu4S5jdhxn&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skmmia laureola grow gregariously in shady forest at '
+                     'altitude ranging from 7000 to 8800 feet. Leaves are also '
+                     'used as coughs remedy and commercially harvested as '
+                     'flavoring agent in food, and in traditional healing. '
+                     'These are made into garlands and considered …',
+         'author': 'I Muhammad and J Ghulam and B Lal',
+         'title': 'Phytosociological and ethnobotanical attributes of Skimmia '
+                  'laureola.',
+         'url': 'https://www.cabdirect.org/cabdirect/abstract/20133059318'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '3826294439487749816',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:uD64J4W6GTUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AcD0:AAGBfm0AAAAAXYJFaD3IdoNSQbcFTdBNyb4QIQjb3QyK&scisig=AAGBfm0AAAAAXYJFaE-GY5Jrn_Vl0w4usDn6onE49Vfn&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Stem lesions, cankers and dieback of shoots were common '
+                     'on both young and mature plants of Skimmia japonica '
+                     'following the exceptionally hot and dry summer of 1976. '
+                     'Phoma macrostoma var. macrostoma, Phomopsis skimmiae, '
+                     'Fusarium lateritium and a species of …',
+         'author': 'RC Shattock and SJ Askew',
+         'title': 'Stem lesions, canker and dieback of Skimmia japonica',
+         'url': 'https://www.jstor.org/stable/42761327'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '7098702192356061548',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bHGrjQiog2IJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AcD0:AAGBfm0AAAAAXYJFaD3IdoNSQbcFTdBNyb4QIQjb3QyK&scisig=AAGBfm0AAAAAXYJFaF8gzu_uMD4cv4KUqKuQ7OP4KrxQ&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Skimmia japonica, an evergreen flowering shrub, is '
+                     'becoming increasingly popular as a potted ornamental '
+                     'plant in northern Italy and represents 5% of '
+                     'acidophilous plant production; cv. Rubella accounts for '
+                     '99% of production. During the spring of 2003, in many …',
+         'author': 'A Garibaldi and D Bertetti and ML Gullino',
+         'title': 'First Report of Phytophthora nicotianae on Skimmia japonica '
+                  'in Italy',
+         'url': 'https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS.2004.88.8.905C'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '3641233448070985462',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9raKaIdCiDIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AcD0:AAGBfm0AAAAAXYJFaD3IdoNSQbcFTdBNyb4QIQjb3QyK&scisig=AAGBfm0AAAAAXYJFaNadDuWtx2hAxzvZewnanbz_S7yy&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… watsonii,[67] Decatropis bicolor,[49] Heracleum '
+                     'spp.,[53-54] Magydaris pastinacea,[68] Metrodorea\n'
+                     'flavida,[69] Murraya koenigii,[56] Opopanax '
+                     'chironium,[58] Petroselinum crispum,[70] Phebalium\n'
+                     'spp.,[19, 60] Ruta spp.,[64] Selinum tenuifolium,[71] '
+                     'Skimmia spp.,[72-73 … \n',
+         'author': 'M Curini and G Cravotto and F Epifano…',
+         'eprint': 'https://www.researchgate.net/profile/Francesco_Epifano/publication/7304772_Chemistry_and_Biological_Activity_of_Natural_and_Synthetic_Prenyloxycoumarins/links/00b4952d5299cd047c000000/Chemistry-and-Biological-Activity-of-Natural-and-Synthetic-Prenyloxycoumarins.pdf',
+         'title': 'Chemistry and biological activity of natural and synthetic '
+                  'prenyloxycoumarins',
+         'url': 'https://www.ingentaconnect.com/content/ben/cmc/2006/00000013/00000002/art00005'},
+ 'citedby': 285,
+ 'id_scholarcitedby': '6006197764026145913',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:eRyGTwtNWlMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AcD0:AAGBfm0AAAAAXYJFaD3IdoNSQbcFTdBNyb4QIQjb3QyK&scisig=AAGBfm0AAAAAXYJFaPtYGRZX2v5WUH_D6_jKg5rOMLPk&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Tomita and H Ishii',
+         'title': 'Studies on the alkaloids of rutaceous plants. III. '
+                  'Alkaloids of Skimmia japonica Thunb. var. intermedia '
+                  'Komatsu form. repens Hara'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '6812090935826078697',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6VuSN51oiV4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AcD0:AAGBfm0AAAAAXYJFaD3IdoNSQbcFTdBNyb4QIQjb3QyK&scisig=AAGBfm0AAAAAXYJFaF8k2U5FEY0qFl71TTEjICMzwflg&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'author': 'YK Sarin',
+         'title': 'Skimmia leaf: a potent source of essential oil from hill '
+                  'areas of Uttar Pradesh [India]'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '12815948474789201022',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fgSFazxl27EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AcD0:AAGBfm0AAAAAXYJFaD3IdoNSQbcFTdBNyb4QIQjb3QyK&scisig=AAGBfm0AAAAAXYJFaOkTxuL659-_5j0XuxnRQvRHXL5_&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'author': 'YK Sarin',
+         'title': 'Skimmia Leaf: A Potent Source of Essential Oil from Hill '
+                  'Area of UP'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '16709303961788385824',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IIpsbmxf4-cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AcD0:AAGBfm0AAAAAXYJFaD3IdoNSQbcFTdBNyb4QIQjb3QyK&scisig=AAGBfm0AAAAAXYJFaLnGcWq8oL6gCNbcVYsw3Y0T1I5L&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'author': 'S Nighat and A Nighat',
+         'title': 'Atta-ur-Rahman. Coumarin and quinoline alkaloids from '
+                  'Skimmia laureola'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '5937992111973571368',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KJtBcV38Z1IJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AcD0:AAGBfm0AAAAAXYJFaD3IdoNSQbcFTdBNyb4QIQjb3QyK&scisig=AAGBfm0AAAAAXYJFaDrTMjUorIXTovfbgYYd2NDZw5fG&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 検索. すべて. 本文あり. すべて. 本文あり. タイトル. 著者名. 著者ID. 著者所属. 刊行物名. '
+                     'ISSN.\n'
+                     '巻号ページ. 出版者. 参考文献. 出版年. 年から 年まで. 検索. 閉じる. 検索. 検索.\n'
+                     '利用者のみなさまにご不便をおかけしておりますことをお詫び申し上げます。NII-ELS …',
+         'author': 'T Yamazaki',
+         'title': 'On the genus Skimmia in Japan and Taiwan',
+         'url': 'https://ci.nii.ac.jp/naid/10022023314/'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '12282612403748798559',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:XwBBt-eadKoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5AcD0:AAGBfm0AAAAAXYJFaD3IdoNSQbcFTdBNyb4QIQjb3QyK&scisig=AAGBfm0AAAAAXYJFaEYgPD4-kdJ2cqXmAVCYCKujhn5A&scisf=4&ct=citation&cd=99&hl=en'}

@@ -1,0 +1,1075 @@
+{'_filled': False,
+ 'bib': {'abstract': 'Für die Baryt-Fahlerz-Lagerstätten im Schwazer Dolomit '
+                     '(Unterdevon) bei Brixlegg (Tirol, Österreich) liegen '
+                     'sehr differierende Altersangaben zwischen Tertiär und '
+                     'Oberkarbon vor. Hier werden am Beispiel des Bergbaues '
+                     'Großkogel Befunde dargelegt, welche …',
+         'author': 'O Schulz',
+         'title': 'Unterdevonische Baryt-Fahlerz-Mineralisation und ihre '
+                  'steilachsige Verformung im Gro\\kogel bei Brixlegg (Tirol)',
+         'url': 'https://link.springer.com/article/10.1007/BF01081797'},
+ 'citedby': 18,
+ 'id_scholarcitedby': '7099083895324838553',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mYqIszADhWIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RXm8:AAGBfm0AAAAAXYLURm_cnVteXE_QKUqSixwsrHh_n8f_&scisig=AAGBfm0AAAAAXYLURi2IbqWy-fZd5QYTglD6noI4PNYX&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'author': 'F Katzer',
+         'title': 'Die Fahlerz-und Quecksilbererzlagerstätten Bosniens und der '
+                  'Hercegovina'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '16499423260584916818',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Ujf7rQm6-eQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RXm8:AAGBfm0AAAAAXYLURm_cnVteXE_QKUqSixwsrHh_n8f_&scisig=AAGBfm0AAAAAXYLURsgWGXQhIs5e_zuPp0sqiYyXbP_6&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'II. Chemical Composition of Fahlerz. (a) Historical and '
+                     'Introductory. (b) Tetrahedrito from "Fresney \n'
+                     'd\'Oisans, Dauphin~." (c~ Tetrahedrite from Horhausen, '
+                     'Rhenish Prussia. (d) Tetrahedrite from \n'
+                     '(Wolfach, Baden)? (e) Proposed new formula for Fahlerz. '
+                     '(f) Test of new formula by reference …',
+         'author': 'GT Prior and LJ Spencer',
+         'eprint': '/scholar?output=instlink&q=info:u91vdiLbymsJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=4181354138287241147&oi=lle',
+         'title': 'The Identity of Binnite with Tennantite; and the Chemical '
+                  'Composition of Fahlerz',
+         'url': 'https://www.cambridge.org/core/journals/mineralogical-magazine-and-journal-of-the-mineralogical-society/article/identity-of-binnite-with-tennantite-and-the-chemical-composition-of-fahlerz/86E8AC57D0734E75FEAA7C8BFB3C80C7'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '7767261448416255419',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:u91vdiLbymsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RXm8:AAGBfm0AAAAAXYLURm_cnVteXE_QKUqSixwsrHh_n8f_&scisig=AAGBfm0AAAAAXYLURjjCYAvS-Pt3_JqAf_H5_ihDcPK1&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'author': 'W Lukas',
+         'title': 'Tektonisch-genetische Untersuchung der Fahlerz-Lagerstätte '
+                  'am Falkenstein bei Schwaz/Tirol'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '12639013391100254276',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RJjv_7bLZq8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RXm8:AAGBfm0AAAAAXYLURm_cnVteXE_QKUqSixwsrHh_n8f_&scisig=AAGBfm0AAAAAXYLURhBfTZCT264UjLrjp-qqIT1YnB8G&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'author': 'NV Belov and POBEDIMS. EA',
+         'title': 'COVELLINE (KLOCKMANNITE)-CHALCOCITE,(ACANTHIE, '
+                  'STROMEYERITE, BORNITE)-FAHLERZ'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '13052263393870910547',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:U5SCImf0IrUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RXm8:AAGBfm0AAAAAXYLURm_cnVteXE_QKUqSixwsrHh_n8f_&scisig=AAGBfm0AAAAAXYLURjuxui4lid3LGemOVH4PWSXh0Izt&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'author': 'HG Bachmann and T Stöllner',
+         'title': 'Bunt-und Edelmetalle aus mitteleuropäischen '
+                  'Komplexerz-Lagerstätten: Fahlerz-Verhüttung von der '
+                  'Bronzezeit bis zur Renaissance'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '16826878244236497061',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pRB3SpwUhekJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RXm8:AAGBfm0AAAAAXYLURm_cnVteXE_QKUqSixwsrHh_n8f_&scisig=AAGBfm0AAAAAXYLURpJl_ePZSqSahN2pJGkV7NDPuM40&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'author': 'GA Krischker',
+         'title': 'Die Baryt-Fahlerz-Lagerstätte St. Gertraudi-Brixlegg'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '6941690916772157576',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:iJjCMhzXVWAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RXm8:AAGBfm0AAAAAXYLURm_cnVteXE_QKUqSixwsrHh_n8f_&scisig=AAGBfm0AAAAAXYLURvSScgZz1MRuXR8Pl8s5k_gSd36w&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'author': 'MA Götzinger and WH Paar…', 'title': '2.3. Fahlerz'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '4042640433623609883',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GzLEOA5YGjgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RXm8:AAGBfm0AAAAAXYLURm_cnVteXE_QKUqSixwsrHh_n8f_&scisig=AAGBfm0AAAAAXYLURj9bauUoTz-n55ctH90Qr5L_IaZQ&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Die Herstellung von Kristallpulvern yon As- und '
+                     'Sb-Fahlerz naeh diesem Verfahrsn beschrisben\n'
+                     'bereits Gaines (1949) sowie Cambi und … berechnet, dab '
+                     'das Atomverh~ltnis der \n'
+                     'Ausgangssubstanzen, Cu : Te ~ 3 : 1, auch zwischen den, '
+                     'das Te-Fahl- erz begleitenden Phasen … \n',
+         'author': 'R Kalbskopf',
+         'title': 'Synthese und Kristallstruktur von Cu12−xTe4S13, dem '
+                  'Tellur-Endglied der Fahlerze',
+         'url': 'https://link.springer.com/article/10.1007/BF01084946'},
+ 'citedby': 28,
+ 'id_scholarcitedby': '6600155252501314771',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0_zEpzt2mFsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RXm8:AAGBfm0AAAAAXYLURm_cnVteXE_QKUqSixwsrHh_n8f_&scisig=AAGBfm0AAAAAXYLURpOnhTWvPXMQjcEN-v-j0v2qyfAu&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Das gediegen Wismut zeigt Zwillingsbau und ist jeweils '
+                     'immer mit dem Emplektit verwachsen,\n'
+                     'meist findet sich in unmittelbarer Nähe auch etwas '
+                     'Arsen- kies sowie gewöhnliches\n'
+                     'Antimon-Fahlerz, wobei alle diese Erze im Kupferkies '
+                     'eingewachsen sind … \n',
+         'author': 'W Tufar',
+         'eprint': 'https://www.zobodat.at/pdf/MittAbtMineralogie-Joanneum_2_1965_0067-0072.pdf',
+         'title': 'Neue Wismutmineralfunde und ein neuer Goldfund aus der '
+                  'Steiermark',
+         'url': 'https://www.zobodat.at/pdf/MittAbtMineralogie-Joanneum_2_1965_0067-0072.pdf'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '14433314929437462058',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Kk52FHVvTcgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RXm8:AAGBfm0AAAAAXYLURm_cnVteXE_QKUqSixwsrHh_n8f_&scisig=AAGBfm0AAAAAXYLURqv_xJEYxdll2U8AjscI1DkHKjm9&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… I, S. 374ff.). Im Schwazit, dem Hg-Sb-Fahlerz, tritt '
+                     'bis zu 24 Gew.% Hg ein. Das Hg besetzt\n'
+                     'dabei Cu-Positioncn; welehe tier beiden, soll hier '
+                     'untersucht werden … Zur vorliegcnden\n'
+                     'Untersuchung diente ein Hg-Sb-Fahlerz yon Row (CSSR) '
+                     '(I~ar. mus. inv … \n',
+         'author': 'R Kalbskopf',
+         'title': 'Die Koordination des Quecksilbers im Schwazit',
+         'url': 'https://link.springer.com/article/10.1007/BF01134167'},
+ 'citedby': 28,
+ 'id_scholarcitedby': '16017753439228083598',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jj37JON9St4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RVmo:AAGBfm0AAAAAXYLUTmpjyAg8zJ5rzKh_lItyTTEZFgCe&scisig=AAGBfm0AAAAAXYLUTlzEFf5-AHRrF5eLK5r0GPpLaD_Z&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'author': 'F Katzer',
+         'title': 'Die Fahlerz-und Quecksilberlagerstätten Bosniens und der '
+                  'Herzegowina'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14768274687605275650',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AvwaLJVz88wJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RVmo:AAGBfm0AAAAAXYLUTmpjyAg8zJ5rzKh_lItyTTEZFgCe&scisig=AAGBfm0AAAAAXYLUTp0gKeomvFmUjlYih47OULUTrrnk&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'author': 'AG Krischker', 'title': 'Die Baryt-Fahlerz-Lagerstätte St'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '16291815920995285412',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pDn6LEMoGOIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RVmo:AAGBfm0AAAAAXYLUTmpjyAg8zJ5rzKh_lItyTTEZFgCe&scisig=AAGBfm0AAAAAXYLUTpKrtWSYAc5rZyCt9BoQUUsO2_JD&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'author': 'DH ist Arsenikkies',
+         'title': 'daneben kommen weiterhin in Betracht: Kupferkies, '
+                  'Schwefelkies, Fahlerz und Bleiglanz, während selten noch '
+                  'Antimonglanz, Zinkblende, Boulangerit …'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '7067187516113743667',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:M-8IM5qxE2IJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RVmo:AAGBfm0AAAAAXYLUTmpjyAg8zJ5rzKh_lItyTTEZFgCe&scisig=AAGBfm0AAAAAXYLUTjtcfMiDVau6SWIZao1YBa5OEW5a&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'author': 'LR Fellenberg',
+         'title': 'Über ein eigenthümliches Fahlerz aus dem Einfischthale im '
+                  'Kanton Wallis'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '6231089080714468156',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PBvNU4FGeVYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RVmo:AAGBfm0AAAAAXYLUTmpjyAg8zJ5rzKh_lItyTTEZFgCe&scisig=AAGBfm0AAAAAXYLUTgJKXW7VaP3Koo6yl4mvVlU-jqFN&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'author': 'R Kalbskopf and J Zemann',
+         'title': 'Die Koordination des Silbers im Fahlerz'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '5877291381780794286',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rkuCXF9VkFEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RVmo:AAGBfm0AAAAAXYLUTmpjyAg8zJ5rzKh_lItyTTEZFgCe&scisig=AAGBfm0AAAAAXYLUTnZEerzt9kxc5JCrtvkGIphwHuuF&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'author': 'L Pernicka',
+         'title': 'Pernicka E., Lutz J. Fahlerz-und Kupferkiesnutzung in der '
+                  'Bronze-und Eisenzeit'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '5976831905018244770',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:om7VdPP48VIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RVmo:AAGBfm0AAAAAXYLUTmpjyAg8zJ5rzKh_lItyTTEZFgCe&scisig=AAGBfm0AAAAAXYLUTrV6RaTQrVCjr5fNTRvFc8hE_NSC&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'author': 'SV Filimonov',
+         'title': 'Fahlerz-group minerals as indicators of ore genesis (on the '
+                  'example of hydrothermal gold deposits)'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14235677892858579114',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qoi3pJ5Jj8UJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RVmo:AAGBfm0AAAAAXYLUTmpjyAg8zJ5rzKh_lItyTTEZFgCe&scisig=AAGBfm0AAAAAXYLUTnOynRSOn8jJPWkyq5GCVUKJvTNy&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'author': 'AG Krischker',
+         'title': 'Die Baryt-Fahlerz-Lagerstätte St. Gertraudi/Brixlegg. '
+                  'Innsbruck: Unveröff. Dipl'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '13756397107488030700',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7P8I5UiK6L4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RVmo:AAGBfm0AAAAAXYLUTmpjyAg8zJ5rzKh_lItyTTEZFgCe&scisig=AAGBfm0AAAAAXYLUTgV89V77d77UEurJKN7L8JRSURdn&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 6. ANMERKUNGEN ZUR MINERALOGIE Als einziges '
+                     'Erzmineral, das bergbau- liche Bedeutung\n'
+                     'erlangte, kann hier nur das Fahlerz angesprochen werden, '
+                     'das zum … tte tritt in diesem Be- reich\n'
+                     'stets an grau-wei~-laminierte Dolomite gebunden auf, '
+                     'wobei das Fahl- erz selbst in … \n',
+         'author': 'P Gstrein',
+         'title': 'Neuerkenntnisse über die Genese der Fahlerzlagerstätte '
+                  'Schwaz (Tirol)',
+         'url': 'https://link.springer.com/article/10.1007/BF00202935'},
+ 'citedby': 25,
+ 'id_scholarcitedby': '10417037125295042540',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7G9E2RLAkJAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RVmo:AAGBfm0AAAAAXYLUTmpjyAg8zJ5rzKh_lItyTTEZFgCe&scisig=AAGBfm0AAAAAXYLUTopT3sHZSbc7v7IDPGl8RZGzAc18&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Bunlar sfalerit ve stannitle fahlerz içinde ufak '
+                     'tanecikler halinde izlenen kalkopiritler ise fah- lerz\n'
+                     'ile aynı zamanda oluşmuşlardır. Bunların dışında galenit '
+                     've tüm mineralleri damarcıklar şeklinde\n'
+                     'kesen kalkopirit, Madenbelenitepe cevherleşmesinin en '
+                     'genç .mineralidir … \n',
+         'author': 'A Çağatay and Y Altun and B Arman',
+         'eprint': 'https://dergipark.org.tr/download/article-file/589100',
+         'title': 'Madenbelenitepe (Soğukpinar-Bursa) Kalay Cevherleşmesinin '
+                  'Mineralojisi',
+         'url': 'https://dergipark.org.tr/download/article-file/589100'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '3769348131091087647',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:H4F3hCdqTzQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RT2Y:AAGBfm0AAAAAXYLUV2aVuROQTP_GsdIrLifzkIqKfxS-&scisig=AAGBfm0AAAAAXYLUV9mfjalPKFa13XwHs9NrKFW9sm5o&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'author': 'O Schulz',
+         'title': 'Neuergebnisse über die Entstehung paläozoischer '
+                  'Erzlagerstätten am Beispiel der Nordtiroler Grauwackenzone'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '5228033938023199761',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ETSP1Sq1jUgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RT2Y:AAGBfm0AAAAAXYLUV2aVuROQTP_GsdIrLifzkIqKfxS-&scisig=AAGBfm0AAAAAXYLUV25wYBuZLPfkbIcqMK2m7BgtEWnO&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Fahlbands have a characteristic rusty-brown appearance '
+                     'on weathering] ● Fahlband n,\n'
+                     'sulfidgehärtete Schieferlage f fahlore, gray copper ore, '
+                     'grey copper ore; fahlerz [German];\n'
+                     '(CU,Fe)12As4S13 ● Fahlerz n fahlore, tetrahedrite, gray '
+                     'copper ore, panabase, grey copper … \n',
+         'author': 'H Herrmann and H Bucksch',
+         'title': 'fast',
+         'url': 'https://link.springer.com/content/pdf/10.1007/978-3-642-41714-6_60326.pdf'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '5810361161859271852',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:rAxZLbGMolAJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RT2Y:AAGBfm0AAAAAXYLUV2aVuROQTP_GsdIrLifzkIqKfxS-&scisig=AAGBfm0AAAAAXYLUV45FIXWXhcm_f_UYM1HtH-P-pLA6&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Huijsmans and R Krauß and R Stibich',
+         'title': 'Prähistorischer Fahlerzbergbau in der Grauwackenzone: '
+                  'Neolithische und bronzezeitliche Besiedlungsgeschichte und '
+                  'Kupfermetallurgie im Raum …'},
+ 'citedby': 15,
+ 'id_scholarcitedby': '16387147230106993316',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pMKNPJXXauMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RT2Y:AAGBfm0AAAAAXYLUV2aVuROQTP_GsdIrLifzkIqKfxS-&scisig=AAGBfm0AAAAAXYLUV6g1-PwXQCmhWv6n18HG_BR17cEQ&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Das und der Umstand, daß in der Natur gesetzmäßige und '
+                     'sogar Parallelverwachsungen von\n'
+                     'Fahlerz und Zinkblende 1 einerseits, von Fahlerz mit dem '
+                     'der Zinkblende strukturell so nahe\n'
+                     'verwandtem 2 Kupferkies 1 andrerseits, ebenso wie von '
+                     'Kupferkies und Blende 1 … \n',
+         'author': 'F Machatschki',
+         'eprint': 'http://www.geologi.no/images/NJG_articles/NGT_10_1_2_023-032.pdf',
+         'title': 'Formel und Kristallstruktur des Tetraedrites',
+         'url': 'http://www.geologi.no/images/NJG_articles/NGT_10_1_2_023-032.pdf'},
+ 'citedby': 28,
+ 'id_scholarcitedby': '1933963702290996036',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RNuNm73R1hoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RT2Y:AAGBfm0AAAAAXYLUV2aVuROQTP_GsdIrLifzkIqKfxS-&scisig=AAGBfm0AAAAAXYLUV9YgdinX5qHLtGO2e-1xdZArdN66&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'author': 'H Meixner',
+         'title': 'Das angeblich „Fournetit “-artige Fahlerz aus der '
+                  'Magnesitlager stätte Veitsch (Steiermark)'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '3744638156370950812',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nDrdMpCg9zMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RT2Y:AAGBfm0AAAAAXYLUV2aVuROQTP_GsdIrLifzkIqKfxS-&scisig=AAGBfm0AAAAAXYLUV6h2kZo-HNf_SzSuoxwFLTUtZ_b2&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'author': 'W LUKAS',
+         'title': 'Die Siderit-Fahlerz-Kupferkies-Lagerstätte des Arzberges '
+                  'bei Schwaz in Tirol'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '7952379912046084856',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-IJ1gGWHXG4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RT2Y:AAGBfm0AAAAAXYLUV2aVuROQTP_GsdIrLifzkIqKfxS-&scisig=AAGBfm0AAAAAXYLUV8RqEqcZ9d629iWuWPcNNM-8c9q6&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'author': 'O Schulz and E Schroll',
+         'title': 'Pb-Zn-(Fahlerz) Erzbezirk Anis Nordtiroler Kalkalpen'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '13287811758906455005',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3bPgk2TKZ7gJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RT2Y:AAGBfm0AAAAAXYLUV2aVuROQTP_GsdIrLifzkIqKfxS-&scisig=AAGBfm0AAAAAXYLUV8IPxbl-DtP5UBGDDvfOfw_9s3eX&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… ich beobachten, daß Fahlerz von Magnetkies verdrängt '
+                     'und von diesem in winzigen Körnchen\n'
+                     'einge- schlossen wird. Auch ged. Wismut war in einem '
+                     'Fall zu bestimmen. VOHRYZKA (1968)\n'
+                     'beschreibt weiters noch von der „Brunnalm" '
+                     'Boulangerit-Y^örner im Fahl- erz und … \n',
+         'author': 'F Vavtar',
+         'eprint': 'https://www.zobodat.at/pdf/VeroeffFerd_57_0153-0162.pdf',
+         'title': 'Drei Kupfer-Lagerstätten in den Kitzbüheler Alpen '
+                  '(„Brunnalm “,„Blaufeldalm “und „Ottneralm “) im Rahmen '
+                  'einer paläozoischen Genese',
+         'url': 'https://www.zobodat.at/pdf/VeroeffFerd_57_0153-0162.pdf'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '18348311667430964770',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Ir5gfT9Mov4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RT2Y:AAGBfm0AAAAAXYLUV2aVuROQTP_GsdIrLifzkIqKfxS-&scisig=AAGBfm0AAAAAXYLUVwk8xSLrRmiRZxbEHMm-pfpbpzTj&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In diesen Perioden wur- den nicht nur arsen-, blei- '
+                     'und nickelhaltige Kupfererze, wie Fahlerz,\n'
+                     'Covellin, Chalkosin, Bornit, Nickelin und Ar … '
+                     'Rückschlüsse auf das verwendete arsenhaltige Fahl-\n'
+                     'erz bei den Versuchen von Lorscheider sind von den Spu- '
+                     'renelementgehalten im … \n',
+         'author': 'F Lorscheider and A Maass and D Steininger',
+         'eprint': 'http://www.academia.edu/download/30211772/Lorscheider_Maass_Steiniger_2003.pdf',
+         'title': 'Frühe Kupferproduktion-archäologischer Befund und '
+                  'Experiment: Versuche zur Fahlerzverhüttung in einem '
+                  'einzigen Ofengang',
+         'url': 'http://www.academia.edu/download/30211772/Lorscheider_Maass_Steiniger_2003.pdf'},
+ 'citedby': 8,
+ 'id_scholarcitedby': '13271308361077790062',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bpW21qMoLbgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RT2Y:AAGBfm0AAAAAXYLUV2aVuROQTP_GsdIrLifzkIqKfxS-&scisig=AAGBfm0AAAAAXYLUVyc4uhSQ-IttFUlVLK6PYHm0iA0_&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The chemical and mineralogical analysis of the ore '
+                     'sample indicated that the ore consisted of\n'
+                     'predominantly quartz/clay (52.2% SiO2) and barite (17.1% '
+                     'Ba), and to a less extent, sulphide\n'
+                     'minerals such as pyrite, antimonite, sphalerite, fahlerz '
+                     '(eg tetrahedrite) and zinkenite … \n',
+         'author': 'O Celep and I Alp and H Deveci and M Vicil',
+         'eprint': 'http://www.academia.edu/download/46274808/Characterization_of_refractory_behaviour20160606-25808-1fjckft.pdf',
+         'title': 'Characterization of refractory behaviour of complex '
+                  'gold/silver ore by diagnostic leaching',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1003632608603374'},
+ 'citedby': 58,
+ 'id_scholarcitedby': '8529768159906043810',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ohej4_LSX3YJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RegI:AAGBfm0AAAAAXYLUYgK4uFfTF9fA4jzhsT7DahDpacL6&scisig=AAGBfm0AAAAAXYLUYut1-Zhmu-HozdYd5jcrk5KQSyFW&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Diğer mineraller tarafından ornatılarak, yer yer '
+                     'iskelet şekli almıştır. Pirit içinde sokulum\n'
+                     'şeklinde kalkopirit, galenit, sfalerit, fah- lerz '
+                     'tanecikleri izlenmektedir … 17 Page 4. ÇAĞATAY\n'
+                     '- ARMAN Fahlerz Az miktarda iki ayrı türde izlenmektedir '
+                     '… \n',
+         'author': 'A ÇAĞATAY and B ARMAN',
+         'eprint': 'http://www.jmo.org.tr/resimler/ekler/8dfece5cc682492_ek.pdf?dergi=TURKIYEJEOLOJIBULTENI',
+         'title': 'Bolkardağ Sulucadere (Ulukışla-Niğde) kalay içerikli '
+                  'çinko-kurşun cevherleşnıesinin mineralojisi',
+         'url': 'http://www.jmo.org.tr/resimler/ekler/8dfece5cc682492_ek.pdf?dergi=TURKIYEJEOLOJIBULTENI'},
+ 'citedby': 6,
+ 'id_scholarcitedby': '10029937327552841501',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Hcc3yNt-MYsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RegI:AAGBfm0AAAAAXYLUYgK4uFfTF9fA4jzhsT7DahDpacL6&scisig=AAGBfm0AAAAAXYLUYhsard3bS0xQlsHmV--lhscgzO7c&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… An sulfidischen Erzen konnten Kupferkies, Fahlerz, '
+                     'Magnetkies, Arsenkies, Mar- kasit und\n'
+                     'Pyrit, an karbonatischen Erzen Ankerit, Siderit und '
+                     'Malachit beobachtet werden … Er findet\n'
+                     'sich neben Kupferkies, Pyrit, Arsenkies und Fahlerz im '
+                     'Quarzgefüge … \n',
+         'author': 'H Wenger',
+         'eprint': 'http://www.zobodat.at/stable/pdf/VeroeffFerd_57_0171-0184.pdf',
+         'title': 'Horizontgebundene Eisen-Kupferkies-Vererzung in der '
+                  'Innsbrucker Quarzphyllitzone',
+         'url': 'http://www.zobodat.at/stable/pdf/VeroeffFerd_57_0171-0184.pdf'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '3356465968075891490',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IuPZvwOQlC4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RegI:AAGBfm0AAAAAXYLUYgK4uFfTF9fA4jzhsT7DahDpacL6&scisig=AAGBfm0AAAAAXYLUYuQO3dtizSEtggBatq55ruTzyWeT&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'author': 'HP Bojar and A Mogessie and OAR Thalhammer',
+         'title': 'Die Mineralogie und Genese der Elektrum-Arsenopyrit '
+                  'Vererzung am Strassegg, Breitenau am Hochlantsch/Gasen '
+                  'Steiermark, Osterreich'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '333420858463998296',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WNFzFYGMoAQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RegI:AAGBfm0AAAAAXYLUYgK4uFfTF9fA4jzhsT7DahDpacL6&scisig=AAGBfm0AAAAAXYLUYi92v-neSAKZbaxjylTjQBDWOVyg&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1867), he states that true Silver- fahlerz, or '
+                     'Polytelite, is "found in quantity in this country and '
+                     'mined\n'
+                     'for the silver it contains." Being at present occupied '
+                     'in the preparation of a work on British\n'
+                     'Mineralogy, this information was very acceptable and at '
+                     'once in- duced me to visit the … \n',
+         'author': 'D Forbes',
+         'eprint': '/scholar?output=instlink&q=info:-gg0eavSnsQJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=12125593569642580729&oi=lle',
+         'title': 'Researches in British mineralogy',
+         'url': 'https://www.cambridge.org/core/journals/geological-magazine/article/researches-in-british-mineralogy/12A138681D111D40F7B34AC4DABC9004'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '14167993111668852986',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-gg0eavSnsQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RegI:AAGBfm0AAAAAXYLUYgK4uFfTF9fA4jzhsT7DahDpacL6&scisig=AAGBfm0AAAAAXYLUYnwyDHkBrYMzosliq3N9nKcCVCRQ&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Eutectoid with pyrrhotite, with proportions of x: •. '
+                     'It is here com- monly in a reaction margin with\n'
+                     'pyrrhotite of precipitated fahlerz … Native antimony '
+                     'Pyrite Dyscrasite Jamesonite Electrum\n'
+                     'Arsenopyrite Chalcopyrite Fahlerz Sb-bearing silver '
+                     '(danaite, a cobalt- Cubanite Ag--fahlerz … \n',
+         'author': 'E Sampson',
+         'eprint': 'https://pubs.geoscienceworld.org/segweb/economicgeology/article-pdf/36/2/175/3477736/175.pdf',
+         'title': 'Notes on the occurrence of gudmundite',
+         'url': 'https://pubs.geoscienceworld.org/segweb/economicgeology/article-abstract/36/2/175/15661'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '6381486651157607784',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:aHUldUyYj1gJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RegI:AAGBfm0AAAAAXYLUYgK4uFfTF9fA4jzhsT7DahDpacL6&scisig=AAGBfm0AAAAAXYLUYrVFafyUvPNXMyMW8Sh0li8PCUqQ&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Les minfraus suivants out 6t6 observ6s : pyrite, '
+                     'blende, chalcopyrite, galfine, b&ekhtinite, deux\n'
+                     'sulfosels de Bi, 41ectrum, bornite, chalcosine, '
+                     '6nargite, tennantite,<<Zn-Fahlerz>>, cuprite,\n'
+                     'delafossite, molybd6nite, h6matite et hydroxydes de fer, '
+                     'des carbonates de cuivre, dans … \n',
+         'author': 'BM Honnorez-Guerstein',
+         'title': 'Betekhtinite and bi-sulfosalts from the copper mine of „La '
+                  'Leona “(Argentina)',
+         'url': 'https://link.springer.com/article/10.1007/BF00206622'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '1225720327938991048',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yGPH5CSiAhEJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RegI:AAGBfm0AAAAAXYLUYgK4uFfTF9fA4jzhsT7DahDpacL6&scisig=AAGBfm0AAAAAXYLUYsKipIkPyLr7eXNt2ayU9Rr587kk&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'author': 'H Schürenberg',
+         'title': 'Über iranische Kupfererzvorkommen mit komplexen '
+                  'Kobalt-Nickelerzen'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '10589143273194766697',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:acF9CrQx9JIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RegI:AAGBfm0AAAAAXYLUYgK4uFfTF9fA4jzhsT7DahDpacL6&scisig=AAGBfm0AAAAAXYLUYk5w7qxKtsOilyLdOrmTggWwHLp6&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Zu Bleiglanz und Zinkblende, die immer, wenn auch '
+                     'manchmal recht untergeordnet,\n'
+                     'vorhanden sind, gesellen sich Boulangerit, Bournonit, '
+                     'Fahlerz und Linneit … Mit Bleiglanz\n'
+                     'erscheinen Fahlerz, Boulangerit, Boumonit und ein Teil '
+                     'des Kupferkieses … \n',
+         'author': 'D Schachner',
+         'title': 'Die Erzparagenese von Maubach und Mechernich und ihre '
+                  'genetische Bedeutung.',
+         'url': 'https://www.schweizerbart.de/papers/zdgg_alt/detail/110/50779/Die_Erzparagenese_von_Maubach_und_Mechernich_und_ihre_genetische_Bedeutung'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '5479732968966944566',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NndFNxrsC0wJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RegI:AAGBfm0AAAAAXYLUYgK4uFfTF9fA4jzhsT7DahDpacL6&scisig=AAGBfm0AAAAAXYLUYrrbw5EeaNupqmXQcFPqW8u1plrv&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… sich in ihrem Erztyp und ihrer Entstehungsgeschichte '
+                     'zum Teil deutlich unterscheiden: ln den\n'
+                     'mylonitisierten Kellerjochgnei- sen (Mittelostalpin) '
+                     'südöstlich von Schwaz finden sich an der\n'
+                     'Grenze zum Oberostalpin diskordante Sideritgänge mit '
+                     'Chalkopyrit, Galenit und Fahlerz … \n',
+         'author': 'T Arlt and KP Martinek',
+         'title': 'Die Mineralvorkommen des Bergbaugebietes Schwaz-Brixlegg',
+         'url': 'https://www.researchgate.net/profile/Klaus_Peter_Martinek/publication/264672635_Die_Mineralvorkommen_des_Bergbaugebietes_Schwaz-Brixlegg/links/53eba6ff0cf202d087cdcb90.pdf'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '9080894440328688737',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YXScfmHRBX4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RegI:AAGBfm0AAAAAXYLUYgK4uFfTF9fA4jzhsT7DahDpacL6&scisig=AAGBfm0AAAAAXYLUYiQ--2FClRaEJ2tN4BSiaQf2wJXg&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… SIB,—Mr. David Forbes in a paper in the November '
+                     'number of the London and Edinburgh\n'
+                     'Philosophical Magazine, under the title of " Eesearches '
+                     'in British Mineralogy," gives the results\n'
+                     'of an analysis made by himself of a silver-fahlerz from '
+                     'the Fox-dale silver-lead mine, in the … \n',
+         'author': 'T Davies',
+         'eprint': '/scholar?output=instlink&q=info:CfJsVhwxSlQJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=17341127413650084847&oi=lle',
+         'title': 'Researches in British Mineralogy',
+         'url': 'https://www.cambridge.org/core/journals/geological-magazine/article/researches-in-british-mineralogy/3F4E09C6EEEA0F7B76E73496E3EB4AD5'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '6073721045241360905',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CfJsVhwxSlQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RdMA:AAGBfm0AAAAAXYLUbMAk_aO1mghGeOjiL2u6XMhC76H4&scisig=AAGBfm0AAAAAXYLUbJNauHsJvKKyL5EHLkRzGV3SXVOA&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… erklären. Bei anderen Exemplaren war der Antimongehalt '
+                     'in jedem Fall von Arsen\n'
+                     'begleitet, was sehr wahrscheinlich auf die Benützung von '
+                     'Fahlerz hinweist … Elemente.\n'
+                     'Das Antimon kann also nur teilweise von Fahlerz stammen '
+                     '… \n',
+         'author': 'Z Czajlik',
+         'eprint': 'http://www.academia.edu/download/45562976/BMM_6.pdf#page=168',
+         'title': 'Lokaler, regionaler oder Fernhandel? Probleme der '
+                  'spätbronzezeitlichen Metallversorgung am Velem–St. Veit '
+                  'Berg (Westungarn)',
+         'url': 'http://www.academia.edu/download/45562976/BMM_6.pdf#page=168'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '6264648345014162487',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:N9ROb3qA8FYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RdMA:AAGBfm0AAAAAXYLUbMAk_aO1mghGeOjiL2u6XMhC76H4&scisig=AAGBfm0AAAAAXYLUbPnqSsFTQUMEQVukBm35GXj7RDhC&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… In general, it is replaced by late stage sulphides, '
+                     'especially by fahlerz. Hematite … It is\n'
+                     'found veining and replacing sphalerite and fahlerz '
+                     'grains enclosed in sphalerite and\n'
+                     'infiltrates along quartz grain boundaries. '
+                     'Goethite-lepidocrocite … \n',
+         'author': 'ÖT Akinci',
+         'eprint': 'https://dergipark.org.tr/download/article-file/44496',
+         'title': 'The mineralogy and crystallization processes of the '
+                  'Bulancak sulphide veins',
+         'url': 'https://dergipark.org.tr/bulletinofmre/issue/3919/52190'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '17027672971829134531',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:w0Rl9VlyTuwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RdMA:AAGBfm0AAAAAXYLUbMAk_aO1mghGeOjiL2u6XMhC76H4&scisig=AAGBfm0AAAAAXYLUbIjsOalfQ2rdIschQiehSVbI21VO&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'author': 'R Canaval and II Teil',
+         'title': 'Das Vorkommen silberhaltiger Bleierze am Calesberg (Monte '
+                  'Calisio) bei Trient.'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '18208941502439756966',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:phTKRNIns_wJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RdMA:AAGBfm0AAAAAXYLUbMAk_aO1mghGeOjiL2u6XMhC76H4&scisig=AAGBfm0AAAAAXYLUbCA4FZexJfSe0eZp3yFUws_bKWFg&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Fahlbands have a characteristic rusty-brown appearance '
+                     'on weathering] ● Fahlband n,\n'
+                     'sulfidgehärtete Schieferlage f fahlore, gray copper ore, '
+                     'grey copper ore; fahlerz [German];\n'
+                     '(CU,Fe)12As4S13 ● Fahlerz n fahlore, tetrahedrite, gray '
+                     'copper ore, panabase, grey copper … \n',
+         'author': 'H Herrmann and H Bucksch',
+         'title': 'foundation activities',
+         'url': 'https://link.springer.com/content/pdf/10.1007/978-3-642-41714-6_62578.pdf'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14651601055869417907',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:s7nVZYjxVMsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RdMA:AAGBfm0AAAAAXYLUbMAk_aO1mghGeOjiL2u6XMhC76H4&scisig=AAGBfm0AAAAAXYLUbILAp5i9sHqfxNMStVCHFyPjyLsE&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Die untersuchten Minerale entstammen einer Quelle, '
+                     'welehe hinsiehtlich der Identit~it der\n'
+                     'Fundorte, vollkommene Garantie bietet, i) Die '
+                     'analysirten Fahlerze sind folgende: 1. Krystallisirtes\n'
+                     'Fahlerz yon Kapnikb4,nya: Tetra~drisehe Krystalle mit '
+                     'Sphalerit und Quarz … \n',
+         'author': 'K Hidegh',
+         'title': 'chemische Analyse ungarischer Fahlerze',
+         'url': 'http://www.springerlink.com/index/A18Q223W2XJ50H7Q.pdf'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '11470738745744082312',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:iMViWx1AMJ8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RdMA:AAGBfm0AAAAAXYLUbMAk_aO1mghGeOjiL2u6XMhC76H4&scisig=AAGBfm0AAAAAXYLUbM1o_pkMpd5z46iAfkT3Nco__BCt&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Braum-Eisenstein. nach Eisenspath . . . . . '
+                     'Kupferpecherz nach Kupferkies . . . . . b. .\n'
+                     'Kupferpecherz nach Fahlerz - . . . . c. . Kupferindig '
+                     'nach Kupferkies . . . . . Malachit nach\n'
+                     'Kupferkies - - - - - b. . Malachit nach Fahlerz . . . . '
+                     '. c. - Kupferlasur nach Fahlerz … \n',
+         'author': 'JR Blum',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=mNZhAAAAcAAJ&oi=fnd&pg=PA28&dq=fahlerz&ots=YcWB_U4yBC&sig=UmDkdMISJfbsfpTCViMjVNOTBU4',
+         'title': 'Nachtrag zu den Pseudomorphosen des Mineralreichs: nebst '
+                  'einem Anhange über die versteinerungs-und '
+                  'vererzungs-Mittel, organischer Körper',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=mNZhAAAAcAAJ&oi=fnd&pg=PA28&dq=fahlerz&ots=YcWB_U4yBC&sig=UmDkdMISJfbsfpTCViMjVNOTBU4'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '11266300378911984787',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:k8zl0YDwWZwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RdMA:AAGBfm0AAAAAXYLUbMAk_aO1mghGeOjiL2u6XMhC76H4&scisig=AAGBfm0AAAAAXYLUbBQiIzpHJ1HpitHnp4_Zy3lZ4SGZ&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'author': 'FN Guild',
+         'title': 'The micro-texture and pargenesis of stromeyerite: '
+                  'Schweizer'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '4960504615924679111',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:x0HgkqpA10QJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RdMA:AAGBfm0AAAAAXYLUbMAk_aO1mghGeOjiL2u6XMhC76H4&scisig=AAGBfm0AAAAAXYLUbAlG5gBj8-sGH9CIFGrLu3JTAbWL&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Der relativ hohe Gehalt an As und Sb wird auf die '
+                     'primären Kupfervererzungen (Fahlerz)\n'
+                     'zurückgeführt … 0 0 0,9 (<1 ) 0,4 (<1 ) 57,5 M M Fahlerz '
+                     'Ober-Troi A/2 9 52,9 (4) 1,5 (2) 0 0 0 1,3\n'
+                     '(1) 0,2 (<1 ) 55,9 A/3 5 43,4 (5) 1,6 (1) 4,0 (1) 0 28,4 '
+                     '(4) 4,2 (2) 1 19,5 (1) 101,1 … \n',
+         'author': 'VF BRANDSTÄTTEE and R SEEMANNX',
+         'eprint': 'https://www.zobodat.at/pdf/ANNA_85A_0085-0092.pdf',
+         'title': '„Malachit-Excentriques" auf Kupfervererzungen in '
+                  'paläozoischen Gesteinsserien Eärntens und Tirols',
+         'url': 'https://www.zobodat.at/pdf/ANNA_85A_0085-0092.pdf'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '16013297724610190933',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VR72PXCpOt4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RdMA:AAGBfm0AAAAAXYLUbMAk_aO1mghGeOjiL2u6XMhC76H4&scisig=AAGBfm0AAAAAXYLUbPrP8jfuTvwUdo2vWa15UwyPYL6n&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… TETRAHEDRITE - TENNANTITE The existence of fahlerz in '
+                     'the area was first recognised by\n'
+                     'CT Clough (in Dakyns et al … This was checked '
+                     'thoroughly, as reports of lead in fahlerz have\n'
+                     'previously been discounted as impurity, but in this case '
+                     'the mineral appears homogeneous … \n',
+         'author': 'AT Small',
+         'eprint': '/scholar?output=instlink&q=info:PrDXFhZwHcwJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=12394399776030009413&oi=lle',
+         'title': 'New data on tetrahedrite, tennantite, chalcopyrite and '
+                  'pyromorphite from the Cumbrian and North Yorkshire Pennines',
+         'url': 'https://pygs.lyellcollection.org/content/44/2/153.short'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14708035198236733502',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PrDXFhZwHcwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RdMA:AAGBfm0AAAAAXYLUbMAk_aO1mghGeOjiL2u6XMhC76H4&scisig=AAGBfm0AAAAAXYLUbDspH8majKRusD41zxtaCQNTIojD&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M MARTIN',
+         'title': 'Zur Sekundärmineralisation der Freiamt–Sexauer Erzgänge'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '16465266024811858305',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gQk4fTZggOQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rbn8:AAGBfm0AAAAAXYLUdn-Chr04iDrDBL0z1XwOPASVNW3s&scisig=AAGBfm0AAAAAXYLUdhbs26KnFZRB4ZI9R-Nr2E96bu1o&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Prim~ire Erzminerale sind Pyrit, Arsenkies, '
+                     'Kupferkies, Zinkblende, Magnetkies, Fahlerz, Cubanit,\n'
+                     'Mackinawit, Bleiglanz und Gold … The primary ore '
+                     'minerals are pyrite, arsenopyrite, chalcopyrite,\n'
+                     'sphalerite, pyrrhotite, fahlerz, cubanite, mackinawite, '
+                     'galena and native gold … \n',
+         'author': 'F Vavtar',
+         'title': 'Ein polymetallisches Erzlager in Paragneisen des Wörgetales '
+                  '(Ötztaler Kristallin)',
+         'url': 'https://link.springer.com/article/10.1007/BF01081844'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '14156918489781532054',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lnWWIVx6d8QJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rbn8:AAGBfm0AAAAAXYLUdn-Chr04iDrDBL0z1XwOPASVNW3s&scisig=AAGBfm0AAAAAXYLUdmcxkTKGRuZtROdTcLi5UESGpY8t&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Samples collected from Madenbelenitepe area contain '
+                     'stannite group minerals, ie stannite,\n'
+                     'isostannite, hexastannite, minor cassiterite and other '
+                     'metallic minerals such as arsenopyrite,\n'
+                     'pyrite, sphalarite, galenite, fahlerz '
+                     '(tennantite-tetrahedrite), bournonite, chalcopyrite … \n',
+         'author': 'A ÇAĞATAY and Y ALTUN and B ARMAN',
+         'eprint': 'https://dergipark.org.tr/download/article-file/44488',
+         'title': 'MINERALOGY OF THE MADENBELENITEPE (SOĞUKPINAR-BURSA) TIN '
+                  'MINERALIZATION',
+         'url': 'https://dergipark.org.tr/bulletinofmre/issue/3918/52182'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '16770922920971396363',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:C-X0W4pJvugJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rbn8:AAGBfm0AAAAAXYLUdn-Chr04iDrDBL0z1XwOPASVNW3s&scisig=AAGBfm0AAAAAXYLUdpFAB3fmFO9WEnVDwSUpsXjKI01C&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 1867), he states that true Silver- fahlerz, or '
+                     'Polytelite, is "found in quantity in this country and '
+                     'mined\n'
+                     'for the silver it contains." Being at present occupied '
+                     'in the preparation of a work on British\n'
+                     'Mineralogy, this information was very acceptable and at '
+                     'once in- duced me to visit the … \n',
+         'author': 'W Whitaker',
+         'eprint': '/scholar?output=instlink&q=info:5O52C35GBwQJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=15277206334596177001&oi=lle',
+         'title': 'Subaerial denudation',
+         'url': 'https://www.cambridge.org/core/journals/geological-magazine/article/subaerial-denudation/46C774FD0AD06174F1538724643ED05A'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '290278208160853732',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5O52C35GBwQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rbn8:AAGBfm0AAAAAXYLUdn-Chr04iDrDBL0z1XwOPASVNW3s&scisig=AAGBfm0AAAAAXYLUdjL5eckDlaY_xstRIn3olt0zKJJi&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Cevherleşmelerde galenit, sfalerit ve barit hakim '
+                     'mineraller olup, pirit, kalkopirit, fahlerz '
+                     '(tennantit),\n'
+                     'markazit, kalkosin, kovellin, bornit, tenörit ve kuvars '
+                     'az miktarlarda bileşime katılmaktadır … ve\n'
+                     'III. evreler; galenit, sfalerit, kalkopirit, fahlerz, '
+                     'bornit ve markazit, IV … \n',
+         'author': 'G Bozkaya and A Gökçe',
+         'title': 'Koru (Çanakkale) Pb-Zn yataklarının jeolojisi, cevher '
+                  'mikroskopisi ve sıvı kapanım özellikleri',
+         'url': 'https://acikerisim.cumhuriyet.edu.tr/xmlui/handle/20.500.12418/1213'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '3405272918742636432',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kJfpfK31QS8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rbn8:AAGBfm0AAAAAXYLUdn-Chr04iDrDBL0z1XwOPASVNW3s&scisig=AAGBfm0AAAAAXYLUdi2VaDCzOqWihBkoxvoRpw1UMH_H&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… I und Fahl erz ausgeheilt waren (Abb. 5 und 6). '
+                     'Vereinzelt treten neben dem Kupferkies auch\n'
+                     'Körner von Bornit auf (Abb. 5). Gleich altrig mit dem '
+                     'Bournonit I sind Körner von Zinkblende I,\n'
+                     'die von Kupferkies I verdrängt werden. Neben diesem '
+                     'tritt reich lich Fahlerz auf, welches … \n',
+         'author': 'A Weiss',
+         'eprint': 'http://www.zobodat.at/pdf/Archiv-Lagerstaettenkde-Ostalpen_6_0198-0218.pdf',
+         'title': 'Geologisch-lagerstättenkundliche Aufnahme des '
+                  'Klinger-Baues, der Gamsgebirgs-. Zechen und des '
+                  'Goisern-Baues in Oberzeiring',
+         'url': 'http://www.zobodat.at/pdf/Archiv-Lagerstaettenkde-Ostalpen_6_0198-0218.pdf'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '260295070472225568',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IENIzPzAnAMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rbn8:AAGBfm0AAAAAXYLUdn-Chr04iDrDBL0z1XwOPASVNW3s&scisig=AAGBfm0AAAAAXYLUdhVURdIv9cfvVzFdT-7AiXgXlzJD&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. | _ Page 2. Page 3. - - - - - A - - - - - W- - - '
+                     'T - - * * Österreichische\n'
+                     'Nationalbibliothek L- U - A - - – - E- - - - - TTT- - - '
+                     '- - Sº --Cºº V - - - F - --- T - D TT - - - -\n'
+                     '- r - - - - - T - - - - - & Page 4. - ---- v Page 5. '
+                     'Page 6. Page 7 … \n',
+         'author': 'F Pfaff',
+         'eprint': 'https://books.google.com/books?hl=en&lr=&id=qZuBX2vWuq8C&oi=fnd&pg=PR17&dq=fahlerz&ots=nGQkB_nj47&sig=NTSuxnwnJUicLS7t9ApUeeiKNM4',
+         'title': 'Grundriss der mathematischen Verhältnisse der Krystalle',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=qZuBX2vWuq8C&oi=fnd&pg=PR17&dq=fahlerz&ots=nGQkB_nj47&sig=NTSuxnwnJUicLS7t9ApUeeiKNM4'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '18351630980119343825',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0TIRMyUXrv4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rbn8:AAGBfm0AAAAAXYLUdn-Chr04iDrDBL0z1XwOPASVNW3s&scisig=AAGBfm0AAAAAXYLUdopXj-3aqf_GJ0QkR0Ao5WnB4lIa&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Antimony, arsenic, and bismuth are not only '
+                     'concentrated as admixtures, but form their own\n'
+                     'minerals, of which the most typical is fahlerz. A much '
+                     'smaller part of the arsenic is also combined\n'
+                     'with arsenopyrite … Sb Hg I Fahlerz Cinnabar Uraninite '
+                     'Hematite Pyrite Femolite Fahlerz … \n',
+         'author': 'GI Rossman and NA Stepanova and IV Sychev…',
+         'title': 'Antimony, bismuth, arsenic, and other elements in ore '
+                  'bodies and haloes of a uranium-molybdenum deposit',
+         'url': 'http://www.springerlink.com/index/M342161734222412.pdf'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '838298116184565041',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MWUP97E7ogsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rbn8:AAGBfm0AAAAAXYLUdn-Chr04iDrDBL0z1XwOPASVNW3s&scisig=AAGBfm0AAAAAXYLUdhPClkw4IfPAepwXbjwn-z7im0K0&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Consul Haeh- ner in Livorno bei seiner Anwesenheit in '
+                     'Freiberg ein Stuck Fahlerz von Val di\n'
+                     'Castello bei Pietra Santa zur Untersuchung gegeben … Das '
+                     'Fahlerz von der Grube Guglielino bei\n'
+                     'Val di Castello geliiirte zu der Varietat der Fahlerze, '
+                     'welche inan Scliwarzerze nennt … \n',
+         'author': 'C Kersten',
+         'title': 'Untersuchung eines quecksilberhaltigen Fahlerzes von Val di '
+                  'Castello in Toscana',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.18431350512'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '4250366358737252516',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pPDNEa9V_DoJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rbn8:AAGBfm0AAAAAXYLUdn-Chr04iDrDBL0z1XwOPASVNW3s&scisig=AAGBfm0AAAAAXYLUdiaoUtaQOY2aF8-xmSbK9XLLexdI&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Tel est le cas, par exemple, de la cobaltine, de '
+                     'certains mispickels réfractaires, de la tétraèdrite\n'
+                     '(fahlerz), etc.; … Attaque de la chalcopyrite, de la '
+                     "bournonite ou du fahlerz par l'acide acétique ou\n"
+                     "l'ammoniaque, Réaction par l'acide rubéanique en milieu "
+                     'acétique … \n',
+         'author': 'PEE Wenger and G Gutzeit and T Hiller',
+         'eprint': 'https://archive-ouverte.unige.ch/unige:106109/ATTACHMENT01',
+         'title': "Sur un procédé d'attaque électrolytique des minéraux "
+                  'opaques et sur son application à la technique des" '
+                  'empreintes" de surfaces polies',
+         'url': 'https://archive-ouverte.unige.ch/unige:106109/ATTACHMENT01'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '15675032196701601282',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Ar41p7vmiNkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rbn8:AAGBfm0AAAAAXYLUdn-Chr04iDrDBL0z1XwOPASVNW3s&scisig=AAGBfm0AAAAAXYLUds-t23rTFHJtMB1YrWALiD09LFLy&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Die Primärerze (Bleiglanz, verschiedene Fahl- '
+                     'erz-Komponenten, Zinkblende) sind mehr oder\n'
+                     'weniger vollständig oxidiert, Reste der Sulfide werden … '
+                     'Bleiglanz führt bogenförmige Einschlüsse\n'
+                     'von Bournonit, daneben auch eher rundliche eines '
+                     'Fahlerzes (Fahlerz I mit Tetraedrit … \n',
+         'author': 'P Von WH and TT Chen and W GÜNTHER',
+         'eprint': 'https://www.researchgate.net/profile/Werner_Paar/publication/267299279_Extrem_silberreicher_Freibergit_in_Pb-Zn-Cu-Erzen_des_Bergbaues_Knappenstube_Hochtor_Salzburg/links/5507f55d0cf2d7a28126c6de.pdf',
+         'title': 'Extrem silberreicher Freibergit in Pb-Zn-Cu-Erzen des '
+                  'Bergbaues „Knappenstube", Hochtor, Salzburg',
+         'url': 'https://www.researchgate.net/profile/Werner_Paar/publication/267299279_Extrem_silberreicher_Freibergit_in_Pb-Zn-Cu-Erzen_des_Bergbaues_Knappenstube_Hochtor_Salzburg/links/5507f55d0cf2d7a28126c6de.pdf'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '8386990392504332386',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YrDVZ1OTZHQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RZtM:AAGBfm0AAAAAXYLUftPc062TXlUbLgoK-2z4XYD5F7al&scisig=AAGBfm0AAAAAXYLUfix9zJ5mmXSjygTY3qPw9riaYGF7&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Sind auch die Analysen von Fahlerzen in der minera- '
+                     'logisch-chemischen Literatur reichlich\n'
+                     'vcrtreten , so kann das vorliegende Material, ein '
+                     'Fahlerz aus dem Schwarzwalde , in seinen\n'
+                     'Untersuchungsresullaten aberinals Gegenstand einer '
+                     'kurzen Besprechung werden da die … \n',
+         'author': 'A Hilger',
+         'title': 'I. Mineral‐und Gesteinsanalysen',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.18771850210'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '7630449389704261172',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NC7rxUrN5GkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RZtM:AAGBfm0AAAAAXYLUftPc062TXlUbLgoK-2z4XYD5F7al&scisig=AAGBfm0AAAAAXYLUfuxsX43RVnAA-aIKPd8oZWl4WVAS&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Söz konusu yataklarda birincil cevher minerali olarak '
+                     'galenit, sfalerit, yanında eser miktarda pirit,\n'
+                     'kalkopirit, fahlerz (frayberjit), pirotin; İkincil '
+                     'mineral olarak serüzit, anglezit, smitsonit, götit, '
+                     'malakit,\n'
+                     'azurit, hemimorfit, hidrozinkit, lepidokrosit, gang '
+                     'minerali olarak ise, kalsit, dolomit … \n',
+         'author': 'MG Yalçın and S Altuncu',
+         'title': 'Meydan Yaylası (Niğde) civarı karbonatlı çinko-kurşun '
+                  'yataklarının mineralojisi ve jeokimyasal özellikleri',
+         'url': 'http://acikerisim.ohu.edu.tr/xmlui/handle/11480/2010'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '17836547376859099921',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EbMcUVYliPcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RZtM:AAGBfm0AAAAAXYLUftPc062TXlUbLgoK-2z4XYD5F7al&scisig=AAGBfm0AAAAAXYLUfsepMsEa7eVQPDNfT0xr9rlocuOZ&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Page 3. 165 Vohryzka hat in seiner bereits einleitend '
+                     'erwähnten Arbeit an Handstücken, wel-\n'
+                     'che er der Halde entnommen hatte, die Mineralien '
+                     'Kupferkies, Fahlerz, Eisenkar- bonat und\n'
+                     'Quarz beschrieben … Doch spielt Fahlerz im vererzten '
+                     'Bereich eine untergeordnete Rolle … \n',
+         'author': 'H WENGER',
+         'eprint': 'http://www.zobodat.at/stable/pdf/VeroeffFerd_57_0163-0169.pdf',
+         'title': 'Stellung und Genese des Eisen-und Kupfer-vorkommens bei der '
+                  'Krantalm, Kelchsau',
+         'url': 'http://www.zobodat.at/stable/pdf/VeroeffFerd_57_0163-0169.pdf'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '3717201550731851627',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:azfnpR0nljMJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RZtM:AAGBfm0AAAAAXYLUftPc062TXlUbLgoK-2z4XYD5F7al&scisig=AAGBfm0AAAAAXYLUfky1SmqIq3TktCgUNwXioCFhvG5-&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Fiir die Grube Baicolliou ist folgende Paragenese '
+                     'typisch: Kupferkies, Fahlerz, Pyrit (mehr als\n'
+                     '5 Vol … Ftir Brislenstock lautet die typische '
+                     'Mischerzpara- genesO: Bleiglanz, Kupferkies, '
+                     'Zinkblende,\n'
+                     'Pyrit, Magnetkies, Zinnkies, Argyrodit, gediegen Ag und '
+                     'Bi, Silberglanz, Fahlerz … \n',
+         'author': 'T Hügi and W Meier',
+         'title': 'Spektrographische Untersuchungen an schweizerischen '
+                  'Kupfererzen',
+         'url': 'http://www.springerlink.com/index/7U26M127284V9657.pdf'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '14907405658509290386',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kisYrna-4c4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RZtM:AAGBfm0AAAAAXYLUftPc062TXlUbLgoK-2z4XYD5F7al&scisig=AAGBfm0AAAAAXYLUfmJKbVFOPk-eE3CVEhDX_66aXu9M&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'author': 'IF vom Franzisci-Gange',
+         'title': 'IV. Ueber das Pribramer Fahlerz.'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:e1Vkk29uJ80J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RZtM:AAGBfm0AAAAAXYLUftPc062TXlUbLgoK-2z4XYD5F7al&scisig=AAGBfm0AAAAAXYLUfhItamY25qO6idW33PYuIidWBdNd&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Im Jahre 1881 machte ich am Franzisci-Gange in der '
+                     'Annagrube P~ ibrams einen grSsseren Anbruch yon '
+                     'Fahlerzen. Eine vorgenommene Probe einiger Stiicke ergab '
+                     'einen bedeutenden Silberhalt derselben, w~ ihrend andere '
+                     'Stiicke weniger Silber zeigten …',
+         'author': 'F Babanek',
+         'title': 'Ueber das Pribramer Fahlerz',
+         'url': 'http://www.springerlink.com/index/32104347471H26T6.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yAT-ZYYHWo0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RZtM:AAGBfm0AAAAAXYLUftPc062TXlUbLgoK-2z4XYD5F7al&scisig=AAGBfm0AAAAAXYLUfg_Tn6WOdONpxTu2wJvRvTixhhid&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Im Anschluss an meine früheren Arbeiten über Kupferkies '
+                     'und Blende unterwarf ich das Fahlerz einem genaueren '
+                     'Studium, mit besonderer Berücksichtigung der Beziehungen '
+                     'der drei Mineralien untereinander. Die Krystallform des '
+                     'Fahlerzes ist bis jetzt noch nicht …',
+         'author': 'A Sadebeck',
+         'title': 'Ueber Fahlerz und seine regelmässigen Verwachsungen',
+         'url': 'https://www.schweizerbart.de/papers/zdgg_alt/detail/24/58979/%23'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:6KP023nGMPYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RZtM:AAGBfm0AAAAAXYLUftPc062TXlUbLgoK-2z4XYD5F7al&scisig=AAGBfm0AAAAAXYLUfn6YR-Jli_sSgMxprgblZhPt8-Aa&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Mr. Forbes has treated the results of various assays '
+                     '(made for com- mercial purposes) which \n'
+                     'I quoted, as if intended by me as evidence of this '
+                     'mineral being identical in composition with \n'
+                     'that from the Fox-dale mine, which would have been '
+                     'absurd. The figures were given solely for …',
+         'author': 'T Davies',
+         'eprint': '/scholar?output=instlink&q=info:UKXvb3xEL_0J:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=13731548623152479187&oi=lle',
+         'title': 'Silver-Fahlerz in Cornwall',
+         'url': 'https://www.cambridge.org/core/journals/geological-magazine/article/silverfahlerz-in-cornwall/3D5C003A0D523DA3967B571025C26468'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:UKXvb3xEL_0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RZtM:AAGBfm0AAAAAXYLUftPc062TXlUbLgoK-2z4XYD5F7al&scisig=AAGBfm0AAAAAXYLUfj1qOr5mGphgZB9fNbuj6gJPwQM9&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'u Friedrich Becke.(Mit Tafel IV.) Die Angaben fiber '
+                     'parallele Verwachsungen yon Fahlerz und Blende, die sich '
+                     'in der mineralogischen Literatur vorfinden, sind sehr '
+                     'sp~ rlich; die Erseheinung geh6rt zu den seltener '
+                     'beobachteten dieser Art. k. S adebeek l) sagt in seiner '
+                     '…',
+         'author': 'F Becke',
+         'title': 'Parallele Verwachsung von Fahlerz und Zinkblende',
+         'url': 'https://link.springer.com/article/10.1007/BF02992336'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LGtpMsNJu6gJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RZtM:AAGBfm0AAAAAXYLUftPc062TXlUbLgoK-2z4XYD5F7al&scisig=AAGBfm0AAAAAXYLUfsmEaLJc4u0ZMz-L_qlCOyqlv7W3&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Bericht: Chemische Analyse~ norganischer KOrper. 321 '
+                     'saure allehl besteht der Vortheil, dass sich kein '
+                     'Rackstand yon bleiund kupferhaltiger Antimon-oder '
+                     'Zinnsiiure ergibt. Die Weinsiture muss vor ihrer '
+                     'Verwendung auf ihre Reinheit gepraft sein. Ihre wassrige '
+                     'L (isung …',
+         'author': 'W Hampe',
+         'title': 'Zur Analyse von Speise, Fahlerz, Rothgiltigerz usw',
+         'url': 'http://www.springerlink.com/index/n3851381151037lk.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:w1WcG3LEgJcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RkOg:AAGBfm0AAAAAXYLUiOhY2L-xMURvBNUbDZqWEzUrY6Pp&scisig=AAGBfm0AAAAAXYLUiMeXf9RlPIJ2LBxod_wk1hSl6jbh&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Der Bergbau und die Verarbeitung von Kupfer begannen im '
+                     'späten Neolithikum und der frühen Bronzezeit. Im '
+                     'Alpenraum war dies am Ende des 3. Jahrtausends v. Chr. '
+                     'speziell in Salzburg und Graubünden [1]. Die alpinen '
+                     'Erze waren Sulfide wie Chalcopyrit CuFeS2 und …',
+         'author': 'R Haubner and F Ertl and S Strobl',
+         'eprint': 'https://www.researchgate.net/profile/Roland_Haubner2/publication/308900224_Untersuchungen_an_einem_Bronze_Gusskuchen_welcher_aus_Fahlerz_gewonnen_wurde/links/5875ed3408ae6eb871cc87ee/Untersuchungen-an-einem-Bronze-Gusskuchen-welcher-aus-Fahlerz-gewonnen-wurde.pdf',
+         'title': 'Untersuchungen an einem Bronze Gusskuchen welcher aus '
+                  'Fahlerz gewonnen wurde',
+         'url': 'https://www.researchgate.net/profile/Roland_Haubner2/publication/308900224_Untersuchungen_an_einem_Bronze_Gusskuchen_welcher_aus_Fahlerz_gewonnen_wurde/links/5875ed3408ae6eb871cc87ee/Untersuchungen-an-einem-Bronze-Gusskuchen-welcher-aus-Fahlerz-gewonnen-wurde.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:F2whzVHKcSQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RkOg:AAGBfm0AAAAAXYLUiOhY2L-xMURvBNUbDZqWEzUrY6Pp&scisig=AAGBfm0AAAAAXYLUiCiPjaVZmAS42qS_VuJiEofjrirl&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'author': 'C Zölyom and S Gömör',
+         'title': '… Hnilecs und endlich Zsakarosz und Göllnitz sind in '
+                  'Thon-schiefer aufsetzende Spatheisensteingänge, die '
+                  'gewöhnlich auch etwas Kupfererz und Fahlerz …'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Ork-aqE8VgYJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RkOg:AAGBfm0AAAAAXYLUiOhY2L-xMURvBNUbDZqWEzUrY6Pp&scisig=AAGBfm0AAAAAXYLUiN-dAYCHtoBxH5Og3gB-vQJ20i-t&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'author': 'TTMP Mitt',
+         'title': 'Unterdevonische Baryt-Fahlerz-Mineralisation und ihre '
+                  'steilachsige Verformung im Großkogel bei Brixlegg (Tirol) '
+                  '0. Schulz'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5am7_knvZD4J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RkOg:AAGBfm0AAAAAXYLUiOhY2L-xMURvBNUbDZqWEzUrY6Pp&scisig=AAGBfm0AAAAAXYLUiM2jAlroxElT51WmvZCt8IDhBB29&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '338 Peltzer, iiher Fahlerx. etwas Wasser und dient dazu, '
+                     'etwa iibergehende Antheile der Chlorverbindungen des '
+                     'Arsens und Antimons aufzufangen. Die concentrirte '
+                     'Aufliisurig wird, nach der Vereinigung init der '
+                     'Flussigkeit in der Vorlage, im IColben mit Ammoniak '
+                     'ubersittigt …',
+         'author': 'D Hermann Peltzer',
+         'title': 'Ueber Fahlerz',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/jlac.18631260310'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PutOkH3jPaQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RkOg:AAGBfm0AAAAAXYLUiOhY2L-xMURvBNUbDZqWEzUrY6Pp&scisig=AAGBfm0AAAAAXYLUiF55P9BqtlX0y2lfvlP9gLKl3oAQ&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Bekannt~ ich wies MH Klaproth im J. 1807 zuerst '
+                     'Quecksilber als seltenen Bestandtheil der Fahlerze nach, '
+                     'indem er durch Destillation von 200 Grail des,, derhen '
+                     'Graugiiltigerzes von Poratsch in Oberungarii re 12; Grau '
+                     'Quecksilber, davon 10 Gran als metallisches …',
+         'author': 'G Vom Rath',
+         'title': 'Ueber ein quecksilberreiches Fahlerz von Kotterbach (nahe '
+                  'bei Poratsch) in Oberungarn',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.18551721011'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Pi3ZHgqnjugJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RkOg:AAGBfm0AAAAAXYLUiOhY2L-xMURvBNUbDZqWEzUrY6Pp&scisig=AAGBfm0AAAAAXYLUiOkO8ZuYrOi6GdGeYKr299U25ip8&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'author': 'YY Zhdanov and VA Amuzinskiy…',
+         'eprint': '/scholar?output=instlink&q=info:ctxJCIqp61QJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=10529534740289327557&oi=lle',
+         'title': 'A Natural Variety of High-Silver Fahlerz with a Large '
+                  'Unit-Cell Parameter'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ctxJCIqp61QJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RkOg:AAGBfm0AAAAAXYLUiOhY2L-xMURvBNUbDZqWEzUrY6Pp&scisig=AAGBfm0AAAAAXYLUiKAMbYoecJZWnb36DnbJcrCG4z5z&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'author': 'F Sandberger',
+         'title': 'Blei-und Fahlerz-Gänge in der Gegend von Weilmünster und '
+                  'Runkel in Nassau'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Dej-LkHUvukJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RkOg:AAGBfm0AAAAAXYLUiOhY2L-xMURvBNUbDZqWEzUrY6Pp&scisig=AAGBfm0AAAAAXYLUiDOk2ROi95HMwYSBJknGMjXjzIvY&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'author': 'T Staub',
+         'title': 'Die Fahlerz-und Uranvorkommen bei Affeier (Vorderrheintal, '
+                  'Graubünden)'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pP1ppebQS48J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RkOg:AAGBfm0AAAAAXYLUiOhY2L-xMURvBNUbDZqWEzUrY6Pp&scisig=AAGBfm0AAAAAXYLUiD-5tBkd1RsGOrAXmy6oclLwIoDa&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'author': 'F Katzer',
+         'title': 'Die Fahlerz-und Quecksilbererzlagerstätten Bosniens und der '
+                  'Hercecgovina: mit einer Tafel und 25 Abbildungen im Text'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MZ_cyAMQUn0J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RkOg:AAGBfm0AAAAAXYLUiOhY2L-xMURvBNUbDZqWEzUrY6Pp&scisig=AAGBfm0AAAAAXYLUiDcv70Fvug9UTaHCl2xNIZFNm8i7&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'author': 'M Strasser',
+         'title': 'Fahlerz mit Luzonit vom Grosskogel bei Brixlegg'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QqnR9oPMyKkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RifY:AAGBfm0AAAAAXYLUkfbLYVVmxRMaYevywCgAz6goEQfp&scisig=AAGBfm0AAAAAXYLUkT8gr8UzMVd7TFXeN5COomy0QNOT&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Возможно, вы пытаетесь обратиться к этому сайту из '
+                     'защищенного браузера на сервере.\n'
+                     'Включите сценарии и перезагрузите данную страницу. '
+                     'Вход.\n',
+         'author': 'AA Velichko and SA Laukhin and VP Nechayev…',
+         'eprint': '/scholar?output=instlink&q=info:WukW8RAZw28J:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=14320175182764345666&oi=lle',
+         'title': 'Natural variety of high-silver fahlerz with a large '
+                  'unit-cell parameter',
+         'url': 'http://www.ipgg.sbras.ru/ru/science/publications/publ-natural-variety-of-high-silver-fahlerz-with-a-large-034523'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WukW8RAZw28J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RifY:AAGBfm0AAAAAXYLUkfbLYVVmxRMaYevywCgAz6goEQfp&scisig=AAGBfm0AAAAAXYLUkXmdicMspLL-nok0zi5WmgHse-KP&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'author': 'GSAUS SCHWAZ',
+         'title': 'Die Alte Zeche mit der Berta-grube und ihren Mineralien'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mD5a5v9sdRQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RifY:AAGBfm0AAAAAXYLUkfbLYVVmxRMaYevywCgAz6goEQfp&scisig=AAGBfm0AAAAAXYLUkeGm2cYBYWITMDmVZGaRiH6rB27u&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… SIB,—Mr. David Forbes in a paper in the November '
+                     'number of the London and Edinburgh\n'
+                     'Philosophical Magazine, under the title of " Eesearches '
+                     'in British Mineralogy," gives the results\n'
+                     'of an analysis made by himself of a silver-fahlerz from '
+                     'the Fox-dale silver-lead mine, in the … \n',
+         'author': 'OOP MARBUKO',
+         'title': 'THE BELGIAN TEBTIAKIES. To the Editor of the GEOLOGICAL '
+                  'MAGAZINE. SIB,—I am desirous to correct a mistake which I '
+                  'unintentionally made in my paper on the …',
+         'url': 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0016756800207085'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vu1_C23sO74J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RifY:AAGBfm0AAAAAXYLUkfbLYVVmxRMaYevywCgAz6goEQfp&scisig=AAGBfm0AAAAAXYLUkfFRBkkJqYuN0vibdjGVafO-BhNx&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Oder endlich siud Eisen, Kupfer und Autimon jedes init '
+                     'Schwefel verbunden, uiid bestelit sorlam\n'
+                     'das Fahl- erz aus einer Verbindung von … wir hier '
+                     'sogleich festlialten, dafs iiBinlich das\n'
+                     "Kupferpecherz (ye' #a), Cu, selbst tins nur eine "
+                     'Zwischeiistufe zwischen Fahlerz und den … \n',
+         'author': 'GHO Volger',
+         'title': 'Ueber die Pseudomorphosen des Fahlerzes',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.18491500504'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:L_sC8JCIQSwJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RifY:AAGBfm0AAAAAXYLUkfbLYVVmxRMaYevywCgAz6goEQfp&scisig=AAGBfm0AAAAAXYLUkdz_aD2dBpWmU4Md5K_Pepf4cMFV&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Die Gitterkonstante a dieses kubischen Minerals wurde '
+                     'mit 10,295(10) Å be- stimmt.\n'
+                     'Möglicherweise kommt Partzit in Fahlerz-führenden '
+                     'Paragenesen häufiger vor, als bisher\n'
+                     'angenommen … Diese Mineralphase tritt als olivgrüne '
+                     'erdige Sekundärbildung auf Fahlerz auf … \n',
+         'author': 'A ERTL and F BRANDSTÄTTER',
+         'eprint': 'https://www.zobodat.at/pdf/JoanneaMineralogie_1_0027-0030.pdf',
+         'title': 'Über den „Protopartzit “bzw.„Thrombolith “aus dem '
+                  'Magnesit-bergbau Veitsch, Sattlerkogel, Steiermark, '
+                  'Österreich',
+         'url': 'https://www.zobodat.at/pdf/JoanneaMineralogie_1_0027-0030.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jdDJOZE_z5gJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RifY:AAGBfm0AAAAAXYLUkfbLYVVmxRMaYevywCgAz6goEQfp&scisig=AAGBfm0AAAAAXYLUkR8eiV9eslN5bt6Prw5m080bfAU8&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'author': 'CU von Fahlerzen',
+         'title': 'Beitrag zur Kenntnis ostalpiner Fahlerze'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:b-gU3NrXcwgJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RifY:AAGBfm0AAAAAXYLUkfbLYVVmxRMaYevywCgAz6goEQfp&scisig=AAGBfm0AAAAAXYLUkXGfRVCQUvVFMmpLNhz1MibAa04L&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… in kleinen rundlichen, idiomorphen KSrnehen, b) in '
+                     'ganz grol~en Kristallen, die vom Fah!lerz\n'
+                     'verdriingt werden … Es ist zu bemerken, dal~ das '
+                     'Hauptmineral in Schwaz das Fahlerz darstellt,\n'
+                     'gan~z im … Das Fahl- erz bildet unregelm/il~ige grol~e '
+                     'KSr,n,er, welehe ohne besonde.re … \n',
+         'author': 'NA Ibrahim',
+         'title': 'Beitrag zur Kenntnis ostalpiner Fahlerze',
+         'url': 'http://www.springerlink.com/index/T771586110235287.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:C2YkDr_9eTUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RifY:AAGBfm0AAAAAXYLUkfbLYVVmxRMaYevywCgAz6goEQfp&scisig=AAGBfm0AAAAAXYLUkTZIQEx1mI0GwuIJXSmvYO2eRDhn&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… of Hunan,Taitai County of Zhejiang Province). Fahlerz '
+                     'zine is a new variety of\n'
+                     'tetraedrite. Upto now. We have not seen any study or '
+                     'report of the natural Fahlerz\n'
+                     'zine. Electron Microprobe quantitative analysis gave Cu '
+                     '33.10 … \n',
+         'author': 'CKZ Yinghi and Z Yinghe',
+         'title': 'ELECTRON PROBE STUDY OF A NEW VARIETY OF TETRAEDRITEFAHLERZ '
+                  'ZINC',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-DZXV198501007.htm'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KCteub1EDC8J:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RifY:AAGBfm0AAAAAXYLUkfbLYVVmxRMaYevywCgAz6goEQfp&scisig=AAGBfm0AAAAAXYLUkRc7ldDq7Fh-kTtL6lLVCs3FC-Y9&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… On the mechanisms and conditions of arsenian and '
+                     'antimonian fahlerz formation. Spiridonov\n'
+                     'EM, Krivitskaya NN, Gorodetskaya MD, Ivanova Yu.N., '
+                     'Yapaskurt VO. Minerals of the fahlerz\n'
+                     'group are usual the satellites of hydrothermal gold '
+                     'mineralization … \n',
+         'author': 'ЭМ СПИРИДОНОВ and НН КРИВИЦКАЯ…',
+         'title': 'О МЕХАНИЗМАХ И УСЛОВИЯХ ОБРАЗОВАНИЯ МЫШЬЯКОВИСТЫХ И '
+                  'СУРЬМЯНИСТЫХ БЛЁКЛЫХ РУД',
+         'url': 'https://elibrary.ru/item.asp?id=20879949'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5iTSJVSQQnkJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7RifY:AAGBfm0AAAAAXYLUkfbLYVVmxRMaYevywCgAz6goEQfp&scisig=AAGBfm0AAAAAXYLUkciiz9NuRvZocYEDs-BOLT2YiLJ1&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Cevher zuhuru gözle incelen- diğinde en çok görülen '
+                     'mineraller sıra- sıyle burnonit, fahlerz\n'
+                     'grupu mine- ralleri, sfalerit, galenit, kalkopirit, '
+                     'pirit, arsenopirit ve markasittir … Burnonit, fahlerz\n'
+                     'mineralleri ile galenit arasında bulunduğu yerlerde '
+                     'ksenomorftur … \n',
+         'author': 'G Aslaner and A Çağatay',
+         'eprint': 'https://dergipark.org.tr/download/article-file/594772',
+         'title': 'Piraziz cevherleşmesinin mineralojik incelenmesi ve elde '
+                  'edilen jenetik veriler',
+         'url': 'https://dergipark.org.tr/download/article-file/594772'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:S-AhTe74TPUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rgj0:AAGBfm0AAAAAXYLUmj3Bc91X56ccsdr4BhQB-a6xIIKF&scisig=AAGBfm0AAAAAXYLUmuEuyhkbX4tWwtZ_E-G5syfCyTGB&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Der Hauptsilberträger im Schwerspatgang ist '
+                     'tennantitisches Fahlerz, welches in den sehr stark\n'
+                     'sulfidisch vererzten Gangabschnitten Silbergehalte '
+                     'zwischen 0,5 und 2,5% aufweist … Die\n'
+                     'Silberkonzentration im Fahlerz ist unabhängig vom '
+                     'Arsen-Antimon-Verhältnis … \n',
+         'author': 'R von der Heyde',
+         'title': 'Paragenetische und aufbereitungstechnische Untersuchungen '
+                  'silberhaltiger Erze der Baryt-Flussspatgrube „Clara “, '
+                  'Wolfach, Deutschland',
+         'url': 'http://public.bibliothek.uni-halle.de/index.php/hjgb/article/view/224'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:YVYSetqh3NsJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rgj0:AAGBfm0AAAAAXYLUmj3Bc91X56ccsdr4BhQB-a6xIIKF&scisig=AAGBfm0AAAAAXYLUmnx5EYsWQ6jGrnTG6q33obpRG8FG&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'author': 'BEIS VON JAKOBSBAKKEN',
+         'title': 'ANTIMONREICHE PARAGENESEN VON JAKOBSBAKKEN BEI SULITELMA '
+                  'VON PAUL RAMDOHR MIT 6 TAFELN'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:sVBEkrGiI8IJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rgj0:AAGBfm0AAAAAXYLUmj3Bc91X56ccsdr4BhQB-a6xIIKF&scisig=AAGBfm0AAAAAXYLUmvqc35Ox0faH1MvDsGhNChnbedBK&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'author': 'TTMP Mitt',
+         'title': 'Strukturverfeinerung des Freibergits'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VoIN3AL43JIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rgj0:AAGBfm0AAAAAXYLUmj3Bc91X56ccsdr4BhQB-a6xIIKF&scisig=AAGBfm0AAAAAXYLUmjwLuT1KCxJ04LdfGsHRSZtUoJrc&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Krystallformen der Mineralien. Von Dr. Victor '
+                     'Goldschmidt In drei Bänden. Zweiter Band. (Fahlerz-\n'
+                     'Pyro.:x:en_) Springer-Verlag Berlin Heidelberg GmbH Page '
+                     '3 … Heidelberg, April r89o. Dr. Victor\n'
+                     'Goldschmidt. Page 5. Fahlerz. Regulär. I i I, ! ~~h~: 11 '
+                     '~~-~~ l-~--Mohs. I I … \n',
+         'author': 'V Goldschmidt',
+         'title': 'Krystallformen der Mineralien.',
+         'url': 'https://link.springer.com/content/pdf/10.1007/978-3-662-25553-7.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jDyJMRBZ4-oJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rgj0:AAGBfm0AAAAAXYLUmj3Bc91X56ccsdr4BhQB-a6xIIKF&scisig=AAGBfm0AAAAAXYLUmrK9LDiXo_p2gORnLke06ou0OHzV&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'author': 'VW Hammer',
+         'title': 'Die oft bedeutende Machtigkeit der isoklinalen Schichtfolge '
+                  'der Grauwacken-zone ist großenteils durch Schuppenbildung, '
+                  'Uberschiebungsbau und …'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:cTeU2g8ChwIJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rgj0:AAGBfm0AAAAAXYLUmj3Bc91X56ccsdr4BhQB-a6xIIKF&scisig=AAGBfm0AAAAAXYLUmjXCYF1A6goCizUT4uATwNXq9G4g&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The late Neolithic Bell Beaker culture started using '
+                     '«Fahlerz»-copper soon af-ter 2500 BC, as\n'
+                     'reflected in a few, rare tin-alloyed artifacts … They '
+                     'form a good basis for the classification and\n'
+                     'discussion of prehistoric metal objects. KEYWORDS: '
+                     'Metals, Switzerland, Fahlerz … \n',
+         'author': 'R Krause',
+         'title': 'Distribution and development of EBA metallurgy in its '
+                  'cultural and chronological context in Central Europe',
+         'url': 'https://www.osti.gov/etdeweb/servlets/purl/20087525'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7xUDB5jO48IJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rgj0:AAGBfm0AAAAAXYLUmj3Bc91X56ccsdr4BhQB-a6xIIKF&scisig=AAGBfm0AAAAAXYLUmi4ipThnC4oDuGWooWF9XpXFOMKP&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… der einzelnen Gänge 8 e) Die zur Untersuchung '
+                     'gewählten Lagerstätten 9 I. Die Gangfüllung\n'
+                     'der Weibzinkerzgänge 11 a) Kalkspat 11 b) Eisenspat 12 '
+                     'e) Quarz 12 d) Schwefelkies 13 e)\n'
+                     'Zinkblende 14 f) Bleiglanz 15 g) Kupferkies 16 h) '
+                     'Bournonit 17 i) Fahlerz 18 k) Arsenkies … \n',
+         'author': 'H Eisfelder',
+         'title': 'Das Vorkommen des Kupferkieses auf den Gängen '
+                  'der-Blei-Zinkerzformation',
+         'url': 'https://www.schweizerbart.de/publications/detail/isbn/9783510965977/Das_Vorkommen_des_Kupferkieses_auf_den_Gangen_der_'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gMJYMQUIYggJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rgj0:AAGBfm0AAAAAXYLUmj3Bc91X56ccsdr4BhQB-a6xIIKF&scisig=AAGBfm0AAAAAXYLUmoSY8dJpsbaE52aqhcnGoCwbJqtI&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'author': 'F Kupfermetallurgie',
+         'title': 'im Unterinntal (Nordtirol)'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mEjOublQ8jQJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rgj0:AAGBfm0AAAAAXYLUmj3Bc91X56ccsdr4BhQB-a6xIIKF&scisig=AAGBfm0AAAAAXYLUmt9fzIe5AbpxC5YEgU0uYqr4zwnh&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… Das Fahlerz zeigt auch einzelne bis zu 0' 009 mm dicke "
+                     'Kupferkies streifen mit feinstem Pyrit,\n'
+                     'dessen Korngröße schwer anzuge ben ist, aber maximal bei '
+                     '0* 003 mm liegt … Daneben gibt es\n'
+                     "im Fahl erz auch größere, dh bis 0'04 mm große, "
+                     'rundliche, ange löste Pyritkörner … \n',
+         'author': 'JG Haditsch',
+         'eprint': 'http://www.zobodat.at/pdf/Archiv-Lagerstaettenkde-Ostalpen_3_0036-0049.pdf',
+         'title': 'Ein Beitrag zur Kenntnis der Kupfervererzung der" Schichten '
+                  'von Tregiovo" in Südtirol',
+         'url': 'http://www.zobodat.at/pdf/Archiv-Lagerstaettenkde-Ostalpen_3_0036-0049.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5KFYVa67efcJ:scholar.google.com/&output=citation&scisdr=CgVKdDZeEO-h1m7Rgj0:AAGBfm0AAAAAXYLUmj3Bc91X56ccsdr4BhQB-a6xIIKF&scisig=AAGBfm0AAAAAXYLUmlIbi-lGNJD2MIB8x98VXeeJBs_2&scisf=4&ct=citation&cd=99&hl=en'}

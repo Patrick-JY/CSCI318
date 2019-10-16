@@ -1,0 +1,28 @@
+{ "articles": [ {'_filled': False,
+ 'bib': {'abstract': 'The principal subject of this book is the visual '
+                     'perception of space. Chapters cover theories of '
+                     'perception, the visual field and visual world, formation '
+                     'of retinal images, a psychophysical theory of '
+                     'perception, stimulus variables for visual depth and '
+                     'distance, size and shape …',
+         'author': 'JJ Gibson',
+         'title': 'The perception of the visual world.',
+         'url': 'https://psycnet.apa.org/record/1951-04286-000'},
+ 'citedby': 7540,
+ 'id_scholarcitedby': '11010115966433308494',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Ti8dKyPKy5gJ:scholar.google.com/&output=citation&scisdr=CgVKdDZbGAA:AAGBfm0AAAAAXYLAv3Bzxjky2VlHVpIvVbqtADNavhcK&scisig=AAGBfm0AAAAAXYLAv-CIsV_oKcf4hGyUvhxBQuk8E7DA&scisf=4&ct=citation&cd=0&hl=en'}
+,{'_filled': False,
+ 'bib': {'abstract': 'Studies of risk perception examine the judgements people '
+                     'make when they are asked to characterize and evaluate '
+                     'hazardous activities and technologies. This research '
+                     'aims to aid risk analysis and policy-making by providing '
+                     'a basis for understanding and anticipating …',
+         'author': 'P Slovic',
+         'eprint': 'https://science.sciencemag.org/content/sci/236/4799/280.full.pdf',
+         'title': 'Perception of risk',
+         'url': 'https://science.sciencemag.org/content/236/4799/280.short'},
+ 'citedby': 9376,
+ 'id_scholarcitedby': '2724911212575497538',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Qp0Khk_U0CUJ:scholar.google.com/&output=citation&scisdr=CgVKdDZbGAA:AAGBfm0AAAAAXYLAv3Bzxjky2VlHVpIvVbqtADNavhcK&scisig=AAGBfm0AAAAAXYLAv6uvGjwWv5D8zwVPe9dzKwk-orpw&scisf=4&ct=citation&cd=1&hl=en'}]}

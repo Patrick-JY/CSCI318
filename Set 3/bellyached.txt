@@ -1,0 +1,1074 @@
+{'_filled': False,
+ 'bib': {'abstract': '… Methods The datas of 112 cases which contain '
+                     'complication of PPH were statistics and\n'
+                     'analyzed.Results Six cases bleeding in stoma after the '
+                     'operation(3.57%).Fifteen cases pained\n'
+                     'in anus(7.14%),Sixty two cases had gas '
+                     'pains(36.61%),Seventy four cases bellyached in the … \n',
+         'author': 'X Jiacheng',
+         'title': 'The prevention and cure of complication in PPH operation',
+         'url': 'http://en.cnki.com.cn/Article_en/CJFDTotal-HBYY200905033.htm'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:olXpQ-OpgFsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJGO9EzHzvK1Rp1UgJcMQSlufUuinnP&scisig=AAGBfm0AAAAAXYJGO79Q7BVYxZp6H4fyz4Ta_awZt04k&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Engels', 'title': 'The Homer Mitchell Place: Poems'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:pbepVJuZkkQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJGO9EzHzvK1Rp1UgJcMQSlufUuinnP&scisig=AAGBfm0AAAAAXYJGO0LXgfu6cCHjF3MV0BQ6mNlmZKFW&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'author': 'R Cashill', 'title': 'Pickup on South Street'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2OWa29B9sQAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJGO9EzHzvK1Rp1UgJcMQSlufUuinnP&scisig=AAGBfm0AAAAAXYJGO_73olXN4DlQ71x7h5UylGqaSSyb&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… No, believe and then choose to what you want to '
+                     'listen. Quite often the result, as Jon Stewart of\n'
+                     '"The Daily Show" famously bellyached on CNN\'s '
+                     '"Crossfire," is pseudo-intellectual cheerleading,\n'
+                     'a battle of heat-seeking interests masquerading as '
+                     'serious discourse … \n',
+         'author': 'C Page',
+         'title': 'Infotainment shrinks the news',
+         'url': 'http://search.proquest.com/openview/6a7fd34b93cae1d760d4d17856a73782/1?pq-origsite=gscholar&cbl=48335'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '17340933190171884808',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CP35Odxep_AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJGO9EzHzvK1Rp1UgJcMQSlufUuinnP&scisig=AAGBfm0AAAAAXYJGO3ZGBs5LDl1HB2NfLp4b7aUTyMSM&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… pressed that I called on him. He said none of them '
+                     "would do. Hamlet's tragedy was that he\n"
+                     "hadn't gone out to get a girl friend for himself. He let "
+                     'that tedious old fool, Polonius, put one over\n'
+                     'on him. Then he bellyached to himself. And that stupid '
+                     'little fool, Ophelia … \n',
+         'author': 'LS Bertling',
+         'title': 'English Grammar and the Thinking Process',
+         'url': 'https://www.jstor.org/stable/806543'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '9995474087608193072',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MBCCcbkOt4oJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJGO9EzHzvK1Rp1UgJcMQSlufUuinnP&scisig=AAGBfm0AAAAAXYJGO5xFjcRBxZfWYwyhLnQw6OXnIoJX&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… After that we met for lunch whenever I was in Norwich. '
+                     'We both liked to belly-ache. He\n'
+                     'belly-ached about the increasing vicissitudes of '
+                     'academic life, while I belly-ached about\n'
+                     "the writer's lot. It was not until George Steiner chose "
+                     'Schwindel … \n',
+         'author': 'C Sinclair',
+         'eprint': 'https://contrappassomag.wordpress.com/author/matthewasprey/',
+         'title': 'Author Archives: matthewaspreygear Post navigation',
+         'url': 'https://contrappassomag.wordpress.com/author/matthewasprey/'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8kGtgb-1GzsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJGO9EzHzvK1Rp1UgJcMQSlufUuinnP&scisig=AAGBfm0AAAAAXYJGO0srO2ByuK_77QsWrmrKgwE1oP4Z&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'author': 'R Archer',
+         'title': 'Detritus: Addressing Culture & the Arts'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '4574675042349204445',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3cMRnraCfD8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJGO9EzHzvK1Rp1UgJcMQSlufUuinnP&scisig=AAGBfm0AAAAAXYJGO4dFRx6t0-FLtg5wswluteRBBp2F&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'author': 'S Levy',
+         'title': 'Pharmacy salary information: average earnings over '
+                  '$100,000'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '2017278918541119985',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8RGHCH3Q_hsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJGO9EzHzvK1Rp1UgJcMQSlufUuinnP&scisig=AAGBfm0AAAAAXYJGO5EEjNx8lTjzCkiFV3AShsYk4L1X&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… pivotal sentences, and the serial noun phrase, etc. '
+                     'Examples are listed as follow:\n'
+                     '(1) 肚子 笑 痛 了 dù zi xiào tòng le Belly smile ache To '
+                     'laugh so hard that his belly\n'
+                     'ached. In (1), according to dependency structure, “肚子” '
+                     '(belly … \n',
+         'author': 'B Chen and D Ji and C Lv',
+         'title': 'Building a Chinese semantic resource based on feature '
+                  'structure',
+         'url': 'https://www.worldscientific.com/doi/abs/10.1142/S1793840612400065'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '3379068396128243072',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gA35ns3c5C4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJGO9EzHzvK1Rp1UgJcMQSlufUuinnP&scisig=AAGBfm0AAAAAXYJGO8HTVJwretSTfqYWjPU2vWPzZ4O4&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… When I bellyached to my girlfriend about how she '
+                     'swooned over Elvis Presley records,\n'
+                     'she told me it was nothing compared to how I reacted to '
+                     'a letter from J. Frank Dobie. *John\n'
+                     'H. Jenkins is an author, publisher, and rare-book dealer '
+                     'in Austin … \n',
+         'author': 'JH Jenkins',
+         'title': 'In between Boards',
+         'url': 'https://www.jstor.org/stable/30241198'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-r6VQG2RyWoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJGO9EzHzvK1Rp1UgJcMQSlufUuinnP&scisig=AAGBfm0AAAAAXYJGO4M36lE0mC2TSGi39M6UdG7qBnQE&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… spectacle of the Games. He wrote of how truces were '
+                     'violated, how athletes\n'
+                     'bellyached that the awards of olive wreaths were of no '
+                     'values except to goats and\n'
+                     'how the states subsidized athletes in the Games. The '
+                     'editorial was … \n',
+         'author': 'II Dardik',
+         'eprint': 'https://files.eric.ed.gov/fulltext/ED211450.pdf#page=76',
+         'title': 'THE SPIRIT OF THE OLYMPICS VERSUS BOYCOTT',
+         'url': 'https://files.eric.ed.gov/fulltext/ED211450.pdf#page=76'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MODnQU626iMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DWaI:AAGBfm0AAAAAXYJGQaKPZpWduBkP8oa1xQQ8O4jbtVO4&scisig=AAGBfm0AAAAAXYJGQRqoK3khyu2a6sKMuuYSBZMS8lmR&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'author': 'BM CASE',
+         'title': 'Wright bill is latest fight for flashy Dallas lawyer'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:KuBcVGwmVKwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DWaI:AAGBfm0AAAAAXYJGQaKPZpWduBkP8oa1xQQ8O4jbtVO4&scisig=AAGBfm0AAAAAXYJGQd0z8NtAsOno_qy7kJTGQ9Tgvifx&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Depending on which of these sources you care to '
+                     "consult, it isn't too difficult to work up a composite\n"
+                     'portrait of the artist as a man for all seasons: a '
+                     'Jarrell who threw himself into translating Faust\n'
+                     'and annotat ing Kipling, a Jarrell who bellyached over '
+                     'American con sumer culture … \n',
+         'author': 'D Barber',
+         'title': 'The Other Jarrells',
+         'url': 'https://www.jstor.org/stable/20606389'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jopWgnA1v0sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DWaI:AAGBfm0AAAAAXYJGQaKPZpWduBkP8oa1xQQ8O4jbtVO4&scisig=AAGBfm0AAAAAXYJGQY-yMWyPn-FQTwa5TvNdPEEjIK3e&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… It's when, not if. Tool suppliers have publicly "
+                     'bellyached from the first suggestions\n'
+                     'of 450mm about needing devicemakers to help support '
+                     'development (if not bear it\n'
+                     'largely/entirely), as well as clear targets to revenue '
+                     'generation … \n',
+         'author': 'J Montgomery',
+         'title': "Five takeaways from TSMC's 450mm pledge",
+         'url': 'https://go.galegroup.com/ps/i.do?id=GALE%7CA252739788&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=0038111X&p=AONE&sw=w'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zWdM6jNWAsAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DWaI:AAGBfm0AAAAAXYJGQaKPZpWduBkP8oa1xQQ8O4jbtVO4&scisig=AAGBfm0AAAAAXYJGQc_zmujSZPEBygqXckhQqJUP9i7_&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Hume, I think, was right in insisting that any event '
+                     'that deserved to be classified as a miracle\n'
+                     'should be examined by a host of compe tent observers who '
+                     'had nothing to gain if Lazarus, to\n'
+                     'take a famous example, were to wake from his death to '
+                     'boast that now only his belly ached … \n',
+         'author': 'WH Gass',
+         'eprint': 'https://ir.uiowa.edu/cgi/viewcontent.cgi?article=6417&context=iowareview',
+         'title': 'The literary miracle',
+         'url': 'https://www.jstor.org/stable/20536959'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '11477819181138716644',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5Cfwr7tnSZ8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DWaI:AAGBfm0AAAAAXYJGQaKPZpWduBkP8oa1xQQ8O4jbtVO4&scisig=AAGBfm0AAAAAXYJGQSvh6r-gzA3aeC2O5Jvq4Fob0D8F&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'author': 'D Cohn', 'title': 'Dream carver'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '5159857268215301184',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QMSw69h-m0cJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DWaI:AAGBfm0AAAAAXYJGQaKPZpWduBkP8oa1xQQ8O4jbtVO4&scisig=AAGBfm0AAAAAXYJGQZ7TR5jnsjMQZ8nDS4whNI5vbhoL&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Mrs. Weber bellyached, it was true, but no one paid '
+                     'any attention to her, any way. She\n'
+                     'had had both her breasts removed and nothing was right. '
+                     'God and the doctors had\n'
+                     'taken away her gender and she was angry and bewildered '
+                     '… \n',
+         'author': 'J Matthews',
+         'title': 'Mr. Tripp and Skobol',
+         'url': 'https://www.jstor.org/stable/25293536'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WOL6fQV9d28J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DWaI:AAGBfm0AAAAAXYJGQaKPZpWduBkP8oa1xQQ8O4jbtVO4&scisig=AAGBfm0AAAAAXYJGQX2ZjoZRPQ1xNpGmv6GdT8KtQrKk&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JP Walsh', 'title': "The Emperor's Winding Sheet"},
+ 'citedby': 3,
+ 'id_scholarcitedby': '3169153899739369510',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:JlCCUK4Y-ysJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DWaI:AAGBfm0AAAAAXYJGQaKPZpWduBkP8oa1xQQ8O4jbtVO4&scisig=AAGBfm0AAAAAXYJGQdcGUCaV70zinY0a_WBb2gjk6Hfl&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… You train fledglings to fly? Never, you declared! You '
+                     'belly-ached night and day. Why, when we\n'
+                     "arrived here and you learned that we'd been assigned to "
+                     'Naval Aviation, you went completely\n'
+                     'off the deep end. You were an Army flier, a fighter '
+                     'pilot, and all that sort of rot … \n',
+         'author': 'RS Bowen',
+         'title': 'Dave Dawson at Truk',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=cvjzCwAAQBAJ&oi=fnd&pg=PT15&dq=bellyached&ots=d1kldVnMo-&sig=BywxcgbrEpBBJcq-SNC3N1wUgZ8'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '13708909538637355883',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:a5txrJfUP74J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DWaI:AAGBfm0AAAAAXYJGQaKPZpWduBkP8oa1xQQ8O4jbtVO4&scisig=AAGBfm0AAAAAXYJGQbXoCTFE-AgI6s5ObZSzqWuzK_cN&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Before escaping from a detention camp near Marseilles, '
+                     'Benjamin gave up smoking, according\n'
+                     "to Hans, Fittko's husband and Benjamin's companion in "
+                     'the camp, and bellyached endlessly\n'
+                     'about "the agonies of withdrawal." Hans took this '
+                     'hapless, impractical Jew aside to wise … \n',
+         'author': 'H BLUME',
+         'title': 'WB on the Treadmill',
+         'url': 'https://www.jstor.org/stable/23009795'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GAO6quPVoSQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DWaI:AAGBfm0AAAAAXYJGQaKPZpWduBkP8oa1xQQ8O4jbtVO4&scisig=AAGBfm0AAAAAXYJGQcs6v4us_UKLNTrArk3tx_OcIved&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Actually, he was dying. His once hard belly ached '
+                     'slightly as he got on the elevator of the\n'
+                     'Metropole Hotel and told the young woman he wanted '
+                     'vosem. When she pressed the button\n'
+                     'marked eight, he knew his minimal Russian had not failed '
+                     'him this time … \n',
+         'author': 'SM Kaminsky',
+         'title': 'Black Knight in Red Square',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=iKJI8GQFrpYC&oi=fnd&pg=PT6&dq=bellyached&ots=2rhwJyIhvK&sig=ug-zKL2fuXb6nzg2AT9fqocZx0A'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '9558398698950109763',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Qyp6YPlApoQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DUio:AAGBfm0AAAAAXYJGSiq78tMgJgVDxZJe9zLVu_esuWBV&scisig=AAGBfm0AAAAAXYJGSsi_KNZ2tMYOCC4tF4Ff1OEQ2iod&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Let me explain ... I woke up one morning knowing that '
+                     'I had reached maturity. My belly ached,\n'
+                     'and I felt something inside of me. From what you have '
+                     'told me about your world and your people,\n'
+                     'it is like when one of your women realizes she is '
+                     'pregnant. But I was not happy … \n',
+         'author': 'S Sussman',
+         'title': 'Khunta',
+         'url': 'https://go.galegroup.com/ps/i.do?id=GALE%7CA340181289&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15234002&p=AONE&sw=w'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:WMnSBeJywzAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DUio:AAGBfm0AAAAAXYJGSiq78tMgJgVDxZJe9zLVu_esuWBV&scisig=AAGBfm0AAAAAXYJGSgBX-mf7sms9DCa9tlGCgtfKWERo&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… "Hey, Connie, you hear them angel wings?" Vearl said. '
+                     'He stumped into the front room to watch\n'
+                     "the ten o'clock news. He bellyached about the rheumatiz "
+                     'in his knees as he lurched through.\n'
+                     'Constance thought about how the kids would be coming '
+                     'down in the morning … \n',
+         'author': 'CG Garcia',
+         'title': 'Farm Business',
+         'url': 'https://muse.jhu.edu/article/697141/summary'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-p98-s4i2CUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DUio:AAGBfm0AAAAAXYJGSiq78tMgJgVDxZJe9zLVu_esuWBV&scisig=AAGBfm0AAAAAXYJGSsPkGHdZhR8VZvdnmW3TF-S69Sbm&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'author': 'WH Gass',
+         'title': 'Life sentences: Literary judgments and accounts'},
+ 'citedby': 10,
+ 'id_scholarcitedby': '9383384031308398148',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RL41qQ96OIIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DUio:AAGBfm0AAAAAXYJGSiq78tMgJgVDxZJe9zLVu_esuWBV&scisig=AAGBfm0AAAAAXYJGSuR-cQVkm-Moxp_1SGBUHvVPHXID&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Though some of the major publishers im- mediately '
+                     'bellyached about their booth\n'
+                     'assignments at the 1987 ABA convention, ultimately even '
+                     'they will agree that the changes\n'
+                     'made sense--and produced re- suits that were better for '
+                     'all concerned … \n',
+         'author': 'J Kremer',
+         'title': 'The growing partnership between small presses and '
+                  'independent booksellers',
+         'url': 'https://link.springer.com/article/10.1007/BF02683751'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Pa8NS1EEYbgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DUio:AAGBfm0AAAAAXYJGSiq78tMgJgVDxZJe9zLVu_esuWBV&scisig=AAGBfm0AAAAAXYJGSvSei78-crDbmL7ZrOcOBL3pXDMv&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Further reproduction prohibited without permission. '
+                     'Page 2. That he might have been an\n'
+                     'agent for Interpol or the CIA seemed highly improbable '
+                     'to me. He often belly-ached about\n'
+                     'the difficult time he had making ends meet, which was a '
+                     'mistake … \n',
+         'author': 'G Williams',
+         'title': "Ted's Dead: Hushing the Fuss",
+         'url': 'http://search.proquest.com/openview/4eec5104d35bd8d3bb116abe509c18d8/1?pq-origsite=gscholar&cbl=590'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8GwDI1nKEq0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DUio:AAGBfm0AAAAAXYJGSiq78tMgJgVDxZJe9zLVu_esuWBV&scisig=AAGBfm0AAAAAXYJGStCX7iDlDpjP2syOJ2Zp9UpScfc8&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… of a new language. The bounties of Victory Day: reams '
+                     'of cigarettes, bars of\n'
+                     'foil-covered chocolate you ate by the handful up in the '
+                     'forked guava tree until your\n'
+                     'belly ached. After the smoke clears, it is the same. The '
+                     'wheel of … \n',
+         'author': 'MLA Cariño',
+         'eprint': 'http://ojs.philippinestudies.net/index.php/ps/article/download/806/802',
+         'title': "Letter for All Souls' Day/San Francisco Blues/Cargoes/At "
+                  'the East Indies Organics Store/Providence',
+         'url': 'http://ojs.philippinestudies.net/index.php/ps/article/download/806/802'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yX74LXGFR2MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DUio:AAGBfm0AAAAAXYJGSiq78tMgJgVDxZJe9zLVu_esuWBV&scisig=AAGBfm0AAAAAXYJGSqqbAm5feLaIuG_xk7Skjsw9XUsc&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… I was already nearly starving. My belly ached with the '
+                     'ache that has gnawed at thinkers and\n'
+                     'writers since Hesiod lamented the rocky soil that he '
+                     'worked. So I bought a delicious double\n'
+                     'quarter-pounder with cheese, a hamburger to truly honor '
+                     'the hungry … \n',
+         'author': 'C Chaplin and J Berry',
+         'eprint': 'https://www.purplemotes.net/2017/05/21/marriage-of-socrates/',
+         'title': 'the marriage of Socrates, friendship, and life and death of '
+                  'the sole',
+         'url': 'https://www.purplemotes.net/2017/05/21/marriage-of-socrates/'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NoRNM8AA9kQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DUio:AAGBfm0AAAAAXYJGSiq78tMgJgVDxZJe9zLVu_esuWBV&scisig=AAGBfm0AAAAAXYJGSnlLrX2BtyWwO9lJm2Jmf0L3mf4U&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… There he climbed a boxcar and in blazing sun rode with '
+                     'brigands the short run to Progreso.\n'
+                     'There he walked alone to the ocean. His belly ached from '
+                     'hunger but the ocean offered\n'
+                     'an illusion: it seemed soft and kind. He had never seen '
+                     'it before … \n',
+         'author': 'P BARTLETT',
+         'title': 'Ancient Seeds',
+         'url': 'https://www.jstor.org/stable/43464346'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:4v-bPuyej0AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DUio:AAGBfm0AAAAAXYJGSiq78tMgJgVDxZJe9zLVu_esuWBV&scisig=AAGBfm0AAAAAXYJGSgvXpi9C_l71Js8VDAKcE4_oMpjY&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… To the following groups and individuals, I offer my '
+                     'enduring sense of gratitude. My Smith\n'
+                     'Community - It is the relationships that pull you '
+                     'through this program. Thank you. I laughed till\n'
+                     'my belly ached. Late night debriefs, early morning runs '
+                     'and whiskey on the dock … \n',
+         'author': 'EK Porter',
+         'eprint': 'https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1844&context=theses',
+         'title': 'The desire to informally mentor: creative growth within the '
+                  'third space',
+         'url': 'https://scholarworks.smith.edu/theses/767/'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RlqyTC-RXVwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DUio:AAGBfm0AAAAAXYJGSiq78tMgJgVDxZJe9zLVu_esuWBV&scisig=AAGBfm0AAAAAXYJGSm7wN-Fo71GetbR-I-LmWH0sRdaA&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… I yelled that the kick was too high and shouldn't "
+                     'count. But you called it "fair"; the game\n'
+                     'was over and we lost. I belly ached all the way into the '
+                     'school building complaining\n'
+                     'that your call was wrong and we should have won the game '
+                     '… \n',
+         'author': 'R Rice',
+         'title': 'Thank You Mr. Walman',
+         'url': 'http://search.proquest.com/openview/ca761eef887f81c3ea2600b2e3de1592/1?pq-origsite=gscholar&cbl=25795'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OsH7bJ9GOZkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DStA:AAGBfm0AAAAAXYJGUtDf3V4jjMnT5d3ifcO7W8j6iQCI&scisig=AAGBfm0AAAAAXYJGUu6239qPxOz3LF7Qo1X4m2gX-k8x&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Let me explain. . . . I woke up one morning knowing '
+                     'that I had reached maturity. My belly ached,\n'
+                     'and I felt something inside of me. From what you have '
+                     'told me about your world and your people,\n'
+                     'it is like when one of your women realizes she '
+                     'ispregnant. But I was not happy … \n',
+         'author': 'S Sussman',
+         'title': 'Khunta',
+         'url': 'http://search.proquest.com/openview/05cc60fee9ae8fd4314524d8c5987fbe/1?pq-origsite=gscholar&cbl=42681'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:z_yEhOXQzZoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DStA:AAGBfm0AAAAAXYJGUtDf3V4jjMnT5d3ifcO7W8j6iQCI&scisig=AAGBfm0AAAAAXYJGUi89TCV21BEen19YV63lVygSkAqq&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… of a new language. The bounties of Victory Day: reams '
+                     'of cigarettes, bars of\n'
+                     'foil-covered chocolate you ate by the handful up in the '
+                     'forked guava tree until your\n'
+                     'belly ached. After the smoke clears, it is the same. The '
+                     'wheel of … \n',
+         'author': 'MLA CARIÑO',
+         'title': 'San Francisco Blues',
+         'url': 'https://www.jstor.org/stable/42635106'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VU8LmBiCV40J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DStA:AAGBfm0AAAAAXYJGUtDf3V4jjMnT5d3ifcO7W8j6iQCI&scisig=AAGBfm0AAAAAXYJGUraFG-HedLGEwvOWKb7qe7uodf-A&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… I ate and ate and could not get enough even when my '
+                     'belly ached to breaking, it seemed, since\n'
+                     'then I ate some more and all that night dreamed not of '
+                     'blood gush and decapitation at all but\n'
+                     'pig meat meat, a sweet grease conflation come morning my '
+                     'whole bodily aura was … \n',
+         'author': 'R Wrigley',
+         'title': 'Full for Terrance Hayes',
+         'url': 'http://search.proquest.com/openview/d9311dfefc9208b7d3a70e71e20b5d7d/1?pq-origsite=gscholar&cbl=48474'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1uTg3I9GpckJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DStA:AAGBfm0AAAAAXYJGUtDf3V4jjMnT5d3ifcO7W8j6iQCI&scisig=AAGBfm0AAAAAXYJGUtMCJM2H57UqMusoYfgIxMwAvaBx&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… cost her $98.95 a night. She had been paid by Summers '
+                     'and again by Frontline\n'
+                     'and the BBC. Kessler bellyached, “I believe that paying '
+                     'for information calls into\n'
+                     'question its credibility.”. Mrs. Rosenstiel attempted to '
+                     'spread her … \n',
+         'author': 'T Chilman and R de Toledano',
+         'eprint': 'http://www.academia.edu/download/56990793/hoover.doc',
+         'title': 'The Transvestism of John Edgar Hoover',
+         'url': 'http://www.academia.edu/download/56990793/hoover.doc'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1yTflOZ_G08J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DStA:AAGBfm0AAAAAXYJGUtDf3V4jjMnT5d3ifcO7W8j6iQCI&scisig=AAGBfm0AAAAAXYJGUkSm_BkBbQChOjnv3ZSt6z7WeNIK&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'author': 'EM Scott',
+         'title': 'GROUP THERAPY WITH CONVICTS ON WORK-RELEASE'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '4363625282961835647',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:f4baSxO2jjwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DStA:AAGBfm0AAAAAXYJGUtDf3V4jjMnT5d3ifcO7W8j6iQCI&scisig=AAGBfm0AAAAAXYJGUsO4JhzC8iQ3JKNNVrviMK0TXsmW&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… With a gentle soul and an intellectual's sense of "
+                     'self-awareness, he fretted about the pressures\n'
+                     'of his job and worried about his own coaching abilities. '
+                     'In his first three years, the team went\n'
+                     '31-42. Alumni openly bellyached. One called him "a lousy '
+                     'coach" to his face … \n',
+         'author': 'A Goudsouzian',
+         'title': 'The house that Russell built: Bill Russell, the University '
+                  'of San Francisco, and the winning streak that changed '
+                  'college basketball',
+         'url': 'https://go.galegroup.com/ps/i.do?id=GALE%7CA170194309&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=01622897&p=AONE&sw=w'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '10016515004021173629',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fW0NjlPPAYsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DStA:AAGBfm0AAAAAXYJGUtDf3V4jjMnT5d3ifcO7W8j6iQCI&scisig=AAGBfm0AAAAAXYJGUq2neQDiwv1yFITN--h72UGLOQr2&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… development reasons. At first, he and everyone else '
+                     'belly-ached about how disruptive\n'
+                     'the moves would be to current performance, even though '
+                     'the organization needed\n'
+                     'the leadership bench to achieve its long-term goals. He '
+                     '… \n',
+         'author': 'R Deshler',
+         'title': 'How to beat the odds of change failures?',
+         'url': 'https://www.emerald.com/insight/content/doi/10.1108/SHR-01-2015-0006/full/html'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:47gzUAiVUiQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DStA:AAGBfm0AAAAAXYJGUtDf3V4jjMnT5d3ifcO7W8j6iQCI&scisig=AAGBfm0AAAAAXYJGUnqq8TEFTUCHEM9clpOfTGzISCSK&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… shi-le. handkerchief cry-wet-ASP 'Someone cried so "
+                     'much that his or her\n'
+                     "handkerchief got wet.' (12) duzi xiao-tong-le belly "
+                     "laugh-ache-ASP 'Someone\n"
+                     "laughed so much that his or her belly ached.' (13) toufa "
+                     'chou-hai-le. hair … \n',
+         'author': 'K Zou',
+         'eprint': 'https://kuscholarworks.ku.edu/bitstream/handle/1808/23045/malc_1996_529-540_Zou.pdf?sequence=1',
+         'title': 'Unergative and Unaccusative Verb Compounds in Chinese',
+         'url': 'https://kuscholarworks.ku.edu/bitstream/handle/1808/23045/malc_1996_529-540_Zou.pdf?sequence=1'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VgzW_hlbjxoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DStA:AAGBfm0AAAAAXYJGUtDf3V4jjMnT5d3ifcO7W8j6iQCI&scisig=AAGBfm0AAAAAXYJGUlMkjunvNesm3JiYlfNkoGRquFdt&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Frances, my soul sister, for your boundless support, '
+                     'our extensive conversations\n'
+                     'on SPSS, “writing miracles,” and your chancla stories '
+                     'that made me laugh until my\n'
+                     'belly ached; Luci, my comadre, for your eloquent words '
+                     'and … \n',
+         'author': 'SM Sutterby',
+         'eprint': 'https://tamucc-ir.tdl.org/tamucc-ir/bitstream/handle/1969.6/555/Sandra%20Murillo%20Sutterby.pdf;sequence=1',
+         'title': 'Latino avid readers at two South Texas charter schools: '
+                  'Analysis of common characteristics and reading success of '
+                  'middle school students',
+         'url': 'https://tamucc-ir.tdl.org/handle/1969.6/555'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:loOFn1nNRe4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DStA:AAGBfm0AAAAAXYJGUtDf3V4jjMnT5d3ifcO7W8j6iQCI&scisig=AAGBfm0AAAAAXYJGUgzIpbW07O59_PaLe6oDtLpcexau&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Engels',
+         'title': 'Weather-fear: New & Selected Poems, 1958-1982'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZwhtlSFW5fQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DRCI:AAGBfm0AAAAAXYJGXCIgdNbUTKoE0JHyBJ3JZE1ebLOf&scisig=AAGBfm0AAAAAXYJGXKKf7WdADlyPumCp9ohDW88-9o9u&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… No, dreams are much too trivial, and unworthy to be an '
+                     'object of research. (Freud, 1917,\n'
+                     'p. 84) So unpromising was the state of the art for '
+                     'dreams that Freud left his literature review\n'
+                     '(chapter one) to the very last, and belly-ached about '
+                     'doing it … \n',
+         'author': 'GG Globus',
+         'title': 'Dream life, wake life',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=b4Fd5CUJ2hkC&oi=fnd&pg=PR7&dq=bellyached&ots=bIMGS5-Pio&sig=jX8bolf0ghgcfk9SP2jGKguPFEE'},
+ 'citedby': 163,
+ 'id_scholarcitedby': '6688964635185572514',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:oupiY-X501wJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DRCI:AAGBfm0AAAAAXYJGXCIgdNbUTKoE0JHyBJ3JZE1ebLOf&scisig=AAGBfm0AAAAAXYJGXOX7lBVJPLpmoqnkXBUC-68NREQo&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… “And here's the deal—everyone gets dropped half a "
+                     'grade when they turn in late assignments . . .\n'
+                     'everyone.” “All becuz of Marlon,” someone bellyached. At '
+                     'the end of the day, Ms. Hart grabbed\n'
+                     'her briefcase plus an armful of books and butted outside '
+                     'through the double doors … \n',
+         'author': 'B Woods',
+         'title': 'A star on the Hollywood Walk of Fame',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=R15XXXCVuP0C&oi=fnd&pg=PT23&dq=bellyached&ots=7qY4zjUzE_&sig=MqhmdOJzTqUn7qTB7c5rzozmQuY'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '1250509421861141535',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:H_xPlrGzWhEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DRCI:AAGBfm0AAAAAXYJGXCIgdNbUTKoE0JHyBJ3JZE1ebLOf&scisig=AAGBfm0AAAAAXYJGXALGk12omASuWn1aNVRaEccWSnwG&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… much better at home. The first intervention was an '
+                     'attempt to repeat the behavioral-\n'
+                     'suggestive strategy that was tried successfully in case '
+                     '1. Dan said that he had to\n'
+                     'swallow air when his belly ached. The parents were '
+                     'instructed … \n',
+         'author': 'GF Flaisher',
+         'title': 'The use of suggestion and behavioral methods in the '
+                  'treatment of aerophagia: Two case reports',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1300/J019v16n04_02'},
+ 'citedby': 5,
+ 'id_scholarcitedby': '16915745894374708809',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SRb6eETNwOoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DRCI:AAGBfm0AAAAAXYJGXCIgdNbUTKoE0JHyBJ3JZE1ebLOf&scisig=AAGBfm0AAAAAXYJGXLYQlghz-W6tarzGCyQ72BejLxnO&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The realization of the potential problem hit them all '
+                     'at once. The boys reacted with sobering\n'
+                     'renditions of the probable boisterous reception. '
+                     '"Great!" Jake belly-ached softly. "Sarah and\n'
+                     'the Ames twins will be coming down the path from town '
+                     'any time now … \n',
+         'author': 'MA Cillo',
+         'title': 'The Sound of Fear',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=1wBQAMNyEFcC&oi=fnd&pg=PA2&dq=bellyached&ots=G6PD9oQz-8&sig=ViYHg68d476jhtxsOQlLsNmvMEs'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '16340772191709957906',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Eg90MrsVxuIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DRCI:AAGBfm0AAAAAXYJGXCIgdNbUTKoE0JHyBJ3JZE1ebLOf&scisig=AAGBfm0AAAAAXYJGXNTQjC3NQ4eRL3F7fW-fw2vq0HeD&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… irae's hands fluttered across the items and she sank "
+                     'tired and frustrated to the floor, began to\n'
+                     'rock building a wind around her; rocking, rocking in '
+                     'circles until her belly ached and the sounds\n'
+                     "of the loom's crossings were buried underneath her "
+                     'somber motions … \n',
+         'author': 'D Major',
+         'title': 'an open weave',
+         'url': 'https://www.jstor.org/stable/2931291'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:s8018kstjuQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DRCI:AAGBfm0AAAAAXYJGXCIgdNbUTKoE0JHyBJ3JZE1ebLOf&scisig=AAGBfm0AAAAAXYJGXPYXW_uJh6jGFgNg8CBTsuiQRkBU&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… This makes Oprah Winfrey look profound.&dquo; Bernard '
+                     'Ingham, who used most of his soundbite\n'
+                     "to insult Neil, bellyached: &dquo;This wasn't a debate - "
+                     'it was a bar-room brawl.&dquo; In the\n'
+                     'the ExpreJJ he wrote: &dquo;Substance was once again '
+                     'sacrificed on the altar of … \n',
+         'author': 'R Greenslade',
+         'title': "Carlton's glimpse of the future",
+         'url': 'https://journals.sagepub.com/doi/pdf/10.1177/095647489700800107'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '14532209478421331474',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Ej7ekobHrMkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DRCI:AAGBfm0AAAAAXYJGXCIgdNbUTKoE0JHyBJ3JZE1ebLOf&scisig=AAGBfm0AAAAAXYJGXBrinoY3neON6RBD4A1KKYkP2ABp&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Inside again, her belly ached with an almighty return, '
+                     'but at least she felt at home with the ache,\n'
+                     'she knew the world of its roar, and as she passed the '
+                     'dustbin she , Coming into the kitchen\n'
+                     'there were water glasses sitting around, nothing out of '
+                     'order, really … \n',
+         'author': 'B Trezise',
+         'eprint': 'http://unsworks.unsw.edu.au/fapi/datastream/unsworks:3759/SOURCE2',
+         'title': 'Performing Postmemories Recollection in Crisis',
+         'url': 'http://unsworks.unsw.edu.au/fapi/datastream/unsworks:3759/SOURCE2'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QeL6q6fMhn4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DRCI:AAGBfm0AAAAAXYJGXCIgdNbUTKoE0JHyBJ3JZE1ebLOf&scisig=AAGBfm0AAAAAXYJGXIH7LRbZKFnIWgfgXLFvtfRAfAm1&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… cage front. He complained that he was sick, that his " '
+                     'belly ached." D. took the boy\n'
+                     'into an ad- jacent room and began to undress him ; in '
+                     'the course of this proceeding\n'
+                     "the lad's head dropped forward and his body swayed. Upon "
+                     '… \n',
+         'author': 'FW DRAPER',
+         'title': 'Cases of Rupture of the Liver',
+         'url': 'https://www.nejm.org/doi/pdf/10.1056/NEJM188404101101502'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Kwky0mk49m4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DRCI:AAGBfm0AAAAAXYJGXCIgdNbUTKoE0JHyBJ3JZE1ebLOf&scisig=AAGBfm0AAAAAXYJGXC-KVI0r8uJAVDRj7FG5fWthiPbB&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… I wonder how many others felt as miffed as I did at '
+                     'not getting instant gratification.\n'
+                     'Acknowledgement I would like to acknowledge the help of '
+                     'my colleague Claude Manga, who\n'
+                     'did all the real work of communicating while I '
+                     'bellyached about the system. Fax-the new 3-letter … \n',
+         'author': 'M Benjamin',
+         'eprint': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/leap/40030',
+         'title': 'Come in Userid 0231@ UK. AC. uni. ex: your time is up',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1002/leap/40030'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:GaYuQOTUs2oJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DRCI:AAGBfm0AAAAAXYJGXCIgdNbUTKoE0JHyBJ3JZE1ebLOf&scisig=AAGBfm0AAAAAXYJGXEixy8nQS7fIS2PN8W_CIFm_D1uc&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The English sentence "The children will squeeze '
+                     'forward, crowding around my feet" will\n'
+                     'be translated as "... ElifiifSMKllir around my knees". '
+                     'And "made us laugh till our sides\n'
+                     'ache" will be translated as 3?3#fSffIft-?ff "[until our '
+                     'belly ached]" … \n',
+         'author': 'L Yunxing',
+         'title': 'Cultural factors in translation',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/0907676X.1998.9961334'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '9955813783762005349',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZW0SX-MnKooJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DfO0:AAGBfm0AAAAAXYJGZO0-IPJg9v86h57JJLzFuz83HnfY&scisig=AAGBfm0AAAAAXYJGZLuo84gy6neKiyBkZFD-HawqiIYh&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… 5 No.1 97 *東京情報大学助教授 2001年5月7日受理 Page 3. bellyache '
+                     'Social workers bellyached\n'
+                     "that in these boom times there just aren't enough "
+                     'welfare moms to go around. －TIME, August\n'
+                     "16, '99, p.24 （解説）どの辞典にも他動詞の標示はない。またthat節の指示もない … \n",
+         'author': '井上貞明',
+         'eprint': 'https://tuis.repo.nii.ac.jp/?action=repository_action_common_download&item_id=276&item_no=1&attribute_id=18&file_no=1',
+         'title': '英和辞典の不完全さ',
+         'url': 'https://tuis.repo.nii.ac.jp/?action=repository_action_common_download&item_id=276&item_no=1&attribute_id=18&file_no=1'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:5e2Xj59pEAsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DfO0:AAGBfm0AAAAAXYJGZO0-IPJg9v86h57JJLzFuz83HnfY&scisig=AAGBfm0AAAAAXYJGZFIdMp-qU7v1O8KEx4yRfmYGaegH&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… responsible for any improvement of conditions in the '
+                     'area. According to the Freetown\n'
+                     'manager of SLST, "We have bellyached about it [lack of '
+                     'development in Kono] to\n'
+                     'government. We have no conscience about it." ts The '
+                     'attitude … \n',
+         'author': 'FM Hayward',
+         'title': 'The development of a radical political organization in the '
+                  'bush: A case study in Sierra Leone',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/00083968.1972.10803654'},
+ 'citedby': 32,
+ 'id_scholarcitedby': '1050076247830724339',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:834Gq8iekg4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DfO0:AAGBfm0AAAAAXYJGZO0-IPJg9v86h57JJLzFuz83HnfY&scisig=AAGBfm0AAAAAXYJGZLcJrKcJxBXElJAFswsatJVo-x2l&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… This is a suicide note. Joseph Hergesheimer was an '
+                     'American writer of great popularity who\n'
+                     "fell from favour, couldn't understand it, didn't know "
+                     'why, bellyached about it endlessly to his pal\n'
+                     'Mencken, refused to go gently, if you like, into that '
+                     'good night, is quite forgotten now … \n',
+         'author': 'M Lurie',
+         'title': 'On Not Writing',
+         'url': 'https://search.informit.com.au/documentSummary;dn=809230922891985;res=IELLCC'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:k0L2wH81hiEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DfO0:AAGBfm0AAAAAXYJGZO0-IPJg9v86h57JJLzFuz83HnfY&scisig=AAGBfm0AAAAAXYJGZFn52TjuSVC5l6QLqy5C5v4FFmQq&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… (This isn't a slam against thrift stores; I was there "
+                     'too!) This mom had three children clinging to\n'
+                     'her as she tried to move up and down the aisles '
+                     '(operative word: tried). They cried, whined,\n'
+                     'and bellyached for all to hear. Then one of them punched '
+                     'me in the leg … \n',
+         'author': 'A Pellicane',
+         'eprint': 'http://thechristianmommy.com/wp-content/uploads/2017/05/Book-Preview-31-Days-to-Becoming-a-Happy-Mom.pdf',
+         'title': '31 Days to Becoming a Happy Mom',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=zwE-CQAAQBAJ&oi=fnd&pg=PP1&dq=bellyached&ots=l8D4wyg5G1&sig=txcNVDD4aRm3pyYSlriQFYAey08'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HpSa7uGzoWkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DfO0:AAGBfm0AAAAAXYJGZO0-IPJg9v86h57JJLzFuz83HnfY&scisig=AAGBfm0AAAAAXYJGZK8Re3hUlDMCoffcg3ASPFQXgpev&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. PERFORMANCE PIECES Jonathan Levy Songs Without '
+                     'Words A Play in Ten Scenes\n'
+                     'Cast of Characters: lou Gordon: First violin in the Amor '
+                     'Artis Quartet. Sixty- seven. julia GORDON:\n'
+                     'His estranged wife. Sixty- three. robin GORDON: Their '
+                     'daughter. Thirty-eight … \n',
+         'author': 'J Levy',
+         'title': 'Songs without Words',
+         'url': 'https://www.jstor.org/stable/40240710'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:eE91dkh_YSQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DfO0:AAGBfm0AAAAAXYJGZO0-IPJg9v86h57JJLzFuz83HnfY&scisig=AAGBfm0AAAAAXYJGZKqtAjM3IYjf2mUYcNflab2FhirZ&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… "Here I adopt the strategy and morality of our mutual '
+                     'friend Truman Capote, who wrote rather\n'
+                     'devastatingly about some of his friends and who riposted '
+                     'when they bellyached about his having\n'
+                     "betrayed confidences and friendships: 'Who in hell did "
+                     'they think I was … \n',
+         'author': 'L Grobel and JA Michener',
+         'title': 'Talking with Michener',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=bb2dMjiEyLIC&oi=fnd&pg=PT12&dq=bellyached&ots=dIyX3QftMv&sig=6yOVQqCqSnaQNE4u9tlhJ-84IVE'},
+ 'citedby': 9,
+ 'id_scholarcitedby': '11878473580125194129',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kYc5ScnQ2KQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DfO0:AAGBfm0AAAAAXYJGZO0-IPJg9v86h57JJLzFuz83HnfY&scisig=AAGBfm0AAAAAXYJGZBDCZ9ZTRf2m4VkbsyOfflPqoJsQ&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… clients have lost workers they've had for eight years! "
+                     'So have I bellyached! She\n'
+                     'requested a meeting at her office with her case manager '
+                     'and the home support\n'
+                     "workers' supervisor: “When they came in I was so nervous "
+                     '… \n',
+         'author': 'J Aronson',
+         'title': 'Silenced complaints, suppressed expectations: the '
+                  'cumulative effects of home care rationing',
+         'url': 'https://journals.sagepub.com/doi/abs/10.2190/CGPJ-PRWN-B1H6-YVJB'},
+ 'citedby': 34,
+ 'id_scholarcitedby': '1524412568251612841',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qT7HdSfNJxUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DfO0:AAGBfm0AAAAAXYJGZO0-IPJg9v86h57JJLzFuz83HnfY&scisig=AAGBfm0AAAAAXYJGZCLI5NE4baIr80ahqnyTOt0OuPxt&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Cachinnus generally denotes more bodily involvement '
+                     'than calmer risus, but the rich master\n'
+                     'enjoyed the latter until his belly ached (10.16 risu '
+                     'ipse quoque latissimo adusque intestinorum\n'
+                     'dolorem redactus ...), and so did his servants and '
+                     'convivial guests … \n',
+         'author': 'D Lateiner',
+         'eprint': 'https://www.researchgate.net/profile/Donald_Lateiner/publication/249907711_Humiliation_and_Immobility_in_Apuleius%27_Metamorphoses/links/5a8748b4458515b8af8d5f1c/Humiliation-and-Immobility-in-Apuleius-Metamorphoses.pdf',
+         'title': "Humiliation and Immobility in Apuleius' Metamorphoses",
+         'url': 'https://muse.jhu.edu/article/2209/summary'},
+ 'citedby': 21,
+ 'id_scholarcitedby': '7748303923293423759',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:j4irr12Bh2sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DfO0:AAGBfm0AAAAAXYJGZO0-IPJg9v86h57JJLzFuz83HnfY&scisig=AAGBfm0AAAAAXYJGZMFw97Ko37x5vkE9wwVEEqqdjZXF&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'author': 'R Cadwallader', 'title': 'The Anchoress'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '8058343527206581469',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3XQ3Ob781G8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DfO0:AAGBfm0AAAAAXYJGZO0-IPJg9v86h57JJLzFuz83HnfY&scisig=AAGBfm0AAAAAXYJGZL8vy3N70GCR4lH_W5SaA6_j7dWt&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… I'm glad she did. Thank you so much for everything and "
+                     'so much more. • Shirley Warder—just\n'
+                     "because you're you!; Yvonne Modill for making me laugh "
+                     'so hard my belly ached; Catherine Mary\n'
+                     'Hine and family for over 40 years of love and '
+                     'acceptance; Madeline Paris and family … \n',
+         'author': 'L Franchi',
+         'eprint': 'http://summit.sfu.ca/system/files/iritems1/12023/etd6923_LFranchi.pdf',
+         'title': 'Communication experiences of Deaf and hard-of-hearing '
+                  'people facing the death of a loved one',
+         'url': 'https://summit.sfu.ca/item/12023'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xzeBbz0YKFcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dd0U:AAGBfm0AAAAAXYJGb0XD38fU8L5fCp5fAfkIKxaivT24&scisig=AAGBfm0AAAAAXYJGb1jz8s6IhQfX3ynOQVJbkdnCx6AI&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'author': 'F Apffel-Marglin',
+         'title': 'From Science to Ritual: An Andean Narrative'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9inzMNRd-ncJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dd0U:AAGBfm0AAAAAXYJGb0XD38fU8L5fCp5fAfkIKxaivT24&scisig=AAGBfm0AAAAAXYJGb34_fWSWgViU34onQQxfoUmc4ZW3&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… I was trapped. Exhausted, I lay my head on my front '
+                     'legs. Night would fall. I would wait. A My\n'
+                     'belly ached. Many days had passed since I had arrived in '
+                     'Nome with little food. Dark nights prowl-\n'
+                     'ing for a meal and sunlit days hiding in the tunnel had '
+                     'left me weak. I needed to eat … \n',
+         'author': 'A Hart',
+         'title': 'Murphy, Gold Rush Dog',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=v-LjCwAAQBAJ&oi=fnd&pg=PA150&dq=bellyached&ots=fPeRfoqSiC&sig=MDt8XAmOqGMpw_wgiaLuXYi6rj4'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mLoC4ZCNZ_EJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dd0U:AAGBfm0AAAAAXYJGb0XD38fU8L5fCp5fAfkIKxaivT24&scisig=AAGBfm0AAAAAXYJGbxQPqNqqIXj8E1yQHsKo8M-pShcp&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… pivotal sentences, and the serial noun phrase, etc. '
+                     'Examples are listed as follow:\n'
+                     '(1) 肚子笑痛了 dù zi xiào tòng le Belly smile ache To laugh '
+                     'so hard that his belly\n'
+                     'ached. In (1), according to dependency structure, '
+                     '“肚子”(belly … \n',
+         'author': 'D JI and C LV',
+         'eprint': 'http://compling.hss.ntu.edu.sg/courses/hg7017/pdf/IJCPOL-Bo%20Chen-Building%20a%20Chinese%20Semantic%20Resource%20Based%20on%20Feature%20Structure.pdf',
+         'title': 'Building a Chinese Semantic Resource Based on Feature '
+                  'Structure',
+         'url': 'http://compling.hss.ntu.edu.sg/courses/hg7017/pdf/IJCPOL-Bo%20Chen-Building%20a%20Chinese%20Semantic%20Resource%20Based%20on%20Feature%20Structure.pdf'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:teIAR70dC14J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dd0U:AAGBfm0AAAAAXYJGb0XD38fU8L5fCp5fAfkIKxaivT24&scisig=AAGBfm0AAAAAXYJGby_18MGM98FProl3s7ZrXH9W6rIt&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… is that, although it may be accepted that their work '
+                     'had done so much to prepare the ground for\n'
+                     'the upheavals of 1989 (the so-called Wende), they failed '
+                     'when the revolution did come to\n'
+                     'comprehend the wishes and ambitions of their compatriots '
+                     'and then belly-ached about what … \n',
+         'author': 'I Wallace',
+         'title': 'East German Intellectuals in a Unified Germany',
+         'url': 'https://link.springer.com/chapter/10.1007/978-1-349-13518-9_6'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:An4dHp7_aGIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dd0U:AAGBfm0AAAAAXYJGb0XD38fU8L5fCp5fAfkIKxaivT24&scisig=AAGBfm0AAAAAXYJGb3TFjXt2iajtgVzU9nDUUmLPq37u&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… The common laborer struggled to eke out a living. “We '
+                     'work like dogs and get paid like whores,”\n'
+                     'bellyached a Slav in broken English—a brave militant '
+                     'when far from the earshot of the bosses.\n'
+                     'The average immigrant laborer lived in ramshackle '
+                     'housing … \n',
+         'author': 'DR Perelman',
+         'title': "Steel: The Story of Pittsburgh's Iron & Steel Industry, "
+                  '1852–1902',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=fJGcDQAAQBAJ&oi=fnd&pg=PT5&dq=bellyached&ots=lviyNz1MTw&sig=cmallTFhcxi30M3Uzad6T34IKr4'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '9576186536497988690',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:UkTXCuty5YQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dd0U:AAGBfm0AAAAAXYJGb0XD38fU8L5fCp5fAfkIKxaivT24&scisig=AAGBfm0AAAAAXYJGb13FmjnCc8PobMNloAjMJlh5U-hh&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Our contracts held up and there was no more worry on '
+                     'that score. Of course, some\n'
+                     'of the regents bellyached a good deal and the governor '
+                     'sounded off about "greedy\n'
+                     'college professors," but the checks came rolling in just '
+                     'the same … \n',
+         'author': 'B Stefflre',
+         'title': 'Really a Most Productive Year',
+         'url': 'https://www.jstor.org/stable/20342196'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:stQ1UM30sPsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dd0U:AAGBfm0AAAAAXYJGb0XD38fU8L5fCp5fAfkIKxaivT24&scisig=AAGBfm0AAAAAXYJGbyKGabKJNBNm8IDhb0ArW_2qt6fR&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… with Soviet-Realist murals. And contrary to '
+                     'progressive myth, a properly structured\n'
+                     'Social Security system was never likely to be '
+                     'invalidated. The Roosevelt\n'
+                     'administration belly-ached over the matter. But when '
+                     'Labor Secretary … \n',
+         'author': 'YON Deale',
+         'eprint': 'http://www.aei.org/publication/how-to-think-about-constitutional-change-part-i/',
+         'title': 'How to Think about Constitutional Change, Part I The '
+                  'Progressive Vision',
+         'url': 'http://www.aei.org/publication/how-to-think-about-constitutional-change-part-i/'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zGbxr3ffT8QJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dd0U:AAGBfm0AAAAAXYJGb0XD38fU8L5fCp5fAfkIKxaivT24&scisig=AAGBfm0AAAAAXYJGbxPV3yK0HeWwT2Ij-5JH3lQclKYX&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'author': 'RA Heinlein', 'title': 'I will fear no evil'},
+ 'citedby': 22,
+ 'id_scholarcitedby': '17896840447927995548',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nEyX3JBZXvgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dd0U:AAGBfm0AAAAAXYJGb0XD38fU8L5fCp5fAfkIKxaivT24&scisig=AAGBfm0AAAAAXYJGb7Frj60d1XOA_BHf0y3CcC8Uwm9M&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Eszterhas', 'title': 'Crossbearer: A Memoir of Faith'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '3923801603494523443',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MzJm6cQkdDYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dd0U:AAGBfm0AAAAAXYJGb0XD38fU8L5fCp5fAfkIKxaivT24&scisig=AAGBfm0AAAAAXYJGb4DZxC8zgXbbJ1ua8ugp7zboajvO&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'author': 'S Currie', 'title': 'Difficult Patient'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:E_cPAFk08S8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dbjo:AAGBfm0AAAAAXYJGdjqx-NIdUzkKB0nvK2PgHJqAmhua&scisig=AAGBfm0AAAAAXYJGdpkC_94Gmtt8DIQrTAuyBfJh4Hzp&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… “He's probably not wasting any time thinking about "
+                     'us,” she bellyached, evidently concerned\n'
+                     'that he was at that very moment kissing some winsome '
+                     'Scottish harpy. Duncan shrugged his\n'
+                     "shoulders. “We're doing pretty okay without him, thanks "
+                     "to Mac's ability to channel Gretzky … \n",
+         'author': 'K Askew and A Helmes',
+         'title': 'Exposure',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=CBrsDQAAQBAJ&oi=fnd&pg=PT5&dq=bellyached&ots=LwGNHlTv7L&sig=T43XT9BHEKRJuQLSfeGC_bPJ1Rg'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '15684101813747020497',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0XJzbYAfqdkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dbjo:AAGBfm0AAAAAXYJGdjqx-NIdUzkKB0nvK2PgHJqAmhua&scisig=AAGBfm0AAAAAXYJGdmqJDbdMlAP2T_WJ3RDeKJp_yS9e&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… drawdown. After the Civil War, the Army held on to all '
+                     'it could in the way of authorized\n'
+                     'number of units, regardless of whether they could fill '
+                     'them—and then bellyached at\n'
+                     'the inefficiency of its staffing from the standpoint of '
+                     'war fighting … \n',
+         'author': 'WB LaBerge',
+         'eprint': 'http://www.walterlaberge.com/Walt3_files/Traditions%20Die%20Hard.pdf',
+         'title': 'Traditions die hard: The relevance of the Indian wars to '
+                  'the us army of the year 2000',
+         'url': 'https://www.tandfonline.com/doi/pdf/10.1080/07430179308405570'},
+ 'citedby': 3,
+ 'id_scholarcitedby': '1309270496801619043',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Y3zCfJR2KxIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dbjo:AAGBfm0AAAAAXYJGdjqx-NIdUzkKB0nvK2PgHJqAmhua&scisig=AAGBfm0AAAAAXYJGdp2FZPR1b0P92gc-IAI4xJDFzh2k&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… In spite of all you did in the war, you're not really "
+                     'willing to go out and fight for what you want.\n'
+                     'You came back from the war, and you took an easy job, '
+                     'and we both bellyached all the time\n'
+                     "because you didn't get more money. And what's more, "
+                     "you're a coward … \n",
+         'author': 'JE Smyth',
+         'title': 'The Organization Woman behind The Man in the Gray Flannel '
+                  'Suit',
+         'url': 'https://read.dukeupress.edu/camera-obscura/article-abstract/27/2%20(80)/61/58477'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '14149770464248628239',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:D4TavkQVXsQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dbjo:AAGBfm0AAAAAXYJGdjqx-NIdUzkKB0nvK2PgHJqAmhua&scisig=AAGBfm0AAAAAXYJGdkLzIjcBYkyof9u7s4pqDl5AIDiP&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… pressed that I called on him. He said none of them '
+                     "would do. Hamlet's tragedy was that he\n"
+                     "hadn't gone out to get a girl friend for himself. He let "
+                     'that tedious old fool, Polonius, put one over\n'
+                     'on him. Then he bellyached to himself. And that stupid '
+                     'little fool, Ophelia … \n',
+         'author': 'HR Miller',
+         'title': 'The World in the Schoolroom',
+         'url': 'https://www.jstor.org/stable/806542'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MtQxN15RibgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dbjo:AAGBfm0AAAAAXYJGdjqx-NIdUzkKB0nvK2PgHJqAmhua&scisig=AAGBfm0AAAAAXYJGdkJQgAeKZCayuD2__UH0qh7Qa5Mv&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… come back there as a senior research fellow. But by '
+                     'the end of the war, my wife and I had produced\n'
+                     'a child. All four grandparents were in New York, and '
+                     'they belly-ached like mad—if we went off\n'
+                     "to California, they'd never see their grandchild. "
+                     "Wouldn't I at least look on the East … \n",
+         'author': 'AW Galston',
+         'eprint': 'http://oralhistories.library.caltech.edu/150/1/Galston_OHO.pdf',
+         'title': 'Interview with Arthur W. Galston',
+         'url': 'http://oralhistories.library.caltech.edu/150/'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Nc6SL1glNL4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dbjo:AAGBfm0AAAAAXYJGdjqx-NIdUzkKB0nvK2PgHJqAmhua&scisig=AAGBfm0AAAAAXYJGdptNbwft1gJjTppM_P2l5bxeisc1&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… support. At the Wesleyan game the stands sagged and '
+                     'groaned with the weight\n'
+                     'of hundreds of the bald-headed "Sons of Trinity" who '
+                     'roared, belly-ached, snapped,\n'
+                     'and cheered until their very entrails thrilled, for a '
+                     'just cause … \n',
+         'author': 'INHF GAME and HA HOLD',
+         'eprint': 'https://digitalrepository.trincoll.edu/cgi/viewcontent.cgi?article=3417&context=tripod',
+         'title': 'ADAMS BEATS WESLEYAN',
+         'url': 'https://digitalrepository.trincoll.edu/cgi/viewcontent.cgi?article=3417&context=tripod'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mm8pIPiAnG8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dbjo:AAGBfm0AAAAAXYJGdjqx-NIdUzkKB0nvK2PgHJqAmhua&scisig=AAGBfm0AAAAAXYJGdtNYuIKj-da_CVroQIi2jYcpDSAl&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… They bellyached to the point that Moses prayed, “What '
+                     'shall I do with this people? They are almost\n'
+                     'ready to stone me!” (v. 4). 7 Page 21. Glory Days How '
+                     'did the Hebrews descend to this point? It\n'
+                     "wasn't for the lack of miracles. They saw God's power in "
+                     'high definition … \n',
+         'author': 'M Lucado',
+         'title': 'Glory Days: Trusting the God who Fights for You',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=DyKMBQAAQBAJ&oi=fnd&pg=PP1&dq=bellyached&ots=74pteCDbwu&sig=J_dOPfkWjBemN7Aw0PyoqREw_G8'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7pez8wcwH2gJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dbjo:AAGBfm0AAAAAXYJGdjqx-NIdUzkKB0nvK2PgHJqAmhua&scisig=AAGBfm0AAAAAXYJGdnANRvYK_SJDZ0UnmKfbaBaxmDnp&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… "Ross Young\'s looked all over for you. They found '
+                     'Gino." "Found him? Val, run ahead. Tell Ross\n'
+                     'I\'m coming." And she ran, panting. Her belly ached. She '
+                     'had to stop, set her hands under, and\n'
+                     'hold it a minute. Ross was outside the grocery. "Well, '
+                     'tell me, Ross," she cried … \n',
+         'author': 'HE Francis',
+         'title': 'Hurricane',
+         'url': 'https://www.jstor.org/stable/20133420'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:E4wxD6pcKG4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dbjo:AAGBfm0AAAAAXYJGdjqx-NIdUzkKB0nvK2PgHJqAmhua&scisig=AAGBfm0AAAAAXYJGdvulUHk1St4_pRxjqTxr3XZQ4Of7&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… abdominal pain. je nad been taken sick quite suddenly '
+                     'while at play the previous\n'
+                     'morning. Said his º belly ached him," became very pale, '
+                     'weak, and vomited. The\n'
+                     'family practitioner referred him te the hospital for '
+                     'operati. The … \n',
+         'author': 'AV Wendel',
+         'title': 'A CONTRIBUTION TO THE SYMPTOMATOLOGY AND DIAGNOSIS OF '
+                  'CHOLELITHIASIS IN INFANCY AND IN CHILDHOOD',
+         'url': 'http://search.proquest.com/openview/79ccf4ca723de9451b56ef08b1689228/1?pq-origsite=gscholar&cbl=40146'},
+ 'citedby': 4,
+ 'id_scholarcitedby': '9707127922141530780',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nIqFJGqltoYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5Dbjo:AAGBfm0AAAAAXYJGdjqx-NIdUzkKB0nvK2PgHJqAmhua&scisig=AAGBfm0AAAAAXYJGdq-xXASszE68Mjqa3sWWKSY3UdlN&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "… I had heard that California was Abraham's grove of "
+                     'oaks at Mamre. Dis traught, and\n'
+                     'having no inclination to leave my mother, I ran away. '
+                     'For a year my belly ached for\n'
+                     'the gruel and meats my mother had provided for me. Had '
+                     '… \n',
+         'author': 'E Dahlberg',
+         'title': 'Confessions',
+         'url': 'https://www.jstor.org/stable/25087981'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PIfhsOe2AVAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DZOc:AAGBfm0AAAAAXYJGfOcUvija8aKl8mT5rvSQA9o2adqn&scisig=AAGBfm0AAAAAXYJGfHv_wHmXjdUE-6J3itmWDRnx5R_E&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Upon her back she carried a sack that begged to burst '
+                     'all over the dusty dirt track. It whimpered\n'
+                     'and whined, it grunted and groaned, it bleated and '
+                     'bellyached, it mumbled and moaned Tilly\n'
+                     "watched as the sack's seams stretched and the stitches "
+                     'slowly start to snap … \n',
+         'author': 'M Holder',
+         'eprint': 'https://cardinalscholar.bsu.edu/bitstream/handle/123456789/199927/H65_2015HolderMegan.pdf?sequence=1&isAllowed=y',
+         'title': '" The terrible infants" by Oliver Lansley: fairy tales for '
+                  'adults',
+         'url': 'http://cardinalscholar.bsu.edu/handle/123456789/199927'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:g3yiPqVV8D8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DZOc:AAGBfm0AAAAAXYJGfOcUvija8aKl8mT5rvSQA9o2adqn&scisig=AAGBfm0AAAAAXYJGfMDxrt08wTjmnGEwbmBOT8aKP7lD&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Mungo, if he knew he had come here, would think he was '
+                     'crazy. He could be sitting by the fire\n'
+                     'right now, pretending to his mother that Page 12. his '
+                     'belly ached. He could be home, getting\n'
+                     "spoiled. Hot broth, chips, his favourite comics. He'd go "
+                     'in a minute, he decided … \n',
+         'author': 'C MacPhail',
+         'title': 'Dark waters',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=nia6NLvEHVoC&oi=fnd&pg=PT4&dq=bellyached&ots=lb2b_vx8oy&sig=eNdeEJU2KEUpxcFjLuU_SVWiP_s'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:nhusPMEpFLsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DZOc:AAGBfm0AAAAAXYJGfOcUvija8aKl8mT5rvSQA9o2adqn&scisig=AAGBfm0AAAAAXYJGfJprhraZ_i2nRDa6GKsgLfo7iV1x&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… (22) aʑo pɯ-xtɕɯ~xtɕi-a ʑo ri tɯxtɤŋɤm 1sg '
+                     'pst:ipfv-emph~be.small-1sg emph loc dysentery\n'
+                     'nɯ-atɯɣ-a tɕe, nɯ kɤ-mŋɤm pɯ-rɲo-ta pfv-meet-1sg lnk dem '
+                     "inf-hurt pfv-experience-1sg 'When\n"
+                     "I was very small, I had dysentery, (my belly) ached.' "
+                     '(24-pGArtsAG, 121) … \n',
+         'author': 'G Jacques',
+         'eprint': 'https://halshs.archives-ouvertes.fr/halshs-01566124/document',
+         'title': 'Complementation in Japhug Gyalrong',
+         'url': 'https://www.jbe-platform.com/content/journals/10.1075/ltba.39.2.02jac'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '1020481857872892293',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hZE-ztd6KQ4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DZOc:AAGBfm0AAAAAXYJGfOcUvija8aKl8mT5rvSQA9o2adqn&scisig=AAGBfm0AAAAAXYJGfO0CVteIKa70O-utOF04B66tSZv_&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… But all that came out was watery dribble. She gagged, '
+                     'then dry-retched, until she felt the back\n'
+                     "of her throat cramp. 'There now, you'll feel better "
+                     "soon.' But she didn't. Her belly ached. Beth\n"
+                     'tried to fold into a foetal position to ease the cramps, '
+                     'but that was worse … \n',
+         'author': 'D Wolfer',
+         'title': 'Choices',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=BVU9LYeVzvMC&oi=fnd&pg=PA3&dq=bellyached&ots=RjHU-oeKQd&sig=P7xMnstfw7rh6IznvTnzTXEAcUg'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:QOtJFPoGyf0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DZOc:AAGBfm0AAAAAXYJGfOcUvija8aKl8mT5rvSQA9o2adqn&scisig=AAGBfm0AAAAAXYJGfNnRXvAEmvtMMhxIJ3rSWwAOy47Y&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'author': 'RM Gates', 'title': 'Passion for Leadership'},
+ 'citedby': 26,
+ 'id_scholarcitedby': '10794300524257434958',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Tl0t2yIPzZUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DZOc:AAGBfm0AAAAAXYJGfOcUvija8aKl8mT5rvSQA9o2adqn&scisig=AAGBfm0AAAAAXYJGfA4Y1JcE6RAZ8vF09o5kqLjwgy84&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'author': 'C Castellani', 'title': 'All this Talk of Love: A Novel'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '5416434038535184086',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1l45gA8KK0sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DZOc:AAGBfm0AAAAAXYJGfOcUvija8aKl8mT5rvSQA9o2adqn&scisig=AAGBfm0AAAAAXYJGfKhHpH6wPz4dUmynGrGzPE1GiqJG&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'author': 'I Gorchkova',
+         'title': 'Patriarchal Patterns and Contraception, Induced Abortion in '
+                  'Russian Family'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qhqQL7cbH98J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DZOc:AAGBfm0AAAAAXYJGfOcUvija8aKl8mT5rvSQA9o2adqn&scisig=AAGBfm0AAAAAXYJGfJ15uJC36gBDvFy2SB1SSoxvPF0g&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… I adjusted the levers accordingly. Each ridiculous '
+                     'maneuver I made inside Peace Frog loosened\n'
+                     'my laughter until my belly ached and I started to cry. '
+                     'By the time I popped Strange Days into\n'
+                     'the eight-track, I fully believed the machine would '
+                     'work. “When the … \n',
+         'author': 'D Nicholas',
+         'eprint': 'http://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1032&context=td',
+         'title': 'Limitless and Free',
+         'url': 'http://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1032&context=td'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ld8HBcYUlyEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DZOc:AAGBfm0AAAAAXYJGfOcUvija8aKl8mT5rvSQA9o2adqn&scisig=AAGBfm0AAAAAXYJGfATgDWueN62x2Ry6aQaD0ooyvfhh&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'author': 'RA Heinlein',
+         'eprint': 'http://drnissani.net/mnissani/RevolutionarysToolkit/TheMoonIsAHarshMistress.pdf',
+         'title': 'The moon is a harsh mistress'},
+ 'citedby': 208,
+ 'id_scholarcitedby': '18201966718064798821',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZSy8u0pgmvwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DZOc:AAGBfm0AAAAAXYJGfOcUvija8aKl8mT5rvSQA9o2adqn&scisig=AAGBfm0AAAAAXYJGfK6S2GC-U0NbiUMfQ1ckW5bM-gNJ&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… boring boroughs. Although she finished the course in a '
+                     'respectable eight hours and\n'
+                     '35 minutes – many surrendered, even those used to low '
+                     'temperatures – Clare felt\n'
+                     'she had bellyached too much about the frigid water. To '
+                     'restore … \n',
+         'author': 'K Jennings',
+         'title': "An Otter's Life",
+         'url': 'https://search.informit.com.au/documentSummary;dn=571343779304207;res=IELLCC'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '15809540028504368685',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LWZSteTEZtsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DmzI:AAGBfm0AAAAAXYJGgzK_sXRqSsA8v9LVtFHvt9CEy0w6&scisig=AAGBfm0AAAAAXYJGg_73MvU4KLhBFsqRVlWeDdep66Vf&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… P.14) Complaining about the House of Representatives '
+                     'of the United States of\n'
+                     'America, Andrew Jackson bellyached when he said: “I weep '
+                     'for the liberty of my\n'
+                     'country when I see at this early day of its successful '
+                     'experienced … \n',
+         'author': 'A Oladiran',
+         'eprint': 'http://www.onlineresearchjournals.com/aajoss/art/155.pdf',
+         'title': 'Corruption and the quest for good governance in Nigeria',
+         'url': 'http://www.onlineresearchjournals.com/aajoss/art/155.pdf'},
+ 'citedby': 1,
+ 'id_scholarcitedby': '11327957791982519794',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:8oW8_Zf9NJ0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DmzI:AAGBfm0AAAAAXYJGgzK_sXRqSsA8v9LVtFHvt9CEy0w6&scisig=AAGBfm0AAAAAXYJGg4E6o1Oa5ZS34CJRk5rTNpers_l_&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Learning, knowledge, research, insight: welcome to the '
+                     'world of UBC Library,\n'
+                     'the second-largest academic research library in '
+                     'Canada.\n',
+         'author': 'S Collins',
+         'eprint': 'https://open.library.ubc.ca/collections/ubctheses/831/items/1.0055483',
+         'title': "Society's child",
+         'url': 'https://open.library.ubc.ca/collections/ubctheses/831/items/1.0055483'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gnt9P5kR6qwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DmzI:AAGBfm0AAAAAXYJGgzK_sXRqSsA8v9LVtFHvt9CEy0w6&scisig=AAGBfm0AAAAAXYJGg9sowY6h_h4T3qKPa3sPxZLDOokb&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Page 1. Page 2. Page 3. Reviews “[Word Finder]* is an '
+                     'ingenious idea. . . . It shows\n'
+                     "you how to look up words you can't get even close to on "
+                     'your own.” —George Christian,\n'
+                     '“The Houston Chronicle” “...the cleverest method I have '
+                     '… \n',
+         'author': 'PK McRann',
+         'title': 'Word finder: The phonic key to the dictionary',
+         'url': 'https://books.google.com/books?hl=en&lr=&id=ZNpDeuNNh8QC&oi=fnd&pg=PP11&dq=bellyached&ots=-gc2VOoIOW&sig=fRb8Y3j7D-5Ph2K5gzw0gftelgo'},
+ 'citedby': 2,
+ 'id_scholarcitedby': '15943258376842044485',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ReTw0QXVQd0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DmzI:AAGBfm0AAAAAXYJGgzK_sXRqSsA8v9LVtFHvt9CEy0w6&scisig=AAGBfm0AAAAAXYJGg_04XG4JdWlieppIw2QmfC3tsRJg&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… afterbirth where everything is clotted, until gold and '
+                     'blue tell us the world is alive.\n'
+                     "IV This morning I bellyached. I've run out of time to do "
+                     'all those things I need to before\n'
+                     'the baby changes my life more than he already has. More '
+                     '… \n',
+         'author': 'B Callen',
+         'title': 'Inclusions',
+         'url': 'http://search.proquest.com/openview/4acb39a0f0302c84cfed21d93aff376a/1?pq-origsite=gscholar&cbl=18750&diss=y'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:dpFJFhbiJvQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DmzI:AAGBfm0AAAAAXYJGgzK_sXRqSsA8v9LVtFHvt9CEy0w6&scisig=AAGBfm0AAAAAXYJGgzlU3wk-oNwjoK3NlKTceqRoVl-J&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Pueppke: I have been with land grants at least half as '
+                     'long as Tony has, and it is very\n'
+                     'interesting, because for a long time we in agriculture—I '
+                     'use this term very deliberately—\n'
+                     "bellyached that society didn't care about food and "
+                     'agriculture … \n',
+         'author': 'S Pueppke',
+         'eprint': 'https://ecommons-new.library.cornell.edu/bitstream/handle/1813/51471/nabc27_25_FinalPanel.pdf?sequence=1&isAllowed=y',
+         'title': 'Concluding session: Putting it all together',
+         'url': 'https://ecommons-new.library.cornell.edu/bitstream/handle/1813/51471/nabc27_25_FinalPanel.pdf?sequence=1&isAllowed=y'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:1qpJCuMa-mIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DmzI:AAGBfm0AAAAAXYJGgzK_sXRqSsA8v9LVtFHvt9CEy0w6&scisig=AAGBfm0AAAAAXYJGg5NHrvDjH2nJ4VsJUTsd7CBbBi0i&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'author': 'J Prager', 'title': 'The Echoing Green'},
+ 'citedby': 27,
+ 'id_scholarcitedby': '8535526384293357403',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:W6fH-gVIdHYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DmzI:AAGBfm0AAAAAXYJGgzK_sXRqSsA8v9LVtFHvt9CEy0w6&scisig=AAGBfm0AAAAAXYJGg86M3bMyUoSM0Ev9GVJU0vTq5zuw&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'author': 'L Hillenbrand',
+         'title': 'Unbroken: A World War II story of survival, resilience, and '
+                  'redemption'},
+ 'citedby': 111,
+ 'id_scholarcitedby': '17275715557978122242',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Aqj58cSrv-8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DmzI:AAGBfm0AAAAAXYJGgzK_sXRqSsA8v9LVtFHvt9CEy0w6&scisig=AAGBfm0AAAAAXYJGg-veaTGy79a0Wf8kQhaIbiNxgBCy&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… grandchild. Then he said, "tui-tui. All right, you are '
+                     'my grandchild." Then the feather\n'
+                     'got up, a man, from the water. Chicken hawk stayed with '
+                     'his grandfather. He got sick;\n'
+                     'his belly ached. "What\'s the matter?" Coyote asked him. '
+                     '— "I … \n',
+         'author': 'I Kelly',
+         'eprint': 'https://cloudfront.escholarship.org/dist/prd/content/qt39t6s0kt/qt39t6s0kt.pdf',
+         'title': 'Some Coast Miwok Tales',
+         'url': 'https://escholarship.org/uc/item/39t6s0kt'},
+ 'citedby': 7,
+ 'id_scholarcitedby': '16605874275745806662',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RjmgDqzqc-YJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DmzI:AAGBfm0AAAAAXYJGgzK_sXRqSsA8v9LVtFHvt9CEy0w6&scisig=AAGBfm0AAAAAXYJGg9ghKbjBmGMUUpS1q9C3fBYB7ZkE&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… And not only did I eat there, I almost enjoyed it. '
+                     'What poor college kid can resist a $ 10,\n'
+                     'never-ending pasta bowl? No, really, it never ends: I '
+                     'was so full my belly ached, but I asked for\n'
+                     'more food just because I could. I mean, come on now. It '
+                     'was never-ending … \n',
+         'author': 'A Brooks',
+         'eprint': 'http://digital.sandiego.edu/cgi/viewcontent.cgi?article=1330&context=vista',
+         'title': 'Student health center reopens',
+         'url': 'http://digital.sandiego.edu/cgi/viewcontent.cgi?article=1330&context=vista'},
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NeY5qO2PDPoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEOOH1G5DmzI:AAGBfm0AAAAAXYJGgzK_sXRqSsA8v9LVtFHvt9CEy0w6&scisig=AAGBfm0AAAAAXYJGgzGLgzUW7cL4AcHrTDXY9G7GtGFf&scisf=4&ct=citation&cd=99&hl=en'}

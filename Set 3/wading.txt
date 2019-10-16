@@ -1,0 +1,1335 @@
+{'_filled': False,
+ 'bib': {'abstract': 'METHODS Wading birds in the pond were watched from a '
+                     'ground level blind in 1969 and from a blind 4 m above '
+                     'ground in 1970 to 1973. Information on wading bird '
+                     'movements at and near the study site was obtained by '
+                     'aerial surveys. Heron feeding behaviors mentioned …',
+         'author': 'JA Kushlan',
+         'title': 'Wading bird predation in a seasonally fluctuating pond',
+         'url': 'https://www.jstor.org/stable/4084949'},
+ 'citedby': 268,
+ 'id_scholarcitedby': '6555625715612467813',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ZUJ_69pC-loJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJEdzfW6P6pyir-N5d7HM95Wj0ZJEY1&scisig=AAGBfm0AAAAAXYJEdxNA5QdJ4YCd6TPvqokHwZ4oP7ex&scisf=4&ct=citation&cd=0&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In 1975 we studied the suitability of wading birds '
+                     '(herons and their allies) as biological indicators in '
+                     'the coastal environment. Eight teams of investigators '
+                     'located and censused 198 colonies along the Atlantic '
+                     'coast from Maine to Florida. Fourteen species including '
+                     'over …',
+         'author': 'TW Custer and RG Osborn',
+         'title': 'Wading birds as biological indicators: 1975 colony survey.',
+         'url': 'http://repositories.tdl.org/tamug-ir/handle/1969.3/21080'},
+ 'citedby': 130,
+ 'id_scholarcitedby': '7522706621250214980',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RBwZpdAFZmgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJEdzfW6P6pyir-N5d7HM95Wj0ZJEY1&scisig=AAGBfm0AAAAAXYJEd1cgSdoVKDTntm0Hyhz18VMlT8kZ&scisf=4&ct=citation&cd=1&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Reduced prey availability has emerged as a primary '
+                     'hypothesis to explain population constraints on wading '
+                     'birds in numerous wetlands around the world. However, '
+                     'there is almost no understanding of which component of '
+                     'prey availability (ie, prey density or …',
+         'author': 'DE Gawlik',
+         'title': 'The effects of prey availability on the numerical response '
+                  'of wading birds',
+         'url': 'https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/0012-9615(2002)072%5B0329:TEOPAO%5D2.0.CO%3B2'},
+ 'citedby': 363,
+ 'id_scholarcitedby': '10639851504315494202',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Om-hIZJYqJMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJEdzfW6P6pyir-N5d7HM95Wj0ZJEY1&scisig=AAGBfm0AAAAAXYJEd8_rAVyeHzqfCKG3kSMQV9njbI5a&scisf=4&ct=citation&cd=2&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Wading birds, because of their large size and diversity, '
+                     'appear to offer some promise for unraveling of certain '
+                     'aspects of foraging ecology and resource use strategies. '
+                     'This paper presents a selective review of the current '
+                     'status of knowledge of resource use strategies in …',
+         'author': 'JA Kushlan',
+         'eprint': 'https://sora.unm.edu/sites/default/files/journals/wilson/v093n02/p0145-p0163.pdf',
+         'title': 'Resource use strategies of wading birds',
+         'url': 'https://www.jstor.org/stable/4161456'},
+ 'citedby': 135,
+ 'id_scholarcitedby': '686328181291971733',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lXQ_NdhThgkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJEdzfW6P6pyir-N5d7HM95Wj0ZJEY1&scisig=AAGBfm0AAAAAXYJEd-0FaVqm4mmgbHxlSskHq6Hq1Yiv&scisf=4&ct=citation&cd=3&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This chapter analyzes over 40 years of inquiry into the '
+                     'factors which affect reproductive success of wading '
+                     'birds in the Everglades system, with a focus on the past '
+                     '20 years. It is unlikely that reproductive success has '
+                     'been limited by human disturbance (in the post …',
+         'author': 'S Davis and JC Ogden',
+         'title': 'Factors affecting reproductive success of wading birds '
+                  '(Ciconiiformes) in the Everglades ecosystem',
+         'url': 'https://www.taylorfrancis.com/books/e/9780429101991/chapters/10.1201/9781466571754-35'},
+ 'citedby': 177,
+ 'id_scholarcitedby': '14870400841845750382',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:brriZcdGXs4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJEdzfW6P6pyir-N5d7HM95Wj0ZJEY1&scisig=AAGBfm0AAAAAXYJEd_WdCn27VsCNo8PDp6RrlilNsXJi&scisf=4&ct=citation&cd=4&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JC Ogden',
+         'title': 'A comparison of wading bird nesting colony '
+                  'dynamics(1931-1946 and 1974-1989) as an indication of '
+                  'ecosystem conditions in the southern Everglades'},
+ 'citedby': 269,
+ 'id_scholarcitedby': '3502423732571901915',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:24_YANQbmzAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJEdzfW6P6pyir-N5d7HM95Wj0ZJEY1&scisig=AAGBfm0AAAAAXYJEd_j_xlGk_gua3T24RsUWSyGCOtXr&scisf=4&ct=citation&cd=5&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'BACKGROUND OF THE INVENTION Fishermen in the pursuit of '
+                     'fish often enter into bodies of \n'
+                     'water where the fish are found, be it lake, pond, '
+                     'stream, river or surf. Fishermen employ various \n'
+                     'means of keeping the immersed positions of the body dry. '
+                     'One of these methods is the use of …',
+         'author': 'LL Martuch',
+         'eprint': 'https://patentimages.storage.googleapis.com/7d/40/4c/c8374eccd437cd/US3574958.pdf',
+         'title': 'Wading shoe',
+         'url': 'https://patents.google.com/patent/US3574958A/en'},
+ 'citedby': 60,
+ 'id_scholarcitedby': '1424543552592403504',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:MNxXQ9D-xBMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJEdzfW6P6pyir-N5d7HM95Wj0ZJEY1&scisig=AAGBfm0AAAAAXYJEdz2v-Mnq40qpoxnJOXTo2JkC5sQS&scisf=4&ct=citation&cd=6&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The diet and main feeding areas of the ten most numerous '
+                     'wading birds on the Wash were surveyed during August to '
+                     'May in 1972/73 and 1973/74. The most important prey '
+                     'species were as follows: oystercatcher (Haematopus '
+                     'ostralegus)-Cerastoderma edule and Mytilus …',
+         'author': 'JD Goss-Custard and RE Jones and PE Newbery',
+         'title': 'The ecology of the Wash. I. Distribution and diet of wading '
+                  'birds (Charadrii)',
+         'url': 'https://www.jstor.org/stable/2402803'},
+ 'citedby': 193,
+ 'id_scholarcitedby': '6556427312921217006',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7odWVucb_VoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJEdzfW6P6pyir-N5d7HM95Wj0ZJEY1&scisig=AAGBfm0AAAAAXYJEd1ikfpD9vvwyiD5iJe8q85-KvvXp&scisf=4&ct=citation&cd=7&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Efforts to professionalize teaching have coincided with '
+                     'a shift in teacher education programs. Recent '
+                     'requirements of accrediting bodies have resulted in '
+                     'initiatives to assess dispositions in addition to '
+                     'knowledge and skills. However, for such assessment to '
+                     'maintain …',
+         'author': 'DL Schussler',
+         'title': 'Defining dispositions: Wading through murky waters',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/08878730609555387'},
+ 'citedby': 108,
+ 'id_scholarcitedby': '5248348759360961282',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AnsSw2Ph1UgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJEdzfW6P6pyir-N5d7HM95Wj0ZJEY1&scisig=AAGBfm0AAAAAXYJEd96HTr1PN11pf8JqZzrRHfPbpSu0&scisf=4&ct=citation&cd=8&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The dynamics of foraging habitat use by long-legged '
+                     'wading birds was analyzed with respect to water-level '
+                     'fluctuation patterns in Florida Bay. Wading-bird '
+                     'presence at four sites situated to sample the '
+                     'heterogeneity of the bay was quantified by repeated '
+                     'surveys collected …',
+         'author': 'GVN Powell',
+         'eprint': 'https://sora.unm.edu/sites/default/files/journals/auk/v104n04/p0740-p0749.pdf',
+         'title': 'Habitat use by wading birds in a subtropical estuary: '
+                  'implications of hydrography',
+         'url': 'https://academic.oup.com/auk/article-abstract/104/4/740/5184972'},
+ 'citedby': 162,
+ 'id_scholarcitedby': '17402712532621533040',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:cB8lS9jagvEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKGAA:AAGBfm0AAAAAXYJEdzfW6P6pyir-N5d7HM95Wj0ZJEY1&scisig=AAGBfm0AAAAAXYJEdy0XeL1SYmn3pnBorLsiWzpyOaxj&scisf=4&ct=citation&cd=9&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Wading birds are dependent on wetlands that are under '
+                     'increasing pressure worldwide. Distributed throughout '
+                     'almost all wetlands, these birds have been the subject '
+                     'of many decades of intensive research. Understanding '
+                     'their ecology is a critical requirement of their …',
+         'author': 'H Hafner',
+         'title': 'Ecology of wading birds',
+         'url': 'https://www.jstor.org/stable/1521773'},
+ 'citedby': 65,
+ 'id_scholarcitedby': '5836349904074544090',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2pM_wVDh_lAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bmno:AAGBfm0AAAAAXYJEgnr-MqTJIgo18ywATy9cWyBClnYT&scisig=AAGBfm0AAAAAXYJEgjVyMzTqJ-UEhmOX5fGmaBIwzITt&scisf=4&ct=citation&cd=10&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Wading birds (Ciconiiformes) may use diverse strategies '
+                     'to cope with the seasonal fluctuations of water levels '
+                     'characteristic of large tropical wetlands. Drawing on '
+                     'studies of two species in the Florida Everglades, in '
+                     'this paper I discuss such accommodations to …',
+         'author': 'JA Kushlan',
+         'title': 'Responses of wading birds to seasonally fluctuating water '
+                  'levels: strategies and their limits',
+         'url': 'https://www.jstor.org/stable/1521208'},
+ 'citedby': 152,
+ 'id_scholarcitedby': '15363677200262929911',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:951wbQO_NtUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bmno:AAGBfm0AAAAAXYJEgnr-MqTJIgo18ywATy9cWyBClnYT&scisig=AAGBfm0AAAAAXYJEgg-x_FB4Gc2EbIbnWlLql4eW-8L4&scisf=4&ct=citation&cd=11&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Contemporary mercury interest relates to atmospheric '
+                     'deposition, contaminated fish stocks and exposed '
+                     'fish-eating wildlife. The focus is on methylmercury '
+                     '(MeHg) even though most contamination is of inorganic '
+                     '(IoHg) origin. However, IoHg is readily methylated in '
+                     'aquatic …',
+         'author': 'CJ Henny and EF Hill and DJ Hoffman and MG Spalding…',
+         'title': 'Nineteenth century mercury: hazard to wading birds and '
+                  'cormorants of the Carson River, Nevada',
+         'url': 'https://link.springer.com/article/10.1023/A:1016327602656'},
+ 'citedby': 198,
+ 'id_scholarcitedby': '16697414121773851893',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9eTrU60huecJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bmno:AAGBfm0AAAAAXYJEgnr-MqTJIgo18ywATy9cWyBClnYT&scisig=AAGBfm0AAAAAXYJEgvGUqGrIj3xMGPReEIW4VzXzAwak&scisf=4&ct=citation&cd=12&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The properties of self-reports and perceived norms of '
+                     'absenteeism were examined and compared in 7 progressive '
+                     'studies. Regardless of attendance context, time '
+                     'interval, type of estimate, or administration condition, '
+                     'individuals reported (on average) having roughly half …',
+         'author': 'DA Harrison and MA Shaffer',
+         'title': 'Comparative examinations of self-reports and perceived '
+                  'absenteeism norms: Wading through Lake Wobegon.',
+         'url': 'https://psycnet.apa.org/record/1994-31621-001'},
+ 'citedby': 140,
+ 'id_scholarcitedby': '2166187701986685111',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:t3C87TzYDx4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bmno:AAGBfm0AAAAAXYJEgnr-MqTJIgo18ywATy9cWyBClnYT&scisig=AAGBfm0AAAAAXYJEgvofgWS4MZeTECvCLxqMAghO0IA7&scisf=4&ct=citation&cd=13&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Although concern is often expressed that frequent media '
+                     'exposure may adversely affect the self-esteem and racial '
+                     'self-esteem of African American youths, evidence to '
+                     'support this assumption has been limited. To examine '
+                     'this issue, the author collected data among 156 …',
+         'author': 'LM Ward',
+         'eprint': 'http://www.angelfire.com/planet/coun507b/WARD.pdf',
+         'title': 'Wading through the stereotypes: positive and negative '
+                  "associations between media use and black adolescents' "
+                  'conceptions of self.',
+         'url': 'https://psycnet.apa.org/record/2004-11032-013'},
+ 'citedby': 181,
+ 'id_scholarcitedby': '5201678039470799214',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:bnmbAp4SMEgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bmno:AAGBfm0AAAAAXYJEgnr-MqTJIgo18ywATy9cWyBClnYT&scisig=AAGBfm0AAAAAXYJEgvWvtX_qWThtadKJW6ijxfBgg7AX&scisf=4&ct=citation&cd=14&hl=en'}{'_filled': False,
+ 'bib': {'author': 'GT Bancroft and AM Stong and RJ Sawicki and W Hoffman…',
+         'title': 'Relationships among wading bird foraging patterns, colony '
+                  'locations, and hydrology in the Everglades'},
+ 'citedby': 123,
+ 'id_scholarcitedby': '9835054924513034894',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:jkIOclgifYgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bmno:AAGBfm0AAAAAXYJEgnr-MqTJIgo18ywATy9cWyBClnYT&scisig=AAGBfm0AAAAAXYJEgsuLfMzlLAItJVDduTCvW_YV4pI3&scisf=4&ct=citation&cd=15&hl=en'}{'_filled': False,
+ 'bib': {'author': 'RW Butler',
+         'title': 'Population regulation of wading Ciconiiform birds'},
+ 'citedby': 58,
+ 'id_scholarcitedby': '7898686142417910683',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:m7sejzLFnW0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bmno:AAGBfm0AAAAAXYJEgnr-MqTJIgo18ywATy9cWyBClnYT&scisig=AAGBfm0AAAAAXYJEglfqnOk3rAKfN57k7VQXrcVJBgQ1&scisf=4&ct=citation&cd=16&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Intertidal areas support during the non-breeding season '
+                     'many wading birds Charadrii that may often take flight '
+                     'in response to the presence of people or of birds of '
+                     'prey on their intertidal feeding and roosting grounds. '
+                     'Disturbance can cause birds to spend energy flying …',
+         'author': 'JD Goss-Custard and P Triplet and F Sueur and AD West',
+         'eprint': 'http://avifaunepicarde.free.fr/DisturbanceThresholds%20on%20the%20Somme.pdf',
+         'title': 'Critical thresholds of disturbance by people and raptors in '
+                  'foraging wading birds',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0006320705003010'},
+ 'citedby': 143,
+ 'id_scholarcitedby': '2315554920248462175',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:X0tRf-6AIiAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bmno:AAGBfm0AAAAAXYJEgnr-MqTJIgo18ywATy9cWyBClnYT&scisig=AAGBfm0AAAAAXYJEgrmnA0w1wTRsTnLDkVGTQq2xteJu&scisf=4&ct=citation&cd=17&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JD Goss-Custard',
+         'title': 'Foraging behavior of wading birds and the carrying capacity '
+                  'of estuaries.'},
+ 'citedby': 103,
+ 'id_scholarcitedby': '15239930772946683392',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AAYIG0scf9MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bmno:AAGBfm0AAAAAXYJEgnr-MqTJIgo18ywATy9cWyBClnYT&scisig=AAGBfm0AAAAAXYJEggLtNmqpXgT70YfC4K-lUR8Ah77Q&scisf=4&ct=citation&cd=18&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Summary 1 Lowland wet grassland in western Europe is '
+                     'often managed for breeding wading birds, especially '
+                     'lapwing Vanellus vanellus, redshank Tringa totanus, '
+                     'snipe Gallinago gallinago and black‐tailed godwit Limosa '
+                     'limosa. Recommended conservation …',
+         'author': 'M Ausden and WJ Sutherland…',
+         'eprint': 'https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1046/j.1365-2664.2001.00600.x',
+         'title': 'The effects of flooding lowland wet grassland on soil '
+                  'macroinvertebrate prey of breeding wading birds',
+         'url': 'https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2664.2001.00600.x'},
+ 'citedby': 170,
+ 'id_scholarcitedby': '373567822526213455',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:T-0wkfQtLwUJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bmno:AAGBfm0AAAAAXYJEgnr-MqTJIgo18ywATy9cWyBClnYT&scisig=AAGBfm0AAAAAXYJEgn64fLJept6FAcwaOgAv-gJtm9xu&scisf=4&ct=citation&cd=19&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Mercury was measured in livers from 144 wading birds '
+                     'representing seven species collected from four different '
+                     'areas in southern Flordia, including the Everglades '
+                     'National Park. Significant differences in hepatic '
+                     'mercury concentrations were identified between birds …',
+         'author': 'SF Sundlof and MG Spalding and JD Wentworth…',
+         'title': 'Mercury in livers of wading birds (Ciconiiformes) in '
+                  'southern Florida',
+         'url': 'https://link.springer.com/article/10.1007/BF00213163'},
+ 'citedby': 101,
+ 'id_scholarcitedby': '15709693069363307446',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:tuPQ8ZwKBNoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BlKY:AAGBfm0AAAAAXYJEjKaPl6HbDvPD89dUe6lkhUWJpSec&scisig=AAGBfm0AAAAAXYJEjO4OG1C4akGJ7tGJsY5AY1JPlmHf&scisf=4&ct=citation&cd=20&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The response of Great Blue Herons (Ardea herodias), '
+                     'Great Egrets (Casmerodius albus), Wood Storks (Mycteria '
+                     'americana), and White Ibises (Eudocimus albus) to water '
+                     'level (index of depth) and vegetation in the northern '
+                     'Everglades of Florida was studied in two years …',
+         'author': 'GT Bancroft and DE Gawlik and K Rutchey',
+         'title': 'Distribution of wading birds relative to vegetation and '
+                  'water depths in the northern Everglades of Florida, USA',
+         'url': 'https://bioone.org/journals/Waterbirds/volume-25/issue-3/1524-4695(2002)025[0265:DOWBRT]2.0.CO;2/Distribution-of-Wading-Birds-Relative-to-Vegetation-and-Water-Depths/10.1675/1524-4695(2002)025[0265:DOWBRT]2.0.CO;2.short'},
+ 'citedby': 175,
+ 'id_scholarcitedby': '11145266116404348127',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:34R6k3vwq5oJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BlKY:AAGBfm0AAAAAXYJEjKaPl6HbDvPD89dUe6lkhUWJpSec&scisig=AAGBfm0AAAAAXYJEjNaxrrQmx6cLn5HM0m712-fo1fAk&scisf=4&ct=citation&cd=21&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This paper describes the responses of two species of '
+                     'wading birds, the knot, Calidris canutus (L.), and '
+                     'oystercatcher, Haematopus ostralegus L., to their own '
+                     'density and to that of their prey, and measures the '
+                     'impact of these and other wading birds on their food '
+                     'during the …',
+         'author': 'JD Goss-Custard',
+         'title': 'The ecology of the Wash. III. Density-related behaviour and '
+                  'the possible effects of a loss of feeding grounds on wading '
+                  'birds (Charadrii)',
+         'url': 'https://www.jstor.org/stable/2402805'},
+ 'citedby': 223,
+ 'id_scholarcitedby': '5183802474592124889',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2b_au-KQ8EcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BlKY:AAGBfm0AAAAAXYJEjKaPl6HbDvPD89dUe6lkhUWJpSec&scisig=AAGBfm0AAAAAXYJEjI1UnvF2_hFjf8n19JTPnD3lQ5fE&scisf=4&ct=citation&cd=22&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In an effort to relate social interactions to '
+                     'feeding-habitat use, I observed six species of wading '
+                     'birds near a major colony site in coastal North '
+                     'Carolina. Three spatial scales of habitat use were '
+                     'considered: the general orientation to and from the '
+                     'colony (coarsest level) …',
+         'author': 'RM Erwin',
+         'eprint': 'https://sora.unm.edu/sites/default/files/journals/auk/v100n04/p0960-p0970.pdf',
+         'title': 'Feeding habitats of nesting wading birds: spatial use and '
+                  'social influences',
+         'url': 'https://academic.oup.com/auk/article-abstract/100/4/960/5187327'},
+ 'citedby': 99,
+ 'id_scholarcitedby': '18082974459710305424',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kHR-oXah8_oJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BlKY:AAGBfm0AAAAAXYJEjKaPl6HbDvPD89dUe6lkhUWJpSec&scisig=AAGBfm0AAAAAXYJEjHsOQ8pgxfOXWdtcsTKZ-iLaPElB&scisf=4&ct=citation&cd=23&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Hurricane Katrina has drawn increased interest in coping '
+                     'strategies, spirituality, and mental health among '
+                     'low-income Blacks. Given the paucity of information '
+                     'available regarding the role of spirituality in '
+                     'surviving Hurricane Katrina, this qualitative study '
+                     'explores active coping …',
+         'author': 'EJ Lawson and C Thomas',
+         'eprint': 'http://cretscmhd.psych.ucla.edu/nola/volunteer/EmpiricalStudies/Wading%20in%20the%20waters.pdf',
+         'title': 'Wading in the waters: Spirituality and older Black Katrina '
+                  'survivors',
+         'url': 'https://muse.jhu.edu/article/214410/summary'},
+ 'citedby': 98,
+ 'id_scholarcitedby': '8521216027987894399',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:f2CVgtRwQXYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BlKY:AAGBfm0AAAAAXYJEjKaPl6HbDvPD89dUe6lkhUWJpSec&scisig=AAGBfm0AAAAAXYJEjGYMIz1y_i-rg6yaC_p3bF91pf33&scisf=4&ct=citation&cd=24&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'D. Comparison with a Negligence Standard ........... 597 '
+                     'III. Three Liability Contexts of Risk-Utility \n'
+                     'Analysis ........ 598 A. Product Design Defect Tests: '
+                     'Towards Recognition of the Producer ........ … 1. '
+                     'Application of the product defect test .......... 598 2. '
+                     'An example …',
+         'author': 'WK Viscusi',
+         'eprint': 'https://ir.vanderbilt.edu/bitstream/handle/1803/6604/Wading%20through%20the%20Muddle.pdf?sequence=1',
+         'title': 'Wading through the muddle of risk-utility analysis',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/aulr39&section=24'},
+ 'citedby': 69,
+ 'id_scholarcitedby': '5325735406691425972',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:tB6QqyLQ6EkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BlKY:AAGBfm0AAAAAXYJEjKaPl6HbDvPD89dUe6lkhUWJpSec&scisig=AAGBfm0AAAAAXYJEjNu3Ye8MIPV8pnRVW1x_iyyf1Jt_&scisf=4&ct=citation&cd=25&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'An individual-oriented model for a colony of nesting '
+                     'wading birds during a breeding season is described. The '
+                     'birds in the colony are modeled as an assemblage of '
+                     'individuals. Their behaviors, such as foraging, '
+                     'bioenergetics, interactions with conspecifics, and '
+                     'reproduction …',
+         'author': 'WF Wolff',
+         'eprint': 'http://indico.ictp.it/event/a02286/contribution/74/material/0/0.pdf',
+         'title': 'An individual-oriented model of a wading bird nesting '
+                  'colony',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0304380094901465'},
+ 'citedby': 91,
+ 'id_scholarcitedby': '9894805462532438557',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:HTrXqyRpUYkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BlKY:AAGBfm0AAAAAXYJEjKaPl6HbDvPD89dUe6lkhUWJpSec&scisig=AAGBfm0AAAAAXYJEjEpDbxVzLngaZG4uf-HsJawVqtKJ&scisf=4&ct=citation&cd=26&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Managing and preserving colonially nesting wading birds '
+                     '(Ciconiiformes) re-quires that the status of colonies be '
+                     'mon-itored. Monitoring programs, especially when '
+                     'long-term, help to assess popula-tion fluctuations '
+                     'associated with environ-mental changes or management …',
+         'author': 'JA Kushlan',
+         'title': 'Effects of helicopter censuses on wading bird colonies',
+         'url': 'https://www.jstor.org/stable/3808757'},
+ 'citedby': 70,
+ 'id_scholarcitedby': '7139003635062693008',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kFwiZvvVEmMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BlKY:AAGBfm0AAAAAXYJEjKaPl6HbDvPD89dUe6lkhUWJpSec&scisig=AAGBfm0AAAAAXYJEjIfxaKmmvKwi35ti2pgS3kWZsl4P&scisf=4&ct=citation&cd=27&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The seasonal relationship between shell length and depth '
+                     'buried in Macoma balthica (L.) was studied on an area of '
+                     'intertidal flat in the Wash. Although the larger animals '
+                     'buried deeper than the smaller ones very few (0· 28%) '
+                     'occurred below a depth of 7· 5 cm. The …',
+         'author': 'CJ Reading and S McGrorty',
+         'title': 'Seasonal variations in the burying depth of Macoma balthica '
+                  '(L.) and its accessibility to wading birds',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0302352478900956'},
+ 'citedby': 118,
+ 'id_scholarcitedby': '6922032332204585153',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wbDSTLv_D2AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BlKY:AAGBfm0AAAAAXYJEjKaPl6HbDvPD89dUe6lkhUWJpSec&scisig=AAGBfm0AAAAAXYJEjGR5IIhVy1poi5OYNgo4Gh43YA5C&scisf=4&ct=citation&cd=28&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Wading birds, including ibises, herons, and storks, '
+                     'which once nested in southern Florida by the millions '
+                     'have decreased because of habitat destruction. A '
+                     '1974-1975 survey located 41 colonies and 129,800 wading '
+                     'birds nesting in southern Florida. White Ibis and Cattle '
+                     'Egret …',
+         'author': 'JA Kushlan and DA White',
+         'title': 'Nesting wading bird populations in southern Florida',
+         'url': 'https://www.jstor.org/stable/24319435'},
+ 'citedby': 55,
+ 'id_scholarcitedby': '5082969959178184159',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:3yXMRD9WikYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BlKY:AAGBfm0AAAAAXYJEjKaPl6HbDvPD89dUe6lkhUWJpSec&scisig=AAGBfm0AAAAAXYJEjI2v_y7qY2OwiniGN3jzoSc2r7YQ&scisf=4&ct=citation&cd=29&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This study forms part of an investigation to predict the '
+                     'effect of the construction of proposed fresh-water '
+                     'reservoirs on the wading birds that feed on the '
+                     'macro-invertebrates of the Wash. It evaluates the '
+                     'possibility that the birds had difficulty in obtaining '
+                     'their food at any time …',
+         'author': 'JD Goss-Custard and RA Jenyon and RE Jones…',
+         'title': 'The ecology of the Wash. II. Seasonal variation in the '
+                  'feeding conditions of wading birds (Charadrii)',
+         'url': 'https://www.jstor.org/stable/2402804'},
+ 'citedby': 123,
+ 'id_scholarcitedby': '9245830775733120721',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:0W7yoBrKT4AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BjoE:AAGBfm0AAAAAXYJEloG_7DEOE4a_nQmxdJG_D0JaPXAq&scisig=AAGBfm0AAAAAXYJElsW0efa8Wn0JD2R5nfEKQqPM9pMi&scisf=4&ct=citation&cd=30&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A total of 2,167 individuals representing 15 species of '
+                     'wading birds was examined for infection with the '
+                     'nematode Eustrongylides ignotus in Florida (USA). Ten of '
+                     'the species were infected with the greatest prevalences '
+                     'occurring in great blue herons (Ardea …',
+         'author': 'MG Spalding and GT Bancroft…',
+         'eprint': 'https://www.jwildlifedis.org/doi/pdf/10.7589/0090-3558-29.2.237',
+         'title': 'The epizootiology of eustrongylidosis in wading birds '
+                  '(Ciconiiformes) in Florida',
+         'url': 'http://www.jwildlifedis.org/doi/abs/10.7589/0090-3558-29.2.237'},
+ 'citedby': 75,
+ 'id_scholarcitedby': '15631815543005480704',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:AIdFW2pd79gJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BjoE:AAGBfm0AAAAAXYJEloG_7DEOE4a_nQmxdJG_D0JaPXAq&scisig=AAGBfm0AAAAAXYJElobMqBbEFBsCsIILQAuHEaZY2KRB&scisf=4&ct=citation&cd=31&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Fig. 2 an enlarged hotton plan view of the same with '
+                     'portions broken away for the sake of clearness; and Fig. '
+                     '3 a transverse section taken substan tially on line 3-3 '
+                     'of Fig. 2. The embodiment of the inventioi. illus trated '
+                     'in the drawing comprises a suitable sole member …',
+         'author': 'T Isago',
+         'title': 'Wading overshoe',
+         'url': 'https://patents.google.com/patent/US1877080A/en'},
+ 'citedby': 30,
+ 'id_scholarcitedby': '9044666517967186630',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xqpNA0cchX0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BjoE:AAGBfm0AAAAAXYJEloG_7DEOE4a_nQmxdJG_D0JaPXAq&scisig=AAGBfm0AAAAAXYJElmI1m_joNa7wwvyhD71SMdXEy8E3&scisf=4&ct=citation&cd=32&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Many kinds of birds walk in water, or wade. This chapter '
+                     'is about the long-legged wading birds, which are here '
+                     'defined as the herons, egrets, ibises, storks, and '
+                     'spoonbills, all of which are in the order Ciconiiformes. '
+                     'Although shorebirds are referred to as “waders” in …',
+         'author': 'PC Frederick',
+         'eprint': 'https://www.researchgate.net/profile/Pat_Baird/publication/304007614_Chapter_10_Seabird_communication_and_displays/links/5a43e090458515f6b052d6e0/Chapter-10-Seabird-communication-and-displays.pdf#page=636',
+         'title': 'Wading birds in the marine environment',
+         'url': 'https://www.researchgate.net/profile/Pat_Baird/publication/304007614_Chapter_10_Seabird_communication_and_displays/links/5a43e090458515f6b052d6e0/Chapter-10-Seabird-communication-and-displays.pdf#page=636'},
+ 'citedby': 56,
+ 'id_scholarcitedby': '12055612546734555795',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:kwLb5bwjTqcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BjoE:AAGBfm0AAAAAXYJEloG_7DEOE4a_nQmxdJG_D0JaPXAq&scisig=AAGBfm0AAAAAXYJElhm2gxFP2hyRHAujrfxWMN3ib_8Y&scisf=4&ct=citation&cd=33&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A minimum input for water dynamics simulation in crop '
+                     'models are soil water content at field capacity (DUL, '
+                     'drained upper limit), wilting point (LL, lower limit) '
+                     'and, often, saturation (SAT). Eight methods for '
+                     'estimating these water-retention parameters were '
+                     'compared using the …',
+         'author': 'AJ Gijsman and SS Jagtap and JW Jones',
+         'title': 'Wading through a swamp of complete confusion: how to choose '
+                  'a method for estimating soil water retention parameters for '
+                  'crop models',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S1161030102000989'},
+ 'citedby': 148,
+ 'id_scholarcitedby': '12171795117074053488',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:cHkIiCvn6qgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BjoE:AAGBfm0AAAAAXYJEloG_7DEOE4a_nQmxdJG_D0JaPXAq&scisig=AAGBfm0AAAAAXYJElndu5HUaXL2RDYFEV0ADX88n_26A&scisf=4&ct=citation&cd=34&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Nests of 5 species of wading birds were identified and '
+                     'marked during the breeding season at 6 locations from '
+                     'Massachusetts to North Carolina. At the end of the '
+                     'breeding season 12 characteristics of nest-site location '
+                     'were measured. Nest locations were mapped to examine …',
+         'author': 'DL Beaver and RG Osborn and TW Custer',
+         'eprint': 'https://sora.unm.edu/sites/default/files/journals/wilson/v092n02/p0200-p0220.pdf',
+         'title': 'Nest-site and colony characteristics of wading birds in '
+                  'selected Atlantic coast colonies',
+         'url': 'https://www.jstor.org/stable/4161327'},
+ 'citedby': 85,
+ 'id_scholarcitedby': '1587245107828883468',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DACeFwQHBxYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BjoE:AAGBfm0AAAAAXYJEloG_7DEOE4a_nQmxdJG_D0JaPXAq&scisig=AAGBfm0AAAAAXYJEluxTJpR58O47IWkekyN7JqT1XXWD&scisf=4&ct=citation&cd=35&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'With the increasing popularity of W eb 2.0 tools, it '
+                     'only follows that these technologies are adapted to our '
+                     'foreign language classroom practices. Research shows '
+                     'their numerous advantages as participatory tools that '
+                     'foster communication and collaboration. This study …',
+         'author': 'LC Ducate and LL Anderson…',
+         'eprint': 'http://www.academia.edu/download/7502707/flan_1144.pdf',
+         'title': 'Wading through the world of wikis: An analysis of three '
+                  'wiki projects',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1944-9720.2011.01144.x'},
+ 'citedby': 83,
+ 'id_scholarcitedby': '12250360668966266378',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CqYmjB8GAqoJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BjoE:AAGBfm0AAAAAXYJEloG_7DEOE4a_nQmxdJG_D0JaPXAq&scisig=AAGBfm0AAAAAXYJElnWpMAISsUldEXHup6VecbyMr6KR&scisf=4&ct=citation&cd=36&hl=en'}{'_filled': False,
+ 'bib': {'author': 'PC Frederick and GVN Powell',
+         'title': 'Nutrient transport by wading birds in the Everglades'},
+ 'citedby': 51,
+ 'id_scholarcitedby': '13511131346389784373',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NVc1318ugbsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BjoE:AAGBfm0AAAAAXYJEloG_7DEOE4a_nQmxdJG_D0JaPXAq&scisig=AAGBfm0AAAAAXYJElgNw0YZ5L7gSHj5hEESO4Xqwtg5G&scisf=4&ct=citation&cd=37&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Protected lands contain a large proportion of existing '
+                     'critical habitat for many wading bird species, but human '
+                     'activities in these areas have the potential to '
+                     'adversely effect these species. The effects of passing '
+                     'vehicles on the foraging behavior of wading birds was …',
+         'author': 'ED Stolen',
+         'eprint': 'http://obpa-nc.org/DOI-AdminRecord/0056257-0056266.pdf',
+         'title': 'The effects of vehicle passage on foraging behavior of '
+                  'wading birds',
+         'url': 'https://bioone.org/journals/Waterbirds/volume-26/issue-4/1524-4695(2003)026[0429:TEOVPO]2.0.CO;2/The-Effects-of-Vehicle-Passage-on-Foraging-Behavior-of-Wading/10.1675/1524-4695(2003)026[0429:TEOVPO]2.0.CO;2.short'},
+ 'citedby': 66,
+ 'id_scholarcitedby': '5162558279652117935',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:r43qJmcXpUcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BjoE:AAGBfm0AAAAAXYJEloG_7DEOE4a_nQmxdJG_D0JaPXAq&scisig=AAGBfm0AAAAAXYJElry6ZDlCJrGQ5Gualx-zRVXDpvW2&scisf=4&ct=citation&cd=38&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '(1) A winter survey of seven species of wading birds '
+                     '(Charadrii) at forty intertidal sites in six estuaries '
+                     'in south-west England was made to identify the variables '
+                     'that determined the variation in bird densities between '
+                     'the sites and to develop a method for predicting bird …',
+         'author': 'JD Goss-Custard and RM Warwick and R Kirby…',
+         'eprint': 'https://researchrepository.murdoch.edu.au/id/eprint/23195',
+         'title': 'Towards predicting wading bird densities from predicted '
+                  'prey densities in a post-barrage Severn Estuary',
+         'url': 'https://www.jstor.org/stable/2404222'},
+ 'citedby': 92,
+ 'id_scholarcitedby': '17478391958883875863',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:FzxR0uG4j_IJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BjoE:AAGBfm0AAAAAXYJEloG_7DEOE4a_nQmxdJG_D0JaPXAq&scisig=AAGBfm0AAAAAXYJEluGgODNFlO4cMy1A70ujyptLzxcA&scisf=4&ct=citation&cd=39&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The effects of angler wading on trout eggs and '
+                     'pre-emergent fry in artificial redds depended on wading '
+                     'frequency and stage of egg or fry development and was '
+                     'similar for brown trout Salmo trutta, rainbow trout '
+                     'Oncorhynchus mykiss, and cutthroat trout O. clarki. '
+                     'Twice-daily …',
+         'author': 'BC Roberts and RG White',
+         'title': 'Effects of angler wading on survival of trout eggs and '
+                  'pre-emergent fry',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1577/1548-8675(1992)012%3C0450%3AEOAWOS%3E2.3.CO%3B2'},
+ 'citedby': 73,
+ 'id_scholarcitedby': '14462292668228959810',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Qv6Fp45itMgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BhXc:AAGBfm0AAAAAXYJEnXc5Tzzxxq3LrJ87JV8YFcKyIj7H&scisig=AAGBfm0AAAAAXYJEnX8JeTsMT2ePjKYXD4Hia4y8UoK0&scisf=4&ct=citation&cd=40&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Mercury contamination in wetland biota is often dynamic, '
+                     'difficult to predict, and costly to track. In this '
+                     'paper, we present results from a six‐year study of '
+                     'growing feathers of piscivorous birds as monitors of '
+                     'wetland Hg exposure in Florida, USA, wetlands. Between …',
+         'author': 'PC Frederick and MG Spalding…',
+         'eprint': 'https://pdfs.semanticscholar.org/a59e/f50f29f1f1e31a4ba24a0d33c02c729c0e93.pdf',
+         'title': 'Wading birds as bioindicators of mercury contamination in '
+                  'Florida, USA: annual and geographic variation',
+         'url': 'https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/etc.5620210123'},
+ 'citedby': 83,
+ 'id_scholarcitedby': '6355840388527853566',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:_o9Inyh7NFgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BhXc:AAGBfm0AAAAAXYJEnXc5Tzzxxq3LrJ87JV8YFcKyIj7H&scisig=AAGBfm0AAAAAXYJEnXbLwMvXELew6u--fOIsYFTiaeEa&scisf=4&ct=citation&cd=41&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Primary or tail feathers were collected from 92 wading '
+                     'birds in Florida from Lake Okeechobee and wetlands '
+                     'farther south, from 1987 to 1990. Mean concentrations '
+                     'detected in feathers of nestlings were 2.0 ppm Hg in '
+                     'roseate spoonbills (Ajaia ajaja), 3.5 ppm Hg in …',
+         'author': 'WN Beyer and M Spalding and D Morrison',
+         'title': 'Mercury concentrations in feathers of wading birds from '
+                  'Florida',
+         'url': 'https://www.jstor.org/stable/4314559'},
+ 'citedby': 54,
+ 'id_scholarcitedby': '7850459654464548950',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VjDlU3Zv8mwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BhXc:AAGBfm0AAAAAXYJEnXc5Tzzxxq3LrJ87JV8YFcKyIj7H&scisig=AAGBfm0AAAAAXYJEnSO-puRFzG4XQU7Q4IjSWOTovli7&scisf=4&ct=citation&cd=42&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Low brain and serum cholinesterase activity were found '
+                     'in several species of wading birds. The area from which '
+                     'these birds were taken recently had been sprayed with '
+                     'the organophosphorous insecticide fenthion (O, '
+                     'O-dimethyl O-[4-(methylthio)-m-tolyl] …',
+         'author': 'JG ZINKL and DA Jessup and AI Bischoff…',
+         'eprint': 'https://www.jwildlifedis.org/doi/pdf/10.7589/0090-3558-17.1.117',
+         'title': 'Fenthion poisoning of wading birds',
+         'url': 'https://www.jwildlifedis.org/doi/pdf/10.7589/0090-3558-17.1.117'},
+ 'citedby': 37,
+ 'id_scholarcitedby': '12544410523464940933',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hb3Mb-iyFq4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BhXc:AAGBfm0AAAAAXYJEnXc5Tzzxxq3LrJ87JV8YFcKyIj7H&scisig=AAGBfm0AAAAAXYJEncWZQwrMF3lyhD--SXTJEhAdc_T3&scisf=4&ct=citation&cd=43&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In July 2001, an outbreak of gastroenteritis occurred in '
+                     'Helsinki among children and adults after bathing in an '
+                     'outdoor wading pool. The epidemiological survey revealed '
+                     'that at least 242 persons were affected. Microbiological '
+                     'testing of both patient stool samples and of the …',
+         'author': 'L Maunula and S Kalso and CH Von Bonsdorff…',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870155/pdf/15310176.pdf',
+         'title': 'Wading pool water contaminated with both noroviruses and '
+                  'astroviruses as the source of a gastroenteritis outbreak',
+         'url': 'https://www.cambridge.org/core/journals/epidemiology-and-infection/article/wading-pool-water-contaminated-with-both-noroviruses-and-astroviruses-as-the-source-of-a-gastroenteritis-outbreak/3B75F1F5FCD0795E299C87ACDDD88CC3'},
+ 'citedby': 88,
+ 'id_scholarcitedby': '13850899500042156186',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mvilx7VHOMAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BhXc:AAGBfm0AAAAAXYJEnXc5Tzzxxq3LrJ87JV8YFcKyIj7H&scisig=AAGBfm0AAAAAXYJEnfniXOX4Fdf-KaLnIdwmgyNtBvMJ&scisf=4&ct=citation&cd=44&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The two principal mechanisms available to conserve '
+                     'breeding wading birds on lowland wet grassland in '
+                     'England are nature reserves and agri-environment '
+                     'schemes, particularly the Environmentally Sensitive Area '
+                     '(ESA) scheme. ESAs offer payments to landowners in '
+                     'return …',
+         'author': 'M Ausden and GJM Hirons',
+         'title': 'Grassland nature reserves for breeding wading birds in '
+                  'England and the implications for the ESA agri-environment '
+                  'scheme',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S0006320701002543'},
+ 'citedby': 99,
+ 'id_scholarcitedby': '2270856245588923050',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:qhJOTrmzgx8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BhXc:AAGBfm0AAAAAXYJEnXc5Tzzxxq3LrJ87JV8YFcKyIj7H&scisig=AAGBfm0AAAAAXYJEnSig-7w8ET-ChX9Y1kx3eHa6dGsc&scisf=4&ct=citation&cd=45&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Oganophosphorus (OP) and carbamate (CB) insecticidesare '
+                     'widely used and havea variety of lethal and sublethal '
+                     'effects on nontarget wildlife, primarily through '
+                     'cholinesterase (ChE) inhibition. To assess possible '
+                     'exposure to anti‐ChE compounds in wading birds, we …',
+         'author': 'KC Parsons and AC Matz and MJ Hooper…',
+         'eprint': 'https://www.researchgate.net/profile/Angela_Matz2/publication/229659196_Monitoring_wading_bird_exposure_to_agricultural_chemicals_using_serum_cholinesterase_activity/links/5c7071c192851c6950390f2e/Monitoring-wading-bird-exposure-to-agricultural-chemicals-using-serum-cholinesterase-activity.pdf',
+         'title': 'Monitoring wading bird exposure to agricultural chemicals '
+                  'using serum cholinesterase activity',
+         'url': 'https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/etc.5620190514'},
+ 'citedby': 63,
+ 'id_scholarcitedby': '2613935117845782081',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Qd4d9SOQRiQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BhXc:AAGBfm0AAAAAXYJEnXc5Tzzxxq3LrJ87JV8YFcKyIj7H&scisig=AAGBfm0AAAAAXYJEncaCYKuguX7tZIpALs1U8Sj29mdS&scisf=4&ct=citation&cd=46&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This invention relates to new and useful in provements '
+                     'in portable outdoor wading pools. The primary feature of '
+                     'this invention is to pro vide a device of this character '
+                     'having a tank frame structure composed of commercial '
+                     'shapes Such as angle irons. Another feature of this …',
+         'author': 'PK Smith and N Moritz',
+         'eprint': 'https://patentimages.storage.googleapis.com/79/f6/59/e5e05482746e34/US2483789.pdf',
+         'title': 'Portable outdoor wading pool',
+         'url': 'https://patents.google.com/patent/US2483789A/en'},
+ 'citedby': 31,
+ 'id_scholarcitedby': '12196679920435156295',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:R1WtUMRPQ6kJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BhXc:AAGBfm0AAAAAXYJEnXc5Tzzxxq3LrJ87JV8YFcKyIj7H&scisig=AAGBfm0AAAAAXYJEnaUAzuMGYnByVmNzb4K1B75NlFXU&scisf=4&ct=citation&cd=47&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Roseate spoonbills (Ajaia ajaja), Reddish Egrets '
+                     '(Egretta rufescens), and Great White Herons (Ardea '
+                     'herodias occidentalis) have unique subpopulations that '
+                     'are largely restricted to Florida Bay. All three species '
+                     'are believed to have had relatively large populations in '
+                     '…',
+         'author': 'GVN Powell and RD Bjork and JC Ogden and RT Paul and AH '
+                   'Powell…',
+         'eprint': 'https://sora.unm.edu/sites/default/files/journals/wilson/v101n03/p0436-p0457.pdf',
+         'title': 'Population trends in some Florida Bay wading birds',
+         'url': 'https://www.jstor.org/stable/4162751'},
+ 'citedby': 49,
+ 'id_scholarcitedby': '17270966316397142591',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:P6KW-FvMru8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BhXc:AAGBfm0AAAAAXYJEnXc5Tzzxxq3LrJ87JV8YFcKyIj7H&scisig=AAGBfm0AAAAAXYJEnbc42BiGlwM5VoFBblcCrYQhpfBe&scisf=4&ct=citation&cd=48&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '… Recording Width and Depth 0 1 3 5 1.5 2 Meter '
+                     'locations Widths 0.5 ? Depth, in this example,\n'
+                     'is zero, therefore no flow Note: See table from Rantz '
+                     '(1982) for help estimating velocity when edge\n'
+                     'of water is vertical. Page 12. Measuring Cross-Section '
+                     'Area Width Page 13. Measuring …',
+         'author': 'KM Nolan and RR Shields…',
+         'eprint': 'https://www.researchgate.net/profile/Kevin_Achieng3/post/how_to_find_depth_averaged_flow_velocity_in_water_flow/attachment/59d6550979197b80779ac5c6/AS:523829760806912@1501902155560/download/Aug0417_58.pdf',
+         'title': 'Measurement of stream discharge by wading',
+         'url': 'https://www.researchgate.net/profile/Kevin_Achieng3/post/how_to_find_depth_averaged_flow_velocity_in_water_flow/attachment/59d6550979197b80779ac5c6/AS:523829760806912@1501902155560/download/Aug0417_58.pdf'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '832672831381800611',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:o4ahSIc_jgsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BhXc:AAGBfm0AAAAAXYJEnXc5Tzzxxq3LrJ87JV8YFcKyIj7H&scisig=AAGBfm0AAAAAXYJEnWnAFF1XSoqOdTK4VK9ow6jHRPoP&scisf=4&ct=citation&cd=49&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A comprehensive wading bird nesting database for the '
+                     'Everglades watershed in south Florida was compiled for '
+                     'the time period of 1903 through 2001. The limitations '
+                     'and applications of this database were assessed with the '
+                     'purpose of ultimately strengthening …',
+         'author': 'GE Crozier and DE Gawlik',
+         'title': 'Wading bird nesting effort as an index to wetland ecosystem '
+                  'integrity',
+         'url': 'https://bioone.org/journals/Waterbirds/volume-26/issue-3/1524-4695(2003)026[0303:WBNEAA]2.0.CO;2/Wading-Bird-Nesting-Effort-as-an-Index-to-Wetland-Ecosystem/10.1675/1524-4695(2003)026[0303:WBNEAA]2.0.CO;2.short'},
+ 'citedby': 62,
+ 'id_scholarcitedby': '3750651161443491735',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:l98-Clz9DDQJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BvsY:AAGBfm0AAAAAXYJEpsbEv4QaGzptFH1ceK14QnW60RZJ&scisig=AAGBfm0AAAAAXYJEppHGfOkNozHkNESlU3Ja7o_rt1ZJ&scisf=4&ct=citation&cd=50&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The young of wading birds that breed in some parts of '
+                     'the arctic hatch when their insect food supply is most '
+                     'abundant. This appears to be the ultimate factor '
+                     'determining the date of egg‐laying. In various other '
+                     'arctic birds the date of breeding may be influenced, '
+                     'directly or …',
+         'author': 'GH Green1 and JJD Greenwood2 and CS Lloyd3',
+         'title': 'The influence of snow conditions on the date of breeding of '
+                  'wading birds in north‐east Greenland',
+         'url': 'https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7998.1977.tb04190.x'},
+ 'citedby': 85,
+ 'id_scholarcitedby': '13163215394478439884',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:zD3X2agirbYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BvsY:AAGBfm0AAAAAXYJEpsbEv4QaGzptFH1ceK14QnW60RZJ&scisig=AAGBfm0AAAAAXYJEpmsoaNXUK8MqEC-UHwIFqOZE_n8A&scisf=4&ct=citation&cd=51&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Acute lung injury (ALI) is a common and often '
+                     'devastating illness characterized by acute hypoxemia, '
+                     'alveolar flooding, and an unacceptably high morbidity '
+                     'and mortality. Because only a fraction of the patients '
+                     'exposed to ALI-inciting events progress to development '
+                     'of the …',
+         'author': 'NJ Meyer and JGN Garcia',
+         'eprint': 'https://www.atsjournals.org/doi/pdf/10.1513/pats.200609-157JG',
+         'title': 'Wading into the genomic pool to unravel acute lung injury '
+                  'genetics',
+         'url': 'https://www.atsjournals.org/doi/abs/10.1513/pats.200609-157JG'},
+ 'citedby': 54,
+ 'id_scholarcitedby': '1429130322876385597',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:PUnJ8HRK1RMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BvsY:AAGBfm0AAAAAXYJEpsbEv4QaGzptFH1ceK14QnW60RZJ&scisig=AAGBfm0AAAAAXYJEpqh6ztrr-y8yyFPmMfVEfVc2Gp3L&scisf=4&ct=citation&cd=52&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'I monitored the foraging flights of four species of '
+                     'nesting adult wading birds at Lake Okeechobee, Florida, '
+                     'from 1989-1992 during chick-rearing periods. Median '
+                     'flight distances were: Great Egret (Casmerodius albus, '
+                     'N= 356) 3.7 km, range 0.1-33.3; Snowy Egret …',
+         'author': 'JP Smith',
+         'title': 'Foraging flights and habitat use of nesting wading birds '
+                  '(Ciconiiformes) at Lake Okeechobee, Florida',
+         'url': 'https://www.jstor.org/stable/1521475'},
+ 'citedby': 70,
+ 'id_scholarcitedby': '13876963233191895826',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:EiOPi4nglMAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BvsY:AAGBfm0AAAAAXYJEpsbEv4QaGzptFH1ceK14QnW60RZJ&scisig=AAGBfm0AAAAAXYJEprcwe3gCzJeitAZsYkAN2OHpxeRi&scisf=4&ct=citation&cd=53&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The food habits of wading birds in the tropics are '
+                     'poorly known, particularly in coastal systems. We '
+                     'documented the food habits of Tricolored Herons (Egretta '
+                     'tricolor), Great Egrets (Ardea alba), Snowy Egrets (E. '
+                     'thula) and Little Blue Herons (E. caerulea), and '
+                     'assessed the …',
+         'author': 'L Miranda and JA Collazo',
+         'eprint': 'https://www.researchgate.net/profile/Leopoldo_Miranda/publication/261983953_Food_Habits_of_4_Species_of_Wading_Birds_Ardeidae_in_a_Tropical_Mangrove_Swamp/links/0c9605360eb9c18aac000000/Food-Habits-of-4-Species-of-Wading-Birds-Ardeidae-in-a-Tropical-Mangrove-Swamp.pdf',
+         'title': 'Food habits of 4 species of wading birds (Ardeidae) in a '
+                  'tropical mangrove swamp',
+         'url': 'https://www.jstor.org/stable/1521591'},
+ 'citedby': 63,
+ 'id_scholarcitedby': '6296207936281818889',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:CbcSYsKfYFcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BvsY:AAGBfm0AAAAAXYJEpsbEv4QaGzptFH1ceK14QnW60RZJ&scisig=AAGBfm0AAAAAXYJEpp9MtpXAsUoc1t2aLgcispSBwcgi&scisf=4&ct=citation&cd=54&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Over the past several decades, the biology and '
+                     'conservation of colonial wading birds have attracted '
+                     'considerable atten-tion, both scientifically and '
+                     'popularly. Scientifically, these birds (colonial herons, '
+                     'storks, ibises, and relatives) have proven useful in '
+                     'addressing many …',
+         'author': 'JA Kushlan',
+         'title': 'Population biology and conservation of colonial wading '
+                  'birds',
+         'url': 'https://www.jstor.org/stable/1521348'},
+ 'citedby': 42,
+ 'id_scholarcitedby': '15620186051453554631',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:x49mWnQMxtgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BvsY:AAGBfm0AAAAAXYJEpsbEv4QaGzptFH1ceK14QnW60RZJ&scisig=AAGBfm0AAAAAXYJEpuATYmZE2pJKwtLzEkaLNAyxuEwX&scisf=4&ct=citation&cd=55&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The foraging niche relations of ciconiiform wading birds '
+                     'in hyperseasonal wet savannas are influenced by seasonal '
+                     'fluctuations in rainfall, water depth, and food '
+                     'abundance and availability. The ciconiiform wading bird '
+                     'community of the Venezuelan Llanos includes 22 …',
+         'author': 'JA Kushlan and G Morales and PC Frohring',
+         'title': 'Foraging niche relations of wading birds in tropical wet '
+                  'savannas',
+         'url': 'https://www.jstor.org/stable/40168311'},
+ 'citedby': 52,
+ 'id_scholarcitedby': '14072849287437830025',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:iUdXo93NTMMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BvsY:AAGBfm0AAAAAXYJEpsbEv4QaGzptFH1ceK14QnW60RZJ&scisig=AAGBfm0AAAAAXYJEpnLVQdLPhVEzd9RKq_HDMiRgMVg0&scisf=4&ct=citation&cd=56&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In a sample of 1,609 marked nests of five species of '
+                     'Ciconiiformes in 21 colonial nesting aggregations in the '
+                     'Everglades, evidence of abandonment without destruction '
+                     'of nest contents accounted for 31.3% of failures. In '
+                     '66.9% of the failures, evidence at the nest …',
+         'author': 'PC Frederick and MW Collopy',
+         'eprint': 'https://sora.unm.edu/sites/default/files/journals/condor/v091n04/p0860-p0867.pdf',
+         'title': 'The role of predation in determining reproductive success '
+                  'of colonially nesting wading birds in the Florida '
+                  'Everglades',
+         'url': 'https://academic.oup.com/condor/article-abstract/91/4/860/5189198'},
+ 'citedby': 74,
+ 'id_scholarcitedby': '2353440263876733321',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:iWl5cHMZqSAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BvsY:AAGBfm0AAAAAXYJEpsbEv4QaGzptFH1ceK14QnW60RZJ&scisig=AAGBfm0AAAAAXYJEpvS2mbjDudy5DO121BtuPhprQGmW&scisf=4&ct=citation&cd=57&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The conservation and management of wading birds, '
+                     'particularly colonial wading birds, has received '
+                     'considerable attention in the past 20 years. Critical '
+                     'issues over this period were status and trends '
+                     '(including endangered species), wetlands, nesting sites, '
+                     'aquaculture …',
+         'author': 'JA Kushlan',
+         'title': 'The conservation of wading birds',
+         'url': 'https://www.jstor.org/stable/pdf/1521775.pdf'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '12570404686480816470',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:VjmYJHYMc64J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BvsY:AAGBfm0AAAAAXYJEpsbEv4QaGzptFH1ceK14QnW60RZJ&scisig=AAGBfm0AAAAAXYJEpvBQ9z3dboGo_3aWIjXf6AYVtvfe&scisf=4&ct=citation&cd=58&hl=en'}{'_filled': False,
+ 'bib': {'author': 'JP Smith and JR Richardson and MW Collopy',
+         'title': 'Foraging habitat selection among wading '
+                  'birds(Ciconiiformes) at Lake Okeechobee, Florida, in '
+                  'relation to hydrology and vegetative cover'},
+ 'citedby': 55,
+ 'id_scholarcitedby': '13925316648153192454',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:BhgBRrapQMEJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BvsY:AAGBfm0AAAAAXYJEpsbEv4QaGzptFH1ceK14QnW60RZJ&scisig=AAGBfm0AAAAAXYJEpkl7-CzPiaqoOwhOJsbiWVTmG65T&scisf=4&ct=citation&cd=59&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In Engaging with the State, a chapter in the remarkable '
+                     'history, analysis, and vision that is her book Battered '
+                     'Women & Feminist Lawmaking, Professor Elizabeth M. '
+                     'Schneider writes,"[w] ith both mandatory arrest '
+                     'legislation and VAWA [the Violence Against Women Act …',
+         'author': 'H Maguigan',
+         'title': "Wading into Professor Schneider's Murky Middle Ground "
+                  'Between Acceptance and Rejection of Criminal Justice '
+                  'Responses to Domestic Violence',
+         'url': 'https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/ajgsp11&section=35'},
+ 'citedby': 75,
+ 'id_scholarcitedby': '11530111483197810808',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:eGioCE4vA6AJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BqQo:AAGBfm0AAAAAXYJEsQr8ci_SjiZ30HUJNmk9cEudHNDC&scisig=AAGBfm0AAAAAXYJEsRGLZidtuh1Z3Z0kFZ3OlT49qGhZ&scisf=4&ct=citation&cd=60&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'An inflatable wading pool or like article whose upright '
+                     'wall is formed of a doubled-over sheet of material and '
+                     'is divided by airtight seams into upper and lower '
+                     'circumferentially continuous air compartments spaced by '
+                     'a series of vertically extending air pockets alternate …',
+         'author': 'B Tytel',
+         'eprint': 'https://patentimages.storage.googleapis.com/f8/04/74/4513e28123ccac/US3631544.pdf',
+         'title': 'Inflatable wading pool or like article',
+         'url': 'https://patents.google.com/patent/US3631544A/en'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '16708703455918612298',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:St9eQ0Q94ecJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BqQo:AAGBfm0AAAAAXYJEsQr8ci_SjiZ30HUJNmk9cEudHNDC&scisig=AAGBfm0AAAAAXYJEsVgcyFNFvSnlItqbQZ0_Kkv3SUtA&scisf=4&ct=citation&cd=61&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "A floating holder for a wading fisherman's accessories "
+                     '(eg fishing rods, tackle and coolers) is comprised of a '
+                     'floating platform having a flat bottom and a plurality '
+                     'of fishing rod supports. The floating holder also has '
+                     'hooks or similar means for attaching the holder to one '
+                     'end of a …',
+         'author': 'GL Gillming Jr',
+         'title': "Floating holder for wading fisherman's accessories",
+         'url': 'https://patents.google.com/patent/US5402596A/en'},
+ 'citedby': 36,
+ 'id_scholarcitedby': '2753630253363547192',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OMyARiDcNiYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BqQo:AAGBfm0AAAAAXYJEsQr8ci_SjiZ30HUJNmk9cEudHNDC&scisig=AAGBfm0AAAAAXYJEse5t9pqLm99pqSsHVdvxhVmNo31X&scisf=4&ct=citation&cd=62&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'We surveyed the Lake Okeechobee littoral zone by '
+                     'helicopter between 1977 and 1988 to determine wading '
+                     'bird abundance relative to lake water levels. More birds '
+                     'foraged when nesting season (January-July) water levels '
+                     'were below 4.4 m (mean sea level) compared to …',
+         'author': 'PG David',
+         'eprint': 'https://sora.unm.edu/sites/default/files/journals/wilson/v106n04/p0719-p0732.pdf',
+         'title': 'Wading bird use of Lake Okeechobee relative to fluctuating '
+                  'water levels',
+         'url': 'https://www.jstor.org/stable/4163488'},
+ 'citedby': 49,
+ 'id_scholarcitedby': '10135614210837679548',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:vI1hiWzvqIwJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BqQo:AAGBfm0AAAAAXYJEsQr8ci_SjiZ30HUJNmk9cEudHNDC&scisig=AAGBfm0AAAAAXYJEsSDI3NmShAy3WpJ0EJ8f0ZZpmInB&scisf=4&ct=citation&cd=63&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Preliminary observations suggested that predation by '
+                     'herons and egretsaffected the size structure of a '
+                     'mummichog (Fundulus heteroclitus) population in Tar '
+                     'Landing Marsh, North Carolina. The hypothesis was tested '
+                     'by placing 300 mummichogs represented equally in …',
+         'author': 'RT Kneib',
+         'title': 'The effects of predation by wading birds (Ardeidae) and '
+                  'blue crabs (Callinectes sapidus) on the population size '
+                  'structure of the common mummichog, Fundulus …',
+         'url': 'https://www.sciencedirect.com/science/article/pii/S030235248280042X'},
+ 'citedby': 96,
+ 'id_scholarcitedby': '17634906109430877053',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:fUv-O6zFu_QJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BqQo:AAGBfm0AAAAAXYJEsQr8ci_SjiZ30HUJNmk9cEudHNDC&scisig=AAGBfm0AAAAAXYJEsRF5jieTaxoanrkZ3xNpkFRMptPv&scisf=4&ct=citation&cd=64&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'At the scale of ecosystems and regions, numbers of '
+                     'nesting long-legged wading birds are often highly '
+                     'variable from year to year, and much of this variation '
+                     'is thought to reflect variation in production or '
+                     'availability of prey animals in wetlands. Based on '
+                     'observations …',
+         'author': 'PC Frederick and JC Ogden',
+         'eprint': 'https://www.researchgate.net/profile/Peter_Frederick2/publication/225359161_Pulsed_breeding_of_long-legged_wading_birds_and_the_importance_of_infrequent_severe_drought_conditions_in_the_Florida_Everglades/links/5613b85608aea962a77fde49/Pulsed-breeding-of-long-legged-wading-birds-and-the-importance-of-infrequent-severe-drought-conditions-in-the-Florida-Everglades.pdf',
+         'title': 'Pulsed breeding of long-legged wading birds and the '
+                  'importance of infrequent severe drought conditions in the '
+                  'Florida Everglades',
+         'url': 'https://link.springer.com/article/10.1672/0277-5212(2001)021[0484:PBOLLW]2.0.CO;2'},
+ 'citedby': 77,
+ 'id_scholarcitedby': '13888165351023392001',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:ATWj2c2svMAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BqQo:AAGBfm0AAAAAXYJEsQr8ci_SjiZ30HUJNmk9cEudHNDC&scisig=AAGBfm0AAAAAXYJEsbY1t_B2i2i_-FXv-GkfwVugwqEg&scisf=4&ct=citation&cd=65&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Shoreham-Wading River Middle School in Long Island, New '
+                     'York, is a place where team teaching, experiential '
+                     'learning, teacher participation, and teachers lunching '
+                     'with students are everyday events. Youngsters do '
+                     'community service, work on a small school-owned farm …',
+         'author': 'GI Maeroff',
+         'title': 'Getting to Know a Good Middle School: Shoreham-Wading '
+                  'River.',
+         'url': 'https://eric.ed.gov/?id=EJ403802'},
+ 'citedby': 43,
+ 'id_scholarcitedby': '15222128794969193976',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:-D1iHX3dP9MJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BqQo:AAGBfm0AAAAAXYJEsQr8ci_SjiZ30HUJNmk9cEudHNDC&scisig=AAGBfm0AAAAAXYJEsdDABXcMsBuHRzFpeO8Y9iq9mmkL&scisf=4&ct=citation&cd=66&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Increasingly, there is a recognized need to enhance '
+                     'research of hydraulic, geomorphic and sediment-transport '
+                     'processes in rivers. This research often includes '
+                     'studies of the velocity distribution in rivers. This '
+                     'paper describes the use of the topsetting wading rod and '
+                     'a table …',
+         'author': 'RD Jarrett',
+         'title': 'Wading measurements of vertical velocity profiles',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0169555X9190007W'},
+ 'citedby': 31,
+ 'id_scholarcitedby': '11087698326115604885',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lVnQ6OFq35kJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BqQo:AAGBfm0AAAAAXYJEsQr8ci_SjiZ30HUJNmk9cEudHNDC&scisig=AAGBfm0AAAAAXYJEscMI6KgcaDmfDx6-fmfNeIZT0vwZ&scisf=4&ct=citation&cd=67&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The invented extensible wading staff includes an '
+                     'elongate shaft with first and second ends, a gripping '
+                     'area, a retractable hook near the first end, and a foot '
+                     'structure such as a rubber cap on the sealed end. A '
+                     'fisherman who is in water, especially moving water, may '
+                     'use the …',
+         'author': 'MW Ericksen',
+         'eprint': 'https://patentimages.storage.googleapis.com/32/05/10/9d26510309744b/US5628538.pdf',
+         'title': 'Extensible wading staff with retractable hook',
+         'url': 'https://patents.google.com/patent/US5628538A/en'},
+ 'citedby': 34,
+ 'id_scholarcitedby': '9982818816342706299',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:e0gxfdIYiooJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BqQo:AAGBfm0AAAAAXYJEsQr8ci_SjiZ30HUJNmk9cEudHNDC&scisig=AAGBfm0AAAAAXYJEsYHRjA_cPT4YQPB4IHFRSsj5ji3o&scisf=4&ct=citation&cd=68&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Summary Whitfield, AK & Blaber, SJM 1978. Piscivorous '
+                     'birds at Lake St Lucia, Part 2: Wading birds. Ostrich '
+                     '50: 1-9. The diets, foraging frequencies and feeding '
+                     'behaviour of four species of wading piscivorous birds '
+                     'were studied at Lake St Lucia, Natal, South Africa, in …',
+         'author': 'AK Whitfield and SJM Blaber',
+         'title': 'FEEDING ECOLOGY OF PIS CIVOROUS BIRDS AT LAKE ST LUCIA, '
+                  'PART 2: WADING BIRDS',
+         'url': 'https://www.tandfonline.com/doi/abs/10.1080/00306525.1979.9633524'},
+ 'citedby': 54,
+ 'id_scholarcitedby': '5951131302982609611',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:y2r8vWOqllIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5BqQo:AAGBfm0AAAAAXYJEsQr8ci_SjiZ30HUJNmk9cEudHNDC&scisig=AAGBfm0AAAAAXYJEsYBYSVs15b7jdRGgFN98734iaD_P&scisf=4&ct=citation&cd=69&hl=en'}{'_filled': False,
+ 'bib': {'abstract': "America's stunning, sinuous coastlines have long exerted "
+                     'an almost mystical pull on the imaginations of the '
+                     "country's citizens. The irresistible attraction is "
+                     'perhaps best described by Herman Melville in the opening '
+                     'pages of Moby Dick:“Nothing will content them but the …',
+         'author': 'MA Mallin',
+         'eprint': 'https://www.hac.ac.il/media/2723773/%D7%9E%D7%91%D7%97%D7%9F-%D7%9C%D7%93%D7%95%D7%92%D7%9E%D7%94-%D7%9C%D7%A8%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%99%D7%9D-%D7%91-%D7%9C%D7%97%D7%95%D7%92%D7%99%D7%9D-%D7%94%D7%9E%D7%93%D7%A2%D7%99%D7%99%D7%9D-.pdf',
+         'title': 'Wading in waste',
+         'url': 'https://www.nature.com/articles/scientificamerican0606-52'},
+ 'citedby': 24,
+ 'id_scholarcitedby': '18111050697209447088',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:sIJCFKdgV_sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bo5A:AAGBfm0AAAAAXYJEu5Cv-fc-huD-ScQ4fn42AcHNj5Lo&scisig=AAGBfm0AAAAAXYJEu-e96p0QVLB29TsjlicDPh-IfbAT&scisf=4&ct=citation&cd=70&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'My invention relates to tanks that are especially '
+                     'suitable for employment as Wad ing and swimming pools. '
+                     'One object of my invention is to provide 5 a tank of the '
+                     'knock-down type that is con veniently portable. Another '
+                     'object of my invention is to pro vide a tank of such …',
+         'author': 'JH Phillips',
+         'title': 'Wading tank',
+         'url': 'https://patents.google.com/patent/US1753427A/en'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '3246252548119715852',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DODhPX4BDS0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bo5A:AAGBfm0AAAAAXYJEu5Cv-fc-huD-ScQ4fn42AcHNj5Lo&scisig=AAGBfm0AAAAAXYJEu8i6McaijouoHu3_xp12IRt6IauW&scisf=4&ct=citation&cd=71&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In the Brazilian Pantanal, large breeding colonies of '
+                     'ciconiiform wading birds (200–10,000 pairs) have '
+                     'recently become important as tourist attractions, '
+                     'although there is good evidence of detrimental effects '
+                     'of tourism on breeding behavior and success. We sought '
+                     'to …',
+         'author': 'SN Bouton and PC Frederick',
+         'eprint': 'ftp://puceftp.puce.edu.ec/Facultades/CienciasHumanas/Ecoturismo/ArticulosTurismo/Art%C3%ADculos%20cient%C3%ADficos/Estudios%20de%20caso/brazil_pantanal_turismo_amenaza_aves.pdf',
+         'title': "Stakeholders' perceptions of a wading bird colony as a "
+                  'community resource in the Brazilian Pantanal',
+         'url': 'https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-1739.2003.01148.x'},
+ 'citedby': 52,
+ 'id_scholarcitedby': '15157174238344134670',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:DkA046kZWdIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bo5A:AAGBfm0AAAAAXYJEu5Cv-fc-huD-ScQ4fn42AcHNj5Lo&scisig=AAGBfm0AAAAAXYJEuwp88VmIiUaGgBBbJ1Q7ww1xPuKI&scisf=4&ct=citation&cd=72&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Another important object is to provide a pool construc '
+                     'tion which will require a minimum of material in keep '
+                     'ing with the pool size. In this connection, a further '
+                     'important object is to pro vide a pool construction '
+                     'which will lend itself to the manu facture of pools of '
+                     'an extremely …',
+         'author': 'WP Nail',
+         'title': 'Wading pool',
+         'url': 'https://patents.google.com/patent/US3001207A/en'},
+ 'citedby': 20,
+ 'id_scholarcitedby': '18336434291552253513',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:SXZDa9YZeP4J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bo5A:AAGBfm0AAAAAXYJEu5Cv-fc-huD-ScQ4fn42AcHNj5Lo&scisig=AAGBfm0AAAAAXYJEu5gpDjD-tyuy7-UwZoZBHxrgOetI&scisf=4&ct=citation&cd=73&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Long-term population dynamics of colonial wading birds '
+                     '(Ciconiiformes) were examined using data from Audubon '
+                     'Christmas Bird Counts (CBC, 1949-1988) and Breeding Bird '
+                     'Surveys (BBS, 1966-1989). Winter populations of '
+                     'Louisiana wading birds increased …',
+         'author': 'BE Fleury and TW Sherry',
+         'eprint': 'https://www.researchgate.net/profile/Thomas_Sherry/publication/266568941_Long-term_population_trends_of_colonial_wading_birds_in_the_southern_United_States_the_impact_of_crayfish_aquaculture_on_Louisiana_populations/links/551ab3640cf2bb754076cd78.pdf',
+         'title': 'Long-term population trends of colonial wading birds in the '
+                  'southern United States: The impact of crayfish aquaculture '
+                  'on Louisiana populations',
+         'url': 'https://academic.oup.com/auk/article-abstract/112/3/613/5168071'},
+ 'citedby': 70,
+ 'id_scholarcitedby': '6026602727792059189',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NSNyKEDLolMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bo5A:AAGBfm0AAAAAXYJEu5Cv-fc-huD-ScQ4fn42AcHNj5Lo&scisig=AAGBfm0AAAAAXYJEu3kcXD7r6bX1SS263jK7pwVBdu5M&scisf=4&ct=citation&cd=74&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Numbers of wading birds nesting at Lake Okeechobee were '
+                     'documented by aerial surveys during 20 breeding seasons '
+                     'between 1957 and 1988. Wading bird use of the lake for '
+                     'nesting declined noticeably during the period, '
+                     'especially as lake depths increased with the …',
+         'author': 'PG David',
+         'title': 'Wading bird nesting at Lake Okeechobee, Florida: an '
+                  'historic perspective',
+         'url': 'https://www.jstor.org/stable/1521383'},
+ 'citedby': 37,
+ 'id_scholarcitedby': '1629444043946660957',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:XRTRjLnynBYJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bo5A:AAGBfm0AAAAAXYJEu5Cv-fc-huD-ScQ4fn42AcHNj5Lo&scisig=AAGBfm0AAAAAXYJEu-X0Mrc1jphFh1b9AN-u9zhD3HEX&scisf=4&ct=citation&cd=75&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '1. Although the plumage of birds is important for flight '
+                     'and thermoregulation, it is also employed in inter‐and '
+                     'intraspecific communication. The role in communication '
+                     'of particular plumage features can be studied by '
+                     'experiment or, as here, by correlational analysis. 2. '
+                     'The …',
+         'author': 'M DE L. Brooke',
+         'eprint': 'https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1046/j.1365-2435.1998.00204.x',
+         'title': "Ecological factors influencing the occurrence of 'flash "
+                  "marks' in wading birds",
+         'url': 'https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2435.1998.00204.x'},
+ 'citedby': 40,
+ 'id_scholarcitedby': '4654614354413292100',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:RAo9GRiDmEAJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bo5A:AAGBfm0AAAAAXYJEu5Cv-fc-huD-ScQ4fn42AcHNj5Lo&scisig=AAGBfm0AAAAAXYJEu9P_AJzQSOUO7u9YrBRg_MeqFSah&scisf=4&ct=citation&cd=76&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'We obtained banding and recovery records from 1914 '
+                     'through 1994 for seven species of wading birds from the '
+                     'Bird Banding Laboratory, United States Geological '
+                     'Survey, Patuxent Wildlife Research Center. We analyzed '
+                     'these data to evaluate differences in dispersal …',
+         'author': 'SL Melvin and DE Gawlik and T Scharff',
+         'title': 'Long-term movement patterns for seven species of wading '
+                  'birds',
+         'url': 'https://www.jstor.org/stable/1522117'},
+ 'citedby': 34,
+ 'id_scholarcitedby': '629277613240667189',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:NcxQuqekuwgJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bo5A:AAGBfm0AAAAAXYJEu5Cv-fc-huD-ScQ4fn42AcHNj5Lo&scisig=AAGBfm0AAAAAXYJEu_kTyAu6Pg0QMM4vJRESbT5sR9NT&scisf=4&ct=citation&cd=77&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In two closely matched colonies of Tricolored Herons '
+                     '(Egretta tricolor) we found no differences in '
+                     'reproductive parameters of the one visited frequently '
+                     '(16 times) and the other visited infrequently (7 times). '
+                     'Visits to colonies were standardized and were initiated '
+                     'only …',
+         'author': 'PC Frederick and MW Collopy',
+         'eprint': 'https://pdfs.semanticscholar.org/d37e/134d8fd21a3e2055ed3f88763ef822562098.pdf',
+         'title': 'Researcher disturbance in colonies of wading birds: effects '
+                  'of frequency of visit and egg-marking on reproductive '
+                  'parameters.',
+         'url': 'https://pdfs.semanticscholar.org/d37e/134d8fd21a3e2055ed3f88763ef822562098.pdf'},
+ 'citedby': 54,
+ 'id_scholarcitedby': '4892038925962280117',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:tXxd6XsD5EMJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bo5A:AAGBfm0AAAAAXYJEu5Cv-fc-huD-ScQ4fn42AcHNj5Lo&scisig=AAGBfm0AAAAAXYJEu-_InUXn_ntO8YDIB2WcesvjTp0o&scisf=4&ct=citation&cd=78&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Seasonal and annual variation in food availability '
+                     'during the breeding season plays an influential role in '
+                     'the population dynamics of many avian species. In highly '
+                     'dynamic ecosystems like wetlands, finding and exploiting '
+                     'food resources requires a flexible …',
+         'author': 'JM Beerens and DE Gawlik and G Herring and MI Cook',
+         'eprint': 'https://www.researchgate.net/profile/James_Beerens/publication/261722282_Dynamic_Habitat_Selection_by_Two_Wading_Bird_Species_with_Divergent_Foraging_Strategies_in_a_Seasonally_Fluctuating_Wetland/links/0f317535522fca26ea000000/Dynamic-Habitat-Selection-by-Two-Wading-Bird-Species-with-Divergent-Foraging-Strategies-in-a-Seasonally-Fluctuating-Wetland.pdf',
+         'title': 'Dynamic habitat selection by two wading bird species with '
+                  'divergent foraging strategies in a seasonally fluctuating '
+                  'wetland',
+         'url': 'https://academic.oup.com/auk/article-abstract/128/4/651/5148627'},
+ 'citedby': 60,
+ 'id_scholarcitedby': '8045379037196331910',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:hit2q5vtpm8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5Bo5A:AAGBfm0AAAAAXYJEu5Cv-fc-huD-ScQ4fn42AcHNj5Lo&scisig=AAGBfm0AAAAAXYJEu_puUZ-iFzrLB4U6djSbHfHw411y&scisf=4&ct=citation&cd=79&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Agricultural improvement of grasslands, at the upper '
+                     'altitudinal limit of agricultural practice, subsequently '
+                     'referred to as the uplands, has progressed rapidly in '
+                     'recent years. The impact on breeding wading birds '
+                     '(Charadriiformes) was assessed in the years 1985–1987 by '
+                     '…',
+         'author': 'D Baines',
+         'title': 'The effects of improvement of upland, marginal grasslands '
+                  'on the distribution and density of breeding wading birds '
+                  '(Charadriiformes) in northern England',
+         'url': 'https://www.sciencedirect.com/science/article/pii/0006320788901413'},
+ 'citedby': 61,
+ 'id_scholarcitedby': '15145407039163505008',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:cJkKVHVLL9IJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B2nc:AAGBfm0AAAAAXYJEwne1Xiam2SEhqlWJkh4d_yyYYJu-&scisig=AAGBfm0AAAAAXYJEwjSGUA8fuI74OTP4MMhp2lPqsgcK&scisf=4&ct=citation&cd=80&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'We documented the use of two wastewater treatment '
+                     'wetlands (secondarily treated urban sewage) in central '
+                     'Florida by wintering and breeding long-legged wading '
+                     'birds (Ciconiiformes), and compared densities of birds '
+                     'at these sites to a large, naturally …',
+         'author': 'PC Frederick and SM McGehee',
+         'title': 'Wading bird use of wastewater treatment wetlands in central '
+                  'Florida, USA',
+         'url': 'https://www.jstor.org/stable/1521381'},
+ 'citedby': 37,
+ 'id_scholarcitedby': '13229562377812759727',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:r9Rmr-PYmLcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B2nc:AAGBfm0AAAAAXYJEwne1Xiam2SEhqlWJkh4d_yyYYJu-&scisig=AAGBfm0AAAAAXYJEwjpV_-0KMNedQACjUy1WaQfwfGTP&scisf=4&ct=citation&cd=81&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Among wetland animals, populations of colonially-nesting '
+                     'wading birds have shown great utility as bioindicators '
+                     'of contaminants (Custer et al. 1991), condition of prey '
+                     'stocks (Frederick and Spalding 1994), and eco-system '
+                     'behavior (Ogden 1994). However, the …',
+         'author': 'PC Frederick and T Towles and RJ Sawicki and GT Bancroft',
+         'eprint': 'https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=2529841',
+         'title': 'Comparison of aerial and ground techniques for discovery '
+                  'and census of wading bird (Ciconiiformes) nesting colonies',
+         'url': 'https://www.jstor.org/stable/1369865'},
+ 'citedby': 46,
+ 'id_scholarcitedby': '13188038812757857737',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:yRV_Tm1TBbcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B2nc:AAGBfm0AAAAAXYJEwne1Xiam2SEhqlWJkh4d_yyYYJu-&scisig=AAGBfm0AAAAAXYJEwrtUz87r683eTxa2_r0DfD6ByWPS&scisf=4&ct=citation&cd=82&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Between 1989 and 1991, reproduction by black‐crowned '
+                     'night‐herons (Nycticorax nycticorax) and snowy egrets '
+                     '(Egretta thula) was studied at sites in San Francisco '
+                     'Bay. Eggs were collected from these and other bay sites '
+                     'and from South Wilbur Flood Area, a reference …',
+         'author': 'RL Hothem and KC Marois and SE Wainwright…',
+         'eprint': 'https://pdfs.semanticscholar.org/eb60/81ed85923b39654aac9d8ddfa49e8cfbf0a1.pdf',
+         'title': 'Spatial and temporal trends of contaminants in eggs of '
+                  'wading birds from San Francisco Bay, California',
+         'url': 'https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/etc.5620140808'},
+ 'citedby': 49,
+ 'id_scholarcitedby': '14672681665439356831',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:n1fmSjzWn8sJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B2nc:AAGBfm0AAAAAXYJEwne1Xiam2SEhqlWJkh4d_yyYYJu-&scisig=AAGBfm0AAAAAXYJEwpGTzmRD0pwkpqqcGNMH2mZ6D9nV&scisf=4&ct=citation&cd=83&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The surface activity of 4 intertidal invertebrates that '
+                     'are preyed on by wading birds was assessed in the field '
+                     'during the day and at night. Nocturnal activity was '
+                     'greater than diurnal on each of 5 pairs of consecutive '
+                     'low-tide periods. The possibility of increased nocturnal '
+                     '…',
+         'author': 'A Evans',
+         'eprint': 'http://www.int-res.com/articles/meps/37/m037p103.pdf',
+         'title': 'Relative availability of the prey of wading birds by day '
+                  'and by night',
+         'url': 'http://www.int-res.com/articles/meps/37/m037p103.pdf'},
+ 'citedby': 37,
+ 'id_scholarcitedby': '3423611197515038753',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:IQDvvD4cgy8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B2nc:AAGBfm0AAAAAXYJEwne1Xiam2SEhqlWJkh4d_yyYYJu-&scisig=AAGBfm0AAAAAXYJEws08qbENNrRWrfTeaoQKGhidm1k6&scisf=4&ct=citation&cd=84&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The present invention has to do with a walking and '
+                     'wading boot intended for use by lumbermen, hunters, '
+                     'fishermen and farmers who sometimes need protection high '
+                     'up on the leg when it is necessary to walk in water, as, '
+                     'for instance, when wading a stream. The …',
+         'author': 'FS Walker',
+         'title': 'Walking and wading boot',
+         'url': 'https://patents.google.com/patent/US2824390A/en'},
+ 'citedby': 19,
+ 'id_scholarcitedby': '2009619224994793567',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:X0icpwma4xsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B2nc:AAGBfm0AAAAAXYJEwne1Xiam2SEhqlWJkh4d_yyYYJu-&scisig=AAGBfm0AAAAAXYJEwgB9a4dds6D6gIVmRaq09F2hW15c&scisf=4&ct=citation&cd=85&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Population size is a crucial aspect of the biology of '
+                     'any species and a key to developing appropriate '
+                     'conservation strategies. Population trend analysis '
+                     'requires use of historical information, the quality of '
+                     'which varies widely according to its source, methods of '
+                     'collection …',
+         'author': 'PC Frohring and DP Voorhees and JA Kushlan',
+         'title': 'History of wading bird populations in the Florida '
+                  'Everglades: a lesson in the use of historical information',
+         'url': 'https://www.jstor.org/stable/1521019'},
+ 'citedby': 45,
+ 'id_scholarcitedby': '15660065991910454819',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:I3b_jgy7U9kJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B2nc:AAGBfm0AAAAAXYJEwne1Xiam2SEhqlWJkh4d_yyYYJu-&scisig=AAGBfm0AAAAAXYJEwr1h-KcdbEshAU1J_DHJ9hAlIgZo&scisf=4&ct=citation&cd=86&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'To determine how habitat structural complexity, which '
+                     'affects prey vulnerability, influences foraging habitat '
+                     'selection by wading birds, a habitat use versus '
+                     'availability study was conducted throughout the Florida '
+                     'Everglades in 2005 and 2006. Also, an experiment was …',
+         'author': 'RL Pierce and DE Gawlik',
+         'eprint': 'https://pdfs.semanticscholar.org/d81f/9b6eafdfa8e72b8333b2bdc08edfd4e6f719.pdf',
+         'title': 'Wading bird foraging habitat selection in the Florida '
+                  'Everglades',
+         'url': 'https://bioone.org/journals/Waterbirds/volume-33/issue-4/063.033.0408/Wading-Bird-Foraging-Habitat-Selection-in-the-Florida-Everglades/10.1675/063.033.0408.short'},
+ 'citedby': 31,
+ 'id_scholarcitedby': '4938053698040562584',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:mAOD6ax9h0QJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B2nc:AAGBfm0AAAAAXYJEwne1Xiam2SEhqlWJkh4d_yyYYJu-&scisig=AAGBfm0AAAAAXYJEwmg1hRbUDsrDVzgA3BO1DI28g80q&scisf=4&ct=citation&cd=87&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'During 1997 we evaluated reproductive success in '
+                     'colonial water birds nesting in the Lower Rio Grande '
+                     'Valley (LRGV), Texas, and correlated success with '
+                     'concentrations of contaminants in eggs. We also measured '
+                     'steroid hormones and gonadosomatic index (GSI) …',
+         'author': 'SE Wainwright and MA Mora and JL Sericano…',
+         'eprint': 'https://pdfs.semanticscholar.org/681c/cb9063faefc47a06f4ee58b8750ee385d5c3.pdf',
+         'title': 'Chlorinated hydrocarbons and biomarkers of exposure in '
+                  'wading birds and fish of the Lower Rio Grande Valley, Texas',
+         'url': 'https://link.springer.com/article/10.1007/s002440010152'},
+ 'citedby': 51,
+ 'id_scholarcitedby': '7729010498398951385',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:2ZdVJhn2QmsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B2nc:AAGBfm0AAAAAXYJEwne1Xiam2SEhqlWJkh4d_yyYYJu-&scisig=AAGBfm0AAAAAXYJEwnLxKHbcZJCZCXD8yTTeewhrkmH4&scisf=4&ct=citation&cd=88&hl=en'}{'_filled': False,
+ 'bib': {'abstract': '(57) ABSTRACT A vehicle having a system for determining '
+                     'that there is a possibility that the vehicle has or is '
+                     'about to enter water at a vehicle wading depth. In '
+                     'response to determining that there is a possibility that '
+                     'the vehicle has or is about to enter water at a vehicle '
+                     'wading  …',
+         'author': 'N Clarke and E Hoare and TY Tran',
+         'eprint': 'https://patentimages.storage.googleapis.com/a3/39/60/35bbd3762a21ae/US9227479.pdf',
+         'title': 'Wading vehicle control system',
+         'url': 'https://patents.google.com/patent/US9227479B2/en'},
+ 'citedby': 22,
+ 'id_scholarcitedby': '17079003497662149420',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:LHPOUzHPBO0J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B2nc:AAGBfm0AAAAAXYJEwne1Xiam2SEhqlWJkh4d_yyYYJu-&scisig=AAGBfm0AAAAAXYJEwjCXzkjzePXDrqla9D_xbynh08HT&scisf=4&ct=citation&cd=89&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'This paper presents an updated account of 34 wading bird '
+                     'foraging behaviors presented by Kushlan (1978a) with '
+                     'findings from later studies for nine wading bird '
+                     'species, including: Great Egret (Ardea alba), Snowy '
+                     'Egret (Egretta thula), Little Blue Heron (Egretta '
+                     'caerulea) …',
+         'author': 'JF Kelly and DE Gawlik and DK Kieckbusch',
+         'title': 'An updated account of wading bird foraging behavior',
+         'url': 'https://bioone.org/journals/The-Wilson-Journal-of-Ornithology/volume-115/issue-1/02-053/An-Updated-Account-of-Wading-Bird-Foraging-Behavior/10.1676/02-053.short'},
+ 'citedby': 24,
+ 'id_scholarcitedby': '8736866754656930411',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:awo_AQaWP3kJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B0wY:AAGBfm0AAAAAXYJEywbPd8LMLBeL9vrm0Ttlh-jI3x-H&scisig=AAGBfm0AAAAAXYJEyybssZKOxy9FrBuBE3eBDYZnm6IN&scisf=4&ct=citation&cd=90&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Sufficiently rigid So that it requires no guy ropes or '
+                     'projecting Supports. Such external Supports are not only '
+                     'regarded as unsightly, but they are objectionable as '
+                     'inconvenient and dangerous in that it is almost '
+                     'impossible to avoid tripping over them. Furthermore the '
+                     'tubular …',
+         'author': 'MB Bill and M Evelyn',
+         'title': 'Portable wading pool',
+         'url': 'https://patents.google.com/patent/US2580942A/en'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '12681541529830100355',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:gw3j6dTi_a8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B0wY:AAGBfm0AAAAAXYJEywbPd8LMLBeL9vrm0Ttlh-jI3x-H&scisig=AAGBfm0AAAAAXYJEy_Rl33l10wCjgMsZy5J8jzFhaEgj&scisf=4&ct=citation&cd=91&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'My invention relates to tanks that are par ticularly '
+                     'suitable for use as wading and swimming pools. One '
+                     'object of my invention is to provide a. 5 tank of the '
+                     'collapsible or knock-down type that is conveniently '
+                     'portable. Another object of my invention is to pro vide '
+                     'a tank frame …',
+         'author': 'JH Phillips',
+         'eprint': 'https://patentimages.storage.googleapis.com/eb/78/7a/3d26a2692559bb/US1738017.pdf',
+         'title': 'Wading tank',
+         'url': 'https://patents.google.com/patent/US1738017A/en'},
+ 'citedby': 16,
+ 'id_scholarcitedby': '15500971823774914496',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:wFdx_b6DHtcJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B0wY:AAGBfm0AAAAAXYJEywbPd8LMLBeL9vrm0Ttlh-jI3x-H&scisig=AAGBfm0AAAAAXYJEy9AqcoHdpQBXRK7xiCghtVIEhLrw&scisf=4&ct=citation&cd=92&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Contamination of the drainage by backflow of sewage was '
+                     'not likely. The combined sewer to \n'
+                     'which connection was made from the drainage pit was 50 '
+                     'feet or more away; the conducting \n'
+                     'pipe was at least 18 inches higher at the sampling site '
+                     'than at the sewer; the coliform density …',
+         'author': 'S Kelly and WW Sanderson',
+         'eprint': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1929686/pdf/pubhealthreporig00099-0021.pdf',
+         'title': 'Enteric viruses in wading pools',
+         'url': 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1929686/'},
+ 'citedby': 17,
+ 'id_scholarcitedby': '699622909650942056',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:aDh4XlSPtQkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B0wY:AAGBfm0AAAAAXYJEywbPd8LMLBeL9vrm0Ttlh-jI3x-H&scisig=AAGBfm0AAAAAXYJEy7E1oGGV8GKvoYvtth_48n9dFLYc&scisf=4&ct=citation&cd=93&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'The purpose of this study was to aid personnel of the US '
+                     'Army Corps of Engineers in assessing the environmental '
+                     'impact of dredged material disposal sites by gathering '
+                     'information on those islands in Texas waters. '
+                     'Thirty-four islands were selected for detailed …',
+         'author': 'AH Chaney and BR Chapman and JP Karges and DA Nelson…',
+         'title': 'Use of dredged material islands by colonial seabirds and '
+                  'wading birds in Texas.',
+         'url': 'https://apps.dtic.mil/docs/citations/ADA056785'},
+ 'citedby': 33,
+ 'id_scholarcitedby': '13382093532687524085',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:9WDkpiq_trkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B0wY:AAGBfm0AAAAAXYJEywbPd8LMLBeL9vrm0Ttlh-jI3x-H&scisig=AAGBfm0AAAAAXYJEyyEYON7XenAq1GC1mHokheW6Vp6B&scisf=4&ct=citation&cd=94&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'From 1989-1992 at Lake Okeechobee, Florida, I followed '
+                     '356 adult Great Egrets (Casmerodius albus), 236 Snowy '
+                     'Egrets (Egretta thula), 82 Tricolored Herons (E. '
+                     'tricolor), and 286 White Ibises (Eudocimus albus) from '
+                     'several nesting colonies to foraging sites …',
+         'author': 'JP Smith',
+         'title': 'Foraging sociability of nesting wading birds '
+                  '(Ciconiiformes) at Lake Okeechobee, Florida',
+         'url': 'https://www.jstor.org/stable/4163568'},
+ 'citedby': 32,
+ 'id_scholarcitedby': '15686191663930692078',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:7lFIlzWMsNkJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B0wY:AAGBfm0AAAAAXYJEywbPd8LMLBeL9vrm0Ttlh-jI3x-H&scisig=AAGBfm0AAAAAXYJEy65CrPE3lHQboO9wHV1Y8nQW_KJo&scisf=4&ct=citation&cd=95&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'In the Everglades of southern Florida, several species '
+                     'of spring-and winter-nesting wading birds '
+                     '(Ciconiiformes) often abandon their nests in response to '
+                     'periods of cold or wet and windy weather. Using stepwise '
+                     'logistic regression of a variety of hydrologic and …',
+         'author': 'PC Frederick and WF Loftus',
+         'eprint': 'https://www.researchgate.net/profile/W_Loftus/publication/225482741_Responses_of_Marsh_Fishes_and_Breeding_Wading_Birds_to_Low_Temperatures_A_Possible_Behavioral_Link_between_Predator_and_Prey/links/00b495278234252b62000000.pdf',
+         'title': 'Responses of marsh fishes and breeding wading birds to low '
+                  'temperatures: a possible behavioral link between predator '
+                  'and prey',
+         'url': 'https://link.springer.com/article/10.2307/1352492'},
+ 'citedby': 45,
+ 'id_scholarcitedby': '17282559984407256862',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:Hp_5J7381-8J:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B0wY:AAGBfm0AAAAAXYJEywbPd8LMLBeL9vrm0Ttlh-jI3x-H&scisig=AAGBfm0AAAAAXYJEy9a_b1l9KStdIY3qXoOaAtREIH0L&scisf=4&ct=citation&cd=96&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'A number of suggestions have been made in recent years '
+                     'for developing several of the larger British estuaries '
+                     'for a variety of industrial purposes. Examples are '
+                     'provided by the proposals to build bunded reservoirs for '
+                     'storing fresh-water on the Wash and Dee estuaries …',
+         'author': 'JD Goss-Custard',
+         'eprint': 'http://www.zobodat.at/pdf/Verhandlungen-Ornith-Ges-Bayern_23_2-3_1981_0125-0146.pdf',
+         'title': 'Role of winter food supplies in the population ecology of '
+                  'common British wading birds',
+         'url': 'http://www.zobodat.at/pdf/Verhandlungen-Ornith-Ges-Bayern_23_2-3_1981_0125-0146.pdf'},
+ 'citedby': 37,
+ 'id_scholarcitedby': '10080473917072827588',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:xGS3cp4J5YsJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B0wY:AAGBfm0AAAAAXYJEywbPd8LMLBeL9vrm0Ttlh-jI3x-H&scisig=AAGBfm0AAAAAXYJEy-bYdsJEsEZarzmCR6Hi9nvg4FdN&scisf=4&ct=citation&cd=97&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'We examined foraging-habitat selection by free-ranging '
+                     'wading birds presented with different social and '
+                     'environmental cues by conducting two experiments in '
+                     'eight replicate ponds adjacent to the northern border of '
+                     'the Florida Everglades. The first experiment …',
+         'author': 'DE Gawlik and GE Crozier',
+         'eprint': 'http://aukjournal.org/doi/abs/10.1642/0004-8038%282007%29124%5B1075%3AATOCAH%5D2.0.CO%3B2',
+         'title': 'A test of cues affecting habitat selection by wading birds',
+         'url': 'https://academic.oup.com/auk/article-abstract/124/3/1075/5148116'},
+ 'citedby': 28,
+ 'id_scholarcitedby': '14626013206682251670',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:lrF3AIUJ-soJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B0wY:AAGBfm0AAAAAXYJEywbPd8LMLBeL9vrm0Ttlh-jI3x-H&scisig=AAGBfm0AAAAAXYJEy25o8dNvtOgcarGk6LqDi6w75tCP&scisf=4&ct=citation&cd=98&hl=en'}{'_filled': False,
+ 'bib': {'abstract': 'Data for 70 Oystercatcher flocks suggest that density '
+                     'within the feeding flock is correlated closely with the '
+                     'density of second year cockles (Cerastoderma edule). '
+                     'None of the variables measured correlated significantly '
+                     'with density within the 83 Curlew flocks observed. It is '
+                     '…',
+         'author': 'MRW Rands and JP Barkham',
+         'title': 'Factors controlling within-flock feeding densities in three '
+                  'species of wading bird',
+         'url': 'https://www.jstor.org/stable/3675901'},
+ 'citedby': 32,
+ 'id_scholarcitedby': '5973251826497314616',
+ 'source': 'scholar',
+ 'url_scholarbib': 'https://scholar.googleusercontent.com/scholar.bib?q=info:OF9TeONA5VIJ:scholar.google.com/&output=citation&scisdr=CgVKaSlKEJ-E1G5B0wY:AAGBfm0AAAAAXYJEywbPd8LMLBeL9vrm0Ttlh-jI3x-H&scisig=AAGBfm0AAAAAXYJEyzBnjTfSNh7UH7hbCdmlaC2onpxF&scisf=4&ct=citation&cd=99&hl=en'}

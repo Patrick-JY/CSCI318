@@ -153,7 +153,7 @@ def main():
                         hyphenCount = howManyHyphens(x["bib"]["title"])
                         titleLength = len(x["bib"]["title"])
                         if(hyphenCount == 0):
-                            
+                            print(x)
                             citationCount[0] += x["citedby"]
                             articleCount[0] += 1
                             hyphenNull.append(x["citedby"])
@@ -355,6 +355,30 @@ def main():
 ##    ax3.bar(f5x+0.2,valListList[4],width = 0.2,align = 'center')
 ##    ax3.bar(f5x+0.4,valListList[5],width = 0.2,align = 'center')
     plt.show()
+    plt.pause(0.05)
+
+
+    f6listlist = [[],[],[],[],[],[]]
+
+    for i in range(6):
+        for j in range(7):
+            if lengthTotalAmountofPapers[i][j] == 0:
+                number = 0
+            else:
+                number = hyphenCountTitleLengthCiteCount[i][j]/lengthTotalAmountofPapers[i][j]
+            f6listlist[i].append(number)
+
+    
+    f6x = ['0-25','25-50','50-75','75-100','100-125','125-150','150-max']
+    f6Data = {'0':f6listlist[0],'1':f6listlist[1],'2':f6listlist[2],'3':f6listlist[3]
+              ,'4':f6listlist[4],'>4':f6listlist[5]}
+
+    df6 = pd.DataFrame(f6Data,index = f6x)
+    axf6 = df6.plot.bar(rot = 0)
+    plt.show()
+    plt.pause(0.05)
+
+    
 
 
     
