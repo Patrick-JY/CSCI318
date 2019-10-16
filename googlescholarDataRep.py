@@ -7,10 +7,16 @@ import scholarly
 import ast
 import glob, os
 import time
+import json
 
 
 
-
+punctuations = [".", ",", "?", "!", "'", '"', ":", ";", "...", "-", "--", "---", "(", ")", "[", "]"]
+punctuationsName = ["period", "comma", "questionMark",
+                    "exclamation", "apostrophe", "quotation",
+                    "colon", "semicolon", "ellipsis", "hyphen",
+                    "enDash", "emDash", "leftParentheses", "rightParentheses",
+                    "leftSquareBracket", "rightSquareBracket"]
 
 def howManyHyphens(title):
     return title.count('-');
@@ -38,6 +44,47 @@ def placeinLengthList(titleLength,titleLengthList,hyphenCount,lengthTotalAmounto
         titleLengthList[hyphenCount][0] += citeCount
         lengthTotalAmountofPapers[hyphenCount][0]+= 1
 
+def splitFileByNLine(filename, N,dictobjects):
+    counter = 0;
+    op = ''
+    
+    with open(filename,'r',encoding='utf-8') as fileToSplit:
+        for line in fileToSplit:
+            item_dict = json.loads(line)
+            
+            if len(item_dict['outCitations']) == 0:
+                continue
+
+            #add count for each punctuation in the list
+            PunIndex = 0
+            totalPunctuationCount = 0
+            for pun in punctuations:
+                punC = item_dict['title'].count(pun)
+                item_dict[punctuationsName[PunIndex]+"Count"] = punC
+                totalPunctuationCount += punC
+                PunIndex += 1
+            bib = {}
+            item_dict["bib"] = bib
+            item_dict["bib"]["title"] = item_dict["title"]
+            print(item_dict["bib"]["title"])
+            item_dict['CitedBy'] = len(item_dict['outCitations'])
+            item_dict['totalPun'] = totalPunctuationCount
+            item_json = json.dumps(item_dict)
+            dictobjects.append(item_dict)
+##            item_xml = StringJsonToXml(item_json)
+##            if counter % N == 0 and counter != 0:
+##                with open(str(counter) + '.xml', 'w', encoding='utf-8') as opf:
+##                    opf.write(op)
+##                    opf.close()
+##                    op = '' + item_xml
+##                    counter += 1
+##
+##            else:
+##                op += item_xml
+##                counter += 1
+
+    fileToSplit.close()
+
 
 
 
@@ -59,6 +106,7 @@ def main():
     prevfilelist = []
     totaltitleLengthList = [0,0,0,0,0,0]
     meanTitleLengthList = [0,0,0,0,0,0]
+    DatasetOption = 2;
 
     ## Hyphen Title counts for the ranges 0-25, 25-50 , 50-75, 75-100, 100-125, 125-150, 150-max
     f5List0 = [0,0,0,0,0,0,0]
@@ -71,7 +119,7 @@ def main():
     lengthTotalAmountofPapers = [f5List0.copy(),f5List1.copy(),f5List2.copy(),f5List3.copy(),f5List4.copy(),f5List5.copy()]
     
     
-
+    
 
 
     
@@ -112,95 +160,98 @@ def main():
     articleUpdated = [False,False,False,False,False,False]
     time.sleep(10)
 
-    
-    for file in glob.glob("Set 3/*.txt"):
-        if file not in filelist:
-            filelist.append(file)
-            
-    
-
-    print(prevfilelist)
-    newfilelist = list(set(filelist) - set(prevfilelist))
-    
-    for fileObj in newfilelist:
-        
-        file = fileObj
-        dictobjects = []
-        dic_list_op = open(file,'r',encoding = "utf8")
-        dic_list_str = dic_list_op.read()
-        dic_list_op.close()
-
-        dic_list_split_arr = dic_list_str.split('}{')
-
-        for index,x in zip(range(len(dic_list_split_arr)),dic_list_split_arr): 
-            if index != 0 and index != (len(dic_list_split_arr)- 1) :
-                dictobjects.append(ast.literal_eval("{" + x + "}"))
-            elif index == (len(dic_list_split_arr)- 1) :
-                dictobjects.append(ast.literal_eval("{" + x))
-            else:
-                y = x.split('{',1)[1]
-                dictobjects.append(ast.literal_eval("{" + y + "}"))
-        
+    if DatasetOption == 1:
+        for file in glob.glob("Set 3/*.txt"):
+            if file not in filelist:
+                filelist.append(file)
                 
         
 
-
-        for index,x in zip(range(len(dictobjects)),dictobjects):
+        print(prevfilelist)
+        newfilelist = list(set(filelist) - set(prevfilelist))
+        
+        for fileObj in newfilelist:
             
-            if "citedby" in x:
-                if "bib" in x and x["citedby"] > 100:
-                    if "title" in x["bib"]:
-                        hyphenCount = howManyHyphens(x["bib"]["title"])
-                        titleLength = len(x["bib"]["title"])
-                        if(hyphenCount == 0):
-                            print(x)
-                            citationCount[0] += x["citedby"]
-                            articleCount[0] += 1
-                            hyphenNull.append(x["citedby"])
-                            articleUpdated[0] = True
-                            totaltitleLengthList[0] += titleLength
-                            placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,0,lengthTotalAmountofPapers,x["citedby"])
-                            
-                            
-                        elif(hyphenCount == 1):
-                            citationCount[1] += x["citedby"]
-                            articleCount[1] += 1
-                            hyphenOne.append(x["citedby"])
-                            articleUpdated[1] = True
-                            totaltitleLengthList[1] += titleLength
-                            placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,1,lengthTotalAmountofPapers,x["citedby"])
-                            
-                        elif(hyphenCount == 2):
-                            citationCount[2] += x["citedby"]
-                            articleCount[2] += 1
-                            hyphenTwo.append(x["citedby"])
-                            articleUpdated[2] = True
-                            totaltitleLengthList[2] += titleLength
-                            placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,2,lengthTotalAmountofPapers,x["citedby"])
-                            
-                        elif(hyphenCount == 3):
-                            citationCount[3] += x["citedby"]
-                            articleCount[3] += 1
-                            hyphenThree.append(x["citedby"])
-                            articleUpdated[3] = True
-                            totaltitleLengthList[3] += titleLength
-                            placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,3,lengthTotalAmountofPapers,x["citedby"])
-                            
-                        elif(hyphenCount == 4):
-                            citationCount[4] += x["citedby"]
-                            articleCount[4] += 1
-                            articleUpdated[4] = True
-                            hyphenFour.append(x["citedby"])
-                            totaltitleLengthList[4] += titleLength
-                            placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,4,lengthTotalAmountofPapers,x["citedby"])
-                            
-                        elif(hyphenCount >= 5):
-                            citationCount[5] += x["citedby"]
-                            articleCount[5] += 1
-                            hyphenFive.append(x["citedby"])
-                            articleUpdated[5] = True
-                            totaltitleLengthList[5] += titleLength
-                            placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,5,lengthTotalAmountofPapers,x["citedby"])
+            file = fileObj
+            dictobjects = []
+            dic_list_op = open(file,'r',encoding = "utf8")
+            dic_list_str = dic_list_op.read()
+            dic_list_op.close()
+
+            dic_list_split_arr = dic_list_str.split('}{')
+
+            for index,x in zip(range(len(dic_list_split_arr)),dic_list_split_arr): 
+                if index != 0 and index != (len(dic_list_split_arr)- 1) :
+                    dictobjects.append(ast.literal_eval("{" + x + "}"))
+                elif index == (len(dic_list_split_arr)- 1) :
+                    dictobjects.append(ast.literal_eval("{" + x))
+                else:
+                    y = x.split('{',1)[1]
+                    dictobjects.append(ast.literal_eval("{" + y + "}"))
+            
+                    
+            
+
+
+            for index,x in zip(range(len(dictobjects)),dictobjects):
+                
+                if "citedby" in x:
+                    if "bib" in x and x["citedby"] > 100:
+                        if "title" in x["bib"]:
+                            hyphenCount = howManyHyphens(x["bib"]["title"])
+                            titleLength = len(x["bib"]["title"])
+                            if(hyphenCount == 0):
+                                print(x)
+                                citationCount[0] += x["citedby"]
+                                articleCount[0] += 1
+                                hyphenNull.append(x["citedby"])
+                                articleUpdated[0] = True
+                                totaltitleLengthList[0] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,0,lengthTotalAmountofPapers,x["citedby"])
+                                
+                                
+                            elif(hyphenCount == 1):
+                                citationCount[1] += x["citedby"]
+                                articleCount[1] += 1
+                                hyphenOne.append(x["citedby"])
+                                articleUpdated[1] = True
+                                totaltitleLengthList[1] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,1,lengthTotalAmountofPapers,x["citedby"])
+                                
+                            elif(hyphenCount == 2):
+                                citationCount[2] += x["citedby"]
+                                articleCount[2] += 1
+                                hyphenTwo.append(x["citedby"])
+                                articleUpdated[2] = True
+                                totaltitleLengthList[2] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,2,lengthTotalAmountofPapers,x["citedby"])
+                                
+                            elif(hyphenCount == 3):
+                                citationCount[3] += x["citedby"]
+                                articleCount[3] += 1
+                                hyphenThree.append(x["citedby"])
+                                articleUpdated[3] = True
+                                totaltitleLengthList[3] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,3,lengthTotalAmountofPapers,x["citedby"])
+                                
+                            elif(hyphenCount == 4):
+                                citationCount[4] += x["citedby"]
+                                articleCount[4] += 1
+                                articleUpdated[4] = True
+                                hyphenFour.append(x["citedby"])
+                                totaltitleLengthList[4] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,4,lengthTotalAmountofPapers,x["citedby"])
+                                
+                            elif(hyphenCount >= 5):
+                                citationCount[5] += x["citedby"]
+                                articleCount[5] += 1
+                                hyphenFive.append(x["citedby"])
+                                articleUpdated[5] = True
+                                totaltitleLengthList[5] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,5,lengthTotalAmountofPapers,x["citedby"])
+    elif DatasetOption == 2:
+        splitFileByNLine("papers-2017-10-30-sample.json", 1000)
+        dictobjects = []
 
 
 
