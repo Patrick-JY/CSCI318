@@ -9,14 +9,16 @@ import glob, os
 import time
 import json
 import scipy.stats as stats
+from pandas.plotting import table
+from textwrap import wrap
 
 
 punctuations = [".", ",", "?", "!", "'", '"', ":", ";", "...", "-", "--", "---", "(", ")", "[", "]"]
-punctuationsName = ["period", "comma", "questionMark",
-                    "exclamation", "apostrophe", "quotation",
-                    "colon", "semicolon", "ellipsis", "hyphen",
-                    "enDash", "emDash", "leftParentheses", "rightParentheses",
-                    "leftSquareBracket", "rightSquareBracket"]
+punctuationsName = ["Period", "Comma", "QuestionMark",
+                    "Exclamation", "Apostrophe", "Quotation",
+                    "Colon", "Semicolon", "Ellipsis", "Hyphen",
+                    "EnDash", "EmDash", "LeftParentheses", "RightParentheses",
+                    "LeftSquareBracket", "RightSquareBracket"]
 
 def howManyHyphens(title):
     return title.count('-');
@@ -106,7 +108,8 @@ def main():
     prevfilelist = []
     totaltitleLengthList = [0,0,0,0,0,0]
     meanTitleLengthList = [0,0,0,0,0,0]
-    DatasetOption = 1;
+    DatasetOption = "Google"
+    puncOption = 9
 
     ## Hyphen Title counts for the ranges 0-25, 25-50 , 50-75, 75-100, 100-125, 125-150, 150-max
     f5List0 = [0,0,0,0,0,0,0]
@@ -149,7 +152,7 @@ def main():
     plt.bar(y_pos,citationCount,align = 'center', alpha = 0.5)
     plt.xticks(y_pos,objects)
     plt.ylabel('Mean Citation Count')
-    plt.title('Mean Citation Count and Hyphens')
+    plt.title(DatasetOption + ' Scholar: Mean Citation Count and ' + punctuationsName[puncOption])
 
 
    
@@ -160,7 +163,7 @@ def main():
     articleUpdated = [False,False,False,False,False,False]
     
 
-    if DatasetOption == 1:
+    if DatasetOption == "Google":
         for file in glob.glob("GoogleScholar Data/*.txt"):
             if file not in filelist:
                 filelist.append(file)
@@ -252,7 +255,7 @@ def main():
                                 articleUpdated[5] = True
                                 totaltitleLengthList[5] += titleLength
                                 placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,5,lengthTotalAmountofPapers,x["citedby"])
-    elif DatasetOption == 2:
+    elif DatasetOption == "Semantic":
         dictobjects = []
         splitFileByNLine("papers-2017-10-30-sample.json", 1000,dictobjects)
         print(dictobjects[0])
@@ -303,7 +306,7 @@ def main():
                       colLabels=columns,
                           loc = "center")
     plt.subplots_adjust(left=0.2,top = 0.8)
-    
+    plt.title(DatasetOption + " Scholar Data Description (Columns are " + punctuationsName[puncOption] +  "count)", y = 0.67)
     f1.canvas.draw()
     f1.canvas.flush_events()
     plt.pause(0.05)
@@ -317,7 +320,7 @@ def main():
     plt.bar(y_pos,meanCitationCount,align = 'center', alpha = 0.5)
     plt.xticks(y_pos,objects)
     plt.ylabel('Mean Citation Count')
-    plt.title('Mean Citation Count and Hyphens')
+    plt.title("\n".join(wrap(DatasetOption + ' Scholar: Mean Citation Count related to ' + punctuationsName[puncOption] + ' count')))
 
     
     f2.canvas.draw()
@@ -351,7 +354,7 @@ def main():
     countData = np.log10(countData)
     print('after: ' + str(countData[0]))
 
-    boxData = {'Hyphens':HyphenLabel,'Count':countData}
+    boxData = {punctuationsName[puncOption] + 's':HyphenLabel,'Count':countData}
     
     df = pd.DataFrame(boxData)
     
@@ -361,8 +364,9 @@ def main():
     
 
     
-    boxplot = df.boxplot(column ='Count', by ='Hyphens')
+    boxplot = df.boxplot(column ='Count', by = punctuationsName[puncOption] + 's')
     boxplot.set_ylabel("Mean Citation Count (LOG SCALE)")
+    boxplot.set_title(DatasetOption + " Scholar")
     print(boxplot)
     
     
@@ -377,7 +381,8 @@ def main():
     plt.bar(y_pos,meanTitleLengthList,align = 'center', alpha = 0.5)
     plt.xticks(y_pos,objects)
     plt.ylabel('Mean title length')
-    plt.title('Mean Title length related to hyphen count')
+    plt.title("\n".join(wrap(DatasetOption +
+                             ' Scholar: Mean Title length related to ' + punctuationsName[puncOption] + ' count')))
 
     
     f4.canvas.draw()
@@ -407,8 +412,10 @@ def main():
     df5 =  pd.DataFrame(f5Data,index = f5x)
     axf5 = df5.plot.bar(rot = 0)
     axf5.set_ylabel("Mean Citation Count")
-    axf5.set_xlabel("Hyphen Count")
+    axf5.set_xlabel(punctuationsName[puncOption] + " Count")
     axf5.legend(title = "Title Length in Characters")
+    axf5.set_title("\n".join(wrap(DatasetOption + " Scholar: Graphs grouped by " + punctuationsName[puncOption] +
+                   "count in relation to mean Citation Count")))
     print(df5)
     
         
@@ -441,7 +448,9 @@ def main():
     axf6 = df6.plot.bar(rot = 0)
     axf6.set_ylabel("Mean Citation Count")
     axf6.set_xlabel("Title Length in characters")
-    axf6.legend(title = "Hyphen Count")
+    axf6.legend(title = punctuationsName[puncOption] + " Count")
+    axf6.set_title("\n".join(wrap(DatasetOption +
+                                  " Scholar: Graphs grouped by Title Length in relation to mean Citation Count")))
     plt.show()
     plt.pause(0.05)
 
@@ -449,52 +458,57 @@ def main():
     print(np.var(hyphenOne))
     print(stats.ttest_ind(a=hyphenNull,b=hyphenOne,equal_var = False))
     
-    pValueData = {'0':[stats.ttest_ind(a=hyphenNull,b=hyphenNull,equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenNull,b=hyphenOne,equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenNull,b=hyphenTwo,equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenNull,b=hyphenThree,equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenNull,b=hyphenFour, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenNull,b=hyphenFive, equal_var = False)[1]],
+    pValueData = {'0':[round(stats.ttest_ind(a=hyphenNull,b=hyphenNull,equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenNull,b=hyphenOne,equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenNull,b=hyphenTwo,equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenNull,b=hyphenThree,equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenNull,b=hyphenFour, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenNull,b=hyphenFive, equal_var = False)[1],4)],
 
-                  '1':[stats.ttest_ind(a=hyphenOne,b=hyphenNull, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenOne,b=hyphenOne, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenOne,b=hyphenTwo, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenOne,b=hyphenThree, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenOne,b=hyphenFour, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenOne,b=hyphenFive, equal_var = False)[1]],
+                  '1':[round(stats.ttest_ind(a=hyphenOne,b=hyphenNull, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenOne,b=hyphenOne, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenOne,b=hyphenTwo, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenOne,b=hyphenThree, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenOne,b=hyphenFour, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenOne,b=hyphenFive, equal_var = False)[1],4)],
 
-                  '2':[stats.ttest_ind(a=hyphenTwo,b=hyphenNull, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenTwo,b=hyphenOne, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenTwo,b=hyphenTwo, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenTwo,b=hyphenThree, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenTwo,b=hyphenFour, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenTwo,b=hyphenFive, equal_var = False)[1]],
+                  '2':[round(stats.ttest_ind(a=hyphenTwo,b=hyphenNull, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenTwo,b=hyphenOne, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenTwo,b=hyphenTwo, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenTwo,b=hyphenThree, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenTwo,b=hyphenFour, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenTwo,b=hyphenFive, equal_var = False)[1],4)],
 
-                  '3':[stats.ttest_ind(a=hyphenThree,b=hyphenNull, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenThree,b=hyphenOne, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenThree,b=hyphenTwo, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenThree,b=hyphenThree, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenThree,b=hyphenFour, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenThree,b=hyphenFive, equal_var = False)[1]],
+                  '3':[round(stats.ttest_ind(a=hyphenThree,b=hyphenNull, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenThree,b=hyphenOne, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenThree,b=hyphenTwo, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenThree,b=hyphenThree, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenThree,b=hyphenFour, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenThree,b=hyphenFive, equal_var = False)[1],4)],
                   
-                  '4':[stats.ttest_ind(a=hyphenFour,b=hyphenNull, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenFour,b=hyphenOne, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenFour,b=hyphenTwo, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenFour,b=hyphenThree, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenFour,b=hyphenFour, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenFour,b=hyphenFive, equal_var = False)[1]],
+                  '4':[round(stats.ttest_ind(a=hyphenFour,b=hyphenNull, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenFour,b=hyphenOne, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenFour,b=hyphenTwo, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenFour,b=hyphenThree, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenFour,b=hyphenFour, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenFour,b=hyphenFive, equal_var = False)[1],4)],
                   
-                  '>4':[stats.ttest_ind(a=hyphenFive,b=hyphenNull, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenFive,b=hyphenOne, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenFive,b=hyphenTwo, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenFive,b=hyphenThree, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenFive,b=hyphenFour, equal_var = False)[1],
-                       stats.ttest_ind(a=hyphenFive,b=hyphenFive, equal_var = False)[1]]}
+                  '>4':[round(stats.ttest_ind(a=hyphenFive,b=hyphenNull, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenFive,b=hyphenOne, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenFive,b=hyphenTwo, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenFive,b=hyphenThree, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenFive,b=hyphenFour, equal_var = False)[1],4),
+                       round(stats.ttest_ind(a=hyphenFive,b=hyphenFive, equal_var = False)[1],4)]}
 
     pdataFrame = pd.DataFrame(pValueData,index = ['0','1','2','3','4','>4'])
     print(pdataFrame)
-
-    
+    f7 = plt.figure(7)
+    ax7 = plt.subplot(111, frame_on = False)
+    ax7.xaxis.set_visible(False)
+    ax7.yaxis.set_visible(False)
+    ax7.set_title("\n".join(wrap(DatasetOption + " Scholar: p values when comparing samples of papers based on "
+                  + punctuationsName[puncOption] + " count")),loc = "center",y = 0.7)
+    table(ax7,pdataFrame,loc = "center")
 
 
     
