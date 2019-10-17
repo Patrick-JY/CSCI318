@@ -8,7 +8,7 @@ import ast
 import glob, os
 import time
 import json
-
+import scipy.stats as stats
 
 
 punctuations = [".", ",", "?", "!", "'", '"', ":", ";", "...", "-", "--", "---", "(", ")", "[", "]"]
@@ -106,7 +106,7 @@ def main():
     prevfilelist = []
     totaltitleLengthList = [0,0,0,0,0,0]
     meanTitleLengthList = [0,0,0,0,0,0]
-    DatasetOption = 2;
+    DatasetOption = 1;
 
     ## Hyphen Title counts for the ranges 0-25, 25-50 , 50-75, 75-100, 100-125, 125-150, 150-max
     f5List0 = [0,0,0,0,0,0,0]
@@ -158,16 +158,16 @@ def main():
 
     
     articleUpdated = [False,False,False,False,False,False]
-    time.sleep(10)
+    
 
     if DatasetOption == 1:
-        for file in glob.glob("Set 3/*.txt"):
+        for file in glob.glob("GoogleScholar Data/*.txt"):
             if file not in filelist:
                 filelist.append(file)
                 
         
 
-        print(prevfilelist)
+        
         newfilelist = list(set(filelist) - set(prevfilelist))
         
         for fileObj in newfilelist:
@@ -178,16 +178,19 @@ def main():
             dic_list_str = dic_list_op.read()
             dic_list_op.close()
 
-            dic_list_split_arr = dic_list_str.split('}{')
+            dic_list_split_arr = dic_list_str.split('\'}{')
 
             for index,x in zip(range(len(dic_list_split_arr)),dic_list_split_arr): 
                 if index != 0 and index != (len(dic_list_split_arr)- 1) :
-                    dictobjects.append(ast.literal_eval("{" + x + "}"))
+                    dictobjects.append(ast.literal_eval("{" + x + "'}"))
+                    
                 elif index == (len(dic_list_split_arr)- 1) :
+                
                     dictobjects.append(ast.literal_eval("{" + x))
                 else:
                     y = x.split('{',1)[1]
-                    dictobjects.append(ast.literal_eval("{" + y + "}"))
+                    
+                    dictobjects.append(ast.literal_eval("{" + y + "'}"))
             
                     
             
@@ -196,12 +199,12 @@ def main():
             for index,x in zip(range(len(dictobjects)),dictobjects):
                 
                 if "citedby" in x:
-                    if "bib" in x and x["citedby"] > 100:
+                    if "bib" in x and x["citedby"] > 10:
                         if "title" in x["bib"]:
                             hyphenCount = howManyHyphens(x["bib"]["title"])
                             titleLength = len(x["bib"]["title"])
                             if(hyphenCount == 0):
-                                print(x)
+                                
                                 citationCount[0] += x["citedby"]
                                 articleCount[0] += 1
                                 hyphenNull.append(x["citedby"])
@@ -250,8 +253,9 @@ def main():
                                 totaltitleLengthList[5] += titleLength
                                 placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,5,lengthTotalAmountofPapers,x["citedby"])
     elif DatasetOption == 2:
-        splitFileByNLine("papers-2017-10-30-sample.json", 1000)
         dictobjects = []
+        splitFileByNLine("papers-2017-10-30-sample.json", 1000,dictobjects)
+        print(dictobjects[0])
 
 
 
@@ -339,9 +343,13 @@ def main():
         HyphenLabel.append('4')
 
     for x in hyphenFive:
-        HyphenLabel.append('5')
+        HyphenLabel.append('>4')
 
+    
     countData = hyphenNull + hyphenOne + hyphenTwo + hyphenThree + hyphenFour + hyphenFive
+    print('before: ' + str(countData[0]))
+    countData = np.log10(countData)
+    print('after: ' + str(countData[0]))
 
     boxData = {'Hyphens':HyphenLabel,'Count':countData}
     
@@ -354,6 +362,8 @@ def main():
 
     
     boxplot = df.boxplot(column ='Count', by ='Hyphens')
+    boxplot.set_ylabel("Mean Citation Count (LOG SCALE)")
+    print(boxplot)
     
     
     
@@ -396,6 +406,9 @@ def main():
               '100-125': valListList[4],'125-150': valListList[5],'150-max': valListList[6] }
     df5 =  pd.DataFrame(f5Data,index = f5x)
     axf5 = df5.plot.bar(rot = 0)
+    axf5.set_ylabel("Mean Citation Count")
+    axf5.set_xlabel("Hyphen Count")
+    axf5.legend(title = "Title Length in Characters")
     print(df5)
     
         
@@ -426,8 +439,60 @@ def main():
 
     df6 = pd.DataFrame(f6Data,index = f6x)
     axf6 = df6.plot.bar(rot = 0)
+    axf6.set_ylabel("Mean Citation Count")
+    axf6.set_xlabel("Title Length in characters")
+    axf6.legend(title = "Hyphen Count")
     plt.show()
     plt.pause(0.05)
+
+    print(np.var(hyphenNull))
+    print(np.var(hyphenOne))
+    print(stats.ttest_ind(a=hyphenNull,b=hyphenOne,equal_var = False))
+    
+    pValueData = {'0':[stats.ttest_ind(a=hyphenNull,b=hyphenNull,equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenNull,b=hyphenOne,equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenNull,b=hyphenTwo,equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenNull,b=hyphenThree,equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenNull,b=hyphenFour, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenNull,b=hyphenFive, equal_var = False)[1]],
+
+                  '1':[stats.ttest_ind(a=hyphenOne,b=hyphenNull, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenOne,b=hyphenOne, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenOne,b=hyphenTwo, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenOne,b=hyphenThree, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenOne,b=hyphenFour, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenOne,b=hyphenFive, equal_var = False)[1]],
+
+                  '2':[stats.ttest_ind(a=hyphenTwo,b=hyphenNull, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenTwo,b=hyphenOne, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenTwo,b=hyphenTwo, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenTwo,b=hyphenThree, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenTwo,b=hyphenFour, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenTwo,b=hyphenFive, equal_var = False)[1]],
+
+                  '3':[stats.ttest_ind(a=hyphenThree,b=hyphenNull, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenThree,b=hyphenOne, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenThree,b=hyphenTwo, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenThree,b=hyphenThree, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenThree,b=hyphenFour, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenThree,b=hyphenFive, equal_var = False)[1]],
+                  
+                  '4':[stats.ttest_ind(a=hyphenFour,b=hyphenNull, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenFour,b=hyphenOne, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenFour,b=hyphenTwo, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenFour,b=hyphenThree, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenFour,b=hyphenFour, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenFour,b=hyphenFive, equal_var = False)[1]],
+                  
+                  '>4':[stats.ttest_ind(a=hyphenFive,b=hyphenNull, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenFive,b=hyphenOne, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenFive,b=hyphenTwo, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenFive,b=hyphenThree, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenFive,b=hyphenFour, equal_var = False)[1],
+                       stats.ttest_ind(a=hyphenFive,b=hyphenFive, equal_var = False)[1]]}
+
+    pdataFrame = pd.DataFrame(pValueData,index = ['0','1','2','3','4','>4'])
+    print(pdataFrame)
 
     
 
