@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import matplotlib.pyplot as plt
-import scholarly
+
 import ast
 import glob, os
 import time
@@ -46,7 +46,7 @@ def placeinLengthList(titleLength,titleLengthList,hyphenCount,lengthTotalAmounto
         titleLengthList[hyphenCount][0] += citeCount
         lengthTotalAmountofPapers[hyphenCount][0]+= 1
 
-def splitFileByNLine(filename, N,dictobjects):
+def splitFileByNLine(filename, N,citationCount,articleCount,hyphenNull,hyphenOne,hyphenTwo,hyphenThree,hyphenFour,hyphenFive,articleUpdated,totaltitleLengthList,hyphenCountTitleLengthCiteCount,lengthTotalAmountofPapers):
     counter = 0;
     op = ''
     
@@ -59,23 +59,75 @@ def splitFileByNLine(filename, N,dictobjects):
                 continue
 
             #add count for each punctuation in the list
-            PunIndex = 0
-            totalPunctuationCount = 0
-            for pun in punctuations:
-                punC = item_dict['title'].count(pun)
-                item_dict[punctuationsName[PunIndex]+"Count"] = punC
-                totalPunctuationCount += punC
-                PunIndex += 1
+            
+            
             bib = {}
             item_dict["bib"] = bib
             item_dict["bib"]["title"] = item_dict["title"]
             
             item_dict['citedby'] = len(item_dict['outCitations'])
-            item_dict['totalPun'] = totalPunctuationCount
-            item_json = json.dumps(item_dict)
-            dictobjects.append(item_dict)
+            
+            #dictobjects.append(item_dict)
+            x = item_dict
+            if "citedby" in x:
+                    if "bib" in x and x["citedby"] > 10:
+                        if "title" in x["bib"]:
+                            hyphenCount = howManyHyphens(x["bib"]["title"])
+                            titleLength = len(x["bib"]["title"])
+                            if(hyphenCount == 0):
+                                
+                                citationCount[0] += x["citedby"]
+                                articleCount[0] += 1
+                                hyphenNull.append(x["citedby"])
+                                articleUpdated[0] = True
+                                totaltitleLengthList[0] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,0,lengthTotalAmountofPapers,x["citedby"])
+                                
+                                
+                            elif(hyphenCount == 1):
+                                citationCount[1] += x["citedby"]
+                                articleCount[1] += 1
+                                hyphenOne.append(x["citedby"])
+                                articleUpdated[1] = True
+                                totaltitleLengthList[1] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,1,lengthTotalAmountofPapers,x["citedby"])
+                                
+                            elif(hyphenCount == 2):
+                                citationCount[2] += x["citedby"]
+                                articleCount[2] += 1
+                                hyphenTwo.append(x["citedby"])
+                                articleUpdated[2] = True
+                                totaltitleLengthList[2] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,2,lengthTotalAmountofPapers,x["citedby"])
+                                
+                            elif(hyphenCount == 3):
+                                citationCount[3] += x["citedby"]
+                                articleCount[3] += 1
+                                hyphenThree.append(x["citedby"])
+                                articleUpdated[3] = True
+                                totaltitleLengthList[3] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,3,lengthTotalAmountofPapers,x["citedby"])
+                                
+                            elif(hyphenCount == 4):
+                                citationCount[4] += x["citedby"]
+                                articleCount[4] += 1
+                                articleUpdated[4] = True
+                                hyphenFour.append(x["citedby"])
+                                totaltitleLengthList[4] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,4,lengthTotalAmountofPapers,x["citedby"])
+                                
+                            elif(hyphenCount >= 5):
+                                citationCount[5] += x["citedby"]
+                                articleCount[5] += 1
+                                hyphenFive.append(x["citedby"])
+                                articleUpdated[5] = True
+                                totaltitleLengthList[5] += titleLength
+                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,5,lengthTotalAmountofPapers,x["citedby"])
+
+            
+
             counter += 1
-            if (200000 % counter == 0):
+            if (counter % 10000  == 0):
                 print(counter)
             
             if counter == N:
@@ -257,66 +309,16 @@ def main():
                                 placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,5,lengthTotalAmountofPapers,x["citedby"])
     elif DatasetOption == "Semantic":
         dictobjects = []
-        splitFileByNLine("papers-2017-10-30.json", 200000,dictobjects)
+        splitFileByNLine("papers-2017-10-30.json", 2000000,citationCount,articleCount,hyphenNull,hyphenOne,hyphenTwo,hyphenThree,hyphenFour,hyphenFive,
+                         articleUpdated,totaltitleLengthList,hyphenCountTitleLengthCiteCount,lengthTotalAmountofPapers)
         newfilelist = []
         newfilelist.append("papers-2017-10-30.json")
+        
+        
         print("got here")
-        for index,x in zip(range(len(dictobjects)),dictobjects):
+        
                 
-                if "citedby" in x:
-                    if "bib" in x and x["citedby"] > 10:
-                        if "title" in x["bib"]:
-                            hyphenCount = howManyHyphens(x["bib"]["title"])
-                            titleLength = len(x["bib"]["title"])
-                            if(hyphenCount == 0):
-                                
-                                citationCount[0] += x["citedby"]
-                                articleCount[0] += 1
-                                hyphenNull.append(x["citedby"])
-                                articleUpdated[0] = True
-                                totaltitleLengthList[0] += titleLength
-                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,0,lengthTotalAmountofPapers,x["citedby"])
-                                
-                                
-                            elif(hyphenCount == 1):
-                                citationCount[1] += x["citedby"]
-                                articleCount[1] += 1
-                                hyphenOne.append(x["citedby"])
-                                articleUpdated[1] = True
-                                totaltitleLengthList[1] += titleLength
-                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,1,lengthTotalAmountofPapers,x["citedby"])
-                                
-                            elif(hyphenCount == 2):
-                                citationCount[2] += x["citedby"]
-                                articleCount[2] += 1
-                                hyphenTwo.append(x["citedby"])
-                                articleUpdated[2] = True
-                                totaltitleLengthList[2] += titleLength
-                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,2,lengthTotalAmountofPapers,x["citedby"])
-                                
-                            elif(hyphenCount == 3):
-                                citationCount[3] += x["citedby"]
-                                articleCount[3] += 1
-                                hyphenThree.append(x["citedby"])
-                                articleUpdated[3] = True
-                                totaltitleLengthList[3] += titleLength
-                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,3,lengthTotalAmountofPapers,x["citedby"])
-                                
-                            elif(hyphenCount == 4):
-                                citationCount[4] += x["citedby"]
-                                articleCount[4] += 1
-                                articleUpdated[4] = True
-                                hyphenFour.append(x["citedby"])
-                                totaltitleLengthList[4] += titleLength
-                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,4,lengthTotalAmountofPapers,x["citedby"])
-                                
-                            elif(hyphenCount >= 5):
-                                citationCount[5] += x["citedby"]
-                                articleCount[5] += 1
-                                hyphenFive.append(x["citedby"])
-                                articleUpdated[5] = True
-                                totaltitleLengthList[5] += titleLength
-                                placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,5,lengthTotalAmountofPapers,x["citedby"])
+                
         
 
 
