@@ -18,10 +18,25 @@ punctuationsName = ["Period", "Comma", "QuestionMark",
                     "Exclamation", "Apostrophe", "Quotation",
                     "Colon", "Semicolon", "Ellipsis", "Hyphen",
                     "EnDash", "EmDash", "LeftParentheses", "RightParentheses",
-                    "LeftSquareBracket", "RightSquareBracket"]
+                  "LeftSquareBracket", "RightSquareBracket"]
+
+puncOption = 9
+
+def mkdir_p(mypath):
+    '''Creates a directory. equivalent to using mkdir -p on the command line'''
+
+    from errno import EEXIST
+    from os import makedirs,path
+
+    try:
+        makedirs(mypath)
+    except OSError as exc: # Python >2.5
+        if exc.errno == EEXIST and path.isdir(mypath):
+            pass
+        else: raise
 
 def howManyHyphens(title):
-    return title.count('-');
+    return title.count(punctuations[puncOption]);
 
 def placeinLengthList(titleLength,titleLengthList,hyphenCount,lengthTotalAmountofPapers,citeCount):
     if titleLength > 150:
@@ -159,9 +174,9 @@ def main():
     prevfilelist = []
     totaltitleLengthList = [0,0,0,0,0,0]
     meanTitleLengthList = [0,0,0,0,0,0]
-    #DatasetOption = "Google"
-    DatasetOption = "Semantic"
-    puncOption = 9
+    DatasetOption = "Google"
+    #DatasetOption = "Semantic"
+    
 
     ## Hyphen Title counts for the ranges 0-25, 25-50 , 50-75, 75-100, 100-125, 125-150, 150-max
     f5List0 = [0,0,0,0,0,0,0]
@@ -237,15 +252,21 @@ def main():
 
             for index,x in zip(range(len(dic_list_split_arr)),dic_list_split_arr): 
                 if index != 0 and index != (len(dic_list_split_arr)- 1) :
-                    dictobjects.append(ast.literal_eval("{" + x + "'}"))
+
+                    dictx = ast.literal_eval("{" + x + "'}")
+                    if not any(d['bib']['title'] == dictx['bib']['title'] for d in dictobjects ):
+                        dictobjects.append(dictx)
+                    
                     
                 elif index == (len(dic_list_split_arr)- 1) :
-                
-                    dictobjects.append(ast.literal_eval("{" + x))
+                    dictx = ast.literal_eval("{" + x)
+                    if not any(d['bib']['title'] == dictx['bib']['title'] for d in dictobjects):
+                        dictobjects.append(dictx)
                 else:
                     y = x.split('{',1)[1]
-                    
-                    dictobjects.append(ast.literal_eval("{" + y + "'}"))
+                    dictx = ast.literal_eval("{" + y + "'}")
+                    if not any(d['bib']['title'] == dictx['bib']['title'] for d in dictobjects):
+                        dictobjects.append(dictx)
             
                     
             
@@ -370,6 +391,10 @@ def main():
     plt.title(DatasetOption + " Scholar Data Description (Columns are " + punctuationsName[puncOption] +  "count)", y = 0.67)
     f1.canvas.draw()
     f1.canvas.flush_events()
+    output_dir = 'figures/' + DatasetOption + '/' +punctuationsName[puncOption]
+    mkdir_p(output_dir)
+    plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '1').format(output_dir) )
+    f1.clear()
     plt.pause(0.05)
     
     
@@ -384,7 +409,9 @@ def main():
     plt.title("\n".join(wrap(DatasetOption + ' Scholar: Mean Citation Count related to ' + punctuationsName[puncOption] + ' count')))
 
     
+    plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '2').format(output_dir) )
     f2.canvas.draw()
+    f2.clear()
     plt.pause(0.05)
     
     
@@ -431,7 +458,8 @@ def main():
     print(boxplot)
     
     
-    
+    plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '3').format(output_dir) )
+       
     plt.pause(0.05)
     f4 = plt.figure(4)
     for num,titlelength in enumerate(totaltitleLengthList,start=0):
@@ -447,6 +475,9 @@ def main():
 
     
     f4.canvas.draw()
+    
+    plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '4').format(output_dir) )
+    f4.clear()
     plt.pause(0.05)
 
     #f5,ax3 = plt.subplots()
@@ -487,6 +518,8 @@ def main():
 ##    ax3.bar(f5x+0.2,valListList[4],width = 0.2,align = 'center')
 ##    ax3.bar(f5x+0.4,valListList[5],width = 0.2,align = 'center')
     plt.show()
+    plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '5').format(output_dir) )
+    
     plt.pause(0.05)
 
 
@@ -513,6 +546,8 @@ def main():
     axf6.set_title("\n".join(wrap(DatasetOption +
                                   " Scholar: Graphs grouped by Title Length in relation to mean Citation Count")))
     plt.show()
+    plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '6').format(output_dir) )
+    
     plt.pause(0.05)
 
     print(np.var(hyphenNull))
@@ -570,7 +605,8 @@ def main():
     ax7.set_title("\n".join(wrap(DatasetOption + " Scholar: p values when comparing samples of papers based on "
                   + punctuationsName[puncOption] + " count")),loc = "center",y = 0.7)
     table(ax7,pdataFrame,loc = "center")
-
+    plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '7').format(output_dir) )
+    f7.clear()
 
     
     
@@ -578,7 +614,6 @@ def main():
     prevfilelist = filelist.copy()
 
         
-
 main()
 
 
