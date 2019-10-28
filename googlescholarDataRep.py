@@ -20,7 +20,7 @@ punctuationsName = ["Period", "Comma", "QuestionMark",
                     "EnDash", "EmDash", "LeftParentheses", "RightParentheses",
                   "LeftSquareBracket", "RightSquareBracket"]
 
-puncOption = 9
+puncOption = 0
 
 def mkdir_p(mypath):
     '''Creates a directory. equivalent to using mkdir -p on the command line'''
@@ -70,7 +70,7 @@ def splitFileByNLine(filename, N,citationCount,articleCount,hyphenNull,hyphenOne
         for line in fileToSplit:
             item_dict = json.loads(line)
             
-            if len(item_dict['outCitations']) == 0:
+            if len(item_dict['inCitations']) == 0:
                 continue
 
             #add count for each punctuation in the list
@@ -80,7 +80,7 @@ def splitFileByNLine(filename, N,citationCount,articleCount,hyphenNull,hyphenOne
             item_dict["bib"] = bib
             item_dict["bib"]["title"] = item_dict["title"]
             
-            item_dict['citedby'] = len(item_dict['outCitations'])
+            item_dict['citedby'] = len(item_dict['inCitations'])
             
             #dictobjects.append(item_dict)
             x = item_dict
@@ -174,8 +174,8 @@ def main():
     prevfilelist = []
     totaltitleLengthList = [0,0,0,0,0,0]
     meanTitleLengthList = [0,0,0,0,0,0]
-    DatasetOption = "Google"
-    #DatasetOption = "Semantic"
+    #DatasetOption = "Google"
+    DatasetOption = "Semantic"
     
 
     ## Hyphen Title counts for the ranges 0-25, 25-50 , 50-75, 75-100, 100-125, 125-150, 150-max
@@ -330,7 +330,7 @@ def main():
                                 placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,5,lengthTotalAmountofPapers,x["citedby"])
     elif DatasetOption == "Semantic":
         dictobjects = []
-        splitFileByNLine("papers-2017-10-30.json", 2000000,citationCount,articleCount,hyphenNull,hyphenOne,hyphenTwo,hyphenThree,hyphenFour,hyphenFive,
+        splitFileByNLine("papers-2017-10-30.json", 5000000,citationCount,articleCount,hyphenNull,hyphenOne,hyphenTwo,hyphenThree,hyphenFour,hyphenFive,
                          articleUpdated,totaltitleLengthList,hyphenCountTitleLengthCiteCount,lengthTotalAmountofPapers)
         newfilelist = []
         newfilelist.append("papers-2017-10-30.json")
@@ -613,8 +613,9 @@ def main():
     
     prevfilelist = filelist.copy()
 
-        
-main()
+while puncOption <= 8:  
+    main()
+    puncOption+=1
 
 
 
