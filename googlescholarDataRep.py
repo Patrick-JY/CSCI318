@@ -157,6 +157,8 @@ def splitFileByNLine(filename, N,citationCount,articleCount,hyphenNull,hyphenOne
 
 
 def main():
+
+    
     
 
     objects = ('0','1','2','3','4','>4');
@@ -174,8 +176,7 @@ def main():
     prevfilelist = []
     totaltitleLengthList = [0,0,0,0,0,0]
     meanTitleLengthList = [0,0,0,0,0,0]
-    #DatasetOption = "Google"
-    DatasetOption = "Semantic"
+    
     
 
     ## Hyphen Title counts for the ranges 0-25, 25-50 , 50-75, 75-100, 100-125, 125-150, 150-max
@@ -194,32 +195,32 @@ def main():
 
     
     #Needed info for figure 1
-    data = [[0,0,0,0,0,0,0],
-                [0,0,0,0,0,0,0]]
-    f1,ax = plt.subplots()
-    
-    f1.patch.set_visible(False)
-    ax.axis('off')
-    ax.axis('tight')
-    columns = ['0','1','2','3','4','>4','Overall']
-    rows = ['No of papers','Percentage']
-    colors = plt.cm.BuPu(np.linspace(0, 0.5, len(rows)))
-    the_table = plt.table(cellText=data,
-                          rowLabels=rows,
-                          rowColours=colors,
-                          colLabels=columns,
-                              loc = "center")
-    plt.subplots_adjust(left=0.2,top = 0.8)
-    
-    plt.ion()
-    
+##    data = [[0,0,0,0,0,0,0],
+##                [0,0,0,0,0,0,0]]
+##    f1,ax = plt.subplots()
+##    
+##    f1.patch.set_visible(False)
+##    ax.axis('off')
+##    ax.axis('tight')
+##    columns = ['0','1','2','3','4','>4','Overall']
+##    rows = ['No of papers','Percentage']
+##    colors = plt.cm.BuPu(np.linspace(0, 0.5, len(rows)))
+##    the_table = plt.table(cellText=data,
+##                          rowLabels=rows,
+##                          rowColours=colors,
+##                          colLabels=columns,
+##                              loc = "center")
+##    plt.subplots_adjust(left=0.2,top = 0.8)
+##    
+##    plt.ion()
+##    
     #Needed info for figure 2
-    f2 = plt.figure(2)
-        
-    plt.bar(y_pos,citationCount,align = 'center', alpha = 0.5)
-    plt.xticks(y_pos,objects)
-    plt.ylabel('Mean Citation Count')
-    plt.title(DatasetOption + ' Scholar: Mean Citation Count and ' + punctuationsName[puncOption])
+##    f2 = plt.figure(2)
+##        
+##    plt.bar(y_pos,citationCount,align = 'center', alpha = 0.5)
+##    plt.xticks(y_pos,objects)
+##    plt.ylabel('Mean Citation Count')
+##    plt.title(DatasetOption + ' Scholar: Mean Citation Count and ' + punctuationsName[puncOption])
 
 
    
@@ -230,7 +231,8 @@ def main():
     articleUpdated = [False,False,False,False,False,False]
     
 
-    if DatasetOption == "Google":
+    if DatasetOptionSelector == 0:
+        DatasetOption = "Google"
         for file in glob.glob("GoogleScholar Data/*.txt"):
             if file not in filelist:
                 filelist.append(file)
@@ -328,7 +330,8 @@ def main():
                                 articleUpdated[5] = True
                                 totaltitleLengthList[5] += titleLength
                                 placeinLengthList(titleLength,hyphenCountTitleLengthCiteCount,5,lengthTotalAmountofPapers,x["citedby"])
-    elif DatasetOption == "Semantic":
+    elif DatasetOptionSelector == 1:
+        DatasetOption = "Semantic"
         dictobjects = []
         splitFileByNLine("papers-2017-10-30.json", 5000000,citationCount,articleCount,hyphenNull,hyphenOne,hyphenTwo,hyphenThree,hyphenFour,hyphenFive,
                          articleUpdated,totaltitleLengthList,hyphenCountTitleLengthCiteCount,lengthTotalAmountofPapers)
@@ -337,6 +340,13 @@ def main():
         
         
         print("got here")
+    elif DatasetOptionSelector == 2:
+        DatasetOption = "Semantic"
+        dictobjects = []
+        splitFileByNLine("papers-2017-10-30-sample.json", 5000000,citationCount,articleCount,hyphenNull,hyphenOne,hyphenTwo,hyphenThree,hyphenFour,hyphenFive,
+                         articleUpdated,totaltitleLengthList,hyphenCountTitleLengthCiteCount,lengthTotalAmountofPapers)
+        newfilelist = []
+        newfilelist.append("papers-2017-10-30-sample.json")
         
                 
                 
@@ -381,12 +391,26 @@ def main():
    
 
    
-    plt.figure(1)
+    
+    
+    f1 = plt.figure(1)
+    
+    f1.clear()
+    ax = plt.subplot(111, frame_on = False)
+    f1.patch.set_visible(False)
+    ax.axis('off')
+    ax.axis('tight')
+    ax.xaxis.set_visible(False)
+    ax.yaxis.set_visible(False)
+    columns = ['0','1','2','3','4','>4','Overall']
+    rows = ['No of papers','Percentage']
+    colors = plt.cm.BuPu(np.linspace(0, 0.5, len(rows)))
     the_table = plt.table(cellText=data,
                       rowLabels=rows,
                       rowColours=colors,
                       colLabels=columns,
                           loc = "center")
+    plt.ion()
     plt.subplots_adjust(left=0.2,top = 0.8)
     plt.title(DatasetOption + " Scholar Data Description (Columns are " + punctuationsName[puncOption] +  "count)", y = 0.67)
     f1.canvas.draw()
@@ -394,13 +418,13 @@ def main():
     output_dir = 'figures/' + DatasetOption + '/' +punctuationsName[puncOption]
     mkdir_p(output_dir)
     plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '1').format(output_dir) )
-    f1.clear()
+    
     plt.pause(0.05)
     
     
 
 
-    plt.figure(2)
+    f2 = plt.figure(2)
     f2.clear()
     plt.bar(y_pos,meanCitationCount,align = 'center',color = (0.2, 0.4, 0.6, 0.6))
     plt.bar(y_pos,meanCitationCount,align = 'center', alpha = 0.5)
@@ -411,7 +435,7 @@ def main():
     
     plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '2').format(output_dir) )
     f2.canvas.draw()
-    f2.clear()
+    
     plt.pause(0.05)
     
     
@@ -462,6 +486,7 @@ def main():
        
     plt.pause(0.05)
     f4 = plt.figure(4)
+    f4.clear()
     for num,titlelength in enumerate(totaltitleLengthList,start=0):
         if(articleCount[num] != 0) and (len(newfilelist) != 0) and articleUpdated[num]:
             meanTitleLengthList[num] = titlelength/articleCount[num]
@@ -477,7 +502,7 @@ def main():
     f4.canvas.draw()
     
     plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '4').format(output_dir) )
-    f4.clear()
+    
     plt.pause(0.05)
 
     #f5,ax3 = plt.subplots()
@@ -599,6 +624,7 @@ def main():
     pdataFrame = pd.DataFrame(pValueData,index = ['0','1','2','3','4','>4'])
     print(pdataFrame)
     f7 = plt.figure(7)
+    f7.clear()
     ax7 = plt.subplot(111, frame_on = False)
     ax7.xaxis.set_visible(False)
     ax7.yaxis.set_visible(False)
@@ -606,16 +632,40 @@ def main():
                   + punctuationsName[puncOption] + " count")),loc = "center",y = 0.7)
     table(ax7,pdataFrame,loc = "center")
     plt.savefig(('{}/' + DatasetOption + punctuationsName[puncOption] + '7').format(output_dir) )
-    f7.clear()
+    
 
     
     
     
     prevfilelist = filelist.copy()
-
-while puncOption <= 8:  
+exitVar = False
+while exitVar == False:
+    print("Options: 0 - Google , 1 - Semantic(Large), 2 - Semantic(Small)")
+    while True:
+        DatasetOptionSelector = int(input("Enter input: "))
+        if DatasetOptionSelector >= 0 and DatasetOptionSelector <= 2:
+            break
+        else:
+            print("please select correct option")
+    print("Puncutation Options: " + "0 - " +  "Period" +", 1 - "+ "Comma" + ", 2 - " + "QuestionMark" + ", 3 - "
+                    "Exclamation" +"\n, 4 - " +  "Apostrophe" +", 5 - "+ "Quotation" + ", 6 - "
+                    "Colon" + ", 7 - " + "Semicolon" +"\n, 8 - " + "Ellipsis" + " ,9 -" + "Hyphen")
+    while True:
+        puncOption = int(input("Enter input: "))
+        if puncOption >= 0 and puncOption <= 9:
+            break
+        else:
+            print("please select a correct option")
     main()
-    puncOption+=1
+    plt.pause(0.0001) 
+    print("Do you wish to exit the program, 0 - no, 1 - yes")
+    while True: 
+        exitVarInt = int(input("Enter Input: "))
+        if exitVarInt >= 0 and exitVarInt <= 1:
+            exitVar = bool(exitVarInt)
+            break
+        else:
+            print("please select a correct option")
 
 
 
